@@ -171,9 +171,23 @@ export default function Quiz({ quizFile, onBack }) {
   const isAnswered = selectedOptionIndex !== undefined;
 
   return (
-    <div className="d-flex bg-body" style={{ minHeight: 'calc(100vh - 56px)' }}>
+    <div className="d-flex bg-body position-relative" style={{ minHeight: 'calc(100vh - 56px)' }}>
       
-      <div className={`bg-body-tertiary border-end shadow-sm flex-shrink-0 transition-all ${isSidebarOpen ? 'd-flex' : 'd-none'}`} style={{ width: '280px', flexDirection: 'column', height: 'calc(100vh - 56px)', position: 'sticky', top: 0 }}>
+      {/* Mobile overlay backdrop */}
+      {isSidebarOpen && window.innerWidth < 768 && (
+        <div className="position-fixed top-0 start-0 w-100 h-100 bg-dark bg-opacity-25" style={{ zIndex: 990 }} onClick={() => setIsSidebarOpen(false)}></div>
+      )}
+      
+      <div className={`bg-body-tertiary border-end shadow-sm flex-shrink-0 transition-all ${isSidebarOpen ? 'd-flex' : 'd-none'}`} style={{ 
+        width: '280px', 
+        flexDirection: 'column', 
+        height: 'calc(100vh - 56px)', 
+        position: window.innerWidth < 768 ? 'fixed' : 'sticky', 
+        top: window.innerWidth < 768 ? '56px' : 0,
+        left: 0,
+        zIndex: 1000,
+        transition: 'all 0.3s ease'
+      }}>
         <div className="p-3 border-bottom d-flex justify-content-between align-items-center bg-primary text-white">
           <h6 className="mb-0 fw-bold"><i className="bi bi-compass me-2"></i>Batch {currentBatchIndex + 1}</h6>
           <button className="btn-close btn-close-white" onClick={() => setIsSidebarOpen(false)}></button>
@@ -194,7 +208,13 @@ export default function Quiz({ quizFile, onBack }) {
               if (isCurrent) btnClass += " ring ring-primary border-dark border-2 opacity-75";
 
               return (
-                <button key={i} className={btnClass} onClick={() => setCurrentIndexInBatch(i)} style={{ padding: '6px 0' }}>
+                <button key={i} className={btnClass} onClick={() => {
+                  setCurrentIndexInBatch(i);
+                  // Close sidebar on mobile after selecting a question
+                  if (window.innerWidth < 768) {
+                    setIsSidebarOpen(false);
+                  }
+                }} style={{ padding: '6px 0' }}>
                   {i + 1}
                 </button>
               );
