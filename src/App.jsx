@@ -23,7 +23,7 @@ function App() {
         <div className="container">
           <a className="navbar-brand fw-bold text-primary" href="#" onClick={() => setActiveQuizFile(null)}>
             <i className="bi bi-heart-pulse-fill me-2"></i>
-            MedBoard Prep
+            ANy thing for the paper
           </a>
           <button className="btn btn-outline-secondary btn-sm" onClick={toggleTheme} title="Toggle Theme">
             {theme === 'light' ? <i className="bi bi-moon-fill"></i> : <i className="bi bi-sun-fill text-warning"></i>}

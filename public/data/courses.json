@@ -4,7 +4,7 @@
     "title": "Histotechnology",
     "quizzes": [
       { "quizId": "histo_q1", "title": "Quiz 1 (from KAGERUKA [799 qns])", "status": "available", "file": "histo_q1.json" },
-      { "quizId": "histo_q2", "title": "Quiz 2 (cyto histo qns [unnamed])", "status": "coming_soon", "file": "" }
+      { "quizId": "histo_q2", "title": "Quiz 2 (cyto histo qns [313 qns])", "status": "available", "file": "histo_q2.json" }
     ]
   },
   {
