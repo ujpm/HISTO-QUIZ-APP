@@ -1,0 +1,24 @@
+[
+  {
+    "courseId": "histo",
+    "title": "Histotechnology",
+    "quizzes": [
+      { "quizId": "histo_q1", "title": "Quiz 1 (from KAGERUKA [799 qns])", "status": "available", "file": "histo_q1.json" },
+      { "quizId": "histo_q2", "title": "Quiz 2 (cyto histo qns [unnamed])", "status": "coming_soon", "file": "" }
+    ]
+  },
+  {
+    "courseId": "micro",
+    "title": "Microbiology",
+    "quizzes": [
+      { "quizId": "micro_intro", "title": "Intro to Micro", "status": "coming_soon", "file": "" }
+    ]
+  },
+  {
+    "courseId": "chemical",
+    "title": "Chemical Pathology",
+    "quizzes": [
+      { "quizId": "chem_liver", "title": "Liver Function Tests", "status": "coming_soon", "file": "" }
+    ]
+  }
+]
