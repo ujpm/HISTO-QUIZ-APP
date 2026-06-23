@@ -4754,5 +4754,3903 @@
       { "text": "Both a and b", "feedback": "Correct! Ependyma lines the ventricles and spinal canal." }
     ],
     "correctAnswerIndex": 4
+  },
+  {
+    "id": 401,
+    "question": "Which type of neuron is most abundant?",
+    "options": [
+      { "text": "Sensory neurons", "feedback": "Incorrect." },
+      { "text": "Motor neurons", "feedback": "Incorrect." },
+      { "text": "Interneurons", "feedback": "Correct! Interneurons are the most abundant type of neuron." },
+      { "text": "Both a and b", "feedback": "Incorrect." },
+      { "text": "All of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 402,
+    "question": "What surrounds a bundle of nerve fibers?",
+    "options": [
+      { "text": "Neurium", "feedback": "Incorrect." },
+      { "text": "Perineurium", "feedback": "Correct! The perineurium surrounds a bundle of nerve fibers." },
+      { "text": "Epineurium", "feedback": "Incorrect. This surrounds a nerve." },
+      { "text": "Endoneurium", "feedback": "Incorrect. This surrounds a nerve fiber." },
+      { "text": "None of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 403,
+    "question": "Which meninx covers the brain intimately?",
+    "options": [
+      { "text": "Dura mater", "feedback": "Incorrect." },
+      { "text": "Arachnoid", "feedback": "Incorrect." },
+      { "text": "Pia mater", "feedback": "Correct! The pia mater covers the brain intimately." },
+      { "text": "Both a and b", "feedback": "Incorrect." },
+      { "text": "All of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 404,
+    "question": "Which of the following is the largest neuroglia cell?",
+    "options": [
+      { "text": "Astrocytes", "feedback": "Correct! Astrocytes are the largest and most abundant neuroglia." },
+      { "text": "Ependymal cells", "feedback": "Incorrect." },
+      { "text": "Oligodendrocytes", "feedback": "Incorrect." },
+      { "text": "Microglia", "feedback": "Incorrect." },
+      { "text": "Schwann cells", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 405,
+    "question": "Which of the following is NOT considered neuroglia?",
+    "options": [
+      { "text": "Astrocytes", "feedback": "Incorrect. These are neuroglia." },
+      { "text": "Ependymal cells", "feedback": "Incorrect. These are neuroglia." },
+      { "text": "Oligodendrocytes", "feedback": "Incorrect. These are neuroglia." },
+      { "text": "Microglia", "feedback": "Incorrect. These are neuroglia." },
+      { "text": "Schwann cells", "feedback": "Correct! Schwann cells are not neuroglia; they are in the PNS." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 406,
+    "question": "What is Bruch's membrane?",
+    "options": [
+      { "text": "Ciliary body", "feedback": "Incorrect." },
+      { "text": "Optic disc", "feedback": "Incorrect." },
+      { "text": "Fovea centralis", "feedback": "Incorrect." },
+      { "text": "Lamina vitrea", "feedback": "Correct! Bruch's membrane is also called the lamina vitrea." },
+      { "text": "Lamina cribrosa", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 407,
+    "question": "Which structure is transparent?",
+    "options": [
+      { "text": "Choroid", "feedback": "Incorrect." },
+      { "text": "Ciliary body", "feedback": "Incorrect." },
+      { "text": "Iris", "feedback": "Incorrect." },
+      { "text": "Ora serrata", "feedback": "Incorrect." },
+      { "text": "Cornea", "feedback": "Correct! The cornea is transparent." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 408,
+    "question": "Which of the following is the receptor for color?",
+    "options": [
+      { "text": "Rods", "feedback": "Incorrect. Rods are not color sensitive." },
+      { "text": "Cones", "feedback": "Correct! Cones are the receptors for color." },
+      { "text": "Bipolar cells", "feedback": "Incorrect. These are neurons." },
+      { "text": "Ganglion cells", "feedback": "Incorrect. These are neurons." },
+      { "text": "Horizontal cells", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 409,
+    "question": "What is responsible for adjusting the lens?",
+    "options": [
+      { "text": "Choroid", "feedback": "Incorrect." },
+      { "text": "Ciliary muscle", "feedback": "Correct! The ciliary muscle adjusts the lens." },
+      { "text": "Iris", "feedback": "Incorrect." },
+      { "text": "Ora serrata", "feedback": "Incorrect." },
+      { "text": "Sclera", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 410,
+    "question": "What is the region called where the optic nerve exits the eye?",
+    "options": [
+      { "text": "Os", "feedback": "Incorrect." },
+      { "text": "Optic chiasm", "feedback": "Incorrect." },
+      { "text": "Lamina cribrosa", "feedback": "Incorrect." },
+      { "text": "Optic disc", "feedback": "Correct! The optic disc is where the optic nerve exits." },
+      { "text": "Ora serrata", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 411,
+    "question": "Which of the following is a type of neuron?",
+    "options": [
+      { "text": "Rods", "feedback": "Incorrect. These are receptors." },
+      { "text": "Ganglion cells", "feedback": "Correct! Ganglion cells are neurons." },
+      { "text": "Cones", "feedback": "Incorrect. These are receptors." },
+      { "text": "Pigmented epithelium", "feedback": "Incorrect." },
+      { "text": "Supporting cells", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 412,
+    "question": "What is the space anterior to the iris?",
+    "options": [
+      { "text": "Anterior chamber", "feedback": "Correct! The anterior chamber is anterior to the iris." },
+      { "text": "Posterior chamber", "feedback": "Incorrect. This is posterior to the iris." },
+      { "text": "Vitreal cavity", "feedback": "Incorrect. This is behind the lens." },
+      { "text": "Both a and b", "feedback": "Incorrect." },
+      { "text": "All of a, b, and c", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 413,
+    "question": "Which layer forms the majority of the cornea?",
+    "options": [
+      { "text": "Epithelium", "feedback": "Incorrect." },
+      { "text": "Endothelium", "feedback": "Incorrect." },
+      { "text": "Descemet's membrane", "feedback": "Incorrect." },
+      { "text": "Substantia propria", "feedback": "Correct! The substantia propria forms the majority of the cornea." },
+      { "text": "Bowman's membrane", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 414,
+    "question": "What are the receptors for vision?",
+    "options": [
+      { "text": "Rods", "feedback": "Incorrect. This is correct, but the answer is both a and b." },
+      { "text": "Cones", "feedback": "Incorrect. This is correct, but the answer is both a and b." },
+      { "text": "Bipolar cells", "feedback": "Incorrect." },
+      { "text": "Ganglion cells", "feedback": "Incorrect." },
+      { "text": "Both a and b", "feedback": "Correct! Rods and cones are the receptors for vision." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 415,
+    "question": "Where is the ciliary muscle located?",
+    "options": [
+      { "text": "Ciliary body", "feedback": "Correct! The ciliary muscle is located in the ciliary body." },
+      { "text": "Optic disc", "feedback": "Incorrect." },
+      { "text": "Fovea centralis", "feedback": "Incorrect." },
+      { "text": "Lamina vitrea", "feedback": "Incorrect." },
+      { "text": "Lamina cribrosa", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 416,
+    "question": "What are the openings within the sclera which allow nerve fibers to exit?",
+    "options": [
+      { "text": "Os", "feedback": "Incorrect." },
+      { "text": "Optic chiasm", "feedback": "Incorrect." },
+      { "text": "Lamina cribrosa", "feedback": "Correct! The lamina cribrosa has openings for nerve fibers." },
+      { "text": "Optic disc", "feedback": "Incorrect." },
+      { "text": "Ora serrata", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 417,
+    "question": "Which of the following is NOT part of the retina?",
+    "options": [
+      { "text": "Receptor cells", "feedback": "Incorrect. These are part of the retina." },
+      { "text": "Neurons", "feedback": "Incorrect. These are part of the retina." },
+      { "text": "Pigmented epithelium", "feedback": "Incorrect. This is part of the retina." },
+      { "text": "Ciliary body", "feedback": "Correct! The ciliary body is not part of the retina." },
+      { "text": "Supporting cells", "feedback": "Incorrect. These are part of the retina." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 418,
+    "question": "What structure adjusts the shape of the lens?",
+    "options": [
+      { "text": "Internal oblique muscle", "feedback": "Incorrect." },
+      { "text": "Orbicularis oculi", "feedback": "Incorrect." },
+      { "text": "Tarsus", "feedback": "Incorrect." },
+      { "text": "Ciliary muscle", "feedback": "Correct! The ciliary muscle adjusts the shape of the lens." },
+      { "text": "Levator muscle", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 419,
+    "question": "What is the inner layer of the choroid?",
+    "options": [
+      { "text": "Ciliary body", "feedback": "Incorrect." },
+      { "text": "Optic disc", "feedback": "Incorrect." },
+      { "text": "Fovea centralis", "feedback": "Incorrect." },
+      { "text": "Lamina vitrea", "feedback": "Correct! The lamina vitrea is the inner layer of the choroid." },
+      { "text": "Lamina cribrosa", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 420,
+    "question": "Where does aqueous humor from anterior chamber collect into?",
+    "options": [
+      { "text": "Canaliculi", "feedback": "Incorrect." },
+      { "text": "Canal of Hering", "feedback": "Incorrect." },
+      { "text": "Canal of Muller", "feedback": "Incorrect." },
+      { "text": "Canal of Descemet", "feedback": "Incorrect." },
+      { "text": "Canal of Schlemm", "feedback": "Correct! Aqueous humor collects into the canal of Schlemm." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 421,
+    "question": "Which layer of the cornea is acellular?",
+    "options": [
+      { "text": "Epithelium", "feedback": "Incorrect." },
+      { "text": "Endothelium", "feedback": "Incorrect." },
+      { "text": "Descemet's membrane", "feedback": "Correct! Descemet's membrane is acellular." },
+      { "text": "Substantia propria", "feedback": "Incorrect." },
+      { "text": "None of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 422,
+    "question": "Which structure is avascular?",
+    "options": [
+      { "text": "Retina", "feedback": "Incorrect." },
+      { "text": "Cornea", "feedback": "Correct! The cornea is avascular." },
+      { "text": "Choroid", "feedback": "Incorrect." },
+      { "text": "Sclera", "feedback": "Incorrect." },
+      { "text": "Uvea", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 423,
+    "question": "During the American Revolution, in the battle of Bunker Hill, an officer instructed his troops: 'Don't fire until you see the whites of their eyes'. What anatomical structure was he referring to?",
+    "options": [
+      { "text": "Choroid", "feedback": "Incorrect." },
+      { "text": "Ciliary body", "feedback": "Incorrect." },
+      { "text": "Iris", "feedback": "Incorrect." },
+      { "text": "Ora serrata", "feedback": "Incorrect." },
+      { "text": "Sclera", "feedback": "Correct! The sclera is the 'white of the eye'." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 424,
+    "question": "Where is the region associated with maximum visual acuity?",
+    "options": [
+      { "text": "Ciliary body", "feedback": "Incorrect." },
+      { "text": "Optic disc", "feedback": "Incorrect." },
+      { "text": "Fovea centralis", "feedback": "Correct! The fovea centralis is for maximum visual acuity." },
+      { "text": "Lamina vitrea", "feedback": "Incorrect." },
+      { "text": "Lamina cribrosa", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 425,
+    "question": "What is the suspensory ligament of the lens?",
+    "options": [
+      { "text": "Zonular fibers", "feedback": "Correct! The zonular fibers are the suspensory ligament of the lens." },
+      { "text": "Purkinje fibers", "feedback": "Incorrect." },
+      { "text": "Elastic fibers", "feedback": "Incorrect." },
+      { "text": "Spiral ligament", "feedback": "Incorrect." },
+      { "text": "Oval ligament", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 426,
+    "question": "Which layer of the cornea is acellular?",
+    "options": [
+      { "text": "Bowman's membrane", "feedback": "Correct! Bowman's membrane is acellular." },
+      { "text": "Substantia propria", "feedback": "Incorrect." },
+      { "text": "Epithelium", "feedback": "Incorrect." },
+      { "text": "Endothelium", "feedback": "Incorrect." },
+      { "text": "All of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 427,
+    "question": "How many layers of tissue compose the eyeball?",
+    "options": [
+      { "text": "1", "feedback": "Incorrect." },
+      { "text": "2", "feedback": "Incorrect." },
+      { "text": "3", "feedback": "Correct! The eyeball has three layers." },
+      { "text": "4", "feedback": "Incorrect." },
+      { "text": "5", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 428,
+    "question": "Which structure is part the uvea?",
+    "options": [
+      { "text": "Ora serrata", "feedback": "Incorrect." },
+      { "text": "Pigmented epithelium", "feedback": "Incorrect." },
+      { "text": "Cornea", "feedback": "Incorrect." },
+      { "text": "Sclera", "feedback": "Incorrect." },
+      { "text": "Ciliary body", "feedback": "Correct! The ciliary body is part of the uvea." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 429,
+    "question": "What is the space anterior to the lens?",
+    "options": [
+      { "text": "Anterior chamber", "feedback": "Incorrect. This is correct, but the answer is both a and b." },
+      { "text": "Posterior chamber", "feedback": "Incorrect. This is correct, but the answer is both a and b." },
+      { "text": "Vitreal cavity", "feedback": "Incorrect. This is behind the lens." },
+      { "text": "Both a and b", "feedback": "Correct! The anterior and posterior chambers are anterior to the lens." },
+      { "text": "All of a, b, and c", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 430,
+    "question": "What is the vascular pigmented structure?",
+    "options": [
+      { "text": "Choroid", "feedback": "Correct! The choroid is the vascular pigmented structure." },
+      { "text": "Ciliary body", "feedback": "Incorrect." },
+      { "text": "Iris", "feedback": "Incorrect." },
+      { "text": "Ora serrata", "feedback": "Incorrect." },
+      { "text": "Lens", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 431,
+    "question": "What type of epithelium is on the surface of the cornea?",
+    "options": [
+      { "text": "Simple squamous", "feedback": "Incorrect." },
+      { "text": "Stratified squamous", "feedback": "Correct! The cornea has stratified squamous epithelium." },
+      { "text": "Simple cuboidal", "feedback": "Incorrect." },
+      { "text": "Simple columnar", "feedback": "Incorrect." },
+      { "text": "Transitional epithelium", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 432,
+    "question": "What structure was Crystal Gayle referring to when she sang, 'Don't it make my brown eyes blue'?",
+    "options": [
+      { "text": "Pupil", "feedback": "Incorrect." },
+      { "text": "Lens", "feedback": "Incorrect." },
+      { "text": "Cornea", "feedback": "Incorrect." },
+      { "text": "Iris", "feedback": "Correct! The iris is the colored part of the eyes." },
+      { "text": "Retina", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 433,
+    "question": "What makes up the bulk of the cornea?",
+    "options": [
+      { "text": "Purkinje fibers", "feedback": "Incorrect." },
+      { "text": "Myofibrils", "feedback": "Incorrect." },
+      { "text": "Elastic fibers", "feedback": "Incorrect." },
+      { "text": "Reticular fibers", "feedback": "Incorrect." },
+      { "text": "Collagen fibers", "feedback": "Correct! The cornea is composed primarily of collagen fibers." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 434,
+    "question": "What is the middle layer of the eyeball?",
+    "options": [
+      { "text": "Uvea", "feedback": "Correct! The uvea is the middle layer." },
+      { "text": "Rods", "feedback": "Incorrect." },
+      { "text": "Cones", "feedback": "Incorrect." },
+      { "text": "Bipolar cells", "feedback": "Incorrect." },
+      { "text": "Ganglion cells", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 435,
+    "question": "What is the anterior pigmented portion of the retina called?",
+    "options": [
+      { "text": "Choroid", "feedback": "Incorrect." },
+      { "text": "Ciliary body", "feedback": "Incorrect." },
+      { "text": "Iris", "feedback": "Incorrect." },
+      { "text": "Ora serrata", "feedback": "Correct! The ora serrata is the anterior pigmented portion." },
+      { "text": "Sclera", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 436,
+    "question": "Which one of the following is not found in the retina?",
+    "options": [
+      { "text": "Henle's layer", "feedback": "Correct! Henle's layer is in the hair follicle, not the retina." },
+      { "text": "Bipolar cells", "feedback": "Incorrect. These are in the retina." },
+      { "text": "Amacrine cells", "feedback": "Incorrect. These are in the retina." },
+      { "text": "Rods", "feedback": "Incorrect. These are in the retina." },
+      { "text": "Ganglion cells", "feedback": "Incorrect. These are in the retina." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 437,
+    "question": "Which structure is part the uvea?",
+    "options": [
+      { "text": "Ora serrata", "feedback": "Incorrect." },
+      { "text": "Pigmented epithelium", "feedback": "Incorrect." },
+      { "text": "Choroid", "feedback": "Correct! The choroid is part of the uvea." },
+      { "text": "Cornea", "feedback": "Incorrect." },
+      { "text": "Sclera", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 438,
+    "question": "What is the space posterior to the lens?",
+    "options": [
+      { "text": "Anterior chamber", "feedback": "Incorrect." },
+      { "text": "Posterior chamber", "feedback": "Incorrect." },
+      { "text": "Vitreal cavity", "feedback": "Correct! The vitreal cavity is posterior to the lens." },
+      { "text": "Both a and b", "feedback": "Incorrect." },
+      { "text": "All of a, b, and c", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 439,
+    "question": "Where is the blind spot?",
+    "options": [
+      { "text": "Ciliary body", "feedback": "Incorrect." },
+      { "text": "Optic disc", "feedback": "Correct! The optic disc is the blind spot." },
+      { "text": "Fovea centralis", "feedback": "Incorrect." },
+      { "text": "Lamina vitrea", "feedback": "Incorrect." },
+      { "text": "Lamina cribrosa", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 440,
+    "question": "How many layers does the retina have?",
+    "options": [
+      { "text": "1", "feedback": "Incorrect." },
+      { "text": "2", "feedback": "Incorrect." },
+      { "text": "4", "feedback": "Incorrect." },
+      { "text": "5", "feedback": "Incorrect." },
+      { "text": "10", "feedback": "Correct! The retina has ten layers." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 441,
+    "question": "Which of the following is NOT a layer of the cornea?",
+    "options": [
+      { "text": "Bowman's membrane", "feedback": "Incorrect. This is a layer." },
+      { "text": "Substantia propria", "feedback": "Incorrect. This is a layer." },
+      { "text": "Descemet's membrane", "feedback": "Incorrect. This is a layer." },
+      { "text": "Lamina vitrea", "feedback": "Correct! Lamina vitrea is part of the choroid, not the cornea." },
+      { "text": "Endothelium", "feedback": "Incorrect. This is a layer." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 442,
+    "question": "Where on the retina are there no photoreceptors?",
+    "options": [
+      { "text": "Ciliary body", "feedback": "Incorrect." },
+      { "text": "Optic disc", "feedback": "Correct! There are no photoreceptors at the optic disc." },
+      { "text": "Fovea centralis", "feedback": "Incorrect." },
+      { "text": "Lamina vitrea", "feedback": "Incorrect." },
+      { "text": "Lamina cribrosa", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 443,
+    "question": "What makes up the bulk of the sclera?",
+    "options": [
+      { "text": "Purkinje fibers", "feedback": "Incorrect." },
+      { "text": "Myofibrils", "feedback": "Incorrect." },
+      { "text": "Elastic fibers", "feedback": "Incorrect." },
+      { "text": "Reticular fibers", "feedback": "Incorrect." },
+      { "text": "Collagen fibers", "feedback": "Correct! The sclera is composed primarily of collagen fibers." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 444,
+    "question": "Which is NOT part of the retina?",
+    "options": [
+      { "text": "Rods", "feedback": "Incorrect." },
+      { "text": "Cones", "feedback": "Incorrect." },
+      { "text": "Bipolar cells", "feedback": "Incorrect." },
+      { "text": "Ganglion cells", "feedback": "Incorrect." },
+      { "text": "Uvea", "feedback": "Correct! The uvea is the middle layer of the eye." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 445,
+    "question": "What is the most anterior portion of the uvea?",
+    "options": [
+      { "text": "Choroid", "feedback": "Incorrect." },
+      { "text": "Ciliary body", "feedback": "Incorrect." },
+      { "text": "Iris", "feedback": "Correct! The iris is the most anterior portion of the uvea." },
+      { "text": "Ora serrata", "feedback": "Incorrect." },
+      { "text": "Sclera", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 446,
+    "question": "Which one of the following is not found in the retina?",
+    "options": [
+      { "text": "Pigment epithelium", "feedback": "Incorrect." },
+      { "text": "Muller's cells", "feedback": "Incorrect." },
+      { "text": "Huxley's layer", "feedback": "Correct! Huxley's layer is in the hair follicle." },
+      { "text": "Horizontal cells", "feedback": "Incorrect." },
+      { "text": "Cones", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 447,
+    "question": "Which structure is part the uvea?",
+    "options": [
+      { "text": "Sclera", "feedback": "Incorrect." },
+      { "text": "Iris", "feedback": "Correct! The iris is part of the uvea." },
+      { "text": "Ora serrata", "feedback": "Incorrect." },
+      { "text": "Pigmented epithelium", "feedback": "Incorrect." },
+      { "text": "Cornea", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 448,
+    "question": "What is the space posterior to the iris?",
+    "options": [
+      { "text": "Anterior chamber", "feedback": "Incorrect. This is anterior to the iris." },
+      { "text": "Posterior chamber", "feedback": "Correct! The posterior chamber is posterior to the iris." },
+      { "text": "Vitreal cavity", "feedback": "Incorrect. This is behind the lens." },
+      { "text": "Both a and b", "feedback": "Incorrect." },
+      { "text": "All of a, b, and c", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 449,
+    "question": "What is within the membranous labyrinth?",
+    "options": [
+      { "text": "Lymph", "feedback": "Incorrect." },
+      { "text": "Blood", "feedback": "Incorrect." },
+      { "text": "Endolymph", "feedback": "Correct! The membranous labyrinth contains endolymph." },
+      { "text": "Perilymph", "feedback": "Incorrect. This is in the bony labyrinth." },
+      { "text": "Air", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 450,
+    "question": "What is within the bony labyrinth?",
+    "options": [
+      { "text": "Lymph", "feedback": "Incorrect." },
+      { "text": "Blood", "feedback": "Incorrect." },
+      { "text": "Endolymph", "feedback": "Incorrect. This is in the membranous labyrinth." },
+      { "text": "Perilymph", "feedback": "Correct! The bony labyrinth contains perilymph." },
+      { "text": "Air", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 451,
+    "question": "Which contains endolymph?",
+    "options": [
+      { "text": "Scala vestibuli", "feedback": "Incorrect." },
+      { "text": "Scala tympani", "feedback": "Incorrect." },
+      { "text": "Cochlear duct", "feedback": "Correct! The cochlear duct contains endolymph." },
+      { "text": "Both a and b", "feedback": "Incorrect." },
+      { "text": "All a, b, and c", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 452,
+    "question": "Which contains perilymph?",
+    "options": [
+      { "text": "Scala vestibuli", "feedback": "Incorrect. This is correct, but the answer is both a and b." },
+      { "text": "Scala tympani", "feedback": "Incorrect. This is correct, but the answer is both a and b." },
+      { "text": "Cochlear duct", "feedback": "Incorrect. This contains endolymph." },
+      { "text": "Both a and b", "feedback": "Correct! The scala vestibuli and scala tympani contain perilymph." },
+      { "text": "All a, b, and c", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 453,
+    "question": "Where are the sensory receptors for hearing?",
+    "options": [
+      { "text": "Saccule", "feedback": "Incorrect." },
+      { "text": "Utricle", "feedback": "Incorrect." },
+      { "text": "Organ of Corti", "feedback": "Correct! The organ of Corti is for hearing." },
+      { "text": "Semicircular canals", "feedback": "Incorrect." },
+      { "text": "Both a and b", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 454,
+    "question": "Where are the sensory receptors for movement?",
+    "options": [
+      { "text": "Saccule", "feedback": "Incorrect." },
+      { "text": "Utricle", "feedback": "Incorrect." },
+      { "text": "Organ of Corti", "feedback": "Incorrect." },
+      { "text": "Semicircular canals", "feedback": "Correct! The semicircular canals are for movement." },
+      { "text": "Both a and b", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 455,
+    "question": "Where are the sensory receptors for position?",
+    "options": [
+      { "text": "Saccule", "feedback": "Incorrect. This is correct, but the answer is both a and b." },
+      { "text": "Utricle", "feedback": "Incorrect. This is correct, but the answer is both a and b." },
+      { "text": "Organ of Corti", "feedback": "Incorrect." },
+      { "text": "Semicircular canals", "feedback": "Incorrect." },
+      { "text": "Both a and b", "feedback": "Correct! The utricle and saccule are for position." }
+    ],
+    "correctAnswerIndex": 4  },
+  {
+    "id": 456,
+    "question": "What structure is shaped like a snail shell?",
+    "options": [
+      { "text": "Saccule", "feedback": "Incorrect." },
+      { "text": "Utricle", "feedback": "Incorrect." },
+      { "text": "Organ of Corti", "feedback": "Incorrect." },
+      { "text": "Semicircular canals", "feedback": "Incorrect." },
+      { "text": "Cochlea", "feedback": "Correct! The cochlea is shaped like a snail shell." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 457,
+    "question": "Where is the organ of Corti?",
+    "options": [
+      { "text": "Saccule", "feedback": "Incorrect." },
+      { "text": "Utricle", "feedback": "Incorrect." },
+      { "text": "Crista ampullaris", "feedback": "Incorrect." },
+      { "text": "Semicircular canals", "feedback": "Incorrect." },
+      { "text": "Cochlea", "feedback": "Correct! The organ of Corti is in the cochlea." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 458,
+    "question": "What sensation does the crista ampullaris recognize?",
+    "options": [
+      { "text": "Sound", "feedback": "Incorrect." },
+      { "text": "Position", "feedback": "Incorrect." },
+      { "text": "Movement", "feedback": "Correct! The crista ampullaris is the receptor for movement." },
+      { "text": "Vibration", "feedback": "Incorrect." },
+      { "text": "All of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 459,
+    "question": "Which cell type is the receptor cell within the organ of Corti?",
+    "options": [
+      { "text": "Cells of Hensen", "feedback": "Incorrect. These are supporting cells." },
+      { "text": "Hair cells", "feedback": "Correct! Hair cells are the receptor cells." },
+      { "text": "Inner border cells", "feedback": "Incorrect." },
+      { "text": "Outer phalangeal cells", "feedback": "Incorrect." },
+      { "text": "Inner pillar cells", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 460,
+    "question": "What is the glomerulus?",
+    "options": [
+      { "text": "Afferent arteriole", "feedback": "Incorrect." },
+      { "text": "Efferent arteriole", "feedback": "Incorrect." },
+      { "text": "Capillary tuft", "feedback": "Correct! The glomerulus is a capillary tuft." },
+      { "text": "Peritubular capillaries", "feedback": "Incorrect." },
+      { "text": "Vasa recta", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 461,
+    "question": "What is a renal pyramid and its associated cortex referred to?",
+    "options": [
+      { "text": "Medulla", "feedback": "Incorrect." },
+      { "text": "Lobe", "feedback": "Correct! A kidney lobe consists of a medullary pyramid and its overlying cortex." },
+      { "text": "Renal columns", "feedback": "Incorrect." },
+      { "text": "Nephron", "feedback": "Incorrect." },
+      { "text": "Medullary ray", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 462,
+    "question": "Approximately how many nephrons are there in each kidney?",
+    "options": [
+      { "text": "1,000", "feedback": "Incorrect." },
+      { "text": "10,000", "feedback": "Incorrect." },
+      { "text": "100,000", "feedback": "Incorrect." },
+      { "text": "1,000,000", "feedback": "Correct! There are approximately one million nephrons per kidney." },
+      { "text": "10,000,000", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 463,
+    "question": "What is the Malpighian corpuscle?",
+    "options": [
+      { "text": "Glomerulus", "feedback": "Incorrect." },
+      { "text": "Bowman's capsule", "feedback": "Incorrect." },
+      { "text": "Renal corpuscle", "feedback": "Correct! The Malpighian corpuscle is the renal corpuscle." },
+      { "text": "Loop of Henle", "feedback": "Incorrect." },
+      { "text": "Distal convoluted tubule", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 464,
+    "question": "What are the ducts of Bellini?",
+    "options": [
+      { "text": "Collecting tubules", "feedback": "Correct! The ducts of Bellini are large collecting tubules." },
+      { "text": "Distal convoluted tubule", "feedback": "Incorrect." },
+      { "text": "Proximal convoluted tubule", "feedback": "Incorrect." },
+      { "text": "Loop of Henle", "feedback": "Incorrect." },
+      { "text": "Medullary ray", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 465,
+    "question": "What are the foot processes on podocytes?",
+    "options": [
+      { "text": "Visceral layer of Bowman's capsule", "feedback": "Incorrect." },
+      { "text": "Parietal layer of Bowman's capsule", "feedback": "Incorrect." },
+      { "text": "Pedicels", "feedback": "Correct! Pedicels are the foot processes on podocytes." },
+      { "text": "Juxtaglomerular cells", "feedback": "Incorrect." },
+      { "text": "Macula densa", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 466,
+    "question": "What vessel is a branch of the interlobular artery?",
+    "options": [
+      { "text": "Afferent arteriole", "feedback": "Correct! The afferent arteriole branches off the interlobular artery." },
+      { "text": "Efferent arteriole", "feedback": "Incorrect." },
+      { "text": "Capillary tuft", "feedback": "Incorrect." },
+      { "text": "Peritubular capillaries", "feedback": "Incorrect." },
+      { "text": "Vasa recta", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 467,
+    "question": "What is the projection of the medulla into the renal cortex called?",
+    "options": [
+      { "text": "Medulla", "feedback": "Incorrect." },
+      { "text": "Lobe", "feedback": "Incorrect." },
+      { "text": "Renal columns", "feedback": "Incorrect." },
+      { "text": "Nephron", "feedback": "Incorrect." },
+      { "text": "Medullary ray", "feedback": "Correct! A medullary ray is a projection of the medulla." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 468,
+    "question": "What makes up the Juxtaglomerular apparatus?",
+    "options": [
+      { "text": "Pedicels", "feedback": "Incorrect." },
+      { "text": "Juxtaglomerular cells", "feedback": "Incorrect. This is correct, but the answer is both b and c." },
+      { "text": "Macula densa", "feedback": "Incorrect. This is correct, but the answer is both b and c." },
+      { "text": "Both a and b", "feedback": "Incorrect." },
+      { "text": "Both b and c", "feedback": "Correct! The juxtaglomerular apparatus consists of juxtaglomerular cells and the macula densa." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 469,
+    "question": "What vessels arise from the efferent arteriole?",
+    "options": [
+      { "text": "Afferent arteriole", "feedback": "Incorrect." },
+      { "text": "Efferent arteriole", "feedback": "Incorrect." },
+      { "text": "Capillary tuft", "feedback": "Incorrect." },
+      { "text": "Peritubular capillaries", "feedback": "Correct! Peritubular capillaries arise from the efferent arteriole." },
+      { "text": "Vasa recta", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 470,
+    "question": "Which structure does the proximal convoluted lead to?",
+    "options": [
+      { "text": "Glomerulus", "feedback": "Incorrect." },
+      { "text": "Bowman's capsule", "feedback": "Incorrect." },
+      { "text": "Renal corpuscle", "feedback": "Incorrect." },
+      { "text": "Loop of Henle", "feedback": "Correct! The proximal convoluted tubule leads to the loop of Henle." },
+      { "text": "Distal convoluted tubule", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 471,
+    "question": "What is the correct term for the foot processes on podocytes?",
+    "options": [
+      { "text": "Pedis", "feedback": "Incorrect." },
+      { "text": "Pedicels", "feedback": "Correct! Pedicels are the foot processes." },
+      { "text": "Pedalis", "feedback": "Incorrect." },
+      { "text": "Pes", "feedback": "Incorrect." },
+      { "text": "Pediocyte", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 472,
+    "question": "Which of the following is NOT a function of the kidney?",
+    "options": [
+      { "text": "Erythropoietin production", "feedback": "Incorrect. This is a function." },
+      { "text": "Vitamin D modification", "feedback": "Incorrect. This is a function." },
+      { "text": "Acid base balance", "feedback": "Incorrect. This is a function." },
+      { "text": "Aldosterone production", "feedback": "Correct! Aldosterone is produced in the adrenal gland." },
+      { "text": "Renin production", "feedback": "Incorrect. This is a function." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 473,
+    "question": "What is the space between the renal pyramids called?",
+    "options": [
+      { "text": "Medulla", "feedback": "Incorrect." },
+      { "text": "Lobe", "feedback": "Incorrect." },
+      { "text": "Renal columns", "feedback": "Correct! Renal columns are the tissue between the pyramids." },
+      { "text": "Nephron", "feedback": "Incorrect." },
+      { "text": "Medullary ray", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 474,
+    "question": "What is the capillary tuft of the nephron?",
+    "options": [
+      { "text": "Glomerulus", "feedback": "Correct! The glomerulus is the capillary tuft." },
+      { "text": "Bowman's capsule", "feedback": "Incorrect." },
+      { "text": "Renal corpuscle", "feedback": "Incorrect." },
+      { "text": "Loop of Henle", "feedback": "Incorrect." },
+      { "text": "Distal convoluted tubule", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 475,
+    "question": "What vessel supplies blood to the glomerulus?",
+    "options": [
+      { "text": "Afferent arteriole", "feedback": "Correct! The afferent arteriole supplies blood to the glomerulus." },
+      { "text": "Efferent arteriole", "feedback": "Incorrect." },
+      { "text": "Capillary tuft", "feedback": "Incorrect." },
+      { "text": "Peritubular capillaries", "feedback": "Incorrect." },
+      { "text": "Vasa recta", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 476,
+    "question": "Where is renin secreted from?",
+    "options": [
+      { "text": "Visceral layer of Bowman's capsule", "feedback": "Incorrect." },
+      { "text": "Parietal layer of Bowman's capsule", "feedback": "Incorrect." },
+      { "text": "Pedicels", "feedback": "Incorrect." },
+      { "text": "Juxtaglomerular cells", "feedback": "Correct! Juxtaglomerular cells secrete renin." },
+      { "text": "Macula densa", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 477,
+    "question": "What are the 'straight vessels'?",
+    "options": [
+      { "text": "Afferent arteriole", "feedback": "Incorrect." },
+      { "text": "Efferent arteriole", "feedback": "Incorrect." },
+      { "text": "Capillary tuft", "feedback": "Incorrect." },
+      { "text": "Peritubular capillaries", "feedback": "Incorrect." },
+      { "text": "Vasa recta", "feedback": "Correct! Vasa recta are the 'straight vessels'." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 478,
+    "question": "What is the inner region of the kidney called?",
+    "options": [
+      { "text": "Medulla", "feedback": "Correct! The medulla is the inner region." },
+      { "text": "Lobe", "feedback": "Incorrect." },
+      { "text": "Renal columns", "feedback": "Incorrect." },
+      { "text": "Nephron", "feedback": "Incorrect." },
+      { "text": "Medullary ray", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 479,
+    "question": "What is the double layered cap on the glomerulus?",
+    "options": [
+      { "text": "Glomerulus", "feedback": "Incorrect." },
+      { "text": "Bowman's capsule", "feedback": "Correct! Bowman's capsule is the double layered cap." },
+      { "text": "Renal corpuscle", "feedback": "Incorrect." },
+      { "text": "Loop of Henle", "feedback": "Incorrect." },
+      { "text": "Distal convoluted tubule", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 480,
+    "question": "Where are podocytes seen?",
+    "options": [
+      { "text": "Visceral layer of Bowman's capsule", "feedback": "Correct! Podocytes are in the visceral layer of Bowman's capsule." },
+      { "text": "Parietal layer of Bowman's capsule", "feedback": "Incorrect." },
+      { "text": "Pedicels", "feedback": "Incorrect." },
+      { "text": "Juxtaglomerular cells", "feedback": "Incorrect." },
+      { "text": "Macula densa", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 481,
+    "question": "What vessel is formed from an aggregation of the glomerular capillaries?",
+    "options": [
+      { "text": "Afferent arteriole", "feedback": "Incorrect." },
+      { "text": "Efferent arteriole", "feedback": "Correct! The efferent arteriole is formed from the glomerular capillaries." },
+      { "text": "Capillary tuft", "feedback": "Incorrect." },
+      { "text": "Peritubular capillaries", "feedback": "Incorrect." },
+      { "text": "Vasa recta", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 482,
+    "question": "What is the functional unit of the kidney?",
+    "options": [
+      { "text": "Medulla", "feedback": "Incorrect." },
+      { "text": "Lobe", "feedback": "Incorrect." },
+      { "text": "Renal columns", "feedback": "Incorrect." },
+      { "text": "Nephron", "feedback": "Correct! The nephron is the functional unit." },
+      { "text": "Medullary ray", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 483,
+    "question": "Which structure leads to the collecting duct?",
+    "options": [
+      { "text": "Glomerulus", "feedback": "Incorrect." },
+      { "text": "Bowman's capsule", "feedback": "Incorrect." },
+      { "text": "Renal corpuscle", "feedback": "Incorrect." },
+      { "text": "Loop of Henle", "feedback": "Incorrect." },
+      { "text": "Distal convoluted tubule", "feedback": "Correct! The distal convoluted tubule leads to the collecting duct." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 484,
+    "question": "What cells are sensitive to sodium concentration?",
+    "options": [
+      { "text": "Visceral layer of Bowman's capsule", "feedback": "Incorrect." },
+      { "text": "Parietal layer of Bowman's capsule", "feedback": "Incorrect." },
+      { "text": "Pedicels", "feedback": "Incorrect." },
+      { "text": "Juxtaglomerular cells", "feedback": "Incorrect." },
+      { "text": "Macula densa", "feedback": "Correct! The macula densa are sensitive to sodium concentration." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 485,
+    "question": "Which of the four basic tissue types does blood belong to?",
+    "options": [
+      { "text": "Epithelium", "feedback": "Incorrect." },
+      { "text": "Connective tissue", "feedback": "Correct! Blood is a type of connective tissue." },
+      { "text": "Muscle", "feedback": "Incorrect." },
+      { "text": "Nervous tissue", "feedback": "Incorrect." },
+      { "text": "Blood", "feedback": "Incorrect. Blood is not a basic tissue type." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 486,
+    "question": "Which of the following formed elements do not contain a nucleus?",
+    "options": [
+      { "text": "Platelets", "feedback": "Incorrect. This is correct, but the answer is both a and b." },
+      { "text": "Erythrocytes", "feedback": "Incorrect. This is correct, but the answer is both a and b." },
+      { "text": "Leukocytes", "feedback": "Incorrect. These have nuclei." },
+      { "text": "Monocytes", "feedback": "Incorrect. These have nuclei." },
+      { "text": "Both a and b", "feedback": "Correct! Platelets and erythrocytes do not contain a nucleus." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 487,
+    "question": "What comes from a megakaryocyte?",
+    "options": [
+      { "text": "Lymphocytes", "feedback": "Incorrect." },
+      { "text": "Basophils", "feedback": "Incorrect." },
+      { "text": "Erythrocytes", "feedback": "Incorrect." },
+      { "text": "Monocytes", "feedback": "Incorrect." },
+      { "text": "Platelets", "feedback": "Correct! Platelets are fragments from megakaryocytes." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 488,
+    "question": "Which leukocyte is the most abundant in a peripheral smear of blood?",
+    "options": [
+      { "text": "Lymphocytes", "feedback": "Incorrect. These are the second most abundant." },
+      { "text": "Basophils", "feedback": "Incorrect. These are the least abundant." },
+      { "text": "Neutrophil", "feedback": "Correct! Neutrophils are the most abundant leukocyte." },
+      { "text": "Monocytes", "feedback": "Incorrect." },
+      { "text": "Eosinophils", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 489,
+    "question": "Which of the following is not a granulocyte?",
+    "options": [
+      { "text": "Lymphocytes", "feedback": "Correct! Lymphocytes are agranulocytes." },
+      { "text": "Neutrophil", "feedback": "Incorrect. This is a granulocyte." },
+      { "text": "PMN", "feedback": "Incorrect. PMN is a neutrophil, a granulocyte." },
+      { "text": "Eosinophils", "feedback": "Incorrect. This is a granulocyte." },
+      { "text": "Basophils", "feedback": "Incorrect. This is a granulocyte." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 490,
+    "question": "Which of the following is a granulocyte?",
+    "options": [
+      { "text": "Thrombocyte", "feedback": "Incorrect. This is a platelet." },
+      { "text": "Lymphocyte", "feedback": "Incorrect. This is an agranulocyte." },
+      { "text": "Eosinophil", "feedback": "Correct! Eosinophils are granulocytes." },
+      { "text": "Monocyte", "feedback": "Incorrect. This is an agranulocyte." },
+      { "text": "Erythrocyte", "feedback": "Incorrect. This is a red blood cell." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 491,
+    "question": "Which of the following is NOT a term used for a neutrophil?",
+    "options": [
+      { "text": "Polymorphonuclear neutrophils", "feedback": "Incorrect. This is a term." },
+      { "text": "Poly's", "feedback": "Incorrect. This is a term." },
+      { "text": "PMN", "feedback": "Incorrect. This is a term." },
+      { "text": "NP", "feedback": "Correct! NP is not a term for a neutrophil." },
+      { "text": "Polymorph", "feedback": "Incorrect. This is a term." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 492,
+    "question": "Which leukocyte has a multi-lobed (3-5 lobes) nucleus?",
+    "options": [
+      { "text": "Neutrophil", "feedback": "Correct! Neutrophils have a multi-lobed nucleus." },
+      { "text": "Lymphocytes", "feedback": "Incorrect." },
+      { "text": "Monocytes", "feedback": "Incorrect." },
+      { "text": "Eosinophil", "feedback": "Incorrect. Eosinophils are usually bi-lobed." },
+      { "text": "Basophils", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 493,
+    "question": "Which cell has large blue granules, often obscuring the nucleus?",
+    "options": [
+      { "text": "Neutrophil", "feedback": "Incorrect." },
+      { "text": "Lymphocytes", "feedback": "Incorrect." },
+      { "text": "Monocytes", "feedback": "Incorrect." },
+      { "text": "Eosinophil", "feedback": "Incorrect." },
+      { "text": "Basophils", "feedback": "Correct! Basophils have large blue granules." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 494,
+    "question": "Which of the following is not considered a 'formed element'?",
+    "options": [
+      { "text": "Plasma", "feedback": "Correct! Plasma is the liquid portion, not a formed element." },
+      { "text": "Erythrocytes", "feedback": "Incorrect. These are formed elements." },
+      { "text": "Platelets", "feedback": "Incorrect. These are formed elements." },
+      { "text": "Leukocytes", "feedback": "Incorrect. These are formed elements." },
+      { "text": "Red blood cells", "feedback": "Incorrect. These are formed elements." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 495,
+    "question": "Which leukocyte is the second most abundant in a peripheral smear of blood?",
+    "options": [
+      { "text": "Lymphocytes", "feedback": "Correct! Lymphocytes are the second most abundant." },
+      { "text": "Basophils", "feedback": "Incorrect." },
+      { "text": "Neutrophil", "feedback": "Incorrect. This is the most abundant." },
+      { "text": "Monocytes", "feedback": "Incorrect." },
+      { "text": "Eosinophils", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 496,
+    "question": "Which of the following is a granulocyte?",
+    "options": [
+      { "text": "Lymphocyte", "feedback": "Incorrect." },
+      { "text": "Neutrophil", "feedback": "Correct! Neutrophils are granulocytes." },
+      { "text": "Monocyte", "feedback": "Incorrect." },
+      { "text": "Erythrocyte", "feedback": "Incorrect." },
+      { "text": "Thrombocyte", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 497,
+    "question": "Which leukocyte has orange-pink granules?",
+    "options": [
+      { "text": "Neutrophil", "feedback": "Incorrect." },
+      { "text": "Lymphocytes", "feedback": "Incorrect." },
+      { "text": "Monocytes", "feedback": "Incorrect." },
+      { "text": "Eosinophil", "feedback": "Correct! Eosinophils have orange-pink granules." },
+      { "text": "Basophils", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 498,
+    "question": "What is another term for a red blood cell?",
+    "options": [
+      { "text": "Thrombocyte", "feedback": "Incorrect." },
+      { "text": "Monocyte", "feedback": "Incorrect." },
+      { "text": "Lymphocyte", "feedback": "Incorrect." },
+      { "text": "Basophil", "feedback": "Incorrect." },
+      { "text": "Erythrocyte", "feedback": "Correct! Erythrocyte is another name for a red blood cell." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 499,
+    "question": "Which of the following is described as a 'biconcave disc'?",
+    "options": [
+      { "text": "Platelets", "feedback": "Incorrect." },
+      { "text": "Erythrocytes", "feedback": "Correct! Erythrocytes are biconcave discs." },
+      { "text": "Leukocytes", "feedback": "Incorrect." },
+      { "text": "Monocytes", "feedback": "Incorrect." },
+      { "text": "Eosinophils", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 500,
+    "question": "Which is the largest leukocyte?",
+    "options": [
+      { "text": "Neutrophil", "feedback": "Incorrect." },
+      { "text": "Lymphocytes", "feedback": "Incorrect." },
+      { "text": "Monocytes", "feedback": "Correct! Monocytes are the largest leukocyte." },
+      { "text": "Eosinophil", "feedback": "Incorrect." },
+      { "text": "Basophils", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 501,
+    "question": "At what level of the vascular tree does gas exchange occur?",
+    "options": [
+      { "text": "Capillary", "feedback": "Correct! Gas exchange occurs at the level of the capillaries." },
+      { "text": "Arteriole", "feedback": "Incorrect. Arterioles regulate blood flow." },
+      { "text": "Venule", "feedback": "Incorrect." },
+      { "text": "Elastic artery", "feedback": "Incorrect." },
+      { "text": "Muscular artery", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 502,
+    "question": "Which layer in an artery is primarily skeletal muscle?",
+    "options": [
+      { "text": "Tunica intima", "feedback": "Incorrect. This is lined by endothelium." },
+      { "text": "Tunica media", "feedback": "Incorrect. This is primarily smooth muscle." },
+      { "text": "Tunica externa", "feedback": "Incorrect. This is connective tissue." },
+      { "text": "All of the above", "feedback": "Incorrect." },
+      { "text": "None of the above", "feedback": "Correct! None of the layers are primarily skeletal muscle." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 503,
+    "question": "Which of the following is NOT a distinguishing feature between larger veins and arteries?",
+    "options": [
+      { "text": "Veins have valves whereas arteries do not have valves", "feedback": "Incorrect. This is a distinguishing feature." },
+      { "text": "The tunics in veins are not as clearly delimited as are the tunics in arteries", "feedback": "Incorrect. This is a distinguishing feature." },
+      { "text": "The walls in veins are thinner than the walls in arteries", "feedback": "Incorrect. This is a distinguishing feature." },
+      { "text": "The lumen of a vein is smaller than the lumen of an artery", "feedback": "Correct! The lumen of a vein is larger, not smaller." },
+      { "text": "None. All of the above are true", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 504,
+    "question": "In which structure are things moved across the epithelium via pinocytotic vesicles?",
+    "options": [
+      { "text": "Continuous capillaries", "feedback": "Correct! Continuous capillaries transport via pinocytotic vesicles." },
+      { "text": "Fenestrated capillaries", "feedback": "Incorrect. These have pores." },
+      { "text": "Sinusoidal capillaries", "feedback": "Incorrect. These are wide and leaky." },
+      { "text": "AV anastomoses", "feedback": "Incorrect. These are shunts." },
+      { "text": "Venous sinus", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 505,
+    "question": "What is a thoroughfare which is an intermediate between an arteriole and capillary?",
+    "options": [
+      { "text": "Metcapillary", "feedback": "Incorrect." },
+      { "text": "Metartery", "feedback": "Incorrect." },
+      { "text": "Metvenule", "feedback": "Incorrect." },
+      { "text": "Metarteriole", "feedback": "Correct! A metarteriole is an intermediate between an arteriole and capillary." },
+      { "text": "None of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 506,
+    "question": "Which layer in an artery contains the endothelium?",
+    "options": [
+      { "text": "Tunica intima", "feedback": "Correct! The tunica intima is lined by endothelium." },
+      { "text": "Tunica media", "feedback": "Incorrect." },
+      { "text": "Tunica externa", "feedback": "Incorrect." },
+      { "text": "All of the above", "feedback": "Incorrect." },
+      { "text": "None of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 507,
+    "question": "What do you call the simple squamous epithelium that lines the blood vessels?",
+    "options": [
+      { "text": "Epithelioid tissue", "feedback": "Incorrect." },
+      { "text": "Mesothelium", "feedback": "Incorrect. This lines body cavities." },
+      { "text": "Endothelium", "feedback": "Correct! Endothelium lines the blood vessels." },
+      { "text": "Transitional", "feedback": "Incorrect." },
+      { "text": "Pseudostratified", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 508,
+    "question": "In which of the following is a portal system NOT found?",
+    "options": [
+      { "text": "Kidney", "feedback": "Incorrect. This has a portal system." },
+      { "text": "Liver", "feedback": "Incorrect. This has a portal system." },
+      { "text": "Muscle", "feedback": "Correct! Muscle does not have a portal system." },
+      { "text": "Brain", "feedback": "Incorrect. This has a portal system." },
+      { "text": "None of the above is correct; a portal system is found in all of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 509,
+    "question": "What is the brachial artery?",
+    "options": [
+      { "text": "Capillary", "feedback": "Incorrect." },
+      { "text": "Arteriole", "feedback": "Incorrect." },
+      { "text": "Venule", "feedback": "Incorrect." },
+      { "text": "Elastic artery", "feedback": "Incorrect." },
+      { "text": "Muscular artery", "feedback": "Correct! The brachial artery is a muscular artery." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 510,
+    "question": "Which of the following is a distinct structure found specifically in the liver, spleen, and bone marrow?",
+    "options": [
+      { "text": "Continuous capillaries", "feedback": "Incorrect." },
+      { "text": "Fenestrated capillaries", "feedback": "Incorrect." },
+      { "text": "Sinusoidal capillaries", "feedback": "Correct! Sinusoids are found in the liver, spleen, and bone marrow." },
+      { "text": "AV anastomoses", "feedback": "Incorrect." },
+      { "text": "Venous sinus", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 511,
+    "question": "Which layer in an artery is primarily smooth muscle?",
+    "options": [
+      { "text": "Tunica intima", "feedback": "Incorrect." },
+      { "text": "Tunica media", "feedback": "Correct! The tunica media is primarily smooth muscle." },
+      { "text": "Tunica externa", "feedback": "Incorrect." },
+      { "text": "All of the above", "feedback": "Incorrect." },
+      { "text": "None of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 512,
+    "question": "A pronounced internal elastic membrane and external elastic membrane are distinguishing characteristics of which type of vessel?",
+    "options": [
+      { "text": "Capillary", "feedback": "Incorrect." },
+      { "text": "Arteriole", "feedback": "Incorrect." },
+      { "text": "Venule", "feedback": "Incorrect." },
+      { "text": "Elastic artery", "feedback": "Incorrect." },
+      { "text": "Muscular artery", "feedback": "Correct! Muscular arteries have prominent internal and external elastic membranes." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 513,
+    "question": "Which of the following constitutes the microvascular bed of a tissue?",
+    "options": [
+      { "text": "Capillaries", "feedback": "Incorrect." },
+      { "text": "Capillaries and arterioles", "feedback": "Incorrect." },
+      { "text": "Capillaries, arterioles, and post capillary venules", "feedback": "Correct! These three make up the microvascular bed." },
+      { "text": "Capillaries, arterioles, post capillary venules, and veins", "feedback": "Incorrect." },
+      { "text": "Capillaries, arterioles, post capillary venules, veins, and arteries", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 514,
+    "question": "What are wide, leaky capillaries called?",
+    "options": [
+      { "text": "Continuous capillaries", "feedback": "Incorrect." },
+      { "text": "Fenestrated capillaries", "feedback": "Incorrect." },
+      { "text": "Sinusoidal capillaries", "feedback": "Correct! Sinusoids are wide, leaky capillaries." },
+      { "text": "AV anastomoses", "feedback": "Incorrect." },
+      { "text": "Venous sinus", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 515,
+    "question": "What is a direct route between arteries and veins called?",
+    "options": [
+      { "text": "Continuous capillaries", "feedback": "Incorrect." },
+      { "text": "Fenestrated capillaries", "feedback": "Incorrect." },
+      { "text": "Sinusoidal capillaries", "feedback": "Incorrect." },
+      { "text": "AV anastomoses", "feedback": "Correct! AV anastomoses are direct routes between arteries and veins." },
+      { "text": "Venous sinus", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 516,
+    "question": "Which layer in an elastic artery is the largest thickest?",
+    "options": [
+      { "text": "Tunica intima", "feedback": "Incorrect." },
+      { "text": "Tunica albuginea", "feedback": "Incorrect." },
+      { "text": "Tunica externa", "feedback": "Incorrect." },
+      { "text": "Tunica vaculosa", "feedback": "Incorrect." },
+      { "text": "Tunica media", "feedback": "Correct! In an elastic artery, the tunica media is the thickest." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 517,
+    "question": "In which of the following is an arterial portal system found?",
+    "options": [
+      { "text": "Kidney", "feedback": "Correct! An arterial portal system is found in the kidney." },
+      { "text": "Liver", "feedback": "Incorrect. This has a venous portal system." },
+      { "text": "Muscle", "feedback": "Incorrect." },
+      { "text": "Brain", "feedback": "Incorrect. This has a venous portal system." },
+      { "text": "Stomach", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 518,
+    "question": "What are vasa vasorum?",
+    "options": [
+      { "text": "Vasoactive material", "feedback": "Incorrect." },
+      { "text": "Valves", "feedback": "Incorrect." },
+      { "text": "Vasopressin secreting cells", "feedback": "Incorrect." },
+      { "text": "Nerves", "feedback": "Incorrect." },
+      { "text": "Blood vessels", "feedback": "Correct! Vasa vasorum are blood vessels of the blood vessels." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 519,
+    "question": "Which structure has only a few layers of muscle in the tunica media?",
+    "options": [
+      { "text": "Capillary", "feedback": "Incorrect." },
+      { "text": "Arteriole", "feedback": "Correct! Arterioles have only a few layers of muscle." },
+      { "text": "Elastic artery", "feedback": "Incorrect." },
+      { "text": "Muscular artery", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 520,
+    "question": "Which layer in a large vessel contains the nervi vascularis?",
+    "options": [
+      { "text": "Tunica intima", "feedback": "Incorrect." },
+      { "text": "Tunica media", "feedback": "Incorrect." },
+      { "text": "Tunica externa", "feedback": "Correct! The tunica externa contains nervi vascularis." },
+      { "text": "All of the above", "feedback": "Incorrect." },
+      { "text": "None of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 521,
+    "question": "What vessel regulates the amount of blood going into a capillary bed?",
+    "options": [
+      { "text": "Capillary", "feedback": "Incorrect." },
+      { "text": "Arteriole", "feedback": "Correct! Arterioles regulate blood flow into capillary beds." },
+      { "text": "Venule", "feedback": "Incorrect." },
+      { "text": "Elastic artery", "feedback": "Incorrect." },
+      { "text": "Muscular artery", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 522,
+    "question": "What is the aorta?",
+    "options": [
+      { "text": "Capillary", "feedback": "Incorrect." },
+      { "text": "Arteriole", "feedback": "Incorrect." },
+      { "text": "Venule", "feedback": "Incorrect." },
+      { "text": "Elastic artery", "feedback": "Correct! The aorta is an elastic artery." },
+      { "text": "Muscular artery", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 523,
+    "question": "What are most of the named arteries in the body?",
+    "options": [
+      { "text": "Capillary", "feedback": "Incorrect." },
+      { "text": "Arteriole", "feedback": "Incorrect." },
+      { "text": "Venule", "feedback": "Incorrect." },
+      { "text": "Elastic artery", "feedback": "Incorrect." },
+      { "text": "Muscular artery", "feedback": "Correct! Most named arteries are muscular arteries." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 524,
+    "question": "Which structure contains pores?",
+    "options": [
+      { "text": "Continuous capillaries", "feedback": "Incorrect." },
+      { "text": "Fenestrated capillaries", "feedback": "Correct! Fenestrated capillaries contain pores." },
+      { "text": "Sinusoidal capillaries", "feedback": "Incorrect." },
+      { "text": "AV anastomoses", "feedback": "Incorrect." },
+      { "text": "Venous sinus", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 525,
+    "question": "Which one of the following is a pluripotential cell that is prevalent around post capillary venules?",
+    "options": [
+      { "text": "Fibroblast", "feedback": "Incorrect." },
+      { "text": "Endothelial cell", "feedback": "Incorrect." },
+      { "text": "Pericyte", "feedback": "Correct! Pericytes are pluripotential cells around post capillary venules." },
+      { "text": "Histiocyte", "feedback": "Incorrect." },
+      { "text": "Macrophage", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 526,
+    "question": "Which layer in an artery is also called the tunica adventitia?",
+    "options": [
+      { "text": "Tunica intima", "feedback": "Incorrect." },
+      { "text": "Tunica media", "feedback": "Incorrect." },
+      { "text": "Tunica externa", "feedback": "Correct! The tunica externa is also called the tunica adventitia." },
+      { "text": "All of the above", "feedback": "Incorrect." },
+      { "text": "None of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 527,
+    "question": "Which layer in an artery is primarily connective tissue?",
+    "options": [
+      { "text": "Tunica intima", "feedback": "Incorrect." },
+      { "text": "Tunica media", "feedback": "Incorrect." },
+      { "text": "Tunica externa", "feedback": "Correct! The tunica externa is primarily connective tissue." },
+      { "text": "All of the above", "feedback": "Incorrect." },
+      { "text": "None of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 528,
+    "question": "What type of tissue lines blood vessels?",
+    "options": [
+      { "text": "Simple squamous epithelium", "feedback": "Correct! Blood vessels are lined by simple squamous epithelium (endothelium)." },
+      { "text": "Simple cuboidal epithelium", "feedback": "Incorrect." },
+      { "text": "Simple columnar epithelium", "feedback": "Incorrect." },
+      { "text": "Stratified squamous epithelium", "feedback": "Incorrect." },
+      { "text": "Transitional epithelium", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 529,
+    "question": "In which of the following is a venous portal system found?",
+    "options": [
+      { "text": "Kidney", "feedback": "Incorrect. This has an arterial portal system." },
+      { "text": "Liver", "feedback": "Correct! The liver has a venous portal system." },
+      { "text": "Muscle", "feedback": "Incorrect." },
+      { "text": "Skin", "feedback": "Incorrect." },
+      { "text": "Stomach", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 530,
+    "question": "What are nervi vascularis?",
+    "options": [
+      { "text": "Neuropil", "feedback": "Incorrect." },
+      { "text": "Neuroglia", "feedback": "Incorrect." },
+      { "text": "Pigmented lesion of a vessel", "feedback": "Incorrect." },
+      { "text": "Nerves", "feedback": "Correct! Nervi vascularis are nerves of the blood vessels." },
+      { "text": "Blood vessels", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 531,
+    "question": "Which structure receives blood from the capillary bed?",
+    "options": [
+      { "text": "Capillary", "feedback": "Incorrect." },
+      { "text": "Arteriole", "feedback": "Incorrect." },
+      { "text": "Venule", "feedback": "Correct! Venules receive blood from the capillary bed." },
+      { "text": "Elastic artery", "feedback": "Incorrect." },
+      { "text": "Muscular artery", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 532,
+    "question": "Which layer in a large artery or vein contains the vasa vasorum?",
+    "options": [
+      { "text": "Tunica intima", "feedback": "Incorrect." },
+      { "text": "Tunica media", "feedback": "Incorrect." },
+      { "text": "Tunica externa", "feedback": "Correct! The tunica externa contains the vasa vasorum." },
+      { "text": "All of the above", "feedback": "Incorrect." },
+      { "text": "None of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 533,
+    "question": "What is the venous channel which is around the brain?",
+    "options": [
+      { "text": "Continuous capillaries", "feedback": "Incorrect." },
+      { "text": "Fenestrated capillaries", "feedback": "Incorrect." },
+      { "text": "Sinusoidal capillaries", "feedback": "Incorrect." },
+      { "text": "AV Anastomoses", "feedback": "Incorrect." },
+      { "text": "Venous sinus", "feedback": "Correct! The dural sinus is a venous sinus around the brain." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 534,
+    "question": "Which layer of the heart is composed of cardiac muscle?",
+    "options": [
+      { "text": "Epicardium", "feedback": "Incorrect." },
+      { "text": "Pericardium", "feedback": "Incorrect." },
+      { "text": "Myocardium", "feedback": "Correct! The myocardium is composed of cardiac muscle." },
+      { "text": "Endocardium", "feedback": "Incorrect." },
+      { "text": "Endomysium", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 535,
+    "question": "Where is the myocardium the thickest?",
+    "options": [
+      { "text": "Right atria", "feedback": "Incorrect." },
+      { "text": "Left atria", "feedback": "Incorrect." },
+      { "text": "Right ventricle", "feedback": "Incorrect." },
+      { "text": "Left ventricle", "feedback": "Correct! The myocardium is thickest in the left ventricle." },
+      { "text": "Both right and left ventricle", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 536,
+    "question": "What is the connective tissue sac surrounding the heart?",
+    "options": [
+      { "text": "Epicardium", "feedback": "Incorrect." },
+      { "text": "Pericardium", "feedback": "Correct! The pericardium is the sac surrounding the heart." },
+      { "text": "Myocardium", "feedback": "Incorrect." },
+      { "text": "Endocardium", "feedback": "Incorrect." },
+      { "text": "Endomysium", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 537,
+    "question": "What is the connective tissue called which surrounds an individual cardiac muscle fiber?",
+    "options": [
+      { "text": "Epicardium", "feedback": "Incorrect." },
+      { "text": "Pericardium", "feedback": "Incorrect." },
+      { "text": "Myocardium", "feedback": "Incorrect." },
+      { "text": "Endocardium", "feedback": "Incorrect." },
+      { "text": "Endomysium", "feedback": "Correct! Endomysium surrounds an individual muscle fiber." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 538,
+    "question": "What is the pacemaker of the heart?",
+    "options": [
+      { "text": "Sinoatrial node", "feedback": "Correct! The sinoatrial node is the pacemaker of the heart." },
+      { "text": "Atrioventricular node", "feedback": "Incorrect." },
+      { "text": "Bundle of His", "feedback": "Incorrect." },
+      { "text": "Right bundle branch", "feedback": "Incorrect." },
+      { "text": "Purkinje fiber", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 539,
+    "question": "Which of the following is not true regarding the endocardium?",
+    "options": [
+      { "text": "The endocardium contains abundant adipose tissue", "feedback": "Correct! The epicardium contains abundant adipose tissue, not the endocardium." },
+      { "text": "The endocardium is layered", "feedback": "Incorrect. This is true." },
+      { "text": "The endocardium contains blood vessels", "feedback": "Incorrect. This is true." },
+      { "text": "The endocardium contains smooth muscle", "feedback": "Incorrect. This is true." },
+      { "text": "The endocardium is lined by endothelium", "feedback": "Incorrect. This is true." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 540,
+    "question": "What is the atrioventricular bundle?",
+    "options": [
+      { "text": "Sinoatrial node", "feedback": "Incorrect." },
+      { "text": "Atrioventricular node", "feedback": "Incorrect." },
+      { "text": "Bundle of His", "feedback": "Correct! The atrioventricular bundle is the bundle of His." },
+      { "text": "Right bundle branch", "feedback": "Incorrect." },
+      { "text": "Purkinje fiber", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 541,
+    "question": "Where is endothelium located?",
+    "options": [
+      { "text": "Epicardium", "feedback": "Incorrect." },
+      { "text": "Pericardium", "feedback": "Incorrect." },
+      { "text": "Myocardium", "feedback": "Incorrect." },
+      { "text": "Endocardium", "feedback": "Correct! Endothelium is in the innermost portion of the endocardium." },
+      { "text": "Endomysium", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 542,
+    "question": "'Pulling on heartstrings' refers to strong feelings of love or sympathy pulling one's conscience. What anatomical structure is it a reference to?",
+    "options": [
+      { "text": "Sinoatrial node", "feedback": "Incorrect." },
+      { "text": "Bundle of His", "feedback": "Incorrect." },
+      { "text": "Right bundle branch", "feedback": "Incorrect." },
+      { "text": "Purkinje fiber", "feedback": "Incorrect." },
+      { "text": "Chordae tendinae", "feedback": "Correct! The chordae tendinae are threadlike structures between the papillary muscles and valves." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 543,
+    "question": "Where are the blood vessels which supply the heart located?",
+    "options": [
+      { "text": "Epicardium", "feedback": "Correct! The epicardium contains the blood vessels and nerves." },
+      { "text": "Pericardium", "feedback": "Incorrect." },
+      { "text": "Myocardium", "feedback": "Incorrect." },
+      { "text": "Endocardium", "feedback": "Incorrect." },
+      { "text": "Endomysium", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 544,
+    "question": "What is another term for lymphatic nodules?",
+    "options": [
+      { "text": "Lymph follicles", "feedback": "Correct! Lymphatic nodules are also called lymph follicles." },
+      { "text": "White pulp", "feedback": "Incorrect." },
+      { "text": "Peyer's patches", "feedback": "Incorrect." },
+      { "text": "Lymph node", "feedback": "Incorrect." },
+      { "text": "Diffuse lymphatic tissue", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 545,
+    "question": "Which of the following is NOT made of a framework of reticular fibers?",
+    "options": [
+      { "text": "Bone marrow", "feedback": "Incorrect." },
+      { "text": "Lymph node", "feedback": "Incorrect." },
+      { "text": "Spleen", "feedback": "Incorrect." },
+      { "text": "Thymus", "feedback": "Correct! The thymus is made of epithelioreticular cells." },
+      { "text": "None of the above--all are made of a framework of reticular fibers", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 546,
+    "question": "What is the acronym for the diffuse lymphatic tissue found in the intestinal tract?",
+    "options": [
+      { "text": "BALT", "feedback": "Incorrect. This is bronchi associated lymphatic tissue." },
+      { "text": "DALT", "feedback": "Incorrect." },
+      { "text": "FALT", "feedback": "Incorrect." },
+      { "text": "GALT", "feedback": "Correct! GALT is gut associated lymphatic tissue." },
+      { "text": "HALT", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 547,
+    "question": "What is another name for a splenic nodule?",
+    "options": [
+      { "text": "Malpighian corpuscle", "feedback": "Correct! Splenic nodules are also called Malpighian corpuscles." },
+      { "text": "Trabeculae", "feedback": "Incorrect." },
+      { "text": "White pulp", "feedback": "Incorrect." },
+      { "text": "Red pulp", "feedback": "Incorrect." },
+      { "text": "Cords of Billroth", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 548,
+    "question": "What is the term for the entire lymphatic region of the spleen?",
+    "options": [
+      { "text": "Malpighian corpuscle", "feedback": "Incorrect." },
+      { "text": "Trabeculae", "feedback": "Incorrect." },
+      { "text": "White pulp", "feedback": "Correct! The white pulp is the lymphatic region of the spleen." },
+      { "text": "Red pulp", "feedback": "Incorrect." },
+      { "text": "Cords of Billroth", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 549,
+    "question": "Which of the following is NOT a function of the spleen?",
+    "options": [
+      { "text": "Destruction of red blood cells", "feedback": "Incorrect. This is a function." },
+      { "text": "Lymphocyte production", "feedback": "Incorrect. This is a function." },
+      { "text": "Storage of blood", "feedback": "Incorrect. This is a function." },
+      { "text": "Fetal blood cell formation", "feedback": "Incorrect. This is a function." },
+      { "text": "All of the above are functions of the spleen", "feedback": "Correct! All are functions of the spleen." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 550,
+    "question": "When looking at a lymph node, where are lymphatic nodules?",
+    "options": [
+      { "text": "Deep cortex", "feedback": "Incorrect." },
+      { "text": "Tertiary cortex", "feedback": "Incorrect." },
+      { "text": "Juxtamedullary cortex", "feedback": "Incorrect." },
+      { "text": "Paracortical zone", "feedback": "Incorrect." },
+      { "text": "Outer cortex", "feedback": "Correct! Lymphatic nodules are found in the outer cortex." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 551,
+    "question": "Where do T lymphocytes gain their immunocompetence?",
+    "options": [
+      { "text": "Thymus", "feedback": "Correct! T cells gain immunocompetence in the thymus." },
+      { "text": "Thyroid", "feedback": "Incorrect." },
+      { "text": "Bursa of Fabricus", "feedback": "Incorrect." },
+      { "text": "Bone marrow", "feedback": "Incorrect." },
+      { "text": "Lymph node", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 552,
+    "question": "What do you call the random distribution of lymphocytes that are found in the respiratory tract, genitourinary tract, and gastrointestinal tract?",
+    "options": [
+      { "text": "Lymph follicles", "feedback": "Incorrect." },
+      { "text": "White pulp", "feedback": "Incorrect." },
+      { "text": "Peyer's patches", "feedback": "Incorrect." },
+      { "text": "Lymph node", "feedback": "Incorrect." },
+      { "text": "Diffuse lymphatic tissue", "feedback": "Correct! Diffuse lymphatic tissue is not encapsulated." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 553,
+    "question": "What is a characteristic of a secondary nodule?",
+    "options": [
+      { "text": "Germinal center", "feedback": "Correct! A secondary nodule is characterized by a germinal center." },
+      { "text": "Lymphocytes", "feedback": "Incorrect." },
+      { "text": "Capsule", "feedback": "Incorrect." },
+      { "text": "Trabeculae", "feedback": "Incorrect." },
+      { "text": "None of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 554,
+    "question": "Which of the following is composed of epithelioreticular cells?",
+    "options": [
+      { "text": "Spleen", "feedback": "Incorrect." },
+      { "text": "Thymus", "feedback": "Correct! The thymus is made of epithelioreticular cells." },
+      { "text": "Bone marrow", "feedback": "Incorrect." },
+      { "text": "Lymph node", "feedback": "Incorrect." },
+      { "text": "None of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 555,
+    "question": "What is the acronym for the diffuse lymphatic tissue in the respiratory tract?",
+    "options": [
+      { "text": "BALT", "feedback": "Correct! BALT is bronchi associated lymphatic tissue." },
+      { "text": "DALT", "feedback": "Incorrect." },
+      { "text": "FALT", "feedback": "Incorrect." },
+      { "text": "GALT", "feedback": "Incorrect." },
+      { "text": "HALT", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 556,
+    "question": "What are the localized concentrations of lymphocytes that are seen in the respiratory tract, genitourinary tract, and gastrointestinal tract?",
+    "options": [
+      { "text": "Lymph follicles", "feedback": "Correct! Lymph follicles are localized concentrations." },
+      { "text": "White pulp", "feedback": "Incorrect." },
+      { "text": "Peyer's patches", "feedback": "Incorrect." },
+      { "text": "Lymph node", "feedback": "Incorrect." },
+      { "text": "Diffuse lymphatic tissue", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 557,
+    "question": "What is the lymphatic tissue in the spleen called?",
+    "options": [
+      { "text": "Lymph follicles", "feedback": "Incorrect." },
+      { "text": "White pulp", "feedback": "Correct! The lymphatic tissue in the spleen is called white pulp." },
+      { "text": "Peyer's patches", "feedback": "Incorrect." },
+      { "text": "Lymph node", "feedback": "Incorrect." },
+      { "text": "Diffuse lymphatic tissue", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 558,
+    "question": "What are the splenic cords?",
+    "options": [
+      { "text": "Cords of Billroth", "feedback": "Correct! The splenic cords are also called the cords of Billroth." },
+      { "text": "Cords of Paneth", "feedback": "Incorrect." },
+      { "text": "Cords of Bellini", "feedback": "Incorrect." },
+      { "text": "Cords of Rothchild", "feedback": "Incorrect." },
+      { "text": "Cords of Hassall", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 559,
+    "question": "When looking at the spleen, what are the invaginations of the capsule into the splenic parenchyma called?",
+    "options": [
+      { "text": "Malpighian corpuscle", "feedback": "Incorrect." },
+      { "text": "Trabeculae", "feedback": "Correct! Trabeculae are invaginations of the capsule." },
+      { "text": "White pulp", "feedback": "Incorrect." },
+      { "text": "Red pulp", "feedback": "Incorrect." },
+      { "text": "Cords of Billroth", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 560,
+    "question": "When looking at a lymph node, which term does not refer to the same region as all the others listed?",
+    "options": [
+      { "text": "Deep cortex", "feedback": "Incorrect. This refers to the inner cortex." },
+      { "text": "Tertiary cortex", "feedback": "Incorrect. This refers to the inner cortex." },
+      { "text": "Outer cortex", "feedback": "Correct! Outer cortex is different from the deep cortex." },
+      { "text": "Juxtamedullary cortex", "feedback": "Incorrect. This refers to the inner cortex." },
+      { "text": "Paracortical zone", "feedback": "Incorrect. This refers to the inner cortex." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 561,
+    "question": "What are the spherical structures seen in the medulla of the thymus called?",
+    "options": [
+      { "text": "Psammoma bodies", "feedback": "Incorrect." },
+      { "text": "Corpora arenacea", "feedback": "Incorrect." },
+      { "text": "Hassall's corpuscles", "feedback": "Correct! Hassall's corpuscles are in the thymus." },
+      { "text": "Prostatic concretions", "feedback": "Incorrect." },
+      { "text": "Pacinian corpuscles", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 562,
+    "question": "Where are Peyer's patches located?",
+    "options": [
+      { "text": "Esophagus", "feedback": "Incorrect." },
+      { "text": "Stomach", "feedback": "Incorrect." },
+      { "text": "Small intestine", "feedback": "Correct! Peyer's patches are in the small intestine." },
+      { "text": "Large intestine", "feedback": "Incorrect." },
+      { "text": "Rectum", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 563,
+    "question": "What are the large aggregates of lymphatic tissue in the ileum?",
+    "options": [
+      { "text": "Lymph follicles", "feedback": "Incorrect." },
+      { "text": "White pulp", "feedback": "Incorrect." },
+      { "text": "Peyer's patches", "feedback": "Correct! Peyer's patches are large aggregates in the ileum." },
+      { "text": "Lymph node", "feedback": "Incorrect." },
+      { "text": "Diffuse lymphatic tissue", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 564,
+    "question": "Where is diffuse lymphatic tissue NOT found?",
+    "options": [
+      { "text": "Gastrointestinal tract", "feedback": "Incorrect. This is found here." },
+      { "text": "Central nervous system", "feedback": "Correct! Diffuse lymphatic tissue is not found in the CNS." },
+      { "text": "Genito-urinary tract", "feedback": "Incorrect. This is found here." },
+      { "text": "Respiratory tract", "feedback": "Incorrect. This is found here." },
+      { "text": "None of the above-diffuse lymphatic tissue is found in all of these regions", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 565,
+    "question": "Where are the splenic sinuses?",
+    "options": [
+      { "text": "Malpighian corpuscle", "feedback": "Incorrect." },
+      { "text": "Trabeculae", "feedback": "Incorrect." },
+      { "text": "White pulp", "feedback": "Incorrect." },
+      { "text": "Red pulp", "feedback": "Correct! Splenic sinuses are in the red pulp." },
+      { "text": "Cords of Billroth", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 566,
+    "question": "What does the acronym PALS stand for?",
+    "options": [
+      { "text": "Papillary layer sinus", "feedback": "Incorrect." },
+      { "text": "Peyer's lymphatic sheath", "feedback": "Incorrect." },
+      { "text": "Periarterial lymphatic sheath", "feedback": "Correct! PALS stands for periarterial lymphatic sheath." },
+      { "text": "Peripheral lymphatic sinus", "feedback": "Incorrect." },
+      { "text": "Parenchymal lymphatic sheath", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 567,
+    "question": "Which of the following is an encapsulated lymphatic organ?",
+    "options": [
+      { "text": "Lymph follicles", "feedback": "Incorrect." },
+      { "text": "White pulp", "feedback": "Incorrect." },
+      { "text": "Peyer's patches", "feedback": "Incorrect." },
+      { "text": "Lymph node", "feedback": "Correct! A lymph node is an encapsulated lymphatic organ." },
+      { "text": "Diffuse lymphatic tissue", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 568,
+    "question": "Which cell is a also called a septal cell?",
+    "options": [
+      { "text": "Clara cell", "feedback": "Incorrect." },
+      { "text": "Type I pneumocyte", "feedback": "Incorrect." },
+      { "text": "Type II pneumocyte", "feedback": "Correct! The type II pneumocyte is also called a septal cell." },
+      { "text": "Dust cell", "feedback": "Incorrect." },
+      { "text": "Brush cell", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 569,
+    "question": "Which cell is a respiratory macrophage?",
+    "options": [
+      { "text": "Kupffer cells", "feedback": "Incorrect." },
+      { "text": "Histiocyte", "feedback": "Incorrect." },
+      { "text": "Dust cell", "feedback": "Correct! Dust cells are alveolar macrophages." },
+      { "text": "Langerhans cell", "feedback": "Incorrect." },
+      { "text": "Microglia", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 570,
+    "question": "Which cell is a type of neuron?",
+    "options": [
+      { "text": "Basal cells", "feedback": "Incorrect." },
+      { "text": "Brush cells", "feedback": "Incorrect." },
+      { "text": "Olfactory cells", "feedback": "Correct! Olfactory cells are bipolar neurons." },
+      { "text": "Sustentacular cells", "feedback": "Incorrect." },
+      { "text": "All of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 571,
+    "question": "What cell types are found in the respiratory mucosa?",
+    "options": [
+      { "text": "Ciliated cells", "feedback": "Incorrect. This is correct, but the answer is all of the above." },
+      { "text": "Goblet cells", "feedback": "Incorrect. This is correct, but the answer is all of the above." },
+      { "text": "Basal cells", "feedback": "Incorrect. This is correct, but the answer is all of the above." },
+      { "text": "Brush cells", "feedback": "Incorrect. This is correct, but the answer is all of the above." },
+      { "text": "All of the above", "feedback": "Correct! All are found in the respiratory mucosa." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 572,
+    "question": "What is the smallest airspace of the respiratory tree?",
+    "options": [
+      { "text": "Alveolar duct", "feedback": "Incorrect." },
+      { "text": "Alveoli", "feedback": "Correct! Alveoli are the smallest airspaces." },
+      { "text": "Alveolar sac", "feedback": "Incorrect." },
+      { "text": "Respiratory bronchiole", "feedback": "Incorrect." },
+      { "text": "Terminal bronchiole", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 573,
+    "question": "What type of epithelium lines the trachea?",
+    "options": [
+      { "text": "Simple squamous epithelium", "feedback": "Incorrect." },
+      { "text": "Simple cuboidal epithelium", "feedback": "Incorrect." },
+      { "text": "Simple columnar epithelium", "feedback": "Incorrect." },
+      { "text": "Stratified squamous epithelium", "feedback": "Incorrect." },
+      { "text": "Pseudostratified epithelium", "feedback": "Correct! The trachea is lined by pseudostratified epithelium." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 574,
+    "question": "Which structure is part of the conducting portion of the airway?",
+    "options": [
+      { "text": "Bronchi", "feedback": "Correct! The bronchi are part of the conducting portion." },
+      { "text": "Alveolar ducts", "feedback": "Incorrect." },
+      { "text": "Alveoli", "feedback": "Incorrect." },
+      { "text": "Alveolar sacs", "feedback": "Incorrect." },
+      { "text": "Respiratory bronchioles", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 575,
+    "question": "What type of epithelium lines the vestibule?",
+    "options": [
+      { "text": "Simple squamous epithelium", "feedback": "Incorrect." },
+      { "text": "Simple columnar epithelium", "feedback": "Incorrect." },
+      { "text": "Stratified squamous epithelium", "feedback": "Correct! The vestibule is lined by stratified squamous epithelium." },
+      { "text": "Ciliated pseudostratified epithelium with goblet cells", "feedback": "Incorrect." },
+      { "text": "Transitional epithelium", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 576,
+    "question": "Which cartilage of the larynx is made of hyaline cartilage?",
+    "options": [
+      { "text": "Thyroid cartilage", "feedback": "Incorrect. This is correct, but the answer is all of the above." },
+      { "text": "Cricoid cartilage", "feedback": "Incorrect. This is correct, but the answer is all of the above." },
+      { "text": "Arytenoid cartilage", "feedback": "Incorrect. This is correct, but the answer is all of the above." },
+      { "text": "Corniculate cartilage", "feedback": "Incorrect. This is correct, but the answer is all of the above." },
+      { "text": "All of the above", "feedback": "Correct! All are made of hyaline cartilage except the epiglottis." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 577,
+    "question": "What part of the respiratory tree is the functional unit where gas exchange occurs?",
+    "options": [
+      { "text": "Alveolar duct", "feedback": "Incorrect." },
+      { "text": "Alveoli", "feedback": "Correct! Alveoli are the functional units for gas exchange." },
+      { "text": "Alveolar sac", "feedback": "Incorrect." },
+      { "text": "Respiratory bronchiole", "feedback": "Incorrect." },
+      { "text": "Terminal bronchiole", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 578,
+    "question": "Which cell type is involved in general sensation of the olfactory mucosa?",
+    "options": [
+      { "text": "Basal cells", "feedback": "Incorrect." },
+      { "text": "Brush cells", "feedback": "Correct! Brush cells are involved in general sensation." },
+      { "text": "Olfactory cells", "feedback": "Incorrect." },
+      { "text": "Sustentacular cells", "feedback": "Incorrect." },
+      { "text": "All of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 579,
+    "question": "What type of cells are found in the olfactory mucosa?",
+    "options": [
+      { "text": "Basal cells", "feedback": "Incorrect. This is correct, but the answer is all of the above." },
+      { "text": "Brush cells", "feedback": "Incorrect. This is correct, but the answer is all of the above." },
+      { "text": "Olfactory cells", "feedback": "Incorrect. This is correct, but the answer is all of the above." },
+      { "text": "Sustentacular cells", "feedback": "Incorrect. This is correct, but the answer is all of the above." },
+      { "text": "All of the above", "feedback": "Correct! All are found in the olfactory mucosa." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 580,
+    "question": "Which cell is a squamous pulmonary epithelial cell?",
+    "options": [
+      { "text": "Clara cell", "feedback": "Incorrect." },
+      { "text": "Type I pneumocyte", "feedback": "Correct! Type I pneumocytes are squamous epithelial cells." },
+      { "text": "Type II pneumocyte", "feedback": "Incorrect." },
+      { "text": "Dust cell", "feedback": "Incorrect." },
+      { "text": "Brush cell", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 581,
+    "question": "Which cell is also called an alveolar phagocyte?",
+    "options": [
+      { "text": "Clara cell", "feedback": "Incorrect." },
+      { "text": "Type I pneumocyte", "feedback": "Incorrect." },
+      { "text": "Type II pneumocyte", "feedback": "Incorrect." },
+      { "text": "Dust cell", "feedback": "Correct! The dust cell is the alveolar phagocyte." },
+      { "text": "Brush cell", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 582,
+    "question": "Which is structure is NOT part of the conducting portion of the airway?",
+    "options": [
+      { "text": "Bronchi", "feedback": "Incorrect." },
+      { "text": "Larynx", "feedback": "Incorrect." },
+      { "text": "Trachea", "feedback": "Incorrect." },
+      { "text": "Larynx", "feedback": "Incorrect." },
+      { "text": "Respiratory bronchioles", "feedback": "Correct! Respiratory bronchioles are part of the respiratory portion." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 583,
+    "question": "What type of tissue lines the pharynx?",
+    "options": [
+      { "text": "Simple squamous epithelium", "feedback": "Incorrect." },
+      { "text": "Simple columnar epithelium", "feedback": "Incorrect." },
+      { "text": "Stratified squamous epithelium", "feedback": "Incorrect. This is correct, but the answer is both c and d." },
+      { "text": "Ciliated pseudostratified epithelium with goblet cells", "feedback": "Incorrect. This is correct, but the answer is both c and d." },
+      { "text": "Both c and d", "feedback": "Correct! The pharynx has both types of epithelium." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 584,
+    "question": "What is an olfactory cell?",
+    "options": [
+      { "text": "Unipolar neuron", "feedback": "Incorrect." },
+      { "text": "Bipolar neuron", "feedback": "Correct! Olfactory cells are bipolar neurons." },
+      { "text": "Multipolar neuron", "feedback": "Incorrect." },
+      { "text": "Supporting cell", "feedback": "Incorrect." },
+      { "text": "None of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 585,
+    "question": "Which type of cartilage is found in the larynx?",
+    "options": [
+      { "text": "Hyaline cartilage", "feedback": "Incorrect. This is correct, but the answer is both a and b." },
+      { "text": "Elastic cartilage", "feedback": "Incorrect. This is correct, but the answer is both a and b." },
+      { "text": "Fibrocartilage", "feedback": "Incorrect." },
+      { "text": "Both a and b", "feedback": "Correct! The larynx has hyaline and elastic cartilage." },
+      { "text": "All of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 586,
+    "question": "What structure is similar to a 'bunch of grapes'?",
+    "options": [
+      { "text": "Alveolar duct", "feedback": "Incorrect." },
+      { "text": "Alveoli", "feedback": "Incorrect." },
+      { "text": "Alveolar sac", "feedback": "Correct! An alveolar sac is like a cluster of grapes." },
+      { "text": "Respiratory bronchiole", "feedback": "Incorrect." },
+      { "text": "Terminal bronchiole", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 587,
+    "question": "Which cell is found in large numbers in the terminal bronchioles?",
+    "options": [
+      { "text": "Clara cell", "feedback": "Correct! Clara cells are found in large numbers in terminal bronchioles." },
+      { "text": "Type I pneumocyte", "feedback": "Incorrect." },
+      { "text": "Type II pneumocyte", "feedback": "Incorrect." },
+      { "text": "Dust cell", "feedback": "Incorrect." },
+      { "text": "Brush cell", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 588,
+    "question": "Which cell type is located at the basal lamina of the olfactory mucosa?",
+    "options": [
+      { "text": "Basal cells", "feedback": "Correct! Basal cells are at the basal lamina." },
+      { "text": "Brush cells", "feedback": "Incorrect." },
+      { "text": "Olfactory cells", "feedback": "Incorrect." },
+      { "text": "Sustentacular cells", "feedback": "Incorrect." },
+      { "text": "All of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 589,
+    "question": "Which cell type is most numerous in olfactory mucosa?",
+    "options": [
+      { "text": "Basal cells", "feedback": "Incorrect." },
+      { "text": "Brush cells", "feedback": "Incorrect." },
+      { "text": "Olfactory cells", "feedback": "Incorrect." },
+      { "text": "Sustentacular cells", "feedback": "Correct! Sustentacular cells are the most numerous." },
+      { "text": "None of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 590,
+    "question": "What type of epithelium is found in the respiratory mucosa of man?",
+    "options": [
+      { "text": "Non-ciliated pseudostratified columnar epithelium with goblet cells", "feedback": "Incorrect." },
+      { "text": "Ciliated pseudostratified columnar epithelium with goblet cells", "feedback": "Correct! This is the respiratory mucosa." },
+      { "text": "Simple columnar epithelium", "feedback": "Incorrect." },
+      { "text": "Stratified squamous epithelium", "feedback": "Incorrect." },
+      { "text": "Transitional epithelium", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 591,
+    "question": "What type of tissue forms the alveoli in the lung?",
+    "options": [
+      { "text": "Simple squamous epithelium", "feedback": "Correct! Alveoli are formed by simple squamous epithelium." },
+      { "text": "Simple cuboidal epithelium", "feedback": "Incorrect." },
+      { "text": "Simple columnar epithelium", "feedback": "Incorrect." },
+      { "text": "Stratified squamous epithelium", "feedback": "Incorrect." },
+      { "text": "Pseudostratified epithelium", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 592,
+    "question": "What type of tissue lines the paranasal sinuses?",
+    "options": [
+      { "text": "Simple squamous epithelium", "feedback": "Incorrect." },
+      { "text": "Simple columnar epithelium", "feedback": "Incorrect." },
+      { "text": "Stratified squamous epithelium", "feedback": "Incorrect." },
+      { "text": "Ciliated pseudostratified epithelium with goblet cells", "feedback": "Correct! The paranasal sinuses have this epithelium." },
+      { "text": "Transitional epithelium", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 593,
+    "question": "In which structure does gas exchange NOT occur?",
+    "options": [
+      { "text": "Alveolar duct", "feedback": "Incorrect." },
+      { "text": "Alveoli", "feedback": "Incorrect." },
+      { "text": "Alveolar sac", "feedback": "Incorrect." },
+      { "text": "Respiratory bronchiole", "feedback": "Incorrect." },
+      { "text": "Terminal bronchiole", "feedback": "Correct! Gas exchange does not occur in terminal bronchioles." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 594,
+    "question": "Which cell secretes surfactant?",
+    "options": [
+      { "text": "Clara cell", "feedback": "Incorrect." },
+      { "text": "Type I pneumocyte", "feedback": "Incorrect." },
+      { "text": "Type II pneumocyte", "feedback": "Correct! Type II pneumocytes secrete surfactant." },
+      { "text": "Dust cell", "feedback": "Incorrect." },
+      { "text": "Brush cell", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 595,
+    "question": "Which cartilage of the larynx is made of elastic cartilage?",
+    "options": [
+      { "text": "Thyroid cartilage", "feedback": "Incorrect." },
+      { "text": "Cricoid cartilage", "feedback": "Incorrect." },
+      { "text": "Arytenoid cartilage", "feedback": "Incorrect." },
+      { "text": "Epiglottis", "feedback": "Correct! The epiglottis is elastic cartilage." },
+      { "text": "Corniculate cartilage", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 596,
+    "question": "Which cell is rarely found in the alveolus?",
+    "options": [
+      { "text": "Clara cell", "feedback": "Incorrect." },
+      { "text": "Type I pneumocyte", "feedback": "Incorrect." },
+      { "text": "Type II pneumocyte", "feedback": "Incorrect." },
+      { "text": "Dust cell", "feedback": "Incorrect." },
+      { "text": "Brush cell", "feedback": "Correct! Brush cells are rarely seen in the alveolus." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 597,
+    "question": "What are the alveolar pores called?",
+    "options": [
+      { "text": "Pores of Luschka", "feedback": "Incorrect." },
+      { "text": "Pores of Descemet", "feedback": "Incorrect." },
+      { "text": "Pores of Mall", "feedback": "Incorrect." },
+      { "text": "Pores of Kohn", "feedback": "Correct! The alveolar pores are the pores of Kohn." },
+      { "text": "Pores of Disse", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 598,
+    "question": "What is the first portion of the respiratory tree where gas exchange can occur?",
+    "options": [
+      { "text": "Alveolar duct", "feedback": "Incorrect." },
+      { "text": "Alveoli", "feedback": "Incorrect." },
+      { "text": "Alveolar sac", "feedback": "Incorrect." },
+      { "text": "Respiratory bronchiole", "feedback": "Correct! Respiratory bronchioles are the first site of gas exchange." },
+      { "text": "Terminal bronchiole", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 599,
+    "question": "Which of the following is NOT a characteristic of the endocrine system?",
+    "options": [
+      { "text": "Products secreted into blood", "feedback": "Incorrect. This is a characteristic." },
+      { "text": "Glands with ducts", "feedback": "Correct! Endocrine glands are ductless." },
+      { "text": "Secretes hormones", "feedback": "Incorrect. This is a characteristic." },
+      { "text": "Non localized response", "feedback": "Incorrect. This is a characteristic." },
+      { "text": "All of the following are characteristics of the endocrine system", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 600,
+    "question": "What type of hormone is testosterone?",
+    "options": [
+      { "text": "Protein", "feedback": "Incorrect." },
+      { "text": "Amino acid chain", "feedback": "Incorrect." },
+      { "text": "Steroid", "feedback": "Correct! Testosterone is a steroid hormone." },
+      { "text": "Catecholamine", "feedback": "Incorrect." },
+      { "text": "None of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 601,
+    "question": "What organ is nicknamed the 'master gland'?",
+    "options": [
+      { "text": "Adrenal medulla", "feedback": "Incorrect." },
+      { "text": "Adrenal cortex", "feedback": "Incorrect." },
+      { "text": "Brain", "feedback": "Incorrect." },
+      { "text": "Pituitary", "feedback": "Correct! The pituitary is nicknamed the master gland." },
+      { "text": "Heart", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 602,
+    "question": "What cell type secretes ACTH?",
+    "options": [
+      { "text": "Lactotropic cells", "feedback": "Incorrect. These secrete prolactin." },
+      { "text": "Thyrotropic cells", "feedback": "Incorrect. These secrete TSH." },
+      { "text": "Somatotropic cells", "feedback": "Incorrect. These secrete growth hormone." },
+      { "text": "Corticotropic cells", "feedback": "Correct! Corticotropic cells secrete ACTH and MSH." },
+      { "text": "Gonadotropic cells", "feedback": "Incorrect. These secrete FSH and LH." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 603,
+    "question": "Where is corpora arenacea found?",
+    "options": [
+      { "text": "Pituitary", "feedback": "Incorrect." },
+      { "text": "Pineal gland", "feedback": "Correct! Corpora arenacea is found in the pineal gland." },
+      { "text": "Adrenal gland", "feedback": "Incorrect." },
+      { "text": "Pancreas", "feedback": "Incorrect." },
+      { "text": "Thyroid", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 604,
+    "question": "Which gland secretes melatonin?",
+    "options": [
+      { "text": "Pancreas", "feedback": "Incorrect." },
+      { "text": "Thyroid", "feedback": "Incorrect." },
+      { "text": "Pineal gland", "feedback": "Correct! The pineal gland secretes melatonin." },
+      { "text": "Adrenal gland (cortex)", "feedback": "Incorrect." },
+      { "text": "Adrenal gland (medulla)", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 605,
+    "question": "Which cell type are involved in the secretion thyroglobulin?",
+    "options": [
+      { "text": "Principal cell", "feedback": "Incorrect." },
+      { "text": "Oxyphil cell", "feedback": "Incorrect." },
+      { "text": "Parafollicular cells", "feedback": "Incorrect." },
+      { "text": "Follicular cells", "feedback": "Correct! Follicular cells secrete thyroglobulin." },
+      { "text": "Chromaffin cells", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 606,
+    "question": "Where is insulin secreted from?",
+    "options": [
+      { "text": "Alpha cells", "feedback": "Incorrect. These secrete glucagon." },
+      { "text": "Beta cells", "feedback": "Correct! Beta cells secrete insulin." },
+      { "text": "Gamma cells", "feedback": "Incorrect. These secrete pancreatic polypeptide." },
+      { "text": "Delta cells", "feedback": "Incorrect. These secrete somatostatin." },
+      { "text": "Acini", "feedback": "Incorrect. This is the exocrine portion." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 607,
+    "question": "Which of the following is part of the adrenal gland?",
+    "options": [
+      { "text": "Chromaffin cells", "feedback": "Incorrect. This is correct, but the answer is all of the above." },
+      { "text": "Zona reticularis", "feedback": "Incorrect. This is correct, but the answer is all of the above." },
+      { "text": "Zona glomerulosa", "feedback": "Incorrect. This is correct, but the answer is all of the above." },
+      { "text": "Zona fasciculata", "feedback": "Incorrect. This is correct, but the answer is all of the above." },
+      { "text": "All of the above", "feedback": "Correct! All are parts of the adrenal gland." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 608,
+    "question": "Which part the adrenal gland secretes glucocorticoids?",
+    "options": [
+      { "text": "Chromaffin cells", "feedback": "Incorrect." },
+      { "text": "Zona reticularis", "feedback": "Incorrect." },
+      { "text": "Zona glomerulosa", "feedback": "Incorrect." },
+      { "text": "Zona fasciculata", "feedback": "Correct! The zona fasciculata secretes glucocorticoids." },
+      { "text": "None of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 609,
+    "question": "What type of hormone is insulin?",
+    "options": [
+      { "text": "Protein", "feedback": "Correct! Insulin is a protein hormone." },
+      { "text": "Peptide", "feedback": "Incorrect." },
+      { "text": "Steroid", "feedback": "Incorrect." },
+      { "text": "Catecholamine", "feedback": "Incorrect." },
+      { "text": "None of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 610,
+    "question": "What connects the pituitary to the hypothalamus?",
+    "options": [
+      { "text": "Pars intermedia", "feedback": "Incorrect." },
+      { "text": "Pars tuberalis", "feedback": "Incorrect." },
+      { "text": "Infundibulum", "feedback": "Correct! The infundibulum connects the pituitary to the hypothalamus." },
+      { "text": "Adenohypophysis", "feedback": "Incorrect." },
+      { "text": "Neurohypophysis", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 611,
+    "question": "Which of the following is not part of the adenohypophysis?",
+    "options": [
+      { "text": "Pars intermedia", "feedback": "Incorrect." },
+      { "text": "Pars tuberalis", "feedback": "Incorrect." },
+      { "text": "Pars distalis", "feedback": "Incorrect." },
+      { "text": "Pars nervosa", "feedback": "Correct! The pars nervosa is part of the neurohypophysis." },
+      { "text": "All of the above are part of the adenohypophysis", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 612,
+    "question": "What cell type secretes prolactin?",
+    "options": [
+      { "text": "Lactotropic cells", "feedback": "Correct! Lactotropic cells secrete prolactin." },
+      { "text": "Thyrotropic cells", "feedback": "Incorrect." },
+      { "text": "Somatotropic cells", "feedback": "Incorrect." },
+      { "text": "Corticotropic cells", "feedback": "Incorrect." },
+      { "text": "Gonadotropic cells", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 613,
+    "question": "Which of the following cells can be classified as an acidophil?",
+    "options": [
+      { "text": "Gonadotropic cells", "feedback": "Incorrect. These are basophils." },
+      { "text": "Corticotropic cells", "feedback": "Incorrect. These are basophils." },
+      { "text": "Thyrotropic cells", "feedback": "Incorrect. These are basophils." },
+      { "text": "Lactotropic cells", "feedback": "Correct! Lactotropic cells are acidophils." },
+      { "text": "All of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 614,
+    "question": "Which gland secretes calcitonin?",
+    "options": [
+      { "text": "Pancreas", "feedback": "Incorrect." },
+      { "text": "Thyroid", "feedback": "Correct! The thyroid secretes calcitonin." },
+      { "text": "Pineal gland", "feedback": "Incorrect." },
+      { "text": "Adrenal gland (cortex)", "feedback": "Incorrect." },
+      { "text": "Adrenal gland (medulla)", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 615,
+    "question": "Which cell type are also called C cells?",
+    "options": [
+      { "text": "Principal cell", "feedback": "Incorrect." },
+      { "text": "Oxyphil cell", "feedback": "Incorrect." },
+      { "text": "Parafollicular cells", "feedback": "Correct! Parafollicular cells are also called C cells." },
+      { "text": "Follicular cells", "feedback": "Incorrect." },
+      { "text": "Chromaffin cells", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 616,
+    "question": "Where is glucagon secreted from?",
+    "options": [
+      { "text": "Alpha cells", "feedback": "Correct! Alpha cells secrete glucagon." },
+      { "text": "Beta cells", "feedback": "Incorrect." },
+      { "text": "Gamma cells", "feedback": "Incorrect." },
+      { "text": "Delta cells", "feedback": "Incorrect." },
+      { "text": "Acini", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 617,
+    "question": "Which of the following is a component of the adrenal medulla?",
+    "options": [
+      { "text": "Chromaffin cells", "feedback": "Correct! Chromaffin cells are in the adrenal medulla." },
+      { "text": "Zona reticularis", "feedback": "Incorrect." },
+      { "text": "Zona glomerulosa", "feedback": "Incorrect." },
+      { "text": "Zona fasciculata", "feedback": "Incorrect." },
+      { "text": "All of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 618,
+    "question": "What are the cells of the pineal gland called?",
+    "options": [
+      { "text": "Follicular cells", "feedback": "Incorrect." },
+      { "text": "Parafollicular cells", "feedback": "Incorrect." },
+      { "text": "Pinealocytes", "feedback": "Correct! The cells of the pineal gland are called pinealocytes." },
+      { "text": "P cells", "feedback": "Incorrect." },
+      { "text": "PP cells", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 619,
+    "question": "What type of hormone is antidiuretic hormone?",
+    "options": [
+      { "text": "Protein", "feedback": "Incorrect." },
+      { "text": "Peptide", "feedback": "Correct! Antidiuretic hormone is a peptide hormone." },
+      { "text": "Steroid", "feedback": "Incorrect." },
+      { "text": "Catecholamine", "feedback": "Incorrect." },
+      { "text": "None of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 620,
+    "question": "Where is oxytocin secreted from?",
+    "options": [
+      { "text": "Pars intermedia", "feedback": "Incorrect." },
+      { "text": "Pars tuberalis", "feedback": "Incorrect." },
+      { "text": "Infundibulum", "feedback": "Incorrect." },
+      { "text": "Adenohypophysis", "feedback": "Incorrect." },
+      { "text": "Neurohypophysis", "feedback": "Correct! Oxytocin is secreted from the neurohypophysis." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 621,
+    "question": "What cell type secretes LH?",
+    "options": [
+      { "text": "Lactotropic cells", "feedback": "Incorrect." },
+      { "text": "Thyrotropic cells", "feedback": "Incorrect." },
+      { "text": "Somatotropic cells", "feedback": "Incorrect." },
+      { "text": "Corticotropic cells", "feedback": "Incorrect." },
+      { "text": "Gonadotropic cells", "feedback": "Correct! Gonadotropic cells secrete FSH and LH." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 622,
+    "question": "Which of the following cells can be classified as a basophil?",
+    "options": [
+      { "text": "Thyrotropic cells", "feedback": "Correct! Thyrotropic cells are basophils." },
+      { "text": "Lactotropic cells", "feedback": "Incorrect. These are acidophils." },
+      { "text": "Somatotropic cells", "feedback": "Incorrect. These are acidophils." },
+      { "text": "None of the above", "feedback": "Incorrect." },
+      { "text": "All of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 623,
+    "question": "Which gland secretes T3?",
+    "options": [
+      { "text": "Pancreas", "feedback": "Incorrect." },
+      { "text": "Thyroid", "feedback": "Correct! The thyroid secretes T3 and T4." },
+      { "text": "Pineal gland", "feedback": "Incorrect." },
+      { "text": "Adrenal gland (cortex)", "feedback": "Incorrect." },
+      { "text": "Adrenal gland (medulla)", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 624,
+    "question": "Which gland secretes sex steroids?",
+    "options": [
+      { "text": "Pancreas", "feedback": "Incorrect." },
+      { "text": "Thyroid", "feedback": "Incorrect." },
+      { "text": "Pineal gland", "feedback": "Incorrect." },
+      { "text": "Adrenal gland (cortex)", "feedback": "Correct! The adrenal cortex secretes sex steroids." },
+      { "text": "Adrenal gland (medulla)", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 625,
+    "question": "Where is somatostatin secreted from?",
+    "options": [
+      { "text": "Alpha cells", "feedback": "Incorrect." },
+      { "text": "Beta cells", "feedback": "Incorrect." },
+      { "text": "Gamma cells", "feedback": "Incorrect." },
+      { "text": "Delta cells", "feedback": "Correct! Delta cells secrete somatostatin." },
+      { "text": "Acini", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 626,
+    "question": "Which of the following is seen the innermost portion the adrenal gland?",
+    "options": [
+      { "text": "Chromaffin cells", "feedback": "Correct! Chromaffin cells are in the adrenal medulla, the innermost portion." },
+      { "text": "Zona reticularis", "feedback": "Incorrect." },
+      { "text": "Zona glomerulosa", "feedback": "Incorrect." },
+      { "text": "Zona fasciculata", "feedback": "Incorrect." },
+      { "text": "None of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 627,
+    "question": "What type of hormone is oxytocin?",
+    "options": [
+      { "text": "Protein", "feedback": "Incorrect." },
+      { "text": "Peptide", "feedback": "Correct! Oxytocin is a peptide hormone." },
+      { "text": "Steroid", "feedback": "Incorrect." },
+      { "text": "Catecholamine", "feedback": "Incorrect." },
+      { "text": "None of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 628,
+    "question": "Where is antidiuretic hormone (ADH) secreted from?",
+    "options": [
+      { "text": "Pars intermedia", "feedback": "Incorrect." },
+      { "text": "Pars tuberalis", "feedback": "Incorrect." },
+      { "text": "Infundibulum", "feedback": "Incorrect." },
+      { "text": "Adenohypophysis", "feedback": "Incorrect." },
+      { "text": "Neurohypophysis", "feedback": "Correct! ADH is secreted from the neurohypophysis." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 629,
+    "question": "What cell type secretes FSH?",
+    "options": [
+      { "text": "Lactotropic cells", "feedback": "Incorrect." },
+      { "text": "Thyrotropic cells", "feedback": "Incorrect." },
+      { "text": "Somatotropic cells", "feedback": "Incorrect." },
+      { "text": "Corticotropic cells", "feedback": "Incorrect." },
+      { "text": "Gonadotropic cells", "feedback": "Correct! Gonadotropic cells secrete FSH and LH." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 630,
+    "question": "Which of the following cells can be classified as a basophil?",
+    "options": [
+      { "text": "Lactotropic cells", "feedback": "Incorrect. These are acidophils." },
+      { "text": "Corticotropic cells", "feedback": "Correct! Corticotropic cells are basophils." },
+      { "text": "Somatotropic cells", "feedback": "Incorrect. These are acidophils." },
+      { "text": "None of the above", "feedback": "Incorrect." },
+      { "text": "All of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 631,
+    "question": "Which gland secretes norepinephrine?",
+    "options": [
+      { "text": "Pancreas", "feedback": "Incorrect." },
+      { "text": "Thyroid", "feedback": "Incorrect." },
+      { "text": "Pineal gland", "feedback": "Incorrect." },
+      { "text": "Adrenal gland (cortex)", "feedback": "Incorrect." },
+      { "text": "Adrenal gland (medulla)", "feedback": "Correct! The adrenal medulla secretes norepinephrine." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 632,
+    "question": "What is corpora arenacea?",
+    "options": [
+      { "text": "Brain sand", "feedback": "Correct! Corpora arenacea is nicknamed brain sand." },
+      { "text": "Basal body", "feedback": "Incorrect." },
+      { "text": "Nissl body", "feedback": "Incorrect." },
+      { "text": "White body", "feedback": "Incorrect." },
+      { "text": "Degenerating corpus luteum", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 633,
+    "question": "What gland secretes aldosterone?",
+    "options": [
+      { "text": "Pancreas", "feedback": "Incorrect." },
+      { "text": "Thyroid", "feedback": "Incorrect." },
+      { "text": "Pineal gland", "feedback": "Incorrect." },
+      { "text": "Adrenal gland (cortex)", "feedback": "Correct! The adrenal cortex secretes aldosterone." },
+      { "text": "Adrenal gland (medulla)", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 634,
+    "question": "What is the most common cell in the parathyroid gland?",
+    "options": [
+      { "text": "Principal cell", "feedback": "Correct! Principal cells are the most common in the parathyroid." },
+      { "text": "Oxyphil cell", "feedback": "Incorrect." },
+      { "text": "Parafollicular cells", "feedback": "Incorrect." },
+      { "text": "Follicular cells", "feedback": "Incorrect." },
+      { "text": "Chromaffin cells", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 635,
+    "question": "Where are catecholamines secreted from?",
+    "options": [
+      { "text": "Chromaffin cells", "feedback": "Correct! Chromaffin cells secrete catecholamines." },
+      { "text": "Zona reticularis", "feedback": "Incorrect." },
+      { "text": "Zona glomerulosa", "feedback": "Incorrect." },
+      { "text": "Zona fasciculata", "feedback": "Incorrect." },
+      { "text": "None of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 636,
+    "question": "Which of the following is the outer layer of the adrenal cortex?",
+    "options": [
+      { "text": "Chromaffin cells", "feedback": "Incorrect." },
+      { "text": "Zona reticularis", "feedback": "Incorrect." },
+      { "text": "Zona glomerulosa", "feedback": "Correct! The zona glomerulosa is the outer layer of the adrenal cortex." },
+      { "text": "Zona fasciculata", "feedback": "Incorrect." },
+      { "text": "None of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 637,
+    "question": "What type of hormone is estradiol?",
+    "options": [
+      { "text": "Protein", "feedback": "Incorrect." },
+      { "text": "Amino acid chain", "feedback": "Incorrect." },
+      { "text": "Steroid", "feedback": "Correct! Estradiol is a steroid hormone." },
+      { "text": "Catecholamine", "feedback": "Incorrect." },
+      { "text": "None of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 638,
+    "question": "What is another term for the anterior lobe of the pituitary?",
+    "options": [
+      { "text": "Pars intermedia", "feedback": "Incorrect." },
+      { "text": "Pars tuberalis", "feedback": "Incorrect." },
+      { "text": "Pars distalis", "feedback": "Correct! The pars distalis is the anterior lobe." },
+      { "text": "Pars nervosa", "feedback": "Incorrect." },
+      { "text": "Infundibular stalk", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 639,
+    "question": "What cell type secretes growth hormone?",
+    "options": [
+      { "text": "Lactotropic cells", "feedback": "Incorrect." },
+      { "text": "Thyrotropic cells", "feedback": "Incorrect." },
+      { "text": "Somatotropic cells", "feedback": "Correct! Somatotropic cells secrete growth hormone." },
+      { "text": "Corticotropic cells", "feedback": "Incorrect." },
+      { "text": "Gonadotropic cells", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 640,
+    "question": "Which of the following cells can be classified as a basophil?",
+    "options": [
+      { "text": "Somatotropic cells", "feedback": "Incorrect." },
+      { "text": "Lactotropic cells", "feedback": "Incorrect." },
+      { "text": "Gonadotropic cells", "feedback": "Correct! Gonadotropic cells are basophils." },
+      { "text": "None of the above", "feedback": "Incorrect." },
+      { "text": "All of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 641,
+    "question": "Where is the endocrine portion of the pancreas housed?",
+    "options": [
+      { "text": "Islets of Langerhans", "feedback": "Correct! The islets of Langerhans are the endocrine portion." },
+      { "text": "Alpha cells", "feedback": "Incorrect." },
+      { "text": "Beta cells", "feedback": "Incorrect." },
+      { "text": "Delta cells", "feedback": "Incorrect." },
+      { "text": "Acini", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 642,
+    "question": "Which gland secretes glucagon?",
+    "options": [
+      { "text": "Pancreas", "feedback": "Correct! The pancreas secretes glucagon." },
+      { "text": "Thyroid", "feedback": "Incorrect." },
+      { "text": "Pineal gland", "feedback": "Incorrect." },
+      { "text": "Adrenal gland (cortex)", "feedback": "Incorrect." },
+      { "text": "Adrenal gland (medulla)", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 643,
+    "question": "Which cell type secretes calcitonin?",
+    "options": [
+      { "text": "Principal cell", "feedback": "Incorrect." },
+      { "text": "Oxyphil cell", "feedback": "Incorrect." },
+      { "text": "Parafollicular cells", "feedback": "Correct! Parafollicular cells secrete calcitonin." },
+      { "text": "Follicular cells", "feedback": "Incorrect." },
+      { "text": "Chromaffin cells", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 644,
+    "question": "Which cell type is found in the parathyroid, but is not the most abundant cell type?",
+    "options": [
+      { "text": "Principal cell", "feedback": "Incorrect." },
+      { "text": "Oxyphil cell", "feedback": "Correct! Oxyphil cells are present but not the most abundant." },
+      { "text": "Parafollicular cells", "feedback": "Incorrect." },
+      { "text": "Follicular cells", "feedback": "Incorrect." },
+      { "text": "Chromaffin cells", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 645,
+    "question": "Which part the adrenal gland secretes mineralocorticoids?",
+    "options": [
+      { "text": "Chromaffin cells", "feedback": "Incorrect." },
+      { "text": "Zona reticularis", "feedback": "Incorrect." },
+      { "text": "Zona glomerulosa", "feedback": "Correct! The zona glomerulosa secretes mineralocorticoids." },
+      { "text": "Zona fasciculata", "feedback": "Incorrect." },
+      { "text": "None of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 646,
+    "question": "Which of the following is the inner layer of the adrenal cortex?",
+    "options": [
+      { "text": "Chromaffin cells", "feedback": "Incorrect." },
+      { "text": "Zona reticularis", "feedback": "Correct! The zona reticularis is the inner layer of the adrenal cortex." },
+      { "text": "Zona glomerulosa", "feedback": "Incorrect." },
+      { "text": "Zona fasciculata", "feedback": "Incorrect." },
+      { "text": "None of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 647,
+    "question": "What type of hormone is epinephrine?",
+    "options": [
+      { "text": "Protein", "feedback": "Incorrect." },
+      { "text": "Amino acid chain", "feedback": "Incorrect." },
+      { "text": "Steroid", "feedback": "Incorrect." },
+      { "text": "Catecholamine", "feedback": "Correct! Epinephrine is a catecholamine." },
+      { "text": "None of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 648,
+    "question": "What is another term for the posterior lobe of the pituitary?",
+    "options": [
+      { "text": "Pars intermedia", "feedback": "Incorrect." },
+      { "text": "Pars tuberalis", "feedback": "Incorrect." },
+      { "text": "Pars distalis", "feedback": "Incorrect." },
+      { "text": "Pars nervosa", "feedback": "Correct! The pars nervosa is the posterior lobe." },
+      { "text": "Infundibular stalk", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 649,
+    "question": "What cell type secretes TSH?",
+    "options": [
+      { "text": "Lactotropic cells", "feedback": "Incorrect." },
+      { "text": "Thyrotropic cells", "feedback": "Correct! Thyrotropic cells secrete TSH." },
+      { "text": "Somatotropic cells", "feedback": "Incorrect." },
+      { "text": "Corticotropic cells", "feedback": "Incorrect." },
+      { "text": "Gonadotropic cells", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 650,
+    "question": "Which of the following cells can be classified as a basophil?",
+    "options": [
+      { "text": "Corticotropic cells", "feedback": "Incorrect. This is correct, but the answer is all of the above." },
+      { "text": "Thyrotropic cells", "feedback": "Incorrect. This is correct, but the answer is all of the above." },
+      { "text": "Gonadotropic cells", "feedback": "Incorrect. This is correct, but the answer is all of the above." },
+      { "text": "None of the above", "feedback": "Incorrect." },
+      { "text": "All of the above", "feedback": "Correct! All three are basophils." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 651,
+    "question": "Which gland secretes insulin?",
+    "options": [
+      { "text": "Pancreas", "feedback": "Correct! The pancreas secretes insulin." },
+      { "text": "Thyroid", "feedback": "Incorrect." },
+      { "text": "Pineal gland", "feedback": "Incorrect." },
+      { "text": "Adrenal gland (cortex)", "feedback": "Incorrect." },
+      { "text": "Adrenal gland (medulla)", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 652,
+    "question": "Which part the adrenal gland secretes sex steroids?",
+    "options": [
+      { "text": "Chromaffin cells", "feedback": "Incorrect." },
+      { "text": "Zona reticularis", "feedback": "Correct! The zona reticularis secretes sex steroids." },
+      { "text": "Zona glomerulosa", "feedback": "Incorrect." },
+      { "text": "Zona fasciculata", "feedback": "Incorrect." },
+      { "text": "None of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 653,
+    "question": "Which cells produce testosterone?",
+    "options": [
+      { "text": "Interstitial cells", "feedback": "Incorrect. This is correct, but the answer is both a and b." },
+      { "text": "Leydig cells", "feedback": "Incorrect. This is correct, but the answer is both a and b." },
+      { "text": "Sertoli cells", "feedback": "Incorrect." },
+      { "text": "Sustentacular cells", "feedback": "Incorrect." },
+      { "text": "Both a and b", "feedback": "Correct! Leydig cells (interstitial cells) produce testosterone." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 654,
+    "question": "How many seminiferous tubules are found in each testis of an average man?",
+    "options": [
+      { "text": "4-6", "feedback": "Incorrect." },
+      { "text": "40-60", "feedback": "Incorrect." },
+      { "text": "400-600", "feedback": "Correct! There are 400-600 seminiferous tubules per testis." },
+      { "text": "4000-6000", "feedback": "Incorrect." },
+      { "text": "40,000-60,000", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 655,
+    "question": "Which of the following are produced by the Leydig cells?",
+    "options": [
+      { "text": "Inhibin", "feedback": "Incorrect." },
+      { "text": "Androgen binding protein", "feedback": "Incorrect." },
+      { "text": "Testosterone", "feedback": "Correct! Leydig cells produce testosterone." },
+      { "text": "Both a and b", "feedback": "Incorrect." },
+      { "text": "All of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 656,
+    "question": "Which of the following is NOT considered part of the male genital duct system?",
+    "options": [
+      { "text": "Rete testis", "feedback": "Incorrect." },
+      { "text": "Tubuli recti", "feedback": "Incorrect." },
+      { "text": "Seminal vesicles", "feedback": "Correct! Seminal vesicles are accessory glands." },
+      { "text": "Ductus deferens", "feedback": "Incorrect." },
+      { "text": "Ductus epididymidis", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 657,
+    "question": "What is the surface modification seen on the cells of the epididymis?",
+    "options": [
+      { "text": "Microvilli", "feedback": "Incorrect." },
+      { "text": "Stereocilia", "feedback": "Correct! Stereocilia are seen in the epididymis." },
+      { "text": "Cilia", "feedback": "Incorrect." },
+      { "text": "Keratinization", "feedback": "Incorrect." },
+      { "text": "Both a and b", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 658,
+    "question": "Which of the following is true?",
+    "options": [
+      { "text": "There is one corpus cavernosa and one corpus spongiosum", "feedback": "Incorrect." },
+      { "text": "There is one corpus cavernosa and two corpora spongiosum", "feedback": "Incorrect." },
+      { "text": "There are two corpora cavernosa and one corpus spongiosum", "feedback": "Correct! There are two corpora cavernosa and one corpus spongiosum." },
+      { "text": "There are two corpora cavernosa and two corpora spongiosum", "feedback": "Incorrect." },
+      { "text": "There are four corpora cavernosa and two corpora spongiosum", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 659,
+    "question": "What gland in the male is homologous to the greater vestibular gland in the female?",
+    "options": [
+      { "text": "Bartholin's gland", "feedback": "Incorrect." },
+      { "text": "Prostate gland", "feedback": "Incorrect." },
+      { "text": "Skene's gland", "feedback": "Incorrect." },
+      { "text": "Cowper's gland", "feedback": "Correct! Cowper's gland is the male homologue of Bartholin's gland." },
+      { "text": "Brunner's gland", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 660,
+    "question": "What is the most commonly seen type of epithelium in the prostate?",
+    "options": [
+      { "text": "Transitional", "feedback": "Incorrect." },
+      { "text": "Simple columnar", "feedback": "Correct! Simple columnar epithelium is most common in the prostate." },
+      { "text": "Stratified squamous", "feedback": "Incorrect." },
+      { "text": "Simple squamous", "feedback": "Incorrect." },
+      { "text": "Simple cuboidal", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 661,
+    "question": "What type of epithelium lines the epididymis?",
+    "options": [
+      { "text": "Pseudostratified", "feedback": "Correct! Pseudostratified epithelium lines the epididymis." },
+      { "text": "Simple columnar", "feedback": "Incorrect." },
+      { "text": "Stratified squamous", "feedback": "Incorrect." },
+      { "text": "Simple squamous", "feedback": "Incorrect." },
+      { "text": "Simple cuboidal", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 662,
+    "question": "Which cells are directly involved in spermatogenesis?",
+    "options": [
+      { "text": "Interstitial cells", "feedback": "Incorrect." },
+      { "text": "Leydig cells", "feedback": "Incorrect." },
+      { "text": "Sertoli cells", "feedback": "Incorrect. This is correct, but the answer is both c and d." },
+      { "text": "Sustentacular cells", "feedback": "Incorrect. This is correct, but the answer is both c and d." },
+      { "text": "Both c and d", "feedback": "Correct! Sertoli cells (sustentacular cells) are directly involved in spermatogenesis." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 663,
+    "question": "Which of the following are produced by the Sertoli cells?",
+    "options": [
+      { "text": "Inhibin", "feedback": "Incorrect. This is correct, but the answer is both a and b." },
+      { "text": "Androgen binding protein", "feedback": "Incorrect. This is correct, but the answer is both a and b." },
+      { "text": "Testosterone", "feedback": "Incorrect." },
+      { "text": "Both a and b", "feedback": "Correct! Sertoli cells produce inhibin and androgen-binding protein." },
+      { "text": "All of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 664,
+    "question": "Which of the following is NOT considered an accessory gland?",
+    "options": [
+      { "text": "Prostate", "feedback": "Incorrect." },
+      { "text": "Bulbourethral gland", "feedback": "Incorrect." },
+      { "text": "Seminal vesicles", "feedback": "Incorrect." },
+      { "text": "Ductus deferens", "feedback": "Correct! Ductus deferens is a duct, not an accessory gland." },
+      { "text": "None of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 665,
+    "question": "What is another term for a bulbourethral gland?",
+    "options": [
+      { "text": "Bartholin's gland", "feedback": "Incorrect." },
+      { "text": "Prostate gland", "feedback": "Incorrect." },
+      { "text": "Skene's gland", "feedback": "Incorrect." },
+      { "text": "Cowper's gland", "feedback": "Correct! Cowper's gland is the bulbourethral gland." },
+      { "text": "Brunner's gland", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 666,
+    "question": "What are the spherical structures seen in some prostatic alveoli called?",
+    "options": [
+      { "text": "Psammoma bodies", "feedback": "Incorrect." },
+      { "text": "Corpora arenacea", "feedback": "Incorrect." },
+      { "text": "Hassall's corpuscles", "feedback": "Incorrect." },
+      { "text": "Prostatic concretions", "feedback": "Correct! Prostatic concretions are seen in the prostate." },
+      { "text": "Pacinian corpuscles", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 667,
+    "question": "What type of epithelium lines the seminal vesicles?",
+    "options": [
+      { "text": "Pseudostratified", "feedback": "Correct! Pseudostratified epithelium lines the seminal vesicles." },
+      { "text": "Simple columnar", "feedback": "Incorrect." },
+      { "text": "Stratified squamous", "feedback": "Incorrect." },
+      { "text": "Simple squamous", "feedback": "Incorrect." },
+      { "text": "Simple cuboidal", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 668,
+    "question": "What type of epithelium lines the vas deferens?",
+    "options": [
+      { "text": "Pseudostratified", "feedback": "Correct! Pseudostratified epithelium lines the vas deferens." },
+      { "text": "Simple columnar", "feedback": "Incorrect." },
+      { "text": "Stratified squamous", "feedback": "Incorrect." },
+      { "text": "Simple squamous", "feedback": "Incorrect." },
+      { "text": "Simple cuboidal", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 669,
+    "question": "What type of gland composes the prostate?",
+    "options": [
+      { "text": "Simple straight tubular gland", "feedback": "Incorrect." },
+      { "text": "Simple coiled tubular gland", "feedback": "Incorrect." },
+      { "text": "Simple alveolar gland", "feedback": "Incorrect." },
+      { "text": "Compound tubular gland", "feedback": "Incorrect." },
+      { "text": "Compound tubuloalveolar gland", "feedback": "Correct! The prostate is a compound tubuloalveolar gland." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 670,
+    "question": "What is the stroma of the prostate?",
+    "options": [
+      { "text": "Loose irregular connective tissue", "feedback": "Incorrect." },
+      { "text": "Smooth muscle", "feedback": "Incorrect." },
+      { "text": "Fibromuscular", "feedback": "Correct! The stroma of the prostate is fibromuscular." },
+      { "text": "Adipose tissue", "feedback": "Incorrect." },
+      { "text": "Dense irregular connective tissue", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 671,
+    "question": "How many layers of smooth muscle are in the vas deferens?",
+    "options": [
+      { "text": "1", "feedback": "Incorrect." },
+      { "text": "2", "feedback": "Incorrect." },
+      { "text": "3", "feedback": "Correct! There are three layers of smooth muscle in the vas deferens." },
+      { "text": "4", "feedback": "Incorrect." },
+      { "text": "5", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 672,
+    "question": "How many corpora cavernosa are there?",
+    "options": [
+      { "text": "1", "feedback": "Incorrect." },
+      { "text": "2", "feedback": "Correct! There are two corpora cavernosa." },
+      { "text": "3", "feedback": "Incorrect." },
+      { "text": "4", "feedback": "Incorrect." },
+      { "text": "5", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 673,
+    "question": "Which one of the following are the earliest cells of spermatogenesis?",
+    "options": [
+      { "text": "Primary spermatocytes", "feedback": "Incorrect." },
+      { "text": "Secondary spermatocytes", "feedback": "Incorrect." },
+      { "text": "Spermatids", "feedback": "Incorrect." },
+      { "text": "Spermatozoa", "feedback": "Incorrect." },
+      { "text": "Spermatogonia", "feedback": "Correct! Spermatogonia are the earliest cells." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 674,
+    "question": "Which cells are also called 'nurse cells'?",
+    "options": [
+      { "text": "Interstitial cells", "feedback": "Incorrect." },
+      { "text": "Leydig cells", "feedback": "Incorrect." },
+      { "text": "Sertoli cells", "feedback": "Incorrect. This is correct, but the answer is both c and d." },
+      { "text": "Sustentacular cells", "feedback": "Incorrect. This is correct, but the answer is both c and d." },
+      { "text": "Both c and d", "feedback": "Correct! Sertoli cells are also called sustentacular cells or nurse cells." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 675,
+    "question": "When do the testes descend into the scrotum?",
+    "options": [
+      { "text": "Fetal development", "feedback": "Correct! The testes descend during fetal development." },
+      { "text": "Infancy", "feedback": "Incorrect." },
+      { "text": "Puberty", "feedback": "Incorrect." },
+      { "text": "Adulthood", "feedback": "Incorrect." },
+      { "text": "During arousal", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 676,
+    "question": "Which is the largest accessory structure of the male reproductive system?",
+    "options": [
+      { "text": "Epididymis", "feedback": "Incorrect." },
+      { "text": "Prostate", "feedback": "Correct! The prostate is the largest accessory structure." },
+      { "text": "Seminal vesicle", "feedback": "Incorrect." },
+      { "text": "Bulbourethral gland", "feedback": "Incorrect." },
+      { "text": "Cowper's gland", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 677,
+    "question": "What is the capsule that surrounds the testes?",
+    "options": [
+      { "text": "Tunica adventitia", "feedback": "Incorrect." },
+      { "text": "Tunica externa", "feedback": "Incorrect." },
+      { "text": "Tunica media", "feedback": "Incorrect." },
+      { "text": "Tunica intima", "feedback": "Incorrect." },
+      { "text": "Tunica albuginea", "feedback": "Correct! The tunica albuginea surrounds the testes." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 678,
+    "question": "What is the 'cap' at the anterior portion of a spermatazoon?",
+    "options": [
+      { "text": "Head", "feedback": "Incorrect." },
+      { "text": "Tail", "feedback": "Incorrect." },
+      { "text": "Acrosome", "feedback": "Correct! The acrosome is the cap at the anterior portion." },
+      { "text": "End piece", "feedback": "Incorrect." },
+      { "text": "Middle piece", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 679,
+    "question": "What is another term for the corpus cavernosum urethrae?",
+    "options": [
+      { "text": "Corpora cavernosa", "feedback": "Incorrect." },
+      { "text": "Corpus spongiosum", "feedback": "Correct! Corpus spongiosum is also called corpus cavernosum urethrae." },
+      { "text": "Urethra", "feedback": "Incorrect." },
+      { "text": "Corpus cavernosum clitoridis", "feedback": "Incorrect." },
+      { "text": "Erectile tissue", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 680,
+    "question": "How many corpus spongiosum are there?",
+    "options": [
+      { "text": "1", "feedback": "Correct! There is one corpus spongiosum." },
+      { "text": "2", "feedback": "Incorrect." },
+      { "text": "3", "feedback": "Incorrect." },
+      { "text": "4", "feedback": "Incorrect." },
+      { "text": "5", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 681,
+    "question": "What is the mature sperm cell?",
+    "options": [
+      { "text": "Primary spermatocytes", "feedback": "Incorrect." },
+      { "text": "Secondary spermatocytes", "feedback": "Incorrect." },
+      { "text": "Spermatids", "feedback": "Incorrect." },
+      { "text": "Spermatozoa", "feedback": "Correct! Spermatozoa is the mature sperm cell." },
+      { "text": "Spermatogonia", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 682,
+    "question": "What are developing gametes called?",
+    "options": [
+      { "text": "Oogenesis", "feedback": "Incorrect." },
+      { "text": "Ovary", "feedback": "Incorrect." },
+      { "text": "Ovulation", "feedback": "Incorrect." },
+      { "text": "Oocyte", "feedback": "Correct! Developing gametes are called oocytes." },
+      { "text": "Ova", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 683,
+    "question": "What is the inner part of the ovary?",
+    "options": [
+      { "text": "Follicle", "feedback": "Incorrect." },
+      { "text": "Germinal epithelium", "feedback": "Incorrect." },
+      { "text": "Medulla", "feedback": "Correct! The inner part of the ovary is the medulla." },
+      { "text": "Tunica albuginea", "feedback": "Incorrect." },
+      { "text": "Cortex", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 684,
+    "question": "Which stage of the follicle is arrested in prophase?",
+    "options": [
+      { "text": "Primordial follicle", "feedback": "Correct! The primordial follicle is arrested in prophase." },
+      { "text": "Primary follicle", "feedback": "Incorrect." },
+      { "text": "Secondary follicle", "feedback": "Incorrect." },
+      { "text": "Mature follicle", "feedback": "Incorrect." },
+      { "text": "Graffian follicle", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 685,
+    "question": "What is the cavity within a secondary follicle?",
+    "options": [
+      { "text": "Graffian follicle", "feedback": "Incorrect." },
+      { "text": "Theca folliculi", "feedback": "Incorrect." },
+      { "text": "Granulosa cells", "feedback": "Incorrect." },
+      { "text": "Zona pellucida", "feedback": "Incorrect." },
+      { "text": "Antrum", "feedback": "Correct! The antrum is the cavity within a secondary follicle." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 686,
+    "question": "During the first week to 10 days, what is the main hormone which stimulates the growth of the follicles?",
+    "options": [
+      { "text": "FSH", "feedback": "Correct! FSH stimulates follicle growth." },
+      { "text": "LH", "feedback": "Incorrect." },
+      { "text": "HCG", "feedback": "Incorrect." },
+      { "text": "Estrogen", "feedback": "Incorrect." },
+      { "text": "Progesterone", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 687,
+    "question": "What is the female organ called where gametogenesis occurs?",
+    "options": [
+      { "text": "Oogenesis", "feedback": "Incorrect." },
+      { "text": "Ovary", "feedback": "Correct! The ovary is where gametogenesis occurs." },
+      { "text": "Ovulation", "feedback": "Incorrect." },
+      { "text": "Oocyte", "feedback": "Incorrect." },
+      { "text": "Ova", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 688,
+    "question": "Which stage of the follicle is marked by the surrounding of flattened (squamous) follicular cells becoming cuboidal?",
+    "options": [
+      { "text": "Primordial follicle", "feedback": "Incorrect." },
+      { "text": "Primary follicle", "feedback": "Correct! The primary follicle is marked by cuboidal follicular cells." },
+      { "text": "Secondary follicle", "feedback": "Incorrect." },
+      { "text": "Mature follicle", "feedback": "Incorrect." },
+      { "text": "Graffian follicle", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 689,
+    "question": "What is ovulated?",
+    "options": [
+      { "text": "Graffian follicle", "feedback": "Correct! The Graffian follicle is ovulated." },
+      { "text": "Theca folliculi", "feedback": "Incorrect." },
+      { "text": "Granulosa cells", "feedback": "Incorrect." },
+      { "text": "Zona pellucida", "feedback": "Incorrect." },
+      { "text": "Antrum", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 690,
+    "question": "What is the outer part of the ovary?",
+    "options": [
+      { "text": "Follicle", "feedback": "Incorrect." },
+      { "text": "Germinal epithelium", "feedback": "Incorrect." },
+      { "text": "Medulla", "feedback": "Incorrect." },
+      { "text": "Tunica albuginea", "feedback": "Incorrect." },
+      { "text": "Cortex", "feedback": "Correct! The outer part of the ovary is the cortex." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 691,
+    "question": "During a pregnancy, which hormone maintains the corpus luteum?",
+    "options": [
+      { "text": "FSH", "feedback": "Incorrect." },
+      { "text": "LH", "feedback": "Incorrect." },
+      { "text": "HCG", "feedback": "Correct! HCG maintains the corpus luteum during pregnancy." },
+      { "text": "Estrogen", "feedback": "Incorrect." },
+      { "text": "Progesterone", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 692,
+    "question": "Which structure contains the oocyte?",
+    "options": [
+      { "text": "Follicle", "feedback": "Correct! The follicle contains the oocyte." },
+      { "text": "Germinal epithelium", "feedback": "Incorrect." },
+      { "text": "Medulla", "feedback": "Incorrect." },
+      { "text": "Tunica albuginea", "feedback": "Incorrect." },
+      { "text": "Cortex", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 693,
+    "question": "Which follicular stage is also called an antral follicle?",
+    "options": [
+      { "text": "Primordial follicle", "feedback": "Incorrect." },
+      { "text": "Primary follicle", "feedback": "Incorrect." },
+      { "text": "Secondary follicle", "feedback": "Correct! The secondary follicle is also called an antral follicle." },
+      { "text": "Mature follicle", "feedback": "Incorrect." },
+      { "text": "Graffian follicle", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 694,
+    "question": "The appearance of the antrum is a characteristic of which stage of follicular development?",
+    "options": [
+      { "text": "Primordial follicle", "feedback": "Incorrect." },
+      { "text": "Primary follicle", "feedback": "Incorrect." },
+      { "text": "Secondary follicle", "feedback": "Correct! The antrum appears in the secondary follicle." },
+      { "text": "Mature follicle", "feedback": "Incorrect." },
+      { "text": "Graffian follicle", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 695,
+    "question": "What is the acidophilic glycoprotein coat which surrounds the oocyte?",
+    "options": [
+      { "text": "Graffian follicle", "feedback": "Incorrect." },
+      { "text": "Theca folliculi", "feedback": "Incorrect." },
+      { "text": "Granulosa cells", "feedback": "Incorrect." },
+      { "text": "Zona pellucida", "feedback": "Correct! The zona pellucida surrounds the oocyte." },
+      { "text": "Antrum", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 696,
+    "question": "What tissue surrounds the ovary?",
+    "options": [
+      { "text": "Follicle", "feedback": "Incorrect." },
+      { "text": "Germinal epithelium", "feedback": "Correct! Germinal epithelium covers the ovary." },
+      { "text": "Medulla", "feedback": "Incorrect." },
+      { "text": "Tunica albuginea", "feedback": "Incorrect." },
+      { "text": "Cortex", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 697,
+    "question": "What is a mature gamete called?",
+    "options": [
+      { "text": "Oogenesis", "feedback": "Incorrect." },
+      { "text": "Ovary", "feedback": "Incorrect." },
+      { "text": "Ovulation", "feedback": "Incorrect." },
+      { "text": "Oocyte", "feedback": "Incorrect." },
+      { "text": "Ova", "feedback": "Correct! A mature gamete is called an ova." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 698,
+    "question": "Which stage of the follicle is characterized by a surrounding of flattened (squamous) follicular cells?",
+    "options": [
+      { "text": "Primordial follicle", "feedback": "Correct! The primordial follicle has flattened follicular cells." },
+      { "text": "Primary follicle", "feedback": "Incorrect." },
+      { "text": "Secondary follicle", "feedback": "Incorrect." },
+      { "text": "Mature follicle", "feedback": "Incorrect." },
+      { "text": "Graffian follicle", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 699,
+    "question": "What is another term for the mature follicle?",
+    "options": [
+      { "text": "Primordial follicle", "feedback": "Incorrect." },
+      { "text": "Primary follicle", "feedback": "Incorrect." },
+      { "text": "Secondary follicle", "feedback": "Incorrect." },
+      { "text": "Antral follicle", "feedback": "Incorrect." },
+      { "text": "Graffian follicle", "feedback": "Correct! The mature follicle is also called the Graffian follicle." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 700,
+    "question": "What occurs cyclically in a female?",
+    "options": [
+      { "text": "Oogenesis", "feedback": "Incorrect." },
+      { "text": "Ovary", "feedback": "Incorrect." },
+      { "text": "Ovulation", "feedback": "Correct! Ovulation occurs cyclically." },
+      { "text": "Oocyte", "feedback": "Incorrect." },
+      { "text": "Ova", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 701,
+    "question": "What is the connective tissue layer around the primary follicle?",
+    "options": [
+      { "text": "Graffian follicle", "feedback": "Incorrect." },
+      { "text": "Theca folliculi", "feedback": "Correct! The theca folliculi is the connective tissue layer around the primary follicle." },
+      { "text": "Granulosa cells", "feedback": "Incorrect." },
+      { "text": "Zona pellucida", "feedback": "Incorrect." },
+      { "text": "Antrum", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 702,
+    "question": "Ovulation is triggered by a dramatic increase in which hormone?",
+    "options": [
+      { "text": "FSH", "feedback": "Incorrect." },
+      { "text": "LH", "feedback": "Correct! Ovulation is triggered by an LH surge." },
+      { "text": "HCG", "feedback": "Incorrect." },
+      { "text": "Estrogen", "feedback": "Incorrect." },
+      { "text": "Progesterone", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 703,
+    "question": "What is the connective tissue which surrounds the ovary?",
+    "options": [
+      { "text": "Follicle", "feedback": "Incorrect." },
+      { "text": "Germinal epithelium", "feedback": "Incorrect." },
+      { "text": "Medulla", "feedback": "Incorrect." },
+      { "text": "Tunica albuginea", "feedback": "Correct! The tunica albuginea surrounds the ovary." },
+      { "text": "Cortex", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 704,
+    "question": "In the female, what is the correct term for the production of gametes called?",
+    "options": [
+      { "text": "Oogenesis", "feedback": "Correct! Oogenesis is the production of gametes in the female." },
+      { "text": "Ovary", "feedback": "Incorrect." },
+      { "text": "Ovulation", "feedback": "Incorrect." },
+      { "text": "Oocyte", "feedback": "Incorrect." },
+      { "text": "Ova", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 705,
+    "question": "What are the follicular cells?",
+    "options": [
+      { "text": "Graffian follicle", "feedback": "Incorrect." },
+      { "text": "Theca folliculi", "feedback": "Incorrect." },
+      { "text": "Granulosa cells", "feedback": "Correct! The follicular cells are granulosa cells." },
+      { "text": "Zona pellucida", "feedback": "Incorrect." },
+      { "text": "Antrum", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 706,
+    "question": "When using a compound microscope, objective lenses can be found to have a magnification of all of the following, EXCEPT?",
+    "options": [
+      { "text": "4X", "feedback": "Incorrect. This is a common objective lens magnification." },
+      { "text": "10X", "feedback": "Incorrect. This is a common objective lens magnification." },
+      { "text": "40X", "feedback": "Incorrect. This is a common objective lens magnification." },
+      { "text": "100X", "feedback": "Incorrect. This is the oil immersion lens." },
+      { "text": "1000X", "feedback": "Correct! 1000X is not a standard objective lens magnification." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 707,
+    "question": "What is 'compound microscope'?",
+    "options": [
+      { "text": "Microscope with the capability to view oil immersion", "feedback": "Incorrect." },
+      { "text": "Microscope with the capability to view compounds", "feedback": "Incorrect." },
+      { "text": "Microscope with a single lens", "feedback": "Incorrect." },
+      { "text": "Microscope with two lenses", "feedback": "Correct! A compound microscope has two lenses." },
+      { "text": "Microscope with three lenses", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 708,
+    "question": "What is the total magnification achieved with a compound microscope?",
+    "options": [
+      { "text": "Magnification of objective lens", "feedback": "Incorrect." },
+      { "text": "Magnification of ocular lens", "feedback": "Incorrect." },
+      { "text": "Magnification of ocular lens added to the magnification of the objective lens", "feedback": "Incorrect." },
+      { "text": "Magnification of ocular lens multiplied by the magnification of the objective lens", "feedback": "Correct! Total magnification is the product of the ocular and objective magnifications." },
+      { "text": "Magnification of condenser lens multiplied by the magnification of the objective lens", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 709,
+    "question": "What is the maximum resolving power seen with a compound microscope?",
+    "options": [
+      { "text": "2 millimeters", "feedback": "Incorrect." },
+      { "text": ".2 millimeters", "feedback": "Incorrect." },
+      { "text": "2 micrometers", "feedback": "Incorrect." },
+      { "text": ".2 micrometers", "feedback": "Correct! The resolving power of a compound microscope is approximately .2 micrometers." },
+      { "text": "2 angstroms", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 710,
+    "question": "What is the turret?",
+    "options": [
+      { "text": "Base", "feedback": "Incorrect." },
+      { "text": "Nosepiece", "feedback": "Correct! The turret is also called the revolving nosepiece." },
+      { "text": "Stage", "feedback": "Incorrect." },
+      { "text": "Tube", "feedback": "Incorrect." },
+      { "text": "Diaphragm", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 711,
+    "question": "On a microscope, what structure connects the eyepiece to the objective lens?",
+    "options": [
+      { "text": "Base", "feedback": "Incorrect." },
+      { "text": "Nosepiece", "feedback": "Incorrect." },
+      { "text": "Stage", "feedback": "Incorrect." },
+      { "text": "Tube", "feedback": "Correct! The tube connects the eyepiece and objective lenses." },
+      { "text": "Diaphragm", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 712,
+    "question": "In a good compound microscope, the focus knob does not have to be readjusted when changing the magnification. What is this phenomenon called?",
+    "options": [
+      { "text": "Parfocal", "feedback": "Correct! Parfocal means the specimen remains in focus when changing magnifications." },
+      { "text": "Unifocal", "feedback": "Incorrect." },
+      { "text": "Bifocal", "feedback": "Incorrect." },
+      { "text": "Focused", "feedback": "Incorrect." },
+      { "text": "Convergent", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 713,
+    "question": "What is another name for the light microscope?",
+    "options": [
+      { "text": "Simple microscope", "feedback": "Incorrect." },
+      { "text": "Compound microscope", "feedback": "Correct! The light microscope is also called the compound microscope." },
+      { "text": "Phase contrast microscope", "feedback": "Incorrect." },
+      { "text": "Dissection microscope", "feedback": "Incorrect." },
+      { "text": "Transmission electron microscope", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 714,
+    "question": "Which microscope does not rely on visible light?",
+    "options": [
+      { "text": "Simple microscope", "feedback": "Incorrect." },
+      { "text": "Compound microscope", "feedback": "Incorrect." },
+      { "text": "Phase contrast microscope", "feedback": "Incorrect." },
+      { "text": "Dissection microscope", "feedback": "Incorrect." },
+      { "text": "Transmission electron microscope", "feedback": "Correct! TEM uses a beam of electrons." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 715,
+    "question": "Which microscope makes things appear three dimensional?",
+    "options": [
+      { "text": "Simple microscope", "feedback": "Incorrect." },
+      { "text": "Compound microscope", "feedback": "Incorrect." },
+      { "text": "Phase contrast microscope", "feedback": "Incorrect." },
+      { "text": "Dissection microscope", "feedback": "Correct! A dissection microscope gives a three-dimensional view." },
+      { "text": "Transmission electron microscope", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 716,
+    "question": "When using a compound microscope, what is the magnification of the oil immersion lens?",
+    "options": [
+      { "text": "4X", "feedback": "Incorrect." },
+      { "text": "10X", "feedback": "Incorrect." },
+      { "text": "40X", "feedback": "Incorrect." },
+      { "text": "100X", "feedback": "Correct! The oil immersion lens has a magnification of 100X." },
+      { "text": "1000X", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 717,
+    "question": "What is the usual magnification of the ocular lens on a compound microscope?",
+    "options": [
+      { "text": "1X", "feedback": "Incorrect." },
+      { "text": "10X", "feedback": "Correct! The usual magnification of an ocular lens is 10X." },
+      { "text": "100X", "feedback": "Incorrect." },
+      { "text": "1000X", "feedback": "Incorrect." },
+      { "text": "10,000 X", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 718,
+    "question": "When using oil immersion to view a tissue, what is the refractive index of the oil?",
+    "options": [
+      { "text": "Zero", "feedback": "Incorrect." },
+      { "text": "Same as air", "feedback": "Incorrect." },
+      { "text": "Same as glass", "feedback": "Correct! The refractive index of the oil is the same as glass." },
+      { "text": "Same as water", "feedback": "Incorrect." },
+      { "text": "None of the above", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 719,
+    "question": "What is the role of the condenser lens?",
+    "options": [
+      { "text": "Control the aperture of light", "feedback": "Incorrect." },
+      { "text": "Increase the magnification", "feedback": "Incorrect." },
+      { "text": "Focus the light on the specimen", "feedback": "Correct! The condenser lens focuses light on the specimen." },
+      { "text": "Initial magnification of 10X", "feedback": "Incorrect." },
+      { "text": "Provide light", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 720,
+    "question": "On a microscope, what structure varies the diameter of the cone of light?",
+    "options": [
+      { "text": "Base", "feedback": "Incorrect." },
+      { "text": "Nosepiece", "feedback": "Incorrect." },
+      { "text": "Stage", "feedback": "Incorrect." },
+      { "text": "Tube", "feedback": "Incorrect." },
+      { "text": "Diaphragm", "feedback": "Correct! The diaphragm controls the diameter of the cone of light." }
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "id": 721,
+    "question": "Where do you place the slide when using a microscope?",
+    "options": [
+      { "text": "Base", "feedback": "Incorrect." },
+      { "text": "Nosepiece", "feedback": "Incorrect." },
+      { "text": "Stage", "feedback": "Correct! The slide rests on the stage." },
+      { "text": "Tube", "feedback": "Incorrect." },
+      { "text": "Diaphragm", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 722,
+    "question": "What is the bottom of a microscope called?",
+    "options": [
+      { "text": "Base", "feedback": "Correct! The base is the bottom of the microscope." },
+      { "text": "Nosepiece", "feedback": "Incorrect." },
+      { "text": "Stage", "feedback": "Incorrect." },
+      { "text": "Tube", "feedback": "Incorrect." },
+      { "text": "Diaphragm", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 723,
+    "question": "What is another name for the bright field microscope?",
+    "options": [
+      { "text": "Simple microscope", "feedback": "Incorrect." },
+      { "text": "Compound microscope", "feedback": "Correct! The bright field microscope is also called the compound microscope." },
+      { "text": "Phase contrast microscope", "feedback": "Incorrect." },
+      { "text": "Dissection microscope", "feedback": "Incorrect." },
+      { "text": "Transmission electron microscope", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 724,
+    "question": "Which microscope would be particularly useful for looking at living cells?",
+    "options": [
+      { "text": "Simple microscope", "feedback": "Incorrect." },
+      { "text": "Compound microscope", "feedback": "Incorrect." },
+      { "text": "Phase contrast microscope", "feedback": "Correct! Phase contrast is useful for viewing living cells." },
+      { "text": "Dissection microscope", "feedback": "Incorrect." },
+      { "text": "Transmission electron microscope", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 725,
+    "question": "Which type of microscope has only one lens?",
+    "options": [
+      { "text": "Simple microscope", "feedback": "Correct! A simple microscope has only one lens." },
+      { "text": "Compound microscope", "feedback": "Incorrect." },
+      { "text": "Phase contrast microscope", "feedback": "Incorrect." },
+      { "text": "Dissection microscope", "feedback": "Incorrect." },
+      { "text": "Transmission electron microscope", "feedback": "Incorrect." }
+    ],
+    "correctAnswerIndex": 0
   }
 ]
