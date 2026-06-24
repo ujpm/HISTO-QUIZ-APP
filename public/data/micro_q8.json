@@ -1,0 +1,2310 @@
+[
+  {
+    "id": 1,
+    "question": "Plasmodium vivax and Plasmodium ovale are similar because they:",
+    "options": [
+      {
+        "text": "Have no malarial pigment and multiple rings",
+        "feedback": "Incorrect. They do have malarial pigment and do not typically have multiple rings."
+      },
+      {
+        "text": "Commonly have applique forms in the red cells",
+        "feedback": "Incorrect. Applique forms are characteristic of P. falciparum."
+      },
+      {
+        "text": "Have true stippling, do not have a relapse stage, and infect old red cells",
+        "feedback": "Incorrect. They do have a relapse stage and infect young red cells."
+      },
+      {
+        "text": "Exhibit Schuffner's dots and have a true relapse in the life cycle",
+        "feedback": "Correct! Both P. vivax and P. ovale exhibit Schuffner's dots and have hypnozoites causing relapse."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 2,
+    "question": "Older developing stages (trophs, schizonts) of the fifth human malaria, Plasmodium knowlesi, resemble those of:",
+    "options": [
+      {
+        "text": "Plasmodium ovale",
+        "feedback": "Incorrect. P. knowlesi does not resemble P. ovale."
+      },
+      {
+        "text": "Plasmodium falciparum",
+        "feedback": "Incorrect. P. knowlesi does not resemble P. falciparum."
+      },
+      {
+        "text": "Plasmodium malariae",
+        "feedback": "Correct! P. knowlesi resembles P. malariae in its older stages."
+      },
+      {
+        "text": "Plasmodium vivax",
+        "feedback": "Incorrect. P. knowlesi does not resemble P. vivax."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 3,
+    "question": "Early ring stages of the fifth human malaria, Plasmodium knowlesi, resemble those of:",
+    "options": [
+      {
+        "text": "Plasmodium malariae",
+        "feedback": "Incorrect. P. knowlesi rings do not resemble P. malariae."
+      },
+      {
+        "text": "Plasmodium ovale",
+        "feedback": "Incorrect. P. knowlesi rings do not resemble P. ovale."
+      },
+      {
+        "text": "Plasmodium falciparum",
+        "feedback": "Correct! P. knowlesi early rings resemble P. falciparum."
+      },
+      {
+        "text": "Plasmodium vivax",
+        "feedback": "Incorrect. P. knowlesi rings do not resemble P. vivax."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 4,
+    "question": "A patient tested positive for HIV-1 infection using a reverse transcriptase-polymerase chain reaction (RT-PCR) method. However, 1 week later a second blood sample was collected and sent to a reference lab that performed a confirmatory test by Western blot. The Western blot test was negative. What best explains these results?",
+    "options": [
+      {
+        "text": "The samples for RT-PCR and Western blot were not from the same patient",
+        "feedback": "Incorrect. This is not the most likely explanation."
+      },
+      {
+        "text": "The RT-PCR test detected HIV-2 and the Western blot is specific for HIV-1",
+        "feedback": "Incorrect. RT-PCR for HIV-1 would not detect HIV-2."
+      },
+      {
+        "text": "The RT-PCR result was falsely positive",
+        "feedback": "Incorrect. RT-PCR is highly specific."
+      },
+      {
+        "text": "RT-PCR is more sensitive for early detection",
+        "feedback": "Correct! RT-PCR detects viral RNA before seroconversion."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 5,
+    "question": "A 25-year-old male patient was diagnosed with HIV-1. Which laboratory test should be performed prior to initiating antiviral therapy?",
+    "options": [
+      {
+        "text": "Quantitative plasma virus concentration (viral load testing)",
+        "feedback": "Incorrect. This is one of the tests."
+      },
+      {
+        "text": "Quantitation of CD4 lymphocytes",
+        "feedback": "Incorrect. This is one of the tests."
+      },
+      {
+        "text": "Phenotype/genotype resistance testing",
+        "feedback": "Incorrect. This is one of the tests."
+      },
+      {
+        "text": "All of these options",
+        "feedback": "Correct! All tests should be performed before initiating therapy."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 6,
+    "question": "A 6-month-old male infant was hospitalized with a respiratory infection. He was diagnosed with apnea and bronchiolitis. Further testing revealed congenital heart disease. Bacterial cultures were negative for Streptococcus pneumoniae and Haemophilus influenzae. What further testing should be done?",
+    "options": [
+      {
+        "text": "Rotavirus",
+        "feedback": "Incorrect. Rotavirus causes gastroenteritis."
+      },
+      {
+        "text": "Norwalk virus",
+        "feedback": "Incorrect. Norwalk virus causes gastroenteritis."
+      },
+      {
+        "text": "Respiratory syncytial virus",
+        "feedback": "Correct! RSV is a common cause of bronchiolitis in infants."
+      },
+      {
+        "text": "HIV",
+        "feedback": "Incorrect. HIV does not typically cause bronchiolitis."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 7,
+    "question": "Material from a fungus-ball infection produced colonies with a green surface on Sabouraud agar in 5 days at 30\u00b0C. Microscopic examination showed club-shaped vesicles with sporulation only from the top half of the vesicle. This hyaline mold is most probably which Aspergillus spp.?",
+    "options": [
+      {
+        "text": "A. niger",
+        "feedback": "Incorrect. A. niger has black colonies."
+      },
+      {
+        "text": "A. fumigatus",
+        "feedback": "Correct! A. fumigatus has green colonies and club-shaped vesicles."
+      },
+      {
+        "text": "A. flavus",
+        "feedback": "Incorrect. A. flavus has yellow-green colonies."
+      },
+      {
+        "text": "A. terreus",
+        "feedback": "Incorrect. A. terreus has cinnamon-brown colonies."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 8,
+    "question": "Which Microsporum species causes an epidemic form of tinea capitis in children?",
+    "options": [
+      {
+        "text": "Microsporum canis",
+        "feedback": "Incorrect. M. canis is associated with dogs and cats."
+      },
+      {
+        "text": "Microsporum audouinii",
+        "feedback": "Correct! M. audouinii causes epidemic tinea capitis."
+      },
+      {
+        "text": "Microsporum gypseum",
+        "feedback": "Incorrect. M. gypseum is a geophilic species."
+      },
+      {
+        "text": "All of these options",
+        "feedback": "Incorrect. Only M. audouinii causes the epidemic form."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 9,
+    "question": "Nonpathogenic Moraxella spp. capable of growing on selective media for Neisseria can be differentiated from Neisseria spp. by which test?",
+    "options": [
+      {
+        "text": "Catalase test",
+        "feedback": "Incorrect. Both are catalase positive."
+      },
+      {
+        "text": "10-unit penicillin disk",
+        "feedback": "Correct! Moraxella is susceptible to penicillin, Neisseria is resistant."
+      },
+      {
+        "text": "Oxidase test",
+        "feedback": "Incorrect. Both are oxidase positive."
+      },
+      {
+        "text": "Superoxol test",
+        "feedback": "Incorrect. This differentiates Neisseria species."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 10,
+    "question": "Strains of Staphylococcus species resistant to the \u03b2-lactam antibiotics by standardized disk diffusion and broth microdilution susceptibility methods are called:",
+    "options": [
+      {
+        "text": "Heteroresistant",
+        "feedback": "Correct! Heteroresistant strains have subpopulations with varying resistance."
+      },
+      {
+        "text": "Bacteriophage group 52A",
+        "feedback": "Incorrect. This refers to phage typing."
+      },
+      {
+        "text": "Cross resistant",
+        "feedback": "Incorrect. Cross resistance refers to resistance to multiple drugs."
+      },
+      {
+        "text": "Plasmid altered",
+        "feedback": "Incorrect. This is not the standard term."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 11,
+    "question": "A suspected case of Legionnaires' disease was noted on the request form for a culture and sensitivity ordered on a sputum sample. The patient was a 70-year-old male who presented with a positive serological test for Legionella spp. What is the most efficient way to confirm the infection using the submitted sample?",
+    "options": [
+      {
+        "text": "Culture the sputum on MacConkey agar",
+        "feedback": "Incorrect. Legionella does not grow on MacConkey agar."
+      },
+      {
+        "text": "Gram stain of the sputum",
+        "feedback": "Incorrect. Legionella is poorly stained by Gram stain."
+      },
+      {
+        "text": "Acid-fast staining",
+        "feedback": "Incorrect. Legionella is not acid-fast."
+      },
+      {
+        "text": "Direct immunofluorescent microscopy",
+        "feedback": "Correct! DFA is the most efficient method for direct detection."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 12,
+    "question": "Fever, abdominal cramping, watery stools, and fluid and electrolyte loss preceded by bloody stools 2-3 days before is characteristic of shigellosis but may also result from infection with:",
+    "options": [
+      {
+        "text": "Campylobacter spp.",
+        "feedback": "Correct! Campylobacter can cause similar symptoms."
+      },
+      {
+        "text": "Salmonella spp.",
+        "feedback": "Incorrect. Salmonella typically does not cause this pattern."
+      },
+      {
+        "text": "Proteus spp.",
+        "feedback": "Incorrect. Proteus does not typically cause this."
+      },
+      {
+        "text": "Yersinia spp.",
+        "feedback": "Incorrect. Yersinia presents differently."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 13,
+    "question": "Several attendees of a medical conference became ill after frequenting a seafood restaurant. A presumptive identification of Vibrio cholera was made after stool specimens from several subjects grew clear colonies on MacConkey agar and yellow colonies on TCBS agar. Which key tests would help eliminate Aeromonas and Plesiomonas spp.?",
+    "options": [
+      {
+        "text": "Mannitol fermentation, Na+ requirement",
+        "feedback": "Correct! Vibrio requires Na+ and ferments mannitol."
+      },
+      {
+        "text": "Oxidase, motility",
+        "feedback": "Incorrect. Both are oxidase positive and motile."
+      },
+      {
+        "text": "Oxidase, nitrate",
+        "feedback": "Incorrect. Both are oxidase positive and nitrate positive."
+      },
+      {
+        "text": "Hemolysis on blood agar, catalase",
+        "feedback": "Incorrect. These are not distinguishing tests."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 14,
+    "question": "Which is the specimen of choice for proof of food poisoning by Bacillus cereus?",
+    "options": [
+      {
+        "text": "Sputum",
+        "feedback": "Incorrect. Sputum is not appropriate."
+      },
+      {
+        "text": "Blood",
+        "feedback": "Incorrect. Blood is less useful."
+      },
+      {
+        "text": "Stool",
+        "feedback": "Incorrect. Stool is useful but not the specimen of choice."
+      },
+      {
+        "text": "Food",
+        "feedback": "Correct! The food itself is the best specimen."
+      },
+      {
+        "text": "All these options",
+        "feedback": "Incorrect. Food is the specimen of choice."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 15,
+    "question": "Classification of viruses is made by",
+    "options": [
+      {
+        "text": "Complement fixation serology",
+        "feedback": "Incorrect. Serology is not used for classification."
+      },
+      {
+        "text": "Electron microscopy",
+        "feedback": "Incorrect. EM is used for morphology, not classification."
+      },
+      {
+        "text": "Cellular inclusion bodies",
+        "feedback": "Incorrect. Inclusion bodies are not used for classification."
+      },
+      {
+        "text": "Nucleic acid composition",
+        "feedback": "Correct! Viruses are classified by their nucleic acid type."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 16,
+    "question": "Which of the following viruses is implicated along with Epstein-Barr virus as a cause of infectious mononucleosis?",
+    "options": [
+      {
+        "text": "Coxsackie A virus",
+        "feedback": "Incorrect. Coxsackie A does not cause mononucleosis."
+      },
+      {
+        "text": "Cytomegalovirus",
+        "feedback": "Correct! CMV can cause a mononucleosis-like syndrome."
+      },
+      {
+        "text": "Coxsackie B virus",
+        "feedback": "Incorrect. Coxsackie B does not cause mononucleosis."
+      },
+      {
+        "text": "Hepatitis B virus",
+        "feedback": "Incorrect. Hepatitis B does not cause mononucleosis."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 17,
+    "question": "The most common causes of viral pneumonia in adults are:",
+    "options": [
+      {
+        "text": "Herpes simplex and Cytomegalovirus",
+        "feedback": "Incorrect. These are less common."
+      },
+      {
+        "text": "Hepatitis A and B viruses",
+        "feedback": "Incorrect. These do not cause pneumonia."
+      },
+      {
+        "text": "Coxsackie A and B viruses",
+        "feedback": "Incorrect. These are not common causes."
+      },
+      {
+        "text": "Influenza and adenovirus",
+        "feedback": "Correct! These are the most common causes."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 18,
+    "question": "Which virus belonging to the Reoviridae group causes gastroenteritis in infants and young children but an asymptomatic infection in adults?",
+    "options": [
+      {
+        "text": "Coxsackie B virus",
+        "feedback": "Incorrect. Coxsackie B is a picornavirus."
+      },
+      {
+        "text": "Rotavirus",
+        "feedback": "Correct! Rotavirus is a reovirus causing gastroenteritis."
+      },
+      {
+        "text": "Respiratory syncytial virus",
+        "feedback": "Incorrect. RSV is a paramyxovirus."
+      },
+      {
+        "text": "Rhabdovirus",
+        "feedback": "Incorrect. Rhabdovirus includes rabies."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 19,
+    "question": "Hepatitis B virus can be transmitted by:",
+    "options": [
+      {
+        "text": "Acupuncture",
+        "feedback": "Incorrect. This is a route."
+      },
+      {
+        "text": "Tattoos",
+        "feedback": "Incorrect. This is a route."
+      },
+      {
+        "text": "Sexual contact",
+        "feedback": "Incorrect. This is a route."
+      },
+      {
+        "text": "All of these options",
+        "feedback": "Correct! HBV is transmitted by blood and body fluids."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 20,
+    "question": "Which virus has been implicated in adult gastroenteritis resulting from ingestion of contaminated food (especially shellfish) and water?",
+    "options": [
+      {
+        "text": "Rotavirus",
+        "feedback": "Incorrect. Rotavirus mainly affects children."
+      },
+      {
+        "text": "Hepatitis C virus",
+        "feedback": "Incorrect. HCV does not cause gastroenteritis."
+      },
+      {
+        "text": "Norwalk-like viruses",
+        "feedback": "Correct! Norwalk viruses cause adult gastroenteritis."
+      },
+      {
+        "text": "Coronavirus",
+        "feedback": "Incorrect. Coronaviruses are not a major cause."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 21,
+    "question": "What are the most appropriate screening tests to presumptively differentiate and identify the nonfermentative gram-negative bacilli from the Enterobacteriaceae?",
+    "options": [
+      {
+        "text": "Catalase, decarboxylation of arginine, growth on blood agar",
+        "feedback": "Incorrect. These are not the primary differentiating tests."
+      },
+      {
+        "text": "Motility, urease, morphology on blood agar",
+        "feedback": "Incorrect. These are not the primary differentiating tests."
+      },
+      {
+        "text": "Oxidase, TSI, nitrate reduction, growth on MacConkey agar",
+        "feedback": "Correct! These tests differentiate nonfermenters from Enterobacteriaceae."
+      },
+      {
+        "text": "Oxidase, indole, and growth on blood agar",
+        "feedback": "Incorrect. These are not the primary differentiating tests."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 22,
+    "question": "Presumptive tests used for identification of the Pseudomonas spp. are:",
+    "options": [
+      {
+        "text": "Oxidase, oxidation-fermentation (OF) glucose (open), OF glucose (sealed), motility, pigment production",
+        "feedback": "Correct! These are the key tests for Pseudomonas."
+      },
+      {
+        "text": "Growth on blood agar plate (BAP) and eosin-methylene blue (EMB) agars, lysine decarboxylation, catalase",
+        "feedback": "Incorrect. These are not specific for Pseudomonas."
+      },
+      {
+        "text": "Growth on MacConkey, EMB, and XLD agars and motility",
+        "feedback": "Incorrect. These are not specific for Pseudomonas."
+      },
+      {
+        "text": "Growth on mannitol salt agar and flagellar stain",
+        "feedback": "Incorrect. Mannitol salt agar is for staphylococci."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 23,
+    "question": "Which Pseudomonas is usually associated with a lung infection related to cystic fibrosis?",
+    "options": [
+      {
+        "text": "P. fluorescens",
+        "feedback": "Incorrect. P. fluorescens is not typically associated with CF."
+      },
+      {
+        "text": "P. aeruginosa",
+        "feedback": "Correct! P. aeruginosa is the most common CF pathogen."
+      },
+      {
+        "text": "P. putida",
+        "feedback": "Incorrect. P. putida is not typically associated with CF."
+      },
+      {
+        "text": "Burkholderia pseudomallei",
+        "feedback": "Incorrect. B. pseudomallei causes melioidosis."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 24,
+    "question": "A gram-negative coccobacillus was recovered on chocolate agar from the CSF of an immunosuppressed patient. The organism was nonmotile and positive for indophenol oxidase but failed to grow on MacConkey agar. The organism was highly susceptible to penicillin. The most probable identification is:",
+    "options": [
+      {
+        "text": "Acinetobacter spp.",
+        "feedback": "Incorrect. Acinetobacter is oxidase negative."
+      },
+      {
+        "text": "Pseudomonas aeruginosa",
+        "feedback": "Incorrect. P. aeruginosa grows on MacConkey agar."
+      },
+      {
+        "text": "Pseudomonas stutzeri",
+        "feedback": "Incorrect. P. stutzeri is motile."
+      },
+      {
+        "text": "Moraxella lacunata",
+        "feedback": "Correct! M. lacunata is a nonmotile, oxidase-positive coccobacillus."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 25,
+    "question": "A 15-year-old female complained of a severe eye irritation after removing her soft-contact lenses. A swab of the infected right eye was obtained by an ophthalmologist, who ordered a culture and sensitivity test. The culture was plated on blood agar and MacConkey agar. At 24 hours, growth of a gram-negative rod that tested positive for cytochrome oxidase was noted. The Mueller-Hinton sensitivity plate showed a bluish-green 'lawn' of growth that proved highly resistant to most of the antibiotics tested except amikacin, tobramycin, and ciprofloxacin. What is the most likely identification?",
+    "options": [
+      {
+        "text": "Burkholderia cepacia",
+        "feedback": "Incorrect. B. cepacia does not produce green pigment."
+      },
+      {
+        "text": "Stenotrophomonas maltophilia",
+        "feedback": "Incorrect. S. maltophilia is oxidase negative."
+      },
+      {
+        "text": "Pseudomonas aeruginosa",
+        "feedback": "Correct! P. aeruginosa produces green pigment and has this resistance pattern."
+      },
+      {
+        "text": "Acinetobacter baumannii",
+        "feedback": "Incorrect. Acinetobacter is oxidase negative."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 26,
+    "question": "Smooth gray colonies showing no hemolysis are recovered from an infected cat scratch on blood and chocolate agar but fail to grow on MacConkey agar. The organisms are gram-negative pleomorphic rods that are both catalase and oxidase positive and strongly indole positive. The most likely organism is:",
+    "options": [
+      {
+        "text": "Capnocytophaga spp.",
+        "feedback": "Incorrect. Capnocytophaga is catalase negative."
+      },
+      {
+        "text": "Pasteurella spp.",
+        "feedback": "Correct! Pasteurella multocida is associated with cat bites."
+      },
+      {
+        "text": "Proteus spp.",
+        "feedback": "Incorrect. Proteus grows on MacConkey agar."
+      },
+      {
+        "text": "Pseudomonas spp.",
+        "feedback": "Incorrect. Pseudomonas grows on MacConkey agar."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 27,
+    "question": "Which media should be used to recover Bordetella pertussis from a nasopharyngeal specimen?",
+    "options": [
+      {
+        "text": "Bordet-Gengou agar",
+        "feedback": "Correct! Bordet-Gengou is the classic medium for B. pertussis."
+      },
+      {
+        "text": "Chocolate agar",
+        "feedback": "Incorrect. Chocolate agar is not selective for Bordetella."
+      },
+      {
+        "text": "Blood agar",
+        "feedback": "Incorrect. Blood agar does not support growth well."
+      },
+      {
+        "text": "MacConkey agar",
+        "feedback": "Incorrect. B. pertussis does not grow on MacConkey."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 28,
+    "question": "Which medium is recommended for the recovery of Brucella spp. from blood and bone marrow specimens?",
+    "options": [
+      {
+        "text": "Blood culture bottles with Brucella broth",
+        "feedback": "Incorrect. This is not the recommended method."
+      },
+      {
+        "text": "Bordet-Gengou agar plates and THIO broth",
+        "feedback": "Incorrect. This is for Bordetella."
+      },
+      {
+        "text": "Biphasic Castenada bottles with Brucella broth",
+        "feedback": "Correct! Biphasic media are recommended for Brucella."
+      },
+      {
+        "text": "Blood culture bottles with THIO broth",
+        "feedback": "Incorrect. THIO broth is not specific for Brucella."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 29,
+    "question": "Which medium is best for recovery of Legionella pneumophila from clinical specimens?",
+    "options": [
+      {
+        "text": "Chocolate agar",
+        "feedback": "Incorrect. Legionella does not grow on chocolate agar."
+      },
+      {
+        "text": "Bordet-Gengou agar",
+        "feedback": "Incorrect. This is for Bordetella."
+      },
+      {
+        "text": "New yeast extract agar",
+        "feedback": "Incorrect. This is not the standard."
+      },
+      {
+        "text": "Buffered charcoal-yeast extract agar",
+        "feedback": "Correct! BCYE is the medium of choice for Legionella."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 30,
+    "question": "Which Haemophilus species is generally associated with endocarditis?",
+    "options": [
+      {
+        "text": "H. influenzae",
+        "feedback": "Incorrect. H. influenzae is associated with meningitis."
+      },
+      {
+        "text": "H. ducreyi",
+        "feedback": "Incorrect. H. ducreyi causes chancroid."
+      },
+      {
+        "text": "H. aphrophilus",
+        "feedback": "Correct! H. aphrophilus is associated with endocarditis."
+      },
+      {
+        "text": "H. haemolyticus",
+        "feedback": "Incorrect. H. haemolyticus is less commonly associated."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 31,
+    "question": "A 5-year-old nonimmunized male with a persistent cough, fever, and flulike symptoms was admitted to the hospital. Nasopharyngeal swabs were cultured on 15% blood, chocolate, Bordet-Gengou, and Regan-Lowe (with 10% charcoal) agars. All media grew a gram-negative coccobacillus. Carbohydrate and biochemical tests were negative. What is the most likely identification?",
+    "options": [
+      {
+        "text": "Haemophilus influenzae",
+        "feedback": "Incorrect. H. influenzae requires X and V factors."
+      },
+      {
+        "text": "Bordetella pertussis",
+        "feedback": "Correct! B. pertussis is nonfermentative and grows on these media."
+      },
+      {
+        "text": "Haemophilus parainfluenzae",
+        "feedback": "Incorrect. H. parainfluenzae ferments carbohydrates."
+      },
+      {
+        "text": "Bordetella bronchiseptica",
+        "feedback": "Incorrect. B. bronchiseptica ferments carbohydrates."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 32,
+    "question": "Bacillus anthracis and Bacillus cereus can best be differentiated by which tests?",
+    "options": [
+      {
+        "text": "Motility and \u03b2-hemolysis on a blood agar plate",
+        "feedback": "Correct! B. anthracis is nonmotile and non-hemolytic."
+      },
+      {
+        "text": "Oxidase and \u03b2-hemolysis on a blood agar plate",
+        "feedback": "Incorrect. Both are oxidase negative."
+      },
+      {
+        "text": "Lecithinase and glucose",
+        "feedback": "Incorrect. Both are lecithinase positive."
+      },
+      {
+        "text": "Lecithinase and catalase",
+        "feedback": "Incorrect. Both are catalase positive."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 33,
+    "question": "Which of the following tests should be performed for initial differentiation of Listeria monocytogenes from group B streptococci?",
+    "options": [
+      {
+        "text": "Gram stain, motility at room temperature, catalase",
+        "feedback": "Correct! Listeria is motile and catalase positive."
+      },
+      {
+        "text": "Gram stain, CAMP test, H2S/TSI",
+        "feedback": "Incorrect. This is not the initial differentiation."
+      },
+      {
+        "text": "Oxidase, CAMP test, glucose",
+        "feedback": "Incorrect. Both are oxidase negative."
+      },
+      {
+        "text": "Oxidase, bacitracin",
+        "feedback": "Incorrect. Bacitracin is for S. pyogenes."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 34,
+    "question": "A Corynebacterium species recovered from a throat culture is considered a pathogen when it produces:",
+    "options": [
+      {
+        "text": "A pseudomembrane of the oropharynx",
+        "feedback": "Incorrect. This is a clinical feature."
+      },
+      {
+        "text": "An exotoxin",
+        "feedback": "Correct! C. diphtheriae is pathogenic when it produces toxin."
+      },
+      {
+        "text": "Gray-black colonies with a brown halo on Tinsdale's agar",
+        "feedback": "Incorrect. This is a laboratory feature."
+      },
+      {
+        "text": "All of these options",
+        "feedback": "Incorrect. Toxin production is the key."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 35,
+    "question": "Which of the following organisms is the cause of Lyme disease?",
+    "options": [
+      {
+        "text": "Treponema pallidum",
+        "feedback": "Incorrect. T. pallidum causes syphilis."
+      },
+      {
+        "text": "Neisseria meningitidis",
+        "feedback": "Incorrect. N. meningitidis causes meningitis."
+      },
+      {
+        "text": "Babesia microti",
+        "feedback": "Incorrect. Babesia causes babesiosis."
+      },
+      {
+        "text": "Borrelia burgdorferi",
+        "feedback": "Correct! B. burgdorferi causes Lyme disease."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 36,
+    "question": "The diagnostic method most commonly used for the identification of Lyme disease is:",
+    "options": [
+      {
+        "text": "Culture",
+        "feedback": "Incorrect. Culture is difficult."
+      },
+      {
+        "text": "Gram stain",
+        "feedback": "Incorrect. Gram stain is not useful."
+      },
+      {
+        "text": "Serology",
+        "feedback": "Correct! Serology is the primary diagnostic method."
+      },
+      {
+        "text": "Acid-fast stain",
+        "feedback": "Incorrect. B. burgdorferi is not acid-fast."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 37,
+    "question": "All of the following are examples of appropriate specimens for the recovery of fungi except:",
+    "options": [
+      {
+        "text": "Tissue biopsy",
+        "feedback": "Incorrect. Biopsy is appropriate."
+      },
+      {
+        "text": "CSF",
+        "feedback": "Incorrect. CSF is appropriate."
+      },
+      {
+        "text": "Aspirate of exudate",
+        "feedback": "Incorrect. Aspirate is appropriate."
+      },
+      {
+        "text": "Swab",
+        "feedback": "Correct! Swabs are not ideal for fungal culture."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 38,
+    "question": "For which clinical specimens is the KOH direct mount technique for examination of fungal elements used?",
+    "options": [
+      {
+        "text": "Skin",
+        "feedback": "Correct! KOH is used for skin, hair, and nails."
+      },
+      {
+        "text": "CSF",
+        "feedback": "Incorrect. KOH is not used for CSF."
+      },
+      {
+        "text": "Blood",
+        "feedback": "Incorrect. KOH is not used for blood."
+      },
+      {
+        "text": "Bone marrow",
+        "feedback": "Incorrect. KOH is not used for bone marrow."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 39,
+    "question": "The India ink stain is used as a presumptive test for the presence of which organism?",
+    "options": [
+      {
+        "text": "Aspergillus niger in blood",
+        "feedback": "Incorrect. India ink is not for Aspergillus."
+      },
+      {
+        "text": "Cryptococcus neoformans in CSF",
+        "feedback": "Correct! India ink detects encapsulated Cryptococcus."
+      },
+      {
+        "text": "Histoplasma capsulatum in CSF",
+        "feedback": "Incorrect. India ink is not for Histoplasma."
+      },
+      {
+        "text": "Candida albicans in blood or body fluids",
+        "feedback": "Incorrect. India ink is not for Candida."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 40,
+    "question": "Cutaneous disease involving skin, hair, and nails usually indicates an infection with a",
+    "options": [
+      {
+        "text": "Dimorphic fungus",
+        "feedback": "Incorrect. Dimorphic fungi cause systemic infections."
+      },
+      {
+        "text": "Dermatophyte",
+        "feedback": "Correct! Dermatophytes infect skin, hair, and nails."
+      },
+      {
+        "text": "Zygomycetes",
+        "feedback": "Incorrect. Zygomycetes cause mucormycosis."
+      },
+      {
+        "text": "Candida species",
+        "feedback": "Incorrect. Candida causes mucocutaneous infections."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 41,
+    "question": "What is the first step to be performed in the identification of an unknown yeast isolate?",
+    "options": [
+      {
+        "text": "Gram stain smear",
+        "feedback": "Incorrect. Gram stain is not the first step."
+      },
+      {
+        "text": "India ink stain",
+        "feedback": "Incorrect. India ink is for Cryptococcus."
+      },
+      {
+        "text": "Catalase test",
+        "feedback": "Incorrect. Catalase is not the first step."
+      },
+      {
+        "text": "Germ tube test",
+        "feedback": "Correct! The germ tube test is the first step for yeast identification."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 42,
+    "question": "An isolate produced a constriction that was interpreted as a positive germ tube, but Candida albicans was ruled out when confirmatory tests were performed. Which of the following fungi is the most likely identification?",
+    "options": [
+      {
+        "text": "Candida tropicalis",
+        "feedback": "Correct! C. tropicalis can produce false positive germ tubes."
+      },
+      {
+        "text": "Cryptococcus neoformans",
+        "feedback": "Incorrect. Cryptococcus does not produce germ tubes."
+      },
+      {
+        "text": "Candida glabrata",
+        "feedback": "Incorrect. C. glabrata does not produce germ tubes."
+      },
+      {
+        "text": "Rhodotorula rubra",
+        "feedback": "Incorrect. Rhodotorula does not produce germ tubes."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 43,
+    "question": "Cornmeal agar with Tween 80 is used to identify which characteristic of an unknown yeast isolate?",
+    "options": [
+      {
+        "text": "Hyphae (true and pseudo)",
+        "feedback": "Incorrect. This is one characteristic."
+      },
+      {
+        "text": "Blastoconidia and arthroconidia",
+        "feedback": "Incorrect. This is one characteristic."
+      },
+      {
+        "text": "Chlamydospores",
+        "feedback": "Incorrect. This is one characteristic."
+      },
+      {
+        "text": "All of these options",
+        "feedback": "Correct! Cornmeal agar with Tween 80 reveals all these structures."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 44,
+    "question": "Blastoconidia are the beginning of which structures?",
+    "options": [
+      {
+        "text": "Arthroconidia",
+        "feedback": "Incorrect. Arthroconidia arise from fragmentation."
+      },
+      {
+        "text": "Germ tubes",
+        "feedback": "Incorrect. Germ tubes are from budding."
+      },
+      {
+        "text": "Pseudohyphae",
+        "feedback": "Correct! Blastoconidia are the buds that form pseudohyphae."
+      },
+      {
+        "text": "True hyphae",
+        "feedback": "Incorrect. True hyphae are septate."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 45,
+    "question": "Ascospores are formed by which yeast isolate?",
+    "options": [
+      {
+        "text": "Saccharomyces cerevisiae",
+        "feedback": "Correct! S. cerevisiae forms ascospores."
+      },
+      {
+        "text": "Candida albicans",
+        "feedback": "Incorrect. C. albicans does not form ascospores."
+      },
+      {
+        "text": "Cryptococcus neoformans",
+        "feedback": "Incorrect. C. neoformans forms basidiospores."
+      },
+      {
+        "text": "All of these options",
+        "feedback": "Incorrect. Only S. cerevisiae forms ascospores."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 46,
+    "question": "Carbohydrate assimilation tests are used for the identification of yeast isolates by inoculating media:",
+    "options": [
+      {
+        "text": "Free of carbohydrates",
+        "feedback": "Correct! Assimilation tests use media without carbohydrates."
+      },
+      {
+        "text": "Free of niger seed",
+        "feedback": "Incorrect. Niger seed is for Cryptococcus."
+      },
+      {
+        "text": "Containing carbohydrates",
+        "feedback": "Incorrect. This is for fermentation tests."
+      },
+      {
+        "text": "Containing yeast extract",
+        "feedback": "Incorrect. This is not specific."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 47,
+    "question": "A 12-year old girl has symptoms of fatigue and a localized lymphadenopathy. Laboratory tests result in peripheral blood lymphocytosis, a positive RPR, and a positive spot test for IM. What test should be performed next?",
+    "options": [
+      {
+        "text": "HIV test by ELISA",
+        "feedback": "Incorrect. HIV is not the primary concern."
+      },
+      {
+        "text": "VDRL",
+        "feedback": "Incorrect. VDRL is a non-treponemal test."
+      },
+      {
+        "text": "Epstein-Barr virus (EBV) specific antigen test",
+        "feedback": "Correct! EBV specific testing is needed."
+      },
+      {
+        "text": "Treponema pallidum particle agglutination test",
+        "feedback": "Incorrect. This is for syphilis."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 48,
+    "question": "Tests to identify infection with HIV fall into which three general classification types of tests?",
+    "options": [
+      {
+        "text": "Tissue culture, antigen, and antibody tests",
+        "feedback": "Incorrect. Tissue culture is not used."
+      },
+      {
+        "text": "Tests for antigens, antibodies, and nucleic acid",
+        "feedback": "Correct! These are the three main test types."
+      },
+      {
+        "text": "DNA probe, DNA amplification, and Western blot tests",
+        "feedback": "Incorrect. This is not the general classification."
+      },
+      {
+        "text": "ELISA, Western blot, and Southern blot tests",
+        "feedback": "Incorrect. Southern blot is not used."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 49,
+    "question": "A woman who has had five pregnancies subsequently tests positive for HIV by Western blot. What is the most likely reason for this result?",
+    "options": [
+      {
+        "text": "Possible cross-reaction with herpes or EBV antibodies",
+        "feedback": "Incorrect. Cross-reactions are rare."
+      },
+      {
+        "text": "Interference from medication",
+        "feedback": "Incorrect. Medications do not interfere."
+      },
+      {
+        "text": "Cross-reaction with HLA antigens in the antigen preparation",
+        "feedback": "Correct! Multiparous women may have HLA antibodies."
+      },
+      {
+        "text": "Possible technical error",
+        "feedback": "Incorrect. This is less likely."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 50,
+    "question": "What is the main difficulty associated with the development of an HIV vaccine?",
+    "options": [
+      {
+        "text": "The virus has been difficult to culture; antigen extraction and concentration are extremely laborious",
+        "feedback": "Incorrect. HIV can be cultured."
+      },
+      {
+        "text": "Human trials cannot be performed",
+        "feedback": "Incorrect. Human trials are performed."
+      },
+      {
+        "text": "Different strains of the virus are genetically diverse",
+        "feedback": "Correct! HIV genetic diversity is a major challenge."
+      },
+      {
+        "text": "Anti-idiotype antibodies cannot be developed",
+        "feedback": "Incorrect. This is not the main difficulty."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 51,
+    "question": "All of the following hepatitis viruses are spread through blood or blood products except:",
+    "options": [
+      {
+        "text": "Hepatitis A",
+        "feedback": "Correct! Hepatitis A is transmitted fecal-orally."
+      },
+      {
+        "text": "Hepatitis B",
+        "feedback": "Incorrect. HBV is bloodborne."
+      },
+      {
+        "text": "Hepatitis C",
+        "feedback": "Incorrect. HCV is bloodborne."
+      },
+      {
+        "text": "Hepatitis D",
+        "feedback": "Incorrect. HDV is bloodborne."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 52,
+    "question": "Which hepatitis B marker is the best indicator of early acute infection?",
+    "options": [
+      {
+        "text": "HBsAg",
+        "feedback": "Correct! HBsAg is the first marker to appear."
+      },
+      {
+        "text": "HBeAg",
+        "feedback": "Incorrect. HBeAg indicates active replication."
+      },
+      {
+        "text": "Anti-HBc",
+        "feedback": "Incorrect. Anti-HBc appears later."
+      },
+      {
+        "text": "Anti-HBs",
+        "feedback": "Incorrect. Anti-HBs indicates recovery."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 53,
+    "question": "Which hepatitis antibody confers immunity against reinfection with hepatitis B virus?",
+    "options": [
+      {
+        "text": "Anti-HBc IgM",
+        "feedback": "Incorrect. This indicates acute infection."
+      },
+      {
+        "text": "Anti-HBc IgG",
+        "feedback": "Incorrect. This indicates past infection."
+      },
+      {
+        "text": "Anti-HBe",
+        "feedback": "Incorrect. This indicates low infectivity."
+      },
+      {
+        "text": "Anti-HBs",
+        "feedback": "Correct! Anti-HBs is the protective antibody."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 54,
+    "question": "Which statement concerning non-Forssman heterophile antibody is true?",
+    "options": [
+      {
+        "text": "It is not absorbed by guinea pig antigen",
+        "feedback": "Correct! Non-Forssman antibodies are not absorbed by guinea pig."
+      },
+      {
+        "text": "It is absorbed by guinea pig antigen",
+        "feedback": "Incorrect. This describes Forssman antibodies."
+      },
+      {
+        "text": "It does not agglutinate horse RBCs",
+        "feedback": "Incorrect. It does agglutinate horse RBCs."
+      },
+      {
+        "text": "It does not agglutinate sheep RBCs",
+        "feedback": "Incorrect. It does agglutinate sheep RBCs."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 55,
+    "question": "What is the endpoint for the antistreptolysin O latex agglutination assay?",
+    "options": [
+      {
+        "text": "Highest serum dilution that shows no agglutination",
+        "feedback": "Correct! The endpoint is the highest dilution without agglutination."
+      },
+      {
+        "text": "Highest serum dilution that shows agglutination",
+        "feedback": "Incorrect. This is not the endpoint."
+      },
+      {
+        "text": "Lowest serum dilution that shows agglutination",
+        "feedback": "Incorrect. This is not the endpoint."
+      },
+      {
+        "text": "Lowest serum dilution that shows no agglutination",
+        "feedback": "Incorrect. This is not the endpoint."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 56,
+    "question": "Which of the following positive antibody tests may be an indication of recent vaccination or early primary infection for rubella in a patient with no clinical symptoms?",
+    "options": [
+      {
+        "text": "Only IgG antibodies positive",
+        "feedback": "Incorrect. This indicates immunity from vaccination or past infection."
+      },
+      {
+        "text": "Only IgM antibodies positive",
+        "feedback": "Correct! IgM indicates recent infection or vaccination."
+      },
+      {
+        "text": "Both IgG and IgM antibodies positive",
+        "feedback": "Incorrect. This indicates recent infection."
+      },
+      {
+        "text": "Fourfold rise in titer for IgG antibodies",
+        "feedback": "Incorrect. This requires acute and convalescent samples."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 57,
+    "question": "Why is laboratory diagnosis difficult in cases of Lyme disease?",
+    "options": [
+      {
+        "text": "Clinical response may not be apparent upon initial infection; IgM antibody may not be detected until 3-6 weeks after the infection",
+        "feedback": "Correct! Serologic response is delayed."
+      },
+      {
+        "text": "Laboratory tests may be designed to detect whole Borrelia burgdorferi, not flagellar antigen found early in infection",
+        "feedback": "Incorrect. This is not the main difficulty."
+      },
+      {
+        "text": "Most laboratory tests are technically demanding and lack specificity",
+        "feedback": "Incorrect. This is not the main difficulty."
+      },
+      {
+        "text": "Antibodies formed initially to B. burgdorferi may cross react in antigen tests for autoimmune diseases",
+        "feedback": "Incorrect. This is not the main difficulty."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 58,
+    "question": "Member of subphylum 'Mastigophora' move with support of...",
+    "options": [
+      {
+        "text": "Cilia",
+        "feedback": "Incorrect. Cilia are for Ciliophora."
+      },
+      {
+        "text": "Foot",
+        "feedback": "Incorrect. Foot is for Sarcodina."
+      },
+      {
+        "text": "Flagella",
+        "feedback": "Correct! Mastigophora move by flagella."
+      },
+      {
+        "text": "Whip",
+        "feedback": "Incorrect. Whip is a synonym but flagella is the correct term."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 59,
+    "question": "Each of the following statements concerning hookworm infection is correct except:",
+    "options": [
+      {
+        "text": "Hookworm infection can cause pneumonia",
+        "feedback": "Incorrect. This is correct."
+      },
+      {
+        "text": "Hookworm infection can be diagnosed by finding the trophozoite in the stool",
+        "feedback": "Correct! Hookworm infection is diagnosed by finding eggs."
+      },
+      {
+        "text": "Hookworm infection is acquired by humans when filariform larvae penetrate the skin",
+        "feedback": "Incorrect. This is correct."
+      },
+      {
+        "text": "Hookworm infection is caused by Necator americanus",
+        "feedback": "Incorrect. This is correct."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 60,
+    "question": "Each of the following statements concerning kala-azar is correct except:",
+    "options": [
+      {
+        "text": "Kala-azar occurs primarily in rural latin America",
+        "feedback": "Correct! Kala-azar is primarily in the Indian subcontinent and East Africa."
+      },
+      {
+        "text": "Kala-azar is caused by Leishmania donovani",
+        "feedback": "Incorrect. This is correct."
+      },
+      {
+        "text": "Kala-azar is transmitted by the bite of sandflies",
+        "feedback": "Incorrect. This is correct."
+      },
+      {
+        "text": "Kala-azar can be diagnosed by finding amastigotes in bone marrow",
+        "feedback": "Incorrect. This is correct."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 61,
+    "question": "Mosquitoes is/are the vector in the following disorder(s)",
+    "options": [
+      {
+        "text": "Onchocerciasis",
+        "feedback": "Incorrect. Onchocerciasis is transmitted by black flies."
+      },
+      {
+        "text": "Visceral leishmaniasis",
+        "feedback": "Incorrect. Leishmaniasis is transmitted by sand flies."
+      },
+      {
+        "text": "African trypanosomiasis",
+        "feedback": "Incorrect. African trypanosomiasis is transmitted by tsetse flies."
+      },
+      {
+        "text": "Bancroftian filariasis",
+        "feedback": "Correct! Bancroftian filariasis is transmitted by mosquitoes."
+      },
+      {
+        "text": "All these options",
+        "feedback": "Incorrect. Only Bancroftian filariasis is correct."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 62,
+    "question": "Parasite stages that are immediately infective for humans on passage from the gastrointestinal tract include:",
+    "options": [
+      {
+        "text": "Cryptosporidium spp. oocysts",
+        "feedback": "Correct! Cryptosporidium oocysts are immediately infective."
+      },
+      {
+        "text": "Schistosoma spp. Eggs",
+        "feedback": "Incorrect. Eggs require water to hatch."
+      },
+      {
+        "text": "Toxoplasma gondii bradyzoites",
+        "feedback": "Incorrect. These are in tissue cysts."
+      },
+      {
+        "text": "Giardia lamblia trophozoites",
+        "feedback": "Incorrect. Trophozoites do not survive passage."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 63,
+    "question": "Autofluorescence requires no stain and is recommended for the identification of",
+    "options": [
+      {
+        "text": "Entamoeba histolytica cysts",
+        "feedback": "Incorrect. E. histolytica does not autofluoresce."
+      },
+      {
+        "text": "Toxoplasma gondii tachyzoites",
+        "feedback": "Incorrect. T. gondii does not autofluoresce."
+      },
+      {
+        "text": "Dientamoeba fragilis trophozoites",
+        "feedback": "Incorrect. D. fragilis does not autofluoresce."
+      },
+      {
+        "text": "Cyclospora cayetanensis oocysts",
+        "feedback": "Correct! Cyclospora oocysts autofluoresce under UV."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 64,
+    "question": "The most prevalent helminth to infect humans is:",
+    "options": [
+      {
+        "text": "Ascaris lumbricoides, the large intestinal roundworm",
+        "feedback": "Correct! Ascaris is the most common helminth."
+      },
+      {
+        "text": "Enterobius vermicularis, the pinworm",
+        "feedback": "Incorrect. Pinworm is common but not the most prevalent."
+      },
+      {
+        "text": "Taenia saginata, the beef tapeworm",
+        "feedback": "Incorrect. T. saginata is less common."
+      },
+      {
+        "text": "Schistosoma mansoni, one of the blood flukes",
+        "feedback": "Incorrect. S. mansoni is less common."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 65,
+    "question": "Which parasite causes eosinophilic meningoencephalitis, a form of larva migrans causing fever, headache, stiff neck, and increased cells in the spinal fluid?",
+    "options": [
+      {
+        "text": "Necator americanus",
+        "feedback": "Incorrect. Hookworm does not cause this."
+      },
+      {
+        "text": "Ancylostoma braziliense",
+        "feedback": "Incorrect. A. braziliense causes cutaneous larva migrans."
+      },
+      {
+        "text": "Angiostrongylus cantonensis",
+        "feedback": "Correct! A. cantonensis causes eosinophilic meningoencephalitis."
+      },
+      {
+        "text": "Strongyloides stercoralis",
+        "feedback": "Incorrect. Strongyloides does not cause this."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 66,
+    "question": "When humans have hydatid disease, the causative agent and host classification are",
+    "options": [
+      {
+        "text": "Echinococcus granulosus-definitive host",
+        "feedback": "Incorrect. Humans are not the definitive host."
+      },
+      {
+        "text": "Taenia solium-accidental intermediate host",
+        "feedback": "Incorrect. T. solium causes cysticercosis."
+      },
+      {
+        "text": "Echinococcus granulosus-accidental intermediate host",
+        "feedback": "Correct! Humans are accidental intermediate hosts for E. granulosus."
+      },
+      {
+        "text": "Taenia solium-definitive host",
+        "feedback": "Incorrect. Humans are definitive hosts for T. solium."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 67,
+    "question": "Which is the test of choice for the confirmation of Chlamydia trachomatis infection in urine?",
+    "options": [
+      {
+        "text": "Enzyme immunoassay antigen testing",
+        "feedback": "Incorrect. EIA is less sensitive."
+      },
+      {
+        "text": "PCR molecular testing",
+        "feedback": "Correct! NAAT is the test of choice."
+      },
+      {
+        "text": "Culture using McCoy and Hela cells",
+        "feedback": "Incorrect. Culture is less sensitive."
+      },
+      {
+        "text": "Microimmunofluorescence (MIF) test",
+        "feedback": "Incorrect. MIF is less sensitive."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 68,
+    "question": "Which of the following organisms are transmitted to animals and humans after a tick bite?",
+    "options": [
+      {
+        "text": "Leptospira",
+        "feedback": "Incorrect. Leptospira is not tick-borne."
+      },
+      {
+        "text": "Chlamydia and Mycoplasma spp.",
+        "feedback": "Incorrect. These are not tick-borne."
+      },
+      {
+        "text": "Neisseria sicca",
+        "feedback": "Incorrect. This is not tick-borne."
+      },
+      {
+        "text": "Ehrlichia and Anaplasma spp.",
+        "feedback": "Correct! These are tick-borne pathogens."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 69,
+    "question": "A gram-positive spore-forming bacillus growing on sheep-blood agar anaerobically produces a double zone of \u03b2-hemolysis and is positive for lecithinase. What is the presumptive identification?",
+    "options": [
+      {
+        "text": "Bacteroides ureolyticus",
+        "feedback": "Incorrect. Bacteroides is gram-negative."
+      },
+      {
+        "text": "Bacteroides fragilis",
+        "feedback": "Incorrect. B. fragilis is gram-negative."
+      },
+      {
+        "text": "Clostridium perfringens",
+        "feedback": "Correct! C. perfringens has double-zone hemolysis."
+      },
+      {
+        "text": "Clostridium difficile",
+        "feedback": "Incorrect. C. difficile does not have double-zone hemolysis."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 70,
+    "question": "Egg yolk agar is used to detect which enzyme produced by Clostridium species?",
+    "options": [
+      {
+        "text": "Oxidase",
+        "feedback": "Incorrect. Oxidase is not detected on egg yolk agar."
+      },
+      {
+        "text": "Lecithinase",
+        "feedback": "Correct! Lecithinase activity is detected on egg yolk agar."
+      },
+      {
+        "text": "\u03b2-Lactamase",
+        "feedback": "Incorrect. \u03b2-lactamase is detected differently."
+      },
+      {
+        "text": "Catalase",
+        "feedback": "Incorrect. Catalase is detected differently."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 71,
+    "question": "Which of the following organisms will display lipase activity on egg yolk agar?",
+    "options": [
+      {
+        "text": "Clostridium botulinum",
+        "feedback": "Incorrect. C. botulinum is lipase positive."
+      },
+      {
+        "text": "Clostridium sporogenes",
+        "feedback": "Incorrect. C. sporogenes is lipase positive."
+      },
+      {
+        "text": "Clostridium novyi (A)",
+        "feedback": "Incorrect. C. novyi is lipase positive."
+      },
+      {
+        "text": "All of these options",
+        "feedback": "Correct! All three display lipase activity."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 72,
+    "question": "Which spore type and location is found on Clostridium tetani?",
+    "options": [
+      {
+        "text": "Round, subterminal spores",
+        "feedback": "Incorrect. This describes C. botulinum."
+      },
+      {
+        "text": "Ovoid, subterminal spores",
+        "feedback": "Incorrect. This describes C. perfringens."
+      },
+      {
+        "text": "Round, terminal spores",
+        "feedback": "Correct! C. tetani has round terminal spores."
+      },
+      {
+        "text": "Ovoid, terminal spores",
+        "feedback": "Incorrect. This describes C. novyi."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 73,
+    "question": "A lung biopsy obtained from an immunocompromised patient showed many 'cup-shaped' cysts (gray to black) in a foamy exudate (green background) using Gomori methenamine silver (GMS) stain. The organism cannot be cultured because it does not grow on routine culture media for molds. The patient was diagnosed with pneumonia that resisted antibiotic treatment. The most likely identification is?",
+    "options": [
+      {
+        "text": "Pneumocystis jirovecii (carinii)",
+        "feedback": "Correct! P. jirovecii shows cup-shaped cysts on GMS."
+      },
+      {
+        "text": "Histoplasma capsulatum",
+        "feedback": "Incorrect. H. capsulatum can be cultured."
+      },
+      {
+        "text": "Sporothrix schenckii",
+        "feedback": "Incorrect. S. schenckii can be cultured."
+      },
+      {
+        "text": "Scopulariopsis spp.",
+        "feedback": "Incorrect. Scopulariopsis can be cultured."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 74,
+    "question": "What is the specimen of choice for the initial diagnosis of Pneumocystis jirovecii (carinii) in an immunocompromised patient, such as someone with AIDS?",
+    "options": [
+      {
+        "text": "Induced sputum",
+        "feedback": "Correct! Induced sputum is the specimen of choice."
+      },
+      {
+        "text": "Open-thorax lung biopsy",
+        "feedback": "Incorrect. This is invasive."
+      },
+      {
+        "text": "CSF",
+        "feedback": "Incorrect. CSF is not used."
+      },
+      {
+        "text": "Urine",
+        "feedback": "Incorrect. Urine is not used."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 75,
+    "question": "A transplant patient is suspected of having invasive aspergillosis on the basis of clinical and radiological findings. Which specimen is best for the initial identification of aspergillosis by soluble antigen testing?",
+    "options": [
+      {
+        "text": "Blood culture",
+        "feedback": "Incorrect. Blood cultures are often negative."
+      },
+      {
+        "text": "Lung biopsy",
+        "feedback": "Incorrect. This is invasive."
+      },
+      {
+        "text": "Serum or urine",
+        "feedback": "Correct! Soluble antigen is detected in serum or urine."
+      },
+      {
+        "text": "Sputum",
+        "feedback": "Incorrect. Sputum can be colonized."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 76,
+    "question": "What is the most common cause of mucormycosis infection in humans?",
+    "options": [
+      {
+        "text": "Penicillium spp.",
+        "feedback": "Incorrect. Penicillium is not a cause of mucormycosis."
+      },
+      {
+        "text": "Candida albicans",
+        "feedback": "Incorrect. C. albicans causes candidiasis."
+      },
+      {
+        "text": "Scopulariopsis spp.",
+        "feedback": "Incorrect. Scopulariopsis is not a cause."
+      },
+      {
+        "text": "Rhizopus spp.",
+        "feedback": "Correct! Rhizopus is the most common cause."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 77,
+    "question": "A thermally dimorphic fungus shows a filamentous mold form with tuberculate macroconidia at room temperature, and a yeast form above 35\u00b0C. Which organism best fits this description?",
+    "options": [
+      {
+        "text": "Histoplasma capsulatum",
+        "feedback": "Correct! H. capsulatum has tuberculate macroconidia."
+      },
+      {
+        "text": "Paracoccidioides brasiliensis",
+        "feedback": "Incorrect. P. brasiliensis has ship's wheel structures."
+      },
+      {
+        "text": "Candida albicans",
+        "feedback": "Incorrect. C. albicans is not dimorphic."
+      },
+      {
+        "text": "Coccidioides immitis",
+        "feedback": "Incorrect. C. immitis has spherules."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 78,
+    "question": "The best specimen for recovery of the mycobacteria from a sputum sample is",
+    "options": [
+      {
+        "text": "First morning specimen",
+        "feedback": "Correct! First morning specimens are best."
+      },
+      {
+        "text": "10-hour evening specimen",
+        "feedback": "Incorrect. This is not optimal."
+      },
+      {
+        "text": "12-hour pooled specimen",
+        "feedback": "Incorrect. Pooled specimens are less optimal."
+      },
+      {
+        "text": "24-hour pooled specimen",
+        "feedback": "Incorrect. Pooled specimens are less optimal."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 79,
+    "question": "Which is the most appropriate nonselective medium for recovery of mycobacteria from a heavily contaminated specimen?",
+    "options": [
+      {
+        "text": "Lowenstein-Jensen agar",
+        "feedback": "Correct! LJ medium is selective for mycobacteria."
+      },
+      {
+        "text": "Middlebrook 7H10 agar",
+        "feedback": "Incorrect. This is less selective."
+      },
+      {
+        "text": "Petragnani's agar",
+        "feedback": "Incorrect. This is less commonly used."
+      },
+      {
+        "text": "American Thoracic Society medium",
+        "feedback": "Incorrect. This is not the standard."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 80,
+    "question": "Which of the following drugs are first-line antibiotics used to treat classic tuberculosis for which susceptibility testing is performed by the disk diffusion method on Middlebrook 7H10 or 7H11 agar plates?",
+    "options": [
+      {
+        "text": "Ampicillin, penicillin, streptomycin, and carbenicillin",
+        "feedback": "Incorrect. These are not first-line TB drugs."
+      },
+      {
+        "text": "Ampicillin, penicillin, and methicillin",
+        "feedback": "Incorrect. These are not TB drugs."
+      },
+      {
+        "text": "Vancomycin, methicillin, and carbenicillin",
+        "feedback": "Incorrect. These are not TB drugs."
+      },
+      {
+        "text": "Isonicotinic acid hydrazide (INH), rifampin, ethambutol, and pyrazinamide",
+        "feedback": "Correct! These are first-line TB drugs."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 81,
+    "question": "Rapid methods for identifying classic M. tuberculosis infection include:",
+    "options": [
+      {
+        "text": "Gas-liquid chromatography",
+        "feedback": "Incorrect. This is one method."
+      },
+      {
+        "text": "Nucleic acid probes",
+        "feedback": "Incorrect. This is one method."
+      },
+      {
+        "text": "Smear by resistance to acid discoloration",
+        "feedback": "Incorrect. This is one method."
+      },
+      {
+        "text": "All these options",
+        "feedback": "Correct! All are rapid methods."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 82,
+    "question": "Which M. avium complex (MAC) organism is the most frequently isolated mycobacterium from AIDS patients?",
+    "options": [
+      {
+        "text": "M. intracellulare",
+        "feedback": "Incorrect. M. intracellulare is less common."
+      },
+      {
+        "text": "M. scrofulaceum",
+        "feedback": "Incorrect. M. scrofulaceum is less common."
+      },
+      {
+        "text": "M. avium",
+        "feedback": "Correct! M. avium is the most common MAC in AIDS."
+      },
+      {
+        "text": "M. bovis",
+        "feedback": "Incorrect. M. bovis is less common in AIDS."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 83,
+    "question": "Which two mycobacteria commonly isolated from subcutaneous skin have an optimal growth temperature of 30\u00b0C?",
+    "options": [
+      {
+        "text": "M. haemophilum and M. ulcerans",
+        "feedback": "Correct! These grow at 30\u00b0C."
+      },
+      {
+        "text": "M. kansasii and M. xenopi",
+        "feedback": "Incorrect. These grow at 37\u00b0C."
+      },
+      {
+        "text": "M. gordonae and M. avium",
+        "feedback": "Incorrect. These grow at 37\u00b0C."
+      },
+      {
+        "text": "M. simiae and M. avium",
+        "feedback": "Incorrect. These grow at 37\u00b0C."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 84,
+    "question": "A 45-year-old hunter developed fever, myalgia, and periorbital oedema. He has a history of bear meat consumption. The most likely causative agent is:",
+    "options": [
+      {
+        "text": "Trichinella spiralis",
+        "feedback": "Correct! Trichinosis is associated with bear meat."
+      },
+      {
+        "text": "Toxoplasma gondii",
+        "feedback": "Incorrect. Toxoplasma is from undercooked meat."
+      },
+      {
+        "text": "Taenia solium",
+        "feedback": "Incorrect. T. solium is from pork."
+      },
+      {
+        "text": "Hymenolepis nana",
+        "feedback": "Incorrect. H. nana is from ingestion of eggs."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 85,
+    "question": "A 60-year-old Brazilian patient with cardiac irregularities and congestive heart failure suddenly dies. Examination of the myocardium revealed numerous amastigotes, an indication that the cause of death was most likely:",
+    "options": [
+      {
+        "text": "Leishmaniasis with Leishmania donovani",
+        "feedback": "Incorrect. L. donovani does not affect the heart."
+      },
+      {
+        "text": "Leishmaniasis with Leishmania braziliense",
+        "feedback": "Incorrect. L. braziliensis causes skin lesions."
+      },
+      {
+        "text": "Trypanosomiasis with Trypanosoma gambiense",
+        "feedback": "Incorrect. T. gambiense causes African sleeping sickness."
+      },
+      {
+        "text": "Trypanosomiasis with Trypanosoma cruzi",
+        "feedback": "Correct! T. cruzi causes Chagas disease with cardiac involvement."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 86,
+    "question": "Which of the following statements is true regarding onchocerciasis?",
+    "options": [
+      {
+        "text": "The adult worm is present in the blood",
+        "feedback": "Incorrect. Adults are in nodules."
+      },
+      {
+        "text": "The microfilariae are in the blood during the late evening hours",
+        "feedback": "Incorrect. Microfilariae are in the skin."
+      },
+      {
+        "text": "The diagnostic test of choice is the skin snip",
+        "feedback": "Correct! Skin snip detects microfilariae."
+      },
+      {
+        "text": "The parasite resides in the deep lymphatics",
+        "feedback": "Incorrect. This is for Wuchereria."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 87,
+    "question": "Patients with severe diarrhea should use 'enteric precautions' to prevent nosocomial infections with:",
+    "options": [
+      {
+        "text": "Giardia lamblia",
+        "feedback": "Incorrect. Giardia is less of a nosocomial concern."
+      },
+      {
+        "text": "Ascaris lumbricoides",
+        "feedback": "Incorrect. Ascaris is not transmitted nosocomially."
+      },
+      {
+        "text": "Cryptosporidium spp.",
+        "feedback": "Correct! Cryptosporidium is highly contagious in healthcare settings."
+      },
+      {
+        "text": "Cystoisospora belli",
+        "feedback": "Incorrect. C. belli is less common."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 88,
+    "question": "The incorrect match between method and method objective is:",
+    "options": [
+      {
+        "text": "Direct wet examination-detection of organism motility",
+        "feedback": "Incorrect. This is correct."
+      },
+      {
+        "text": "Knott's concentration-the recovery of operculated helminth eggs",
+        "feedback": "Correct! Knott's is for microfilariae, not eggs."
+      },
+      {
+        "text": "Baermann's concentration-the recovery of Strongyloides",
+        "feedback": "Incorrect. This is correct."
+      },
+      {
+        "text": "Permanent stained fecal smear-confirmation of protozoa",
+        "feedback": "Incorrect. This is correct."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 89,
+    "question": "The incorrect match between organism and characteristic is:",
+    "options": [
+      {
+        "text": "Schistosoma mansoni-egg with terminal spine",
+        "feedback": "Correct! S. mansoni has a lateral spine."
+      },
+      {
+        "text": "Dientamoeba fragilis-tetrad karyosome in the nucleus",
+        "feedback": "Incorrect. This is correct."
+      },
+      {
+        "text": "Toxoplasma gondii-diagnostic serology",
+        "feedback": "Incorrect. This is correct."
+      },
+      {
+        "text": "Echinococcus granulosus-daughter cysts",
+        "feedback": "Incorrect. This is correct."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 90,
+    "question": "The incorrect match between symptoms and disease is:",
+    "options": [
+      {
+        "text": "Dysentery-amebiasis",
+        "feedback": "Incorrect. This is correct."
+      },
+      {
+        "text": "Myalgias-trichuriasis",
+        "feedback": "Correct! Trichuriasis causes diarrhea, not myalgias."
+      },
+      {
+        "text": "Malabsorption syndrome-giardiasis",
+        "feedback": "Incorrect. This is correct."
+      },
+      {
+        "text": "Cardiac involvement-chronic Chagas disease",
+        "feedback": "Incorrect. This is correct."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 91,
+    "question": "The miracidial hatching test helps to demonstrate the viability of eggs of:",
+    "options": [
+      {
+        "text": "Taenia species",
+        "feedback": "Incorrect. Taenia eggs do not hatch in this test."
+      },
+      {
+        "text": "Schistosoma species",
+        "feedback": "Correct! This test is used for Schistosoma eggs."
+      },
+      {
+        "text": "Hookworm species",
+        "feedback": "Incorrect. Hookworm eggs do not hatch in this test."
+      },
+      {
+        "text": "Opisthorchis species",
+        "feedback": "Incorrect. Opisthorchis eggs do not hatch in this test."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 92,
+    "question": "Organisms that should be considered in a waterborne outbreak of diarrheal disease include:",
+    "options": [
+      {
+        "text": "Toxoplasma gondii and Schistosoma mansoni",
+        "feedback": "Incorrect. These are not waterborne diarrheal agents."
+      },
+      {
+        "text": "Endolimax nana and Entamoeba histolytica",
+        "feedback": "Incorrect. E. nana is non-pathogenic."
+      },
+      {
+        "text": "Blastocystis hominis and Trichomonas vaginalis",
+        "feedback": "Incorrect. T. vaginalis is sexually transmitted."
+      },
+      {
+        "text": "Giardia lamblia and Cryptosporidium spp.",
+        "feedback": "Correct! Both are waterborne pathogens."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 93,
+    "question": "Faecal immunoassays have become more commonly used to diagnose infections with:",
+    "options": [
+      {
+        "text": "Endolimax nana and Blastocystis hominis",
+        "feedback": "Incorrect. These are not commonly diagnosed by immunoassay."
+      },
+      {
+        "text": "Giardia lamblia and Cryptosporidium spp.",
+        "feedback": "Correct! Immunoassays are common for these."
+      },
+      {
+        "text": "Ascaris lumbricoides and Trichuris trichiura",
+        "feedback": "Incorrect. These are diagnosed by microscopy."
+      },
+      {
+        "text": "Strongyloides stercoralis and Trichomonas vaginalis",
+        "feedback": "Incorrect. Trichomonas is diagnosed by wet mount."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 94,
+    "question": "The incorrect match between disease and symptoms is:",
+    "options": [
+      {
+        "text": "Enterobiasis-dysentery",
+        "feedback": "Correct! Enterobiasis causes pruritus ani, not dysentery."
+      },
+      {
+        "text": "Paragonimiasis-haemoptysis",
+        "feedback": "Incorrect. This is correct."
+      },
+      {
+        "text": "Cryptosporidiosis-watery diarrhoea",
+        "feedback": "Incorrect. This is correct."
+      },
+      {
+        "text": "Toxoplasmosis in compromised host-central nervous system symptoms",
+        "feedback": "Incorrect. This is correct."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 95,
+    "question": "Which mycobacterium is associated with Crohn's disease?",
+    "options": [
+      {
+        "text": "M. marinum",
+        "feedback": "Incorrect. M. marinum causes fish tank granuloma."
+      },
+      {
+        "text": "M. paratuberculosis",
+        "feedback": "Correct! M. paratuberculosis is associated with Crohn's."
+      },
+      {
+        "text": "M. avium",
+        "feedback": "Incorrect. M. avium causes disseminated infection."
+      },
+      {
+        "text": "M. gordonae",
+        "feedback": "Incorrect. M. gordonae is a contaminant."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 96,
+    "question": "When parasitic protozoa parasitize other protozoan it is known as",
+    "options": [
+      {
+        "text": "Parasitism",
+        "feedback": "Incorrect. This is a general term."
+      },
+      {
+        "text": "Mutualism",
+        "feedback": "Incorrect. Mutualism benefits both."
+      },
+      {
+        "text": "Hyperparasitism",
+        "feedback": "Correct! Hyperparasitism is parasitizing another parasite."
+      },
+      {
+        "text": "Hypoparasitism",
+        "feedback": "Incorrect. This is not a standard term."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 97,
+    "question": "Protozoa that eat other organisms are known as",
+    "options": [
+      {
+        "text": "Saprophytic",
+        "feedback": "Incorrect. Saprophytes feed on dead matter."
+      },
+      {
+        "text": "Holozoic",
+        "feedback": "Correct! Holozoic protozoa ingest solid food."
+      },
+      {
+        "text": "Parasitic",
+        "feedback": "Incorrect. Parasites live on a host."
+      },
+      {
+        "text": "Mutualistic",
+        "feedback": "Incorrect. Mutualistic relationships benefit both."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 98,
+    "question": "A 20-year-old female college student complained of a sore throat and extreme fatigue. A physician noted lymphadenopathy and ordered a rapid test for infectious mononucleosis that was negative. Bacterial cultures were negative, as were serological tests for influenza, HIV-1, CMV, hepatitis B, and antistreptolysin O. What would be the next line of viral testing to establish a diagnosis?",
+    "options": [
+      {
+        "text": "Epstein-Barr",
+        "feedback": "Correct! EBV is the most common cause of infectious mononucleosis."
+      },
+      {
+        "text": "Herpes simplex",
+        "feedback": "Incorrect. HSV does not cause mononucleosis."
+      },
+      {
+        "text": "Rubella",
+        "feedback": "Incorrect. Rubella does not cause mononucleosis."
+      },
+      {
+        "text": "West Nile",
+        "feedback": "Incorrect. West Nile does not cause mononucleosis."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 99,
+    "question": "A young male hunter encountered a fox in his path during a walk in the woods. The fox was staggering but appeared nonthreatening. The man tried to avoid contact but was attacked and bitten on the leg. The bite broke the skin but was not deep. Wildlife officials were unable to catch the fox for testing. What procedure should take place next for the hunter?",
+    "options": [
+      {
+        "text": "Administration of hyperimmune antirabies globulin and rabies vaccine",
+        "feedback": "Correct! Post-exposure prophylaxis is indicated."
+      },
+      {
+        "text": "Spinal tap with CSF testing for rabies virus",
+        "feedback": "Incorrect. CSF testing is not done in the acute setting."
+      },
+      {
+        "text": "Biopsy of the wound site",
+        "feedback": "Incorrect. Biopsy is not routine."
+      },
+      {
+        "text": "Throat culture and blood culture",
+        "feedback": "Incorrect. This is not appropriate."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 100,
+    "question": "A young father of two small children complained of a rash on the torso of his body. The children had been diagnosed with chickenpox and confined to their home. The father had experienced chickenpox as a child and knew he did not have the same rash as his children. What is the most likely cause of the father's rash?",
+    "options": [
+      {
+        "text": "Herpes simplex 1 virus",
+        "feedback": "Incorrect. HSV-1 does not cause this pattern."
+      },
+      {
+        "text": "Epstein-Barr virus",
+        "feedback": "Incorrect. EBV does not cause this."
+      },
+      {
+        "text": "Herpes simplex 2 virus",
+        "feedback": "Incorrect. HSV-2 does not cause this."
+      },
+      {
+        "text": "Varicella-zoster virus",
+        "feedback": "Correct! VZV causes shingles (zoster) due to reactivation."
+      }
+    ],
+    "correctAnswerIndex": 3
+  }
+]
