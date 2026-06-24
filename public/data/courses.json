@@ -11,7 +11,8 @@
     "courseId": "micro",
     "title": "Microbiology",
     "quizzes": [
-      { "quizId": "micro_intro", "title": "Intro to Micro", "status": "coming_soon", "file": "" }
+      { "quizId": "micro_1", "title": "from linda ", "status": "available", "file": "micro_q1.json" },
+      { "quizId": "micro_2", "title": " from robert ", "status": "available", "file": "micro_q2.json" }
     ]
   },
   {
