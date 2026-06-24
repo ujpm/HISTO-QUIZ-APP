@@ -12,7 +12,13 @@
     "title": "Microbiology",
     "quizzes": [
       { "quizId": "micro_1", "title": "from linda ", "status": "available", "file": "micro_q1.json" },
-      { "quizId": "micro_2", "title": " from robert ", "status": "available", "file": "micro_q2.json" }
+      { "quizId": "micro_2", "title": " from robert ", "status": "available", "file": "micro_q2.json" },
+      { "quizId": "micro_3", "title": " paniker parasitology ", "status": "available", "file": "micro_q3.json" },
+      { "quizId": "micro_4", "title": " COUNCIL EXAM MICROBIOLOGY ", "status": "available", "file": "micro_q4.json" },
+      { "quizId": "micro_5", "title": " Microbiology papers ", "status": "available", "file": "micro_q5.json" },
+      { "quizId": "micro_6", "title": " paniker parasitology ", "status": "available", "file": "micro_q6.json" },
+      { "quizId": "micro_7", "title": " paniker parasitology ", "status": "available", "file": "micro_q7.json" },
+      { "quizId": "micro_8", "title": " paniker parasitology ", "status": "available", "file": "micro_q8.json" }
     ]
   },
   {

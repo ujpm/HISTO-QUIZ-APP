@@ -1,0 +1,4142 @@
+[
+  {
+    "id": 1,
+    "question": "Definitive host is one",
+    "options": [
+      {
+        "text": "In which sexual multiplication takes place and harbors adult form",
+        "feedback": "Correct! The definitive host is where the parasite reaches sexual maturity and reproduces sexually."
+      },
+      {
+        "text": "In which asexual multiplication takes place and harbors adult form",
+        "feedback": "Incorrect. This describes the intermediate host, not the definitive host."
+      },
+      {
+        "text": "In which sexual multiplication takes place and harbors larval form",
+        "feedback": "Incorrect. The definitive host harbors the adult form, not the larval form."
+      },
+      {
+        "text": "In which asexual multiplication takes place and harbors adult form",
+        "feedback": "Incorrect. This describes the intermediate host, not the definitive host."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 2,
+    "question": "Autoinfection is seen in all except",
+    "options": [
+      {
+        "text": "Hymenolepis nana",
+        "feedback": "Incorrect. Hymenolepis nana can cause autoinfection."
+      },
+      {
+        "text": "Enterobius vermicularis",
+        "feedback": "Incorrect. Enterobius vermicularis (pinworm) can cause autoinfection through the anal-oral route."
+      },
+      {
+        "text": "Taenia solium",
+        "feedback": "Incorrect. Taenia solium can cause autoinfection leading to cysticercosis."
+      },
+      {
+        "text": "Ascaris lumbricoides",
+        "feedback": "Correct! Ascaris lumbricoides does NOT exhibit autoinfection."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 3,
+    "question": "Antigenic variation is exhibited by",
+    "options": [
+      {
+        "text": "Entamoeba",
+        "feedback": "Incorrect. Entamoeba does not exhibit antigenic variation."
+      },
+      {
+        "text": "Schistosoma",
+        "feedback": "Incorrect. Schistosoma does not exhibit antigenic variation."
+      },
+      {
+        "text": "Trypanosoma",
+        "feedback": "Correct! Trypanosoma exhibits antigenic variation to evade the host immune response."
+      },
+      {
+        "text": "Leishmania",
+        "feedback": "Incorrect. Leishmania does not exhibit antigenic variation."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 4,
+    "question": "Which parasite enters the body by piercing the skin",
+    "options": [
+      {
+        "text": "Trichuris trichiura",
+        "feedback": "Incorrect. Trichuris is ingested as embryonated eggs."
+      },
+      {
+        "text": "Ascaris",
+        "feedback": "Incorrect. Ascaris is ingested as embryonated eggs."
+      },
+      {
+        "text": "Necator americanus",
+        "feedback": "Correct! Necator americanus (hookworm) enters by penetrating the skin."
+      },
+      {
+        "text": "Plasmodium",
+        "feedback": "Incorrect. Plasmodium enters through the bite of an infected mosquito."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 5,
+    "question": "Which parasitic infection leads to malignancy",
+    "options": [
+      {
+        "text": "Babesiosis",
+        "feedback": "Incorrect. Babesiosis is not associated with malignancy."
+      },
+      {
+        "text": "Clonorchis sinensis",
+        "feedback": "Correct! Clonorchis sinensis infection is associated with cholangiocarcinoma."
+      },
+      {
+        "text": "Trypanosoma cruzi",
+        "feedback": "Incorrect. T. cruzi causes Chagas disease, not malignancy."
+      },
+      {
+        "text": "Schistosoma hematobium",
+        "feedback": "Incorrect. While S. hematobium is associated with bladder cancer, the correct answer for this question is Clonorchis sinensis."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 6,
+    "question": "Xenodiagnosis is useful in",
+    "options": [
+      {
+        "text": "Wuchereria bancrofti",
+        "feedback": "Incorrect. Xenodiagnosis is not typically used for W. bancrofti."
+      },
+      {
+        "text": "Trypanosoma cruzi",
+        "feedback": "Incorrect. While xenodiagnosis was historically used for T. cruzi, the answer is 'All of the above'."
+      },
+      {
+        "text": "Trichinella spiralis",
+        "feedback": "Incorrect. Xenodiagnosis is not typically used for T. spiralis."
+      },
+      {
+        "text": "All of the above",
+        "feedback": "Correct! Xenodiagnosis is useful for all of the listed parasites."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 7,
+    "question": "The following are zoonotic disease except",
+    "options": [
+      {
+        "text": "Leishmaniasis",
+        "feedback": "Incorrect. Leishmaniasis is a zoonotic disease."
+      },
+      {
+        "text": "Balantidiasis",
+        "feedback": "Incorrect. Balantidiasis is a zoonotic disease (pigs are reservoir)."
+      },
+      {
+        "text": "Scabies",
+        "feedback": "Correct! Scabies is transmitted human-to-human and is NOT zoonotic."
+      },
+      {
+        "text": "Taeniasis",
+        "feedback": "Incorrect. Taeniasis is a zoonotic disease (cattle/pigs are intermediate hosts)."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 8,
+    "question": "Two hosts are required in",
+    "options": [
+      {
+        "text": "Taenia solium",
+        "feedback": "Correct! Taenia solium requires two hosts: pig (intermediate) and human (definitive)."
+      },
+      {
+        "text": "Entamoeba histolytica",
+        "feedback": "Incorrect. E. histolytica requires only one host (human)."
+      },
+      {
+        "text": "Trichuris trichiura",
+        "feedback": "Incorrect. T. trichiura requires only one host (human)."
+      },
+      {
+        "text": "Giardia",
+        "feedback": "Incorrect. Giardia requires only one host (human)."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 9,
+    "question": "Which of the following parasite passes its life cycle through three hosts",
+    "options": [
+      {
+        "text": "Fasciola hepatica",
+        "feedback": "Incorrect. F. hepatica requires two hosts (snail and mammal)."
+      },
+      {
+        "text": "Fasciola buski",
+        "feedback": "Incorrect. F. buski requires two hosts (snail and mammal)."
+      },
+      {
+        "text": "Schistosoma hematobium",
+        "feedback": "Incorrect. Schistosoma requires one intermediate host (snail) and one definitive host (human)."
+      },
+      {
+        "text": "Clonorchis sinensis",
+        "feedback": "Correct! C. sinensis requires three hosts: snail → fish → human."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 10,
+    "question": "Man is the intermediate host for",
+    "options": [
+      {
+        "text": "Strongyloides stercoralis",
+        "feedback": "Incorrect. Man is the definitive host for S. stercoralis."
+      },
+      {
+        "text": "Plasmodium vivax",
+        "feedback": "Correct! Man is the intermediate host for P. vivax (sexual cycle occurs in mosquito)."
+      },
+      {
+        "text": "Entamoeba histolytica",
+        "feedback": "Incorrect. Man is the definitive host for E. histolytica."
+      },
+      {
+        "text": "Enterobius vermicularis",
+        "feedback": "Incorrect. Man is the definitive host for E. vermicularis."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 11,
+    "question": "Protozoa belong to kingdom",
+    "options": [
+      {
+        "text": "Monera",
+        "feedback": "Incorrect. Monera includes bacteria and cyanobacteria."
+      },
+      {
+        "text": "Protista",
+        "feedback": "Correct! Protozoa belong to Kingdom Protista."
+      },
+      {
+        "text": "Plantae",
+        "feedback": "Incorrect. Plantae includes plants."
+      },
+      {
+        "text": "Animalia",
+        "feedback": "Incorrect. While some classifications place protozoa in Animalia, the modern classification places them in Protista."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 12,
+    "question": "All are intercellular parasites except",
+    "options": [
+      {
+        "text": "Leishmania",
+        "feedback": "Incorrect. Leishmania is an intracellular parasite."
+      },
+      {
+        "text": "Plasmodium",
+        "feedback": "Incorrect. Plasmodium is an intracellular parasite."
+      },
+      {
+        "text": "Toxoplasma",
+        "feedback": "Incorrect. Toxoplasma is an intracellular parasite."
+      },
+      {
+        "text": "None of the above",
+        "feedback": "Correct! All of the listed parasites are intracellular, so 'None of the above' is the answer."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 13,
+    "question": "Non-nuclear DNA present in addition to nucleus in protozoan parasite is",
+    "options": [
+      {
+        "text": "Chromatid body",
+        "feedback": "Incorrect. Chromatid bodies are glycogen-containing structures in Entamoeba cysts."
+      },
+      {
+        "text": "Karyosome",
+        "feedback": "Incorrect. Karyosome is the nucleolus-like structure in the nucleus."
+      },
+      {
+        "text": "Kinetoplast",
+        "feedback": "Correct! Kinetoplast is the non-nuclear DNA found in hemoflagellates."
+      },
+      {
+        "text": "Basal body",
+        "feedback": "Incorrect. Basal bodies are associated with flagella."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 14,
+    "question": "Entamoeba histolytica trophozoites multiply by",
+    "options": [
+      {
+        "text": "Binary fission",
+        "feedback": "Correct! E. histolytica trophozoites multiply by binary fission."
+      },
+      {
+        "text": "Schizogony",
+        "feedback": "Incorrect. Schizogony is seen in Plasmodium."
+      },
+      {
+        "text": "Gametogony",
+        "feedback": "Incorrect. Gametogony is sexual reproduction seen in Plasmodium."
+      },
+      {
+        "text": "All of the above",
+        "feedback": "Incorrect. Only binary fission applies to E. histolytica."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 15,
+    "question": "In humans, malarial parasites multiply by",
+    "options": [
+      {
+        "text": "Binary fission",
+        "feedback": "Incorrect. Binary fission is not the primary mode in malaria."
+      },
+      {
+        "text": "Budding",
+        "feedback": "Incorrect. Budding is seen in yeast, not malaria."
+      },
+      {
+        "text": "Gametogony",
+        "feedback": "Incorrect. Gametogony occurs in the mosquito vector."
+      },
+      {
+        "text": "Schizogony",
+        "feedback": "Correct! Plasmodium multiplies by schizogony (asexual reproduction) in humans."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 16,
+    "question": "Which of the following is not a flagellate",
+    "options": [
+      {
+        "text": "Naegleria",
+        "feedback": "Correct! Naegleria is an amoeboflagellate (has both forms) but is primarily classified as an amoeba."
+      },
+      {
+        "text": "Leishmania",
+        "feedback": "Incorrect. Leishmania is a flagellate (promastigote form)."
+      },
+      {
+        "text": "Giardia",
+        "feedback": "Incorrect. Giardia is a flagellate."
+      },
+      {
+        "text": "Dientamoeba",
+        "feedback": "Incorrect. Dientamoeba is a flagellate (though it lacks a flagellum in its stage)."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 17,
+    "question": "The main reservoir of Entamoeba histolytica is",
+    "options": [
+      {
+        "text": "Man",
+        "feedback": "Correct! Man is the main reservoir of E. histolytica."
+      },
+      {
+        "text": "Dirty water",
+        "feedback": "Incorrect. Dirty water is a transmission vehicle, not a reservoir."
+      },
+      {
+        "text": "Dog",
+        "feedback": "Incorrect. Dogs are not the main reservoir."
+      },
+      {
+        "text": "Monkey",
+        "feedback": "Incorrect. Monkeys are not the main reservoir."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 18,
+    "question": "The infective form of Entamoeba histolytica is",
+    "options": [
+      {
+        "text": "Trophozoite",
+        "feedback": "Incorrect. Trophozoites are the invasive form but are not infective (they die outside the body)."
+      },
+      {
+        "text": "Binucleate cyst",
+        "feedback": "Incorrect. Binucleate cysts are immature cysts."
+      },
+      {
+        "text": "Quadrinucleate cyst",
+        "feedback": "Correct! The mature quadrinucleate cyst (4 nuclei) is the infective form."
+      },
+      {
+        "text": "None of above",
+        "feedback": "Incorrect. The quadrinucleate cyst is the infective form."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 19,
+    "question": "The pathogenicity of Entamoeba histolytica is indicated by",
+    "options": [
+      {
+        "text": "Zymodeme pattern",
+        "feedback": "Correct! Zymodeme pattern indicates the pathogenicity of E. histolytica."
+      },
+      {
+        "text": "Size",
+        "feedback": "Incorrect. Size alone does not indicate pathogenicity."
+      },
+      {
+        "text": "Nuclear pattern",
+        "feedback": "Incorrect. Nuclear pattern alone does not indicate pathogenicity."
+      },
+      {
+        "text": "ELISA test",
+        "feedback": "Incorrect. ELISA detects antibodies, not pathogenicity."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 20,
+    "question": "Most common site for extraintestinal amoebiasis is",
+    "options": [
+      {
+        "text": "Liver",
+        "feedback": "Correct! The liver is the most common site for extraintestinal amoebiasis."
+      },
+      {
+        "text": "Lung",
+        "feedback": "Incorrect. The lung is the second most common site."
+      },
+      {
+        "text": "Brain",
+        "feedback": "Incorrect. Brain involvement is rare."
+      },
+      {
+        "text": "Spleen",
+        "feedback": "Incorrect. Spleen involvement is rare."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 21,
+    "question": "Amoebic liver abscess can be diagnosed by demonstrating",
+    "options": [
+      {
+        "text": "Cyst in the sterile pus",
+        "feedback": "Incorrect. Cysts are not found in liver abscess pus."
+      },
+      {
+        "text": "Trophozoites in the pus",
+        "feedback": "Correct! Trophozoites in the pus confirm amoebic liver abscess."
+      },
+      {
+        "text": "Cyst in the intestine",
+        "feedback": "Incorrect. This would indicate intestinal infection, not liver abscess."
+      },
+      {
+        "text": "Trophozoites in the feces",
+        "feedback": "Incorrect. Trophozoites in feces indicate intestinal infection."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 22,
+    "question": "Stool of amoebic dysentery has all of the following characteristics except",
+    "options": [
+      {
+        "text": "Charcot-Leyden crystals",
+        "feedback": "Incorrect. Charcot-Leyden crystals are seen in amoebic dysentery."
+      },
+      {
+        "text": "Pyknotic bodies",
+        "feedback": "Incorrect. Pyknotic bodies are seen in amoebic dysentery."
+      },
+      {
+        "text": "RBCs",
+        "feedback": "Incorrect. RBCs are seen in amoebic dysentery (bloody stool)."
+      },
+      {
+        "text": "Ghost cells",
+        "feedback": "Correct! Ghost cells are NOT characteristic of amoebic dysentery."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 23,
+    "question": "The term amoeboma is used to describe",
+    "options": [
+      {
+        "text": "Amoebic liver abscess",
+        "feedback": "Incorrect. Amoeboma is not the same as liver abscess."
+      },
+      {
+        "text": "Skin lesion due to draining amoebic abscess",
+        "feedback": "Incorrect. This describes a different manifestation."
+      },
+      {
+        "text": "Granuloma at ileocaecal junction",
+        "feedback": "Correct! Amoeboma is a granulomatous mass at the ileocaecal junction."
+      },
+      {
+        "text": "None of the above",
+        "feedback": "Incorrect. Amoeboma refers to the granuloma at ileocaecal junction."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 24,
+    "question": "True statement regarding Entamoeba histolytica is",
+    "options": [
+      {
+        "text": "The trophozoites are infective to man",
+        "feedback": "Incorrect. Trophozoites are not infective (they die outside the body)."
+      },
+      {
+        "text": "Mature cyst has eccentric nucleolus",
+        "feedback": "Incorrect. The mature cyst has 4 nuclei, not an eccentric nucleolus."
+      },
+      {
+        "text": "It can cause primary amoebic encephalitis",
+        "feedback": "Incorrect. Primary amoebic encephalitis is caused by Naegleria or Acanthamoeba."
+      },
+      {
+        "text": "Cysts are resistant to chlorine concentration used in drinking water",
+        "feedback": "Correct! E. histolytica cysts are resistant to chlorine levels used in drinking water."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 25,
+    "question": "All are nonpathogenic amoeba living in the lumen of large intestine except",
+    "options": [
+      {
+        "text": "Entamoeba coli",
+        "feedback": "Incorrect. E. coli is a nonpathogenic commensal in the large intestine."
+      },
+      {
+        "text": "Entamoeba hartmanni",
+        "feedback": "Incorrect. E. hartmanni is a nonpathogenic commensal in the large intestine."
+      },
+      {
+        "text": "Endolimax nana",
+        "feedback": "Incorrect. E. nana is a nonpathogenic commensal in the large intestine."
+      },
+      {
+        "text": "Entamoeba gingivalis",
+        "feedback": "Correct! E. gingivalis is found in the oral cavity, NOT the large intestine."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 26,
+    "question": "Chronic amoebic keratitis is seen in",
+    "options": [
+      {
+        "text": "Entamoeba histolytica",
+        "feedback": "Incorrect. E. histolytica does not cause keratitis."
+      },
+      {
+        "text": "Acanthamoeba",
+        "feedback": "Correct! Acanthamoeba causes chronic amoebic keratitis."
+      },
+      {
+        "text": "Naegleria fowleri",
+        "feedback": "Incorrect. N. fowleri causes meningoencephalitis, not keratitis."
+      },
+      {
+        "text": "Hemoflagellates",
+        "feedback": "Incorrect. Hemoflagellates do not cause keratitis."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 27,
+    "question": "Etiologic agent of granulomatous amoebic encephalitis is",
+    "options": [
+      {
+        "text": "Entamoeba histolytica",
+        "feedback": "Incorrect. E. histolytica does not cause granulomatous encephalitis."
+      },
+      {
+        "text": "Acanthamoeba",
+        "feedback": "Correct! Acanthamoeba causes granulomatous amoebic encephalitis."
+      },
+      {
+        "text": "Naegleria",
+        "feedback": "Incorrect. Naegleria causes primary amoebic meningoencephalitis."
+      },
+      {
+        "text": "Dientamoeba fragilis",
+        "feedback": "Incorrect. D. fragilis is a nonpathogenic commensal."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 28,
+    "question": "Normal habitat of Giardia is",
+    "options": [
+      {
+        "text": "Duodenum and jejunum",
+        "feedback": "Correct! Giardia inhabits the duodenum and jejunum."
+      },
+      {
+        "text": "Stomach",
+        "feedback": "Incorrect. Giardia does not inhabit the stomach."
+      },
+      {
+        "text": "Caecum",
+        "feedback": "Incorrect. Giardia does not inhabit the caecum."
+      },
+      {
+        "text": "Ileum",
+        "feedback": "Incorrect. Giardia does not inhabit the ileum."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 29,
+    "question": "All of the following protozoans are found in small intestine except",
+    "options": [
+      {
+        "text": "Giardia lamblia",
+        "feedback": "Incorrect. Giardia is found in the small intestine."
+      },
+      {
+        "text": "Balantidium coli",
+        "feedback": "Correct! Balantidium coli is found in the large intestine, NOT the small intestine."
+      },
+      {
+        "text": "Cyclospora cayetanensis",
+        "feedback": "Incorrect. Cyclospora is found in the small intestine."
+      },
+      {
+        "text": "Isospora belli",
+        "feedback": "Incorrect. Isospora is found in the small intestine."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 30,
+    "question": "The following is true of giardiasis except",
+    "options": [
+      {
+        "text": "Fever and presence of blood and mucus in stool",
+        "feedback": "Correct! Giardiasis does NOT cause fever or blood/mucus in stool; it causes watery diarrhea."
+      },
+      {
+        "text": "Acute or chronic diarrhea",
+        "feedback": "Incorrect. This is true of giardiasis."
+      },
+      {
+        "text": "Duodenum and jejunum are the prime sites of involvement",
+        "feedback": "Incorrect. This is true of giardiasis."
+      },
+      {
+        "text": "Giardia cysts are resistant to desiccation",
+        "feedback": "Incorrect. This is true of giardiasis."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 31,
+    "question": "Giardia lamblia was discovered by",
+    "options": [
+      {
+        "text": "Giard",
+        "feedback": "Incorrect. The parasite was named after Giard, but discovered by Leeuwenhoek."
+      },
+      {
+        "text": "Robert Hooke",
+        "feedback": "Incorrect. Hooke is known for cell discovery."
+      },
+      {
+        "text": "Leeuwenhoek",
+        "feedback": "Correct! Leeuwenhoek discovered Giardia lamblia."
+      },
+      {
+        "text": "Losch",
+        "feedback": "Incorrect. Losch discovered Entamoeba histolytica."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 32,
+    "question": "Drug of choice in giardiasis is",
+    "options": [
+      {
+        "text": "Metronidazole",
+        "feedback": "Correct! Metronidazole is the drug of choice for giardiasis."
+      },
+      {
+        "text": "Albendazole",
+        "feedback": "Incorrect. Albendazole is used for helminth infections."
+      },
+      {
+        "text": "Thiabendazole",
+        "feedback": "Incorrect. Thiabendazole is used for Strongyloides."
+      },
+      {
+        "text": "Diloxanide furoate",
+        "feedback": "Incorrect. Diloxanide furoate is used for asymptomatic amoebiasis."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 33,
+    "question": "True about Giardia is",
+    "options": [
+      {
+        "text": "May cause traveler's diarrhea",
+        "feedback": "Correct! Giardia is a common cause of traveler's diarrhea."
+      },
+      {
+        "text": "Giardia inhabits ileum",
+        "feedback": "Incorrect. Giardia inhabits the duodenum and jejunum."
+      },
+      {
+        "text": "Trophozoites are infective to man",
+        "feedback": "Incorrect. Cysts are the infective form."
+      },
+      {
+        "text": "Encystment of trophozoites occur in jejunum",
+        "feedback": "Incorrect. Encystment occurs in the colon."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 34,
+    "question": "Which one of the following tests is used for diagnosis of Giardia lamblia infections",
+    "options": [
+      {
+        "text": "Enterotest",
+        "feedback": "Correct! Enterotest (string test) is used to diagnose Giardia."
+      },
+      {
+        "text": "Casoni's test",
+        "feedback": "Incorrect. Casoni's test is for hydatid disease."
+      },
+      {
+        "text": "Parasight F test",
+        "feedback": "Incorrect. Parasight F test is for malaria."
+      },
+      {
+        "text": "Napier's test",
+        "feedback": "Incorrect. Napier's test is for kala-azar."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 35,
+    "question": "Motility of Trichomonas vaginalis is described as",
+    "options": [
+      {
+        "text": "Amoeboid",
+        "feedback": "Incorrect. Amoeboid motility is seen in Entamoeba."
+      },
+      {
+        "text": "Jerky",
+        "feedback": "Correct! T. vaginalis motility is described as jerky."
+      },
+      {
+        "text": "Falling leaf",
+        "feedback": "Incorrect. Falling leaf motility is seen in Giardia."
+      },
+      {
+        "text": "Lashing",
+        "feedback": "Incorrect. Lashing motility is seen in trypanosomes."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 36,
+    "question": "Vaginal discharge in Trichomonas vaginitis is",
+    "options": [
+      {
+        "text": "Colorless",
+        "feedback": "Incorrect. The discharge is not colorless."
+      },
+      {
+        "text": "Yellow",
+        "feedback": "Correct! T. vaginalis causes yellow/greenish, frothy discharge."
+      },
+      {
+        "text": "Curd-white",
+        "feedback": "Incorrect. Curd-white discharge is seen in candidiasis."
+      },
+      {
+        "text": "Blood stained",
+        "feedback": "Incorrect. Blood-stained discharge is not typical."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 37,
+    "question": "All of the following protozoan can be transmitted by sexual contact except",
+    "options": [
+      {
+        "text": "Trichomonas vaginalis",
+        "feedback": "Incorrect. T. vaginalis is transmitted sexually."
+      },
+      {
+        "text": "Entamoeba histolytica",
+        "feedback": "Incorrect. E. histolytica can be transmitted sexually (oral-anal contact)."
+      },
+      {
+        "text": "Enteromonas hominis",
+        "feedback": "Correct! E. hominis is NOT transmitted by sexual contact."
+      },
+      {
+        "text": "Giardia lamblia",
+        "feedback": "Incorrect. Giardia can be transmitted sexually (oral-anal contact)."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 38,
+    "question": "Vector for Trypanosoma cruzi is",
+    "options": [
+      {
+        "text": "Reduvid bug",
+        "feedback": "Correct! Reduvid bug (kissing bug) is the vector for T. cruzi."
+      },
+      {
+        "text": "Tsetse fly",
+        "feedback": "Incorrect. Tsetse fly is the vector for T. brucei."
+      },
+      {
+        "text": "Sandfly",
+        "feedback": "Incorrect. Sandfly is the vector for Leishmania."
+      },
+      {
+        "text": "Hard tick",
+        "feedback": "Incorrect. Hard tick is the vector for Babesia."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 39,
+    "question": "All of the following are obligate intracellular parasite except",
+    "options": [
+      {
+        "text": "Plasmodium",
+        "feedback": "Incorrect. Plasmodium is an obligate intracellular parasite."
+      },
+      {
+        "text": "Trypanosoma cruzi",
+        "feedback": "Incorrect. T. cruzi is an obligate intracellular parasite."
+      },
+      {
+        "text": "Toxoplasma gondii",
+        "feedback": "Incorrect. T. gondii is an obligate intracellular parasite."
+      },
+      {
+        "text": "Trypanosoma brucei gambiense",
+        "feedback": "Correct! T. brucei gambiense is extracellular (NOT obligate intracellular)."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 40,
+    "question": "Romana's sign occurs in",
+    "options": [
+      {
+        "text": "Babesiosis",
+        "feedback": "Incorrect. Romana's sign is not seen in babesiosis."
+      },
+      {
+        "text": "Leishmaniasis",
+        "feedback": "Incorrect. Romana's sign is not seen in leishmaniasis."
+      },
+      {
+        "text": "Trypanosomiasis",
+        "feedback": "Correct! Romana's sign is seen in Chagas disease (American trypanosomiasis)."
+      },
+      {
+        "text": "Schistosomiasis",
+        "feedback": "Incorrect. Romana's sign is not seen in schistosomiasis."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 41,
+    "question": "Vector for T. brucei gambiense is",
+    "options": [
+      {
+        "text": "Sandfly",
+        "feedback": "Incorrect. Sandfly is the vector for Leishmania."
+      },
+      {
+        "text": "Reduvid bug",
+        "feedback": "Incorrect. Reduvid bug is the vector for T. cruzi."
+      },
+      {
+        "text": "Tsetse fly",
+        "feedback": "Correct! Tsetse fly is the vector for T. brucei gambiense."
+      },
+      {
+        "text": "House fly",
+        "feedback": "Incorrect. House fly is not a vector for trypanosomes."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 42,
+    "question": "Winterbottom sign in sleeping sickness refers to",
+    "options": [
+      {
+        "text": "Unilateral conjunctivitis",
+        "feedback": "Incorrect. This is not Winterbottom sign."
+      },
+      {
+        "text": "Posterior cervical lymphadenitis",
+        "feedback": "Correct! Winterbottom sign refers to posterior cervical lymphadenitis."
+      },
+      {
+        "text": "Narcolepsy",
+        "feedback": "Incorrect. Narcolepsy is a symptom, not Winterbottom sign."
+      },
+      {
+        "text": "Transient erythema",
+        "feedback": "Incorrect. This is not Winterbottom sign."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 43,
+    "question": "The drug that can clear trypanosomes from blood and lymph nodes and is active in late nervous system stages of African sleeping sickness is",
+    "options": [
+      {
+        "text": "Emetine",
+        "feedback": "Incorrect. Emetine is used for amoebiasis."
+      },
+      {
+        "text": "Melarsoprol",
+        "feedback": "Correct! Melarsoprol is active in late nervous system stages of African sleeping sickness."
+      },
+      {
+        "text": "Nifurtimox",
+        "feedback": "Incorrect. Nifurtimox is used for Chagas disease."
+      },
+      {
+        "text": "Suramin",
+        "feedback": "Incorrect. Suramin is used for early stages of African sleeping sickness."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 44,
+    "question": "Which of the following is not true about West African trypanosomiasis",
+    "options": [
+      {
+        "text": "Primary reservoirs are human",
+        "feedback": "Incorrect. This is true - humans are the primary reservoir."
+      },
+      {
+        "text": "Low parasitemia",
+        "feedback": "Incorrect. This is true - T. gambiense causes low parasitemia."
+      },
+      {
+        "text": "Illness is usually chronic",
+        "feedback": "Incorrect. This is true - West African trypanosomiasis is chronic."
+      },
+      {
+        "text": "Minimal lymphadenopathy",
+        "feedback": "Correct! West African trypanosomiasis causes PROMINENT lymphadenopathy (Winterbottom sign), not minimal."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 45,
+    "question": "Chronic infections with which of the following hemoflagellates may be associated with megaesophagus or megacolon",
+    "options": [
+      {
+        "text": "Trypanosoma gambiense",
+        "feedback": "Incorrect. T. gambiense does not cause megaesophagus or megacolon."
+      },
+      {
+        "text": "Trypanosoma cruzi",
+        "feedback": "Correct! T. cruzi can cause megaesophagus and megacolon (Chagas disease)."
+      },
+      {
+        "text": "Leishmania donovani",
+        "feedback": "Incorrect. L. donovani causes kala-azar, not megaesophagus."
+      },
+      {
+        "text": "Leishmania tropica",
+        "feedback": "Incorrect. L. tropica causes cutaneous leishmaniasis."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 46,
+    "question": "True about visceral leishmaniasis is/are",
+    "options": [
+      {
+        "text": "Caused by Leishmania tropica",
+        "feedback": "Incorrect. Visceral leishmaniasis is caused by L. donovani."
+      },
+      {
+        "text": "Post leishmaniasis dermatitis develops in 20% of patients",
+        "feedback": "Incorrect. Post-kala-azar dermal leishmaniasis develops in about 10-20% of patients."
+      },
+      {
+        "text": "Antimonial compounds are useful",
+        "feedback": "Correct! Antimonial compounds (sodium stibogluconate) are used for treatment."
+      },
+      {
+        "text": "Vector is tsetse fly",
+        "feedback": "Incorrect. The vector is sandfly, not tsetse fly."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 47,
+    "question": "Which of the following is most severely affected in Kala-azar",
+    "options": [
+      {
+        "text": "Spleen",
+        "feedback": "Correct! The spleen is most severely affected in kala-azar (splenomegaly)."
+      },
+      {
+        "text": "Liver",
+        "feedback": "Incorrect. The liver is affected but not as severely as the spleen."
+      },
+      {
+        "text": "Lymph nodes",
+        "feedback": "Incorrect. Lymph nodes are affected but not the most severely."
+      },
+      {
+        "text": "Bone marrow",
+        "feedback": "Incorrect. Bone marrow is affected but not the most severely."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 48,
+    "question": "LD bodies are",
+    "options": [
+      {
+        "text": "Amastigotes of Leishmania donovani inside RBCs",
+        "feedback": "Incorrect. LD bodies are inside macrophages, not RBCs."
+      },
+      {
+        "text": "Giant cells seen in leishmaniasis",
+        "feedback": "Incorrect. LD bodies are not giant cells."
+      },
+      {
+        "text": "Degenerative lesions seen in leishmaniasis",
+        "feedback": "Incorrect. LD bodies are not degenerative lesions."
+      },
+      {
+        "text": "Amastigotes of Leishmania donovani inside macrophages",
+        "feedback": "Correct! LD bodies are amastigotes of L. donovani inside macrophages."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 49,
+    "question": "In a case of Kala-azar, aldehyde test becomes positive after",
+    "options": [
+      {
+        "text": "2 weeks",
+        "feedback": "Incorrect. The aldehyde test becomes positive after a longer duration."
+      },
+      {
+        "text": "4 weeks",
+        "feedback": "Incorrect. The aldehyde test becomes positive after a longer duration."
+      },
+      {
+        "text": "8 weeks",
+        "feedback": "Incorrect. The aldehyde test becomes positive after 12 weeks."
+      },
+      {
+        "text": "12 weeks",
+        "feedback": "Correct! Aldehyde test becomes positive after 12 weeks of infection."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 50,
+    "question": "Mucocutaneous leishmaniasis is caused by",
+    "options": [
+      {
+        "text": "Leishmania braziliensis",
+        "feedback": "Correct! L. braziliensis causes mucocutaneous leishmaniasis."
+      },
+      {
+        "text": "Leishmania donovani",
+        "feedback": "Incorrect. L. donovani causes visceral leishmaniasis."
+      },
+      {
+        "text": "Leishmania tropica",
+        "feedback": "Incorrect. L. tropica causes cutaneous leishmaniasis."
+      },
+      {
+        "text": "None of the above",
+        "feedback": "Incorrect. L. braziliensis is the correct answer."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 51,
+    "question": "Chiclero's ulcer is caused by",
+    "options": [
+      {
+        "text": "Leishmania mexicana complex",
+        "feedback": "Correct! Chiclero's ulcer is caused by L. mexicana complex."
+      },
+      {
+        "text": "Leishmania braziliensis complex",
+        "feedback": "Incorrect. L. braziliensis causes mucocutaneous leishmaniasis."
+      },
+      {
+        "text": "Leishmania tropica",
+        "feedback": "Incorrect. L. tropica causes cutaneous leishmaniasis."
+      },
+      {
+        "text": "Leishmania infantum",
+        "feedback": "Incorrect. L. infantum causes visceral leishmaniasis."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 52,
+    "question": "Old RBCs are preferentially infected by",
+    "options": [
+      {
+        "text": "Plasmodium falciparum",
+        "feedback": "Incorrect. P. falciparum infects young RBCs."
+      },
+      {
+        "text": "Plasmodium malariae",
+        "feedback": "Correct! P. malariae preferentially infects old RBCs."
+      },
+      {
+        "text": "Plasmodium vivax",
+        "feedback": "Incorrect. P. vivax infects young RBCs (reticulocytes)."
+      },
+      {
+        "text": "Plasmodium ovale",
+        "feedback": "Incorrect. P. ovale infects young RBCs."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 53,
+    "question": "The infective form of the malaria parasite is",
+    "options": [
+      {
+        "text": "Oocyst",
+        "feedback": "Incorrect. Oocyst is a stage in the mosquito, not infective to humans."
+      },
+      {
+        "text": "Sporozoite",
+        "feedback": "Correct! Sporozoites are the infective form injected by mosquitoes."
+      },
+      {
+        "text": "Bradyzoite",
+        "feedback": "Incorrect. Bradyzoites are found in Toxoplasma."
+      },
+      {
+        "text": "Tachyzoite",
+        "feedback": "Incorrect. Tachyzoites are found in Toxoplasma."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 54,
+    "question": "Prolonged parasitism in malaria is due to",
+    "options": [
+      {
+        "text": "Antigenic variation",
+        "feedback": "Incorrect. Prolonged parasitism is not primarily due to antigenic variation."
+      },
+      {
+        "text": "Intracellularity of parasite",
+        "feedback": "Correct! The intracellular location of the parasite helps it evade the immune system."
+      },
+      {
+        "text": "Immunosuppression",
+        "feedback": "Incorrect. Immunosuppression is not the primary mechanism."
+      },
+      {
+        "text": "Sequestration",
+        "feedback": "Incorrect. Sequestration is specific to P. falciparum."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 55,
+    "question": "Malaria pigment is formed by",
+    "options": [
+      {
+        "text": "Parasite",
+        "feedback": "Incorrect. The parasite does not form the pigment directly."
+      },
+      {
+        "text": "Bilirubin",
+        "feedback": "Incorrect. Bilirubin is not the malaria pigment."
+      },
+      {
+        "text": "Hemoglobin",
+        "feedback": "Correct! Malaria pigment (hemozoin) is formed from hemoglobin breakdown."
+      },
+      {
+        "text": "All of the above",
+        "feedback": "Incorrect. Only hemoglobin is correct."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 56,
+    "question": "Schuffner's dot in RBCs are seen in infection with",
+    "options": [
+      {
+        "text": "Plasmodium vivax",
+        "feedback": "Correct! Schuffner's dots are seen in P. vivax and P. ovale infections."
+      },
+      {
+        "text": "Plasmodium falciparum",
+        "feedback": "Incorrect. P. falciparum shows Maurer's dots."
+      },
+      {
+        "text": "Plasmodium malariae",
+        "feedback": "Incorrect. P. malariae shows Ziemann's dots."
+      },
+      {
+        "text": "Plasmodium ovale",
+        "feedback": "Incorrect. While P. ovale also shows Schuffner's dots, P. vivax is the classic answer."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 57,
+    "question": "Quartan Malaria is caused by",
+    "options": [
+      {
+        "text": "Plasmodium vivax",
+        "feedback": "Incorrect. P. vivax causes tertian malaria."
+      },
+      {
+        "text": "Plasmodium falciparum",
+        "feedback": "Incorrect. P. falciparum causes malignant tertian malaria."
+      },
+      {
+        "text": "Plasmodium malariae",
+        "feedback": "Correct! P. malariae causes quartan malaria (every 72 hours)."
+      },
+      {
+        "text": "Plasmodium ovale",
+        "feedback": "Incorrect. P. ovale causes tertian malaria."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 58,
+    "question": "Schizonts of Plasmodium falciparum are not found in peripheral blood because",
+    "options": [
+      {
+        "text": "Schizonts are absent in the life cycle",
+        "feedback": "Incorrect. Schizonts are present in the life cycle."
+      },
+      {
+        "text": "Schizonts are killed by antibodies",
+        "feedback": "Incorrect. This is not the reason."
+      },
+      {
+        "text": "Schizonts develop only in capillaries of internal organs",
+        "feedback": "Correct! P. falciparum schizonts develop in the capillaries of internal organs (sequestration)."
+      },
+      {
+        "text": "None of the above",
+        "feedback": "Incorrect. The above answer is correct."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 59,
+    "question": "Crescent-shaped or banana-shaped gametocytes are seen in infection with",
+    "options": [
+      {
+        "text": "Plasmodium vivax",
+        "feedback": "Incorrect. P. vivax gametocytes are round."
+      },
+      {
+        "text": "Plasmodium falciparum",
+        "feedback": "Correct! P. falciparum gametocytes are crescent/banana-shaped."
+      },
+      {
+        "text": "Plasmodium malariae",
+        "feedback": "Incorrect. P. malariae gametocytes are round."
+      },
+      {
+        "text": "Plasmodium ovale",
+        "feedback": "Incorrect. P. ovale gametocytes are round."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 60,
+    "question": "Malaria is not seen in patients with",
+    "options": [
+      {
+        "text": "G6PD deficiency",
+        "feedback": "Incorrect. G6PD deficiency provides some protection but malaria can still occur."
+      },
+      {
+        "text": "Sickle cell trait",
+        "feedback": "Incorrect. Sickle cell trait provides protection but malaria can still occur."
+      },
+      {
+        "text": "Duffy negative blood group",
+        "feedback": "Correct! Duffy negative individuals are resistant to P. vivax infection."
+      },
+      {
+        "text": "All of the above",
+        "feedback": "Incorrect. Only Duffy negative provides resistance to P. vivax."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 61,
+    "question": "Which plasmodial infection is more often associated with nephritic syndrome",
+    "options": [
+      {
+        "text": "Plasmodium vivax",
+        "feedback": "Incorrect. P. vivax is less commonly associated with nephritic syndrome."
+      },
+      {
+        "text": "Plasmodium falciparum",
+        "feedback": "Incorrect. P. falciparum is less commonly associated with nephritic syndrome."
+      },
+      {
+        "text": "Plasmodium malariae",
+        "feedback": "Correct! P. malariae is associated with nephritic syndrome (quartan malaria nephropathy)."
+      },
+      {
+        "text": "Plasmodium ovale",
+        "feedback": "Incorrect. P. ovale is rarely associated with nephritic syndrome."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 62,
+    "question": "Which is the treatment of choice for benign tertian malaria",
+    "options": [
+      {
+        "text": "Sulfamethoxazole - pyrimethamine",
+        "feedback": "Incorrect. This is used for other conditions."
+      },
+      {
+        "text": "Quinine",
+        "feedback": "Incorrect. Quinine is used for severe malaria."
+      },
+      {
+        "text": "Mefloquine",
+        "feedback": "Incorrect. Mefloquine is used for chloroquine-resistant malaria."
+      },
+      {
+        "text": "Chloroquine",
+        "feedback": "Correct! Chloroquine is the treatment of choice for benign tertian malaria (P. vivax, P. ovale, P. malariae)."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 63,
+    "question": "Gametocidal pernicious malaria may occur in",
+    "options": [
+      {
+        "text": "Plasmodium vivax",
+        "feedback": "Incorrect. Pernicious malaria is not associated with P. vivax."
+      },
+      {
+        "text": "Plasmodium falciparum",
+        "feedback": "Correct! P. falciparum causes pernicious malaria (severe malaria)."
+      },
+      {
+        "text": "Plasmodium malariae",
+        "feedback": "Incorrect. P. malariae does not cause pernicious malaria."
+      },
+      {
+        "text": "Plasmodium ovale",
+        "feedback": "Incorrect. P. ovale does not cause pernicious malaria."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 64,
+    "question": "Babesiosis is transmitted by",
+    "options": [
+      {
+        "text": "Ticks",
+        "feedback": "Correct! Babesiosis is transmitted by ticks (Ixodes)."
+      },
+      {
+        "text": "Mites",
+        "feedback": "Incorrect. Mites are not vectors for Babesia."
+      },
+      {
+        "text": "Flea",
+        "feedback": "Incorrect. Fleas are not vectors for Babesia."
+      },
+      {
+        "text": "Mosquito",
+        "feedback": "Incorrect. Mosquitoes are not vectors for Babesia."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 65,
+    "question": "Maltose cross is a characteristic feature of",
+    "options": [
+      {
+        "text": "Cryptococcus neoformans",
+        "feedback": "Incorrect. Maltose cross is not a feature of Cryptococcus."
+      },
+      {
+        "text": "Babesia microti",
+        "feedback": "Correct! Maltose cross is characteristic of Babesia microti."
+      },
+      {
+        "text": "Blastomycosis",
+        "feedback": "Incorrect. Maltose cross is not a feature of Blastomycosis."
+      },
+      {
+        "text": "Micrococcus",
+        "feedback": "Incorrect. Maltose cross is not a feature of Micrococcus."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 66,
+    "question": "Route of transmission of Toxoplasma",
+    "options": [
+      {
+        "text": "Blood",
+        "feedback": "Correct! Toxoplasma can be transmitted through blood (blood transfusion)."
+      },
+      {
+        "text": "Feces",
+        "feedback": "Incorrect. While Toxoplasma is shed in cat feces, the primary route of transmission is not feces-to-human."
+      },
+      {
+        "text": "Urine",
+        "feedback": "Incorrect. Urine is not a route of transmission."
+      },
+      {
+        "text": "None",
+        "feedback": "Incorrect. Blood is a route of transmission."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 67,
+    "question": "Toxoplasma gondii lives inside the",
+    "options": [
+      {
+        "text": "Lumen of small intestine",
+        "feedback": "Incorrect. T. gondii does not live in the intestinal lumen."
+      },
+      {
+        "text": "Lumen of large intestine",
+        "feedback": "Incorrect. T. gondii does not live in the intestinal lumen."
+      },
+      {
+        "text": "Reticuloendothelial cell and many other nucleated cells",
+        "feedback": "Correct! T. gondii is an intracellular parasite that lives in nucleated cells."
+      },
+      {
+        "text": "RBC",
+        "feedback": "Incorrect. T. gondii does not live in RBCs."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 68,
+    "question": "Oocyst of toxoplasma is found in",
+    "options": [
+      {
+        "text": "Cat",
+        "feedback": "Correct! Oocysts are found in cat feces (definitive host)."
+      },
+      {
+        "text": "Dog",
+        "feedback": "Incorrect. Dogs are not the definitive host for T. gondii."
+      },
+      {
+        "text": "Mosquito",
+        "feedback": "Incorrect. Mosquitoes are not involved in T. gondii transmission."
+      },
+      {
+        "text": "Cow",
+        "feedback": "Incorrect. Cows are intermediate hosts."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 69,
+    "question": "Toxoplasmosis in the fetus can be best confirmed by",
+    "options": [
+      {
+        "text": "IgM antibodies in the mother",
+        "feedback": "Incorrect. Maternal IgM cannot confirm fetal infection."
+      },
+      {
+        "text": "IgM antibodies in the fetus",
+        "feedback": "Correct! Fetal IgM antibodies confirm congenital infection."
+      },
+      {
+        "text": "IgG antibodies in the mother",
+        "feedback": "Incorrect. Maternal IgG indicates past infection, not fetal infection."
+      },
+      {
+        "text": "IgG antibodies in the fetus",
+        "feedback": "Incorrect. Fetal IgG may be maternal (transferred), so not diagnostic."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 70,
+    "question": "Intermediate hosts of toxoplasmosis are",
+    "options": [
+      {
+        "text": "Sheep",
+        "feedback": "Incorrect. Sheep are intermediate hosts, but not the only ones."
+      },
+      {
+        "text": "Cattle",
+        "feedback": "Incorrect. Cattle are intermediate hosts, but not the only ones."
+      },
+      {
+        "text": "Pigs",
+        "feedback": "Incorrect. Pigs are intermediate hosts, but not the only ones."
+      },
+      {
+        "text": "All of the above",
+        "feedback": "Correct! All of these (sheep, cattle, pigs) are intermediate hosts."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 71,
+    "question": "The following statements regarding congenital toxoplasmosis are correct except",
+    "options": [
+      {
+        "text": "Most severe form of congenital infection occurs, if it is acquired in 1st trimester",
+        "feedback": "Incorrect. This statement is correct."
+      },
+      {
+        "text": "Chorioretinitis and hydrocephalus are common manifestations in congenital infections",
+        "feedback": "Incorrect. This statement is correct."
+      },
+      {
+        "text": "Presence of Toxoplasma-specific IgM antibodies in an infant are suggestive of congenital infection",
+        "feedback": "Incorrect. This statement is correct."
+      },
+      {
+        "text": "Most severe form of congenital infection occur if it is acquired in 3rd trimester",
+        "feedback": "Correct! This statement is FALSE. The most severe form occurs when acquired in the 1st trimester, not the 3rd."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 72,
+    "question": "Frenkel's skin test is positive in",
+    "options": [
+      {
+        "text": "Spinal cord compression",
+        "feedback": "Incorrect. Frenkel's test is not for spinal cord compression."
+      },
+      {
+        "text": "Toxoplasmosis",
+        "feedback": "Correct! Frenkel's skin test is used for toxoplasmosis."
+      },
+      {
+        "text": "Pemphigus",
+        "feedback": "Incorrect. Frenkel's test is not for pemphigus."
+      },
+      {
+        "text": "Pemphigoid",
+        "feedback": "Incorrect. Frenkel's test is not for pemphigoid."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 73,
+    "question": "In humans, cryptosporidiosis presents as",
+    "options": [
+      {
+        "text": "Meningitis",
+        "feedback": "Incorrect. Cryptosporidium does not cause meningitis."
+      },
+      {
+        "text": "Diarrhea",
+        "feedback": "Correct! Cryptosporidiosis presents as diarrhea."
+      },
+      {
+        "text": "Pneumonia",
+        "feedback": "Incorrect. Cryptosporidium does not cause pneumonia."
+      },
+      {
+        "text": "Asymptomatic infection",
+        "feedback": "Incorrect. Cryptosporidiosis is usually symptomatic."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 74,
+    "question": "Which stain demonstrates the oocyst of Cryptosporidium best",
+    "options": [
+      {
+        "text": "Hematoxylin-eosin",
+        "feedback": "Incorrect. HE does not stain Cryptosporidium well."
+      },
+      {
+        "text": "Gram's stain",
+        "feedback": "Incorrect. Gram stain is not used for Cryptosporidium."
+      },
+      {
+        "text": "Kinyoun modified acid fast stain",
+        "feedback": "Correct! Modified acid-fast stain (Kinyoun) is used to demonstrate Cryptosporidium oocysts."
+      },
+      {
+        "text": "Modified trichrome stain",
+        "feedback": "Incorrect. Modified trichrome is used for Microsporidia."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 75,
+    "question": "All of the following cause diarrhea except",
+    "options": [
+      {
+        "text": "Entamoeba histolytica",
+        "feedback": "Incorrect. E. histolytica causes diarrhea."
+      },
+      {
+        "text": "Giardia lamblia",
+        "feedback": "Incorrect. Giardia causes diarrhea."
+      },
+      {
+        "text": "Naegleria fowleri",
+        "feedback": "Correct! N. fowleri causes meningoencephalitis, NOT diarrhea."
+      },
+      {
+        "text": "Cyclospora cayetanensis",
+        "feedback": "Incorrect. Cyclospora causes diarrhea."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 76,
+    "question": "The oval oocyst of Isospora belli found in human feces measures",
+    "options": [
+      {
+        "text": "1-3 μm × 5-7 μm",
+        "feedback": "Incorrect. This size is too small."
+      },
+      {
+        "text": "3-5 μm × 8-10 μm",
+        "feedback": "Incorrect. This size is too small."
+      },
+      {
+        "text": "5-8 μm × 10-15 μm",
+        "feedback": "Incorrect. This size is too small."
+      },
+      {
+        "text": "22-33 μm × 10-15 μm",
+        "feedback": "Correct! I. belli oocysts measure 22-33 μm × 10-15 μm."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 77,
+    "question": "Stool in Isospora belli infection may contain all except",
+    "options": [
+      {
+        "text": "High fecal content",
+        "feedback": "Incorrect. High fecal content is present."
+      },
+      {
+        "text": "Blood",
+        "feedback": "Correct! Blood is NOT typically present in Isospora infection."
+      },
+      {
+        "text": "Fatty acid crystals",
+        "feedback": "Incorrect. Fatty acid crystals are present."
+      },
+      {
+        "text": "Charcot-Leyden crystals",
+        "feedback": "Incorrect. Charcot-Leyden crystals are present."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 78,
+    "question": "All are true about Microsporidia except",
+    "options": [
+      {
+        "text": "First protozoan parasite studied by Louis Pasteur",
+        "feedback": "Incorrect. This statement is true - Microsporidia were studied by Pasteur."
+      },
+      {
+        "text": "Causative agent of silk worm disease",
+        "feedback": "Incorrect. This statement is true - Microsporidia cause pebrine in silkworms."
+      },
+      {
+        "text": "Extracellular spore-forming protozoa",
+        "feedback": "Correct! This statement is FALSE. Microsporidia are INTRACELLULAR spore-forming parasites."
+      },
+      {
+        "text": "Cause infection in immunocompromised subjects",
+        "feedback": "Incorrect. This statement is true."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 79,
+    "question": "Laboratory diagnosis of Microsporidia can be done by all except",
+    "options": [
+      {
+        "text": "Modified trichrome stain",
+        "feedback": "Incorrect. Modified trichrome stain is used for diagnosis."
+      },
+      {
+        "text": "Hematoxylin and eosin stain",
+        "feedback": "Correct! HE stain is NOT used for Microsporidia diagnosis."
+      },
+      {
+        "text": "Direct fluorescent antibody",
+        "feedback": "Incorrect. DFA can be used for diagnosis."
+      },
+      {
+        "text": "Electron microscopy",
+        "feedback": "Incorrect. EM is used for definitive diagnosis."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 80,
+    "question": "Enterocytozoon bienneusi preferentially infects",
+    "options": [
+      {
+        "text": "Brain",
+        "feedback": "Incorrect. E. bienneusi does not preferentially infect the brain."
+      },
+      {
+        "text": "Conjunctiva",
+        "feedback": "Incorrect. E. bienneusi does not preferentially infect the conjunctiva."
+      },
+      {
+        "text": "Kidneys",
+        "feedback": "Incorrect. E. bienneusi does not preferentially infect the kidneys."
+      },
+      {
+        "text": "Small intestine",
+        "feedback": "Correct! E. bienneusi preferentially infects the small intestine."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 81,
+    "question": "Microsporidial keratoconjunctivitis is commonly caused by",
+    "options": [
+      {
+        "text": "Enterocytozoon bienneusi",
+        "feedback": "Incorrect. E. bienneusi causes intestinal infection."
+      },
+      {
+        "text": "Vittiforma",
+        "feedback": "Incorrect. Vittiforma is not a common cause."
+      },
+      {
+        "text": "Encephalitozoon hellem",
+        "feedback": "Correct! E. hellem commonly causes keratoconjunctivitis."
+      },
+      {
+        "text": "Encephalitozoon intestinalis",
+        "feedback": "Incorrect. E. intestinalis causes intestinal infection."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 82,
+    "question": "Which of the following has been recently classified as fungus",
+    "options": [
+      {
+        "text": "Pneumocystis jirovecii",
+        "feedback": "Correct! P. jirovecii was reclassified as a fungus."
+      },
+      {
+        "text": "Cryptosporidium parvum",
+        "feedback": "Incorrect. C. parvum remains a protozoan."
+      },
+      {
+        "text": "Isospora belli",
+        "feedback": "Incorrect. I. belli remains a protozoan."
+      },
+      {
+        "text": "Microsporidia",
+        "feedback": "Incorrect. Microsporidia are now classified as fungi."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 83,
+    "question": "Infective form of Pneumocystis jirovecii is",
+    "options": [
+      {
+        "text": "Tachyzoite",
+        "feedback": "Incorrect. Tachyzoites are seen in Toxoplasma."
+      },
+      {
+        "text": "Cyst",
+        "feedback": "Correct! The cyst is the infective form of P. jirovecii."
+      },
+      {
+        "text": "Sporozoite",
+        "feedback": "Incorrect. Sporozoites are seen in Plasmodium."
+      },
+      {
+        "text": "Trophozoite",
+        "feedback": "Incorrect. The trophozoite is not the infective form."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 84,
+    "question": "In a case of pneumocystis pneumonia, chest X-ray can reveal all the following except",
+    "options": [
+      {
+        "text": "Cavitation",
+        "feedback": "Correct! Cavitation is NOT seen in PCP (Pneumocystis pneumonia)."
+      },
+      {
+        "text": "Nodular densities",
+        "feedback": "Incorrect. Nodular densities can be seen."
+      },
+      {
+        "text": "Lobar infiltration",
+        "feedback": "Incorrect. Lobar infiltration can be seen."
+      },
+      {
+        "text": "Honey-comb appearance",
+        "feedback": "Incorrect. Honey-comb appearance can be seen."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 85,
+    "question": "All of the following cause opportunistic infections in AIDS except",
+    "options": [
+      {
+        "text": "Pneumocystis jirovecii",
+        "feedback": "Incorrect. P. jirovecii causes opportunistic infections in AIDS."
+      },
+      {
+        "text": "Toxoplasma gondii",
+        "feedback": "Incorrect. T. gondii causes opportunistic infections in AIDS."
+      },
+      {
+        "text": "Entamoeba coli",
+        "feedback": "Correct! E. coli is nonpathogenic and does not cause opportunistic infections in AIDS."
+      },
+      {
+        "text": "Microsporidia",
+        "feedback": "Incorrect. Microsporidia cause opportunistic infections in AIDS."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 86,
+    "question": "Largest protozoal parasite is",
+    "options": [
+      {
+        "text": "Entamoeba histolytica",
+        "feedback": "Incorrect. E. histolytica is not the largest."
+      },
+      {
+        "text": "Trichomonas vaginalis",
+        "feedback": "Incorrect. T. vaginalis is not the largest."
+      },
+      {
+        "text": "Leishmania donovani",
+        "feedback": "Incorrect. L. donovani is not the largest."
+      },
+      {
+        "text": "Balantidium coli",
+        "feedback": "Correct! B. coli is the largest protozoan parasite."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 87,
+    "question": "The infective form of Balantidium coli is",
+    "options": [
+      {
+        "text": "Tachyzoite",
+        "feedback": "Incorrect. Tachyzoites are seen in Toxoplasma."
+      },
+      {
+        "text": "Cyst",
+        "feedback": "Correct! The cyst is the infective form of B. coli."
+      },
+      {
+        "text": "Sporozoite",
+        "feedback": "Incorrect. Sporozoites are seen in Plasmodium."
+      },
+      {
+        "text": "Trophozoite",
+        "feedback": "Incorrect. Trophozoites are not infective."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 88,
+    "question": "Which of the following acts as the main reservoir of Balantidium coli infection",
+    "options": [
+      {
+        "text": "Man",
+        "feedback": "Incorrect. Man is not the main reservoir."
+      },
+      {
+        "text": "Monkey",
+        "feedback": "Incorrect. Monkeys are not the main reservoir."
+      },
+      {
+        "text": "Pig",
+        "feedback": "Correct! Pigs are the main reservoir of B. coli."
+      },
+      {
+        "text": "Cow",
+        "feedback": "Incorrect. Cows are not the main reservoir."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 89,
+    "question": "Drug of choice for treating balantidiasis",
+    "options": [
+      {
+        "text": "Doxycycline",
+        "feedback": "Incorrect. Doxycycline is not the drug of choice."
+      },
+      {
+        "text": "Tetracycline",
+        "feedback": "Correct! Tetracycline is the drug of choice for balantidiasis."
+      },
+      {
+        "text": "Metronidazole",
+        "feedback": "Incorrect. Metronidazole is not the drug of choice."
+      },
+      {
+        "text": "Pentamidine",
+        "feedback": "Incorrect. Pentamidine is not the drug of choice."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 90,
+    "question": "Digestive tract is completely absent in",
+    "options": [
+      {
+        "text": "Trematodes",
+        "feedback": "Incorrect. Trematodes have a digestive tract."
+      },
+      {
+        "text": "Cestodes",
+        "feedback": "Correct! Cestodes (tapeworms) have no digestive tract."
+      },
+      {
+        "text": "Nematodes",
+        "feedback": "Incorrect. Nematodes have a complete digestive tract."
+      },
+      {
+        "text": "All of the above",
+        "feedback": "Incorrect. Only cestodes lack a digestive tract."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 91,
+    "question": "Sexes are always separate in",
+    "options": [
+      {
+        "text": "Cestodes",
+        "feedback": "Incorrect. Cestodes are hermaphroditic."
+      },
+      {
+        "text": "Trematodes",
+        "feedback": "Incorrect. Trematodes are hermaphroditic (except schistosomes)."
+      },
+      {
+        "text": "Nematodes",
+        "feedback": "Correct! Nematodes have separate sexes (dioecious)."
+      },
+      {
+        "text": "None of the above",
+        "feedback": "Incorrect. Nematodes have separate sexes."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 92,
+    "question": "Nematodes are differentiated from other worms by the following except",
+    "options": [
+      {
+        "text": "Absent fragmentation",
+        "feedback": "Incorrect. Nematodes do not have fragmentation."
+      },
+      {
+        "text": "Flat or fleshy leaf-like worm",
+        "feedback": "Correct! Nematodes are cylindrical, not flat/leaf-like. This is a characteristic of trematodes and cestodes."
+      },
+      {
+        "text": "Separate sexes",
+        "feedback": "Incorrect. Nematodes have separate sexes."
+      },
+      {
+        "text": "Cylindrical body",
+        "feedback": "Incorrect. Nematodes have a cylindrical body."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 93,
+    "question": "Which of the following worm requires two intermediate hosts",
+    "options": [
+      {
+        "text": "Taenia saginata",
+        "feedback": "Incorrect. T. saginata requires one intermediate host (cattle)."
+      },
+      {
+        "text": "Diphyllobothrium latum",
+        "feedback": "Correct! D. latum requires two intermediate hosts (copepod and fish)."
+      },
+      {
+        "text": "Hymenolepis nana",
+        "feedback": "Incorrect. H. nana does not require an intermediate host."
+      },
+      {
+        "text": "Echinococcus granulosus",
+        "feedback": "Incorrect. E. granulosus requires one intermediate host."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 94,
+    "question": "Which of the following statement is true in respect to trematodes",
+    "options": [
+      {
+        "text": "Dorsoventrally flattened",
+        "feedback": "Incorrect. While this is true, it's not the complete answer."
+      },
+      {
+        "text": "Intermediate host is snail",
+        "feedback": "Incorrect. While this is true, it's not the complete answer."
+      },
+      {
+        "text": "Hermaphrodite except schistosomes",
+        "feedback": "Incorrect. While this is true, it's not the complete answer."
+      },
+      {
+        "text": "All of the above",
+        "feedback": "Correct! All three statements are true for trematodes."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 95,
+    "question": "Autoinfection is a mode of transmission in",
+    "options": [
+      {
+        "text": "Trichinella",
+        "feedback": "Incorrect. Trichinella does not cause autoinfection."
+      },
+      {
+        "text": "Cysticercosis",
+        "feedback": "Correct! Cysticercosis can occur through autoinfection (T. solium)."
+      },
+      {
+        "text": "Ancylostoma",
+        "feedback": "Incorrect. Ancylostoma does not cause autoinfection."
+      },
+      {
+        "text": "Ascaris",
+        "feedback": "Incorrect. Ascaris does not cause autoinfection."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 96,
+    "question": "Pigs are reservoir for",
+    "options": [
+      {
+        "text": "Taenia solium",
+        "feedback": "Correct! Pigs are the intermediate host/reservoir for T. solium."
+      },
+      {
+        "text": "Diphyllobothrium latum",
+        "feedback": "Incorrect. Fish are the intermediate host for D. latum."
+      },
+      {
+        "text": "Trichinella spiralis",
+        "feedback": "Incorrect. While pigs can harbor T. spiralis, they are not the primary reservoir for this specific question."
+      },
+      {
+        "text": "Ancylostoma",
+        "feedback": "Incorrect. Ancylostoma does not use pigs as a reservoir."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 97,
+    "question": "On microscopic examination, eggs are seen, but on saturation with salt solution eggs are not seen. The eggs are likely to be of",
+    "options": [
+      {
+        "text": "Trichuris trichiura",
+        "feedback": "Incorrect. T. trichiura eggs float in salt solution."
+      },
+      {
+        "text": "Taenia solium",
+        "feedback": "Correct! T. solium eggs do NOT float in saturated salt solution."
+      },
+      {
+        "text": "Ascaris lumbricoides",
+        "feedback": "Incorrect. Ascaris eggs float in salt solution."
+      },
+      {
+        "text": "Ancylostoma duodenale",
+        "feedback": "Incorrect. Hookworm eggs float in salt solution."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 98,
+    "question": "Which of the following is not a cestode",
+    "options": [
+      {
+        "text": "Diphyllobothrium latum",
+        "feedback": "Incorrect. D. latum is a cestode (fish tapeworm)."
+      },
+      {
+        "text": "Taenia saginata",
+        "feedback": "Incorrect. T. saginata is a cestode (beef tapeworm)."
+      },
+      {
+        "text": "Schistosoma mansoni",
+        "feedback": "Correct! S. mansoni is a trematode (blood fluke), not a cestode."
+      },
+      {
+        "text": "Echinococcus granulosus",
+        "feedback": "Incorrect. E. granulosus is a cestode (hydatid tapeworm)."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 99,
+    "question": "Consumption of uncooked pork is likely to cause which of the following helminthic disease",
+    "options": [
+      {
+        "text": "Taenia saginata",
+        "feedback": "Incorrect. T. saginata is from beef (cysticercus bovis)."
+      },
+      {
+        "text": "Taenia solium",
+        "feedback": "Correct! T. solium is from pork (cysticercus cellulosae)."
+      },
+      {
+        "text": "Hydatid cyst",
+        "feedback": "Incorrect. Hydatid cyst is from E. granulosus (sheep/dogs)."
+      },
+      {
+        "text": "Trichuris trichiura",
+        "feedback": "Incorrect. T. trichiura is from soil-contaminated food."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 100,
+    "question": "All of the following are true about neurocysticercosis, except",
+    "options": [
+      {
+        "text": "Not acquired by eating contaminated vegetables",
+        "feedback": "Correct! This statement is FALSE. Neurocysticercosis CAN be acquired by eating contaminated vegetables (eggs from fecal-oral route)."
+      },
+      {
+        "text": "Caused by regurgitation of larva",
+        "feedback": "Incorrect. This is true - autoinfection can occur through regurgitation."
+      },
+      {
+        "text": "Acquired by orofecal route",
+        "feedback": "Incorrect. This is true - eggs are ingested via orofecal route."
+      },
+      {
+        "text": "Acquired by eating pork",
+        "feedback": "Incorrect. This is true - cysticercosis can occur from eating undercooked pork."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 101,
+    "question": "The longest tapeworm found in man",
+    "options": [
+      {
+        "text": "Diphyllobothrium latum",
+        "feedback": "Correct! D. latum is the longest tapeworm, reaching up to 10 meters."
+      },
+      {
+        "text": "Taenia saginata",
+        "feedback": "Incorrect. T. saginata is up to 5-7 meters."
+      },
+      {
+        "text": "Taenia solium",
+        "feedback": "Incorrect. T. solium is up to 3-5 meters."
+      },
+      {
+        "text": "Echinococcus granulosus",
+        "feedback": "Incorrect. E. granulosus is only 3-6 mm."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 102,
+    "question": "Second intermediate host of Diphyllobothrium latum is",
+    "options": [
+      {
+        "text": "Cyclops",
+        "feedback": "Incorrect. Cyclops is the FIRST intermediate host."
+      },
+      {
+        "text": "Man",
+        "feedback": "Incorrect. Man is the definitive host."
+      },
+      {
+        "text": "Snail",
+        "feedback": "Incorrect. Snails are not involved in D. latum life cycle."
+      },
+      {
+        "text": "Fresh water fish",
+        "feedback": "Correct! Freshwater fish is the SECOND intermediate host."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 103,
+    "question": "Dwarf tapeworm refers to",
+    "options": [
+      {
+        "text": "Echinococcus granulosus",
+        "feedback": "Incorrect. E. granulosus is the hydatid tapeworm."
+      },
+      {
+        "text": "Loa loa",
+        "feedback": "Incorrect. Loa loa is a filarial worm."
+      },
+      {
+        "text": "Hymenolepis nana",
+        "feedback": "Correct! H. nana is the dwarf tapeworm."
+      },
+      {
+        "text": "Schistosoma mansoni",
+        "feedback": "Incorrect. S. mansoni is a blood fluke."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 104,
+    "question": "The egg of which of the following parasites consists of polar filaments arising from either end of the embryophore",
+    "options": [
+      {
+        "text": "Taenia saginata",
+        "feedback": "Incorrect. T. saginata eggs do not have polar filaments."
+      },
+      {
+        "text": "Taenia solium",
+        "feedback": "Incorrect. T. solium eggs do not have polar filaments."
+      },
+      {
+        "text": "Echinococcus granulosus",
+        "feedback": "Incorrect. E. granulosus eggs do not have polar filaments."
+      },
+      {
+        "text": "Hymenolepis nana",
+        "feedback": "Correct! H. nana eggs have polar filaments arising from the embryophore."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 105,
+    "question": "Coenurus is the larval form of",
+    "options": [
+      {
+        "text": "Taenia solium",
+        "feedback": "Incorrect. T. solium has cysticercus larva."
+      },
+      {
+        "text": "Taenia multiceps",
+        "feedback": "Correct! Coenurus is the larval form of T. multiceps."
+      },
+      {
+        "text": "Echinococcus granulosus",
+        "feedback": "Incorrect. E. granulosus has hydatid cyst."
+      },
+      {
+        "text": "Echinococcus multilocularis",
+        "feedback": "Incorrect. E. multilocularis has alveolar hydatid."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 106,
+    "question": "Larval form of Echinococcus granulosus is seen in",
+    "options": [
+      {
+        "text": "Dog",
+        "feedback": "Incorrect. Dogs are the definitive host (adult worm)."
+      },
+      {
+        "text": "Man",
+        "feedback": "Correct! Man is the intermediate host (larval form/hydatid cyst)."
+      },
+      {
+        "text": "Wolf",
+        "feedback": "Incorrect. Wolves are definitive hosts."
+      },
+      {
+        "text": "Fox",
+        "feedback": "Incorrect. Foxes are definitive hosts."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 107,
+    "question": "The adult worm of Echinococcus granulosus contains",
+    "options": [
+      {
+        "text": "3-4 segments",
+        "feedback": "Correct! E. granulosus has only 3-4 segments (scolex, neck, and 1-2 proglottids)."
+      },
+      {
+        "text": "50-100 segments",
+        "feedback": "Incorrect. This is too many for E. granulosus."
+      },
+      {
+        "text": "100-200 segments",
+        "feedback": "Incorrect. This is too many for E. granulosus."
+      },
+      {
+        "text": "1000-2000 segments",
+        "feedback": "Incorrect. This is too many for E. granulosus."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 108,
+    "question": "Which skin test is useful for diagnosis of hydatid disease",
+    "options": [
+      {
+        "text": "Casoni's test",
+        "feedback": "Correct! Casoni's test is used for hydatid disease."
+      },
+      {
+        "text": "Schick test",
+        "feedback": "Incorrect. Schick test is for diphtheria."
+      },
+      {
+        "text": "Dick's test",
+        "feedback": "Incorrect. Dick's test is for scarlet fever."
+      },
+      {
+        "text": "Tuberculin test",
+        "feedback": "Incorrect. Tuberculin test is for tuberculosis."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 109,
+    "question": "Which of the following flukes is carcinogenic",
+    "options": [
+      {
+        "text": "Fasciola",
+        "feedback": "Incorrect. Fasciola is not carcinogenic."
+      },
+      {
+        "text": "Clonorchis",
+        "feedback": "Correct! Clonorchis sinensis is associated with cholangiocarcinoma."
+      },
+      {
+        "text": "Paragonimus",
+        "feedback": "Incorrect. Paragonimus is not carcinogenic."
+      },
+      {
+        "text": "Gastrodiscoides",
+        "feedback": "Incorrect. Gastrodiscoides is not carcinogenic."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 110,
+    "question": "Organism causing biliary tract obstruction",
+    "options": [
+      {
+        "text": "Ancylostoma duodenale",
+        "feedback": "Incorrect. Hookworms do not cause biliary obstruction."
+      },
+      {
+        "text": "Clonorchis sinensis",
+        "feedback": "Correct! C. sinensis causes biliary tract obstruction."
+      },
+      {
+        "text": "Strongyloides stercoralis",
+        "feedback": "Incorrect. Strongyloides does not cause biliary obstruction."
+      },
+      {
+        "text": "Enterobius vermicularis",
+        "feedback": "Incorrect. Pinworm does not cause biliary obstruction."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 111,
+    "question": "All float in a saturated salt solution except",
+    "options": [
+      {
+        "text": "Clonorchis sinensis",
+        "feedback": "Correct! C. sinensis eggs do NOT float in saturated salt solution."
+      },
+      {
+        "text": "Fertilized eggs of Ascaris",
+        "feedback": "Incorrect. Ascaris eggs float in salt solution."
+      },
+      {
+        "text": "Larva of Strongyloides",
+        "feedback": "Incorrect. Strongyloides larvae float in salt solution."
+      },
+      {
+        "text": "Trichuris trichiura",
+        "feedback": "Incorrect. T. trichiura eggs float in salt solution."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 112,
+    "question": "Terminal spined eggs are seen in",
+    "options": [
+      {
+        "text": "Schistosoma haematobium",
+        "feedback": "Correct! S. haematobium eggs have a terminal spine."
+      },
+      {
+        "text": "Schistosoma mansoni",
+        "feedback": "Incorrect. S. mansoni has a lateral spine."
+      },
+      {
+        "text": "Schistosoma japonicum",
+        "feedback": "Incorrect. S. japonicum has a small lateral spine."
+      },
+      {
+        "text": "Clonorchis sinensis",
+        "feedback": "Incorrect. C. sinensis eggs have an operculum."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 113,
+    "question": "Largest trematode infecting humans",
+    "options": [
+      {
+        "text": "Fasciola hepatica",
+        "feedback": "Incorrect. F. hepatica is large but not the largest."
+      },
+      {
+        "text": "Fasciolopsis buski",
+        "feedback": "Correct! F. buski is the largest trematode infecting humans."
+      },
+      {
+        "text": "Schistosoma haematobium",
+        "feedback": "Incorrect. S. haematobium is not the largest."
+      },
+      {
+        "text": "Paragonimus westermani",
+        "feedback": "Incorrect. P. westermani is not the largest."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 114,
+    "question": "The second intermediate host of Fasciola hepatica is",
+    "options": [
+      {
+        "text": "Snail",
+        "feedback": "Incorrect. Snail is the FIRST intermediate host."
+      },
+      {
+        "text": "Fresh water fish",
+        "feedback": "Incorrect. F. hepatica does not use fish."
+      },
+      {
+        "text": "Crab",
+        "feedback": "Incorrect. F. hepatica does not use crabs."
+      },
+      {
+        "text": "Aquatic plants",
+        "feedback": "Correct! Aquatic plants are the second intermediate host (metacercariae encyst on plants)."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 115,
+    "question": "Schistosoma japonicum resides in",
+    "options": [
+      {
+        "text": "Superior mesenteric vein",
+        "feedback": "Correct! S. japonicum resides in the superior mesenteric vein."
+      },
+      {
+        "text": "Inferior mesenteric vein",
+        "feedback": "Incorrect. S. mansoni resides in the inferior mesenteric vein."
+      },
+      {
+        "text": "Small intestine",
+        "feedback": "Incorrect. The adult worm resides in veins, not the intestinal lumen."
+      },
+      {
+        "text": "Gall bladder",
+        "feedback": "Incorrect. S. japonicum does not reside in the gall bladder."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 116,
+    "question": "All of the following lead to bloody diarrhea except",
+    "options": [
+      {
+        "text": "Schistosoma japonicum",
+        "feedback": "Incorrect. S. japonicum can cause bloody diarrhea."
+      },
+      {
+        "text": "Entamoeba histolytica",
+        "feedback": "Incorrect. E. histolytica causes bloody diarrhea (amoebic dysentery)."
+      },
+      {
+        "text": "Schistosoma mansoni",
+        "feedback": "Incorrect. S. mansoni can cause bloody diarrhea."
+      },
+      {
+        "text": "Schistosoma haematobium",
+        "feedback": "Correct! S. haematobium causes hematuria, NOT bloody diarrhea."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 117,
+    "question": "All of the following nematodes are oviparous except",
+    "options": [
+      {
+        "text": "Ascaris",
+        "feedback": "Incorrect. Ascaris is oviparous (lays eggs)."
+      },
+      {
+        "text": "Ancylostoma",
+        "feedback": "Incorrect. Ancylostoma is oviparous (lays eggs)."
+      },
+      {
+        "text": "Trichinella",
+        "feedback": "Correct! Trichinella is viviparous (produces live larvae)."
+      },
+      {
+        "text": "Enterobius",
+        "feedback": "Incorrect. Enterobius is oviparous (lays eggs)."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 118,
+    "question": "Nematoda residing in large intestine",
+    "options": [
+      {
+        "text": "Necator",
+        "feedback": "Incorrect. Necator resides in the small intestine."
+      },
+      {
+        "text": "Trichinella",
+        "feedback": "Incorrect. Trichinella resides in the small intestine/muscles."
+      },
+      {
+        "text": "Strongyloides",
+        "feedback": "Incorrect. Strongyloides resides in the small intestine."
+      },
+      {
+        "text": "Trichuris",
+        "feedback": "Correct! Trichuris (whipworm) resides in the large intestine."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 119,
+    "question": "All of the following are somatic nematodes except",
+    "options": [
+      {
+        "text": "Loa loa",
+        "feedback": "Incorrect. Loa loa is a somatic nematode (tissue parasite)."
+      },
+      {
+        "text": "Capillaria philippinensis",
+        "feedback": "Correct! C. philippinensis is an intestinal nematode, NOT somatic."
+      },
+      {
+        "text": "Onchocerca volvulus",
+        "feedback": "Incorrect. O. volvulus is a somatic nematode (tissue parasite)."
+      },
+      {
+        "text": "Brugia malayi",
+        "feedback": "Incorrect. B. malayi is a somatic nematode (lymphatic parasite)."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 120,
+    "question": "Most common cause of visceral larva migrans",
+    "options": [
+      {
+        "text": "Ancylostoma",
+        "feedback": "Incorrect. Ancylostoma can cause cutaneous larva migrans."
+      },
+      {
+        "text": "Anisakis simplex",
+        "feedback": "Incorrect. Anisakis causes anisakiasis."
+      },
+      {
+        "text": "Strongyloides stercoralis",
+        "feedback": "Incorrect. Strongyloides causes strongyloidiasis."
+      },
+      {
+        "text": "Toxocara canis",
+        "feedback": "Correct! T. canis is the most common cause of visceral larva migrans."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 121,
+    "question": "Cutaneous larva migrans is due to",
+    "options": [
+      {
+        "text": "Ancylostoma",
+        "feedback": "Correct! Ancylostoma (hookworm) causes cutaneous larva migrans."
+      },
+      {
+        "text": "Wuchereria bancrofti",
+        "feedback": "Incorrect. W. bancrofti causes filariasis."
+      },
+      {
+        "text": "Brugia malayi",
+        "feedback": "Incorrect. B. malayi causes filariasis."
+      },
+      {
+        "text": "Dracunculus medinensis",
+        "feedback": "Incorrect. D. medinensis causes guinea worm disease."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 122,
+    "question": "A teenager who plays with dogs developed skin rash, eosinophilia, and an enlarged liver and spleen for 1 year. The most likely cause of this infection is",
+    "options": [
+      {
+        "text": "Trichinosis",
+        "feedback": "Incorrect. Trichinosis causes muscle pain and eosinophilia."
+      },
+      {
+        "text": "Schistosomiasis",
+        "feedback": "Incorrect. Schistosomiasis is from water exposure."
+      },
+      {
+        "text": "Toxoplasmosis",
+        "feedback": "Incorrect. Toxoplasmosis is from cat exposure."
+      },
+      {
+        "text": "Visceral larva migrans",
+        "feedback": "Correct! Exposure to dogs (Toxocara canis) causes VLM with hepatosplenomegaly and eosinophilia."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 123,
+    "question": "Larva found in muscle is",
+    "options": [
+      {
+        "text": "Trichinella spiralis",
+        "feedback": "Correct! T. spiralis larvae encyst in muscle."
+      },
+      {
+        "text": "Ancylostoma duodenale",
+        "feedback": "Incorrect. Hookworm larvae do not encyst in muscle."
+      },
+      {
+        "text": "Trichuris trichiura",
+        "feedback": "Incorrect. Whipworm does not encyst in muscle."
+      },
+      {
+        "text": "Enterobius vermicularis",
+        "feedback": "Incorrect. Pinworm does not encyst in muscle."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 124,
+    "question": "Which of the following is not a neuroparasite",
+    "options": [
+      {
+        "text": "Taenia solium",
+        "feedback": "Incorrect. T. solium causes neurocysticercosis."
+      },
+      {
+        "text": "Acanthamoeba",
+        "feedback": "Incorrect. Acanthamoeba causes granulomatous amoebic encephalitis."
+      },
+      {
+        "text": "Naegleria",
+        "feedback": "Incorrect. Naegleria causes primary amoebic meningoencephalitis."
+      },
+      {
+        "text": "Trichinella spiralis",
+        "feedback": "Correct! T. spiralis is NOT a neuroparasite; it affects muscle."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 125,
+    "question": "Which of the following is viviparous",
+    "options": [
+      {
+        "text": "Strongyloides stercoralis",
+        "feedback": "Incorrect. Strongyloides is oviparous (lays eggs that hatch in intestine)."
+      },
+      {
+        "text": "Trichinella spiralis",
+        "feedback": "Correct! T. spiralis is viviparous (produces live larvae)."
+      },
+      {
+        "text": "Enterobius",
+        "feedback": "Incorrect. Enterobius is oviparous."
+      },
+      {
+        "text": "Ascaris",
+        "feedback": "Incorrect. Ascaris is oviparous."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 126,
+    "question": "Best site for taking biopsy for diagnosis of trichinellosis is",
+    "options": [
+      {
+        "text": "Deltoid muscle",
+        "feedback": "Correct! The deltoid muscle is the best site for biopsy."
+      },
+      {
+        "text": "Diaphragm",
+        "feedback": "Incorrect. While the diaphragm is affected, it's not the biopsy site."
+      },
+      {
+        "text": "Pectoralis major",
+        "feedback": "Incorrect. Not the preferred biopsy site."
+      },
+      {
+        "text": "Liver",
+        "feedback": "Incorrect. Liver is not a site for Trichinella larvae."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 127,
+    "question": "Bachman's test is done to diagnose infections with",
+    "options": [
+      {
+        "text": "Schistosoma japonicum",
+        "feedback": "Incorrect. Bachman's test is not for Schistosoma."
+      },
+      {
+        "text": "Trichinella spiralis",
+        "feedback": "Correct! Bachman's test is an intradermal test for trichinellosis."
+      },
+      {
+        "text": "Trichuris trichiura",
+        "feedback": "Incorrect. Bachman's test is not for Trichuris."
+      },
+      {
+        "text": "Ancylostoma duodenale",
+        "feedback": "Incorrect. Bachman's test is not for hookworm."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 128,
+    "question": "The larval form of Trichinella can be destroyed by",
+    "options": [
+      {
+        "text": "Smoking of meat",
+        "feedback": "Incorrect. Smoking does not destroy Trichinella larvae."
+      },
+      {
+        "text": "Deep freezing of meat",
+        "feedback": "Correct! Deep freezing destroys Trichinella larvae."
+      },
+      {
+        "text": "Drying of meat",
+        "feedback": "Incorrect. Drying does not destroy Trichinella larvae."
+      },
+      {
+        "text": "Salting of meat",
+        "feedback": "Incorrect. Salting does not destroy Trichinella larvae."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 129,
+    "question": "Which of the following resides in caecum",
+    "options": [
+      {
+        "text": "Trichuris trichiura",
+        "feedback": "Correct! T. trichiura resides in the caecum and large intestine."
+      },
+      {
+        "text": "Ascaris lumbricoides",
+        "feedback": "Incorrect. Ascaris resides in the small intestine."
+      },
+      {
+        "text": "Strongyloides",
+        "feedback": "Incorrect. Strongyloides resides in the small intestine."
+      },
+      {
+        "text": "Ancylostoma",
+        "feedback": "Incorrect. Hookworm resides in the small intestine."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 130,
+    "question": "The common name for Trichuris is",
+    "options": [
+      {
+        "text": "Roundworm",
+        "feedback": "Incorrect. Roundworm is Ascaris."
+      },
+      {
+        "text": "Hookworm",
+        "feedback": "Incorrect. Hookworm is Ancylostoma/Necator."
+      },
+      {
+        "text": "Whipworm",
+        "feedback": "Correct! Trichuris is known as whipworm."
+      },
+      {
+        "text": "Seaworm",
+        "feedback": "Incorrect. Seaworm is not Trichuris."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 131,
+    "question": "Heavy infection of Trichuris is characterized by",
+    "options": [
+      {
+        "text": "< 10 eggs in stool",
+        "feedback": "Incorrect. This is not heavy infection."
+      },
+      {
+        "text": "> 10 eggs in stool",
+        "feedback": "Incorrect. This is not the threshold."
+      },
+      {
+        "text": "< 50 eggs in stool",
+        "feedback": "Incorrect. This is not the threshold."
+      },
+      {
+        "text": "> 50 eggs in stool",
+        "feedback": "Correct! Heavy Trichuris infection is > 50 eggs per stool sample."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 132,
+    "question": "All of the following statements about Trichuris are correct except",
+    "options": [
+      {
+        "text": "It resides in large intestine of man",
+        "feedback": "Incorrect. This statement is true."
+      },
+      {
+        "text": "Eggs of Trichuris float in saturated salt solution",
+        "feedback": "Incorrect. This statement is true."
+      },
+      {
+        "text": "Eggs of Trichuris do not float in saturated salt solution",
+        "feedback": "Correct! This statement is FALSE. T. trichiura eggs DO float in saturated salt solution."
+      },
+      {
+        "text": "Embryonated eggs containing rhabditiform larvae are infective to man",
+        "feedback": "Incorrect. This statement is true."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 133,
+    "question": "Parasites penetrating through skin for entry into the body are",
+    "options": [
+      {
+        "text": "Trichinella",
+        "feedback": "Incorrect. Trichinella enters through ingestion."
+      },
+      {
+        "text": "Strongyloides",
+        "feedback": "Correct! Strongyloides penetrates skin."
+      },
+      {
+        "text": "Roundworm",
+        "feedback": "Incorrect. Ascaris is ingested."
+      },
+      {
+        "text": "Trichuris trichiura",
+        "feedback": "Incorrect. Trichuris is ingested."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 134,
+    "question": "Larval form of the following parasites is found in stool except",
+    "options": [
+      {
+        "text": "Strongyloides stercoralis",
+        "feedback": "Incorrect. Rhabditiform larvae are found in stool."
+      },
+      {
+        "text": "Ancylostoma duodenale",
+        "feedback": "Incorrect. Rhabditiform larvae can be found in stool."
+      },
+      {
+        "text": "Ascaris lumbricoides",
+        "feedback": "Correct! Ascaris eggs are found in stool, NOT larvae."
+      },
+      {
+        "text": "Necator americanus",
+        "feedback": "Incorrect. Rhabditiform larvae can be found in stool."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 135,
+    "question": "Autoinfection is seen with",
+    "options": [
+      {
+        "text": "Cryptosporidium",
+        "feedback": "Incorrect. Cryptosporidium does not cause autoinfection."
+      },
+      {
+        "text": "Strongyloides",
+        "feedback": "Correct! Strongyloides stercoralis causes autoinfection."
+      },
+      {
+        "text": "Giardia",
+        "feedback": "Incorrect. Giardia does not cause autoinfection."
+      },
+      {
+        "text": "Gnathostoma",
+        "feedback": "Incorrect. Gnathostoma does not cause autoinfection."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 136,
+    "question": "The term larva currens is used for migrating larva of",
+    "options": [
+      {
+        "text": "Strongyloides stercoralis",
+        "feedback": "Correct! Larva currens is the rapidly moving larva of S. stercoralis."
+      },
+      {
+        "text": "Necator americanus",
+        "feedback": "Incorrect. N. americanus causes cutaneous larva migrans."
+      },
+      {
+        "text": "Ancylostoma duodenale",
+        "feedback": "Incorrect. A. duodenale causes cutaneous larva migrans."
+      },
+      {
+        "text": "Hymenolepis nana",
+        "feedback": "Incorrect. H. nana is a tapeworm."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 137,
+    "question": "Smallest nematode known to cause infection in man is",
+    "options": [
+      {
+        "text": "Trichinella spiralis",
+        "feedback": "Incorrect. T. spiralis is not the smallest."
+      },
+      {
+        "text": "Strongyloides stercoralis",
+        "feedback": "Correct! S. stercoralis is the smallest nematode."
+      },
+      {
+        "text": "Ancylostoma duodenale",
+        "feedback": "Incorrect. Hookworms are larger."
+      },
+      {
+        "text": "Trichuris trichiura",
+        "feedback": "Incorrect. Whipworms are larger."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 138,
+    "question": "Infective form of Strongyloides is",
+    "options": [
+      {
+        "text": "Eggs",
+        "feedback": "Incorrect. Eggs are not infective."
+      },
+      {
+        "text": "Rhabditiform larva",
+        "feedback": "Incorrect. Rhabditiform larvae are not infective."
+      },
+      {
+        "text": "Filariform larva",
+        "feedback": "Correct! Filariform larvae are the infective form."
+      },
+      {
+        "text": "Cercaria larva",
+        "feedback": "Incorrect. Cercaria larvae are seen in trematodes."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 139,
+    "question": "Baermann's funnel gauze method is used for detection of larva of",
+    "options": [
+      {
+        "text": "Necator",
+        "feedback": "Incorrect. Baermann's method is not typically used for Necator."
+      },
+      {
+        "text": "Strongyloides",
+        "feedback": "Correct! Baermann's method is used for Strongyloides larvae."
+      },
+      {
+        "text": "Ancylostoma",
+        "feedback": "Incorrect. Baermann's method is not typically used for Ancylostoma."
+      },
+      {
+        "text": "Ascaris",
+        "feedback": "Incorrect. Baermann's method is not used for Ascaris."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 140,
+    "question": "Strongyloides can be cultured in/by",
+    "options": [
+      {
+        "text": "NNN medium",
+        "feedback": "Incorrect. NNN medium is for Leishmania."
+      },
+      {
+        "text": "Harada Mori method of stool culture",
+        "feedback": "Incorrect. Harada Mori method is for hookworm."
+      },
+      {
+        "text": "Agar plate culture",
+        "feedback": "Correct! Agar plate culture is used for Strongyloides."
+      },
+      {
+        "text": "Hockmeyer's medium",
+        "feedback": "Incorrect. Hockmeyer's medium is for other parasites."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 141,
+    "question": "Highest incidence of anemia in the tropics is due to",
+    "options": [
+      {
+        "text": "Hookworm",
+        "feedback": "Correct! Hookworm is the leading cause of anemia in the tropics."
+      },
+      {
+        "text": "Thread worm",
+        "feedback": "Incorrect. Threadworm does not cause significant anemia."
+      },
+      {
+        "text": "Ascaris",
+        "feedback": "Incorrect. Ascaris does not cause significant anemia."
+      },
+      {
+        "text": "Guinea worm",
+        "feedback": "Incorrect. Guinea worm does not cause anemia."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 142,
+    "question": "The average blood loss per worm in ancylostomiasis is",
+    "options": [
+      {
+        "text": "0.2 mL/day",
+        "feedback": "Correct! Each hookworm causes about 0.2 mL blood loss per day."
+      },
+      {
+        "text": "2 mL/day",
+        "feedback": "Incorrect. This is too high."
+      },
+      {
+        "text": "0.33 mL/day",
+        "feedback": "Incorrect. This is not the correct value."
+      },
+      {
+        "text": "1 mL/day",
+        "feedback": "Incorrect. This is too high."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 143,
+    "question": "Which of the following does not cause biliary tract obstruction",
+    "options": [
+      {
+        "text": "Ascaris lumbricoides",
+        "feedback": "Incorrect. Ascaris can cause biliary obstruction."
+      },
+      {
+        "text": "Ancylostoma duodenale",
+        "feedback": "Correct! Hookworm does NOT cause biliary tract obstruction."
+      },
+      {
+        "text": "Clonorchis sinensis",
+        "feedback": "Incorrect. C. sinensis causes biliary obstruction."
+      },
+      {
+        "text": "Fasciola hepatica",
+        "feedback": "Incorrect. F. hepatica can cause biliary obstruction."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 144,
+    "question": "Which of the following stages of Ancylostoma duodenale is infective to human beings",
+    "options": [
+      {
+        "text": "Rhabditiform larva",
+        "feedback": "Incorrect. Rhabditiform larvae are not infective."
+      },
+      {
+        "text": "Filariform larva",
+        "feedback": "Correct! Filariform larvae are the infective form."
+      },
+      {
+        "text": "Eggs",
+        "feedback": "Incorrect. Eggs are not infective."
+      },
+      {
+        "text": "Adult worm",
+        "feedback": "Incorrect. Adult worms are not infective."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 145,
+    "question": "A 6-year-old girl is emaciated with a hemoglobin level of 6 g/dL. Her face appears puffy with swollen eyelids and edema over feet and ankles. There are no laboratory facilities available. The most likely cause of the child's condition is",
+    "options": [
+      {
+        "text": "Schistosomiasis",
+        "feedback": "Incorrect. Schistosomiasis does not typically cause this presentation."
+      },
+      {
+        "text": "Cercarial dermatitis",
+        "feedback": "Incorrect. Cercarial dermatitis causes skin rash."
+      },
+      {
+        "text": "Ascariasis",
+        "feedback": "Incorrect. Ascariasis does not cause severe anemia."
+      },
+      {
+        "text": "Hookworm disease",
+        "feedback": "Correct! The presentation (severe anemia, edema, malnutrition) is characteristic of hookworm disease."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 146,
+    "question": "All of the following are characteristics of Ancylostoma except",
+    "options": [
+      {
+        "text": "Its copulatory bursa has 13 rays",
+        "feedback": "Incorrect. This statement is true."
+      },
+      {
+        "text": "Caudal spine is present in females",
+        "feedback": "Incorrect. This statement is true."
+      },
+      {
+        "text": "Head is bent in a direction opposite to body",
+        "feedback": "Correct! This statement is FALSE. In Ancylostoma, the head is bent in the SAME direction as the body."
+      },
+      {
+        "text": "Vulval opening is situated in the middle of the body",
+        "feedback": "Incorrect. This statement is true."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 147,
+    "question": "Most common presenting symptom of thread worm infection amongst the following is",
+    "options": [
+      {
+        "text": "Abdominal pain",
+        "feedback": "Correct! Abdominal pain is the most common presenting symptom."
+      },
+      {
+        "text": "Rectal prolapse",
+        "feedback": "Incorrect. Rectal prolapse is not common in threadworm."
+      },
+      {
+        "text": "Urticaria",
+        "feedback": "Incorrect. Urticaria is not the most common symptom."
+      },
+      {
+        "text": "Vaginitis",
+        "feedback": "Incorrect. Vaginitis is not the most common symptom."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 148,
+    "question": "Which one of the following does not pass through the lungs",
+    "options": [
+      {
+        "text": "Hookworm",
+        "feedback": "Incorrect. Hookworm larvae pass through the lungs."
+      },
+      {
+        "text": "Ascaris",
+        "feedback": "Incorrect. Ascaris larvae pass through the lungs."
+      },
+      {
+        "text": "Strongyloides",
+        "feedback": "Incorrect. Strongyloides larvae pass through the lungs."
+      },
+      {
+        "text": "Enterobius vermicularis",
+        "feedback": "Correct! Pinworm does NOT pass through the lungs."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 149,
+    "question": "Infection with which of the following parasites may cause enuresis",
+    "options": [
+      {
+        "text": "Ascaris lumbricoides",
+        "feedback": "Incorrect. Ascaris does not cause enuresis."
+      },
+      {
+        "text": "Enterobius vermicularis",
+        "feedback": "Correct! Pinworm infection can cause enuresis (bedwetting)."
+      },
+      {
+        "text": "Trichinella spiralis",
+        "feedback": "Incorrect. Trichinella does not cause enuresis."
+      },
+      {
+        "text": "Wuchereria bancrofti",
+        "feedback": "Incorrect. W. bancrofti does not cause enuresis."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 150,
+    "question": "History of mild intestinal distress, sleeplessness, itching, and anxiety is seen in preschool child attending play school. Possible parasite agent causing these manifestations is",
+    "options": [
+      {
+        "text": "Trichomonas vaginalis",
+        "feedback": "Incorrect. T. vaginalis causes vaginitis."
+      },
+      {
+        "text": "Enterobius vermicularis",
+        "feedback": "Correct! Pinworm infection causes perianal itching, sleeplessness, and anxiety."
+      },
+      {
+        "text": "Ascaris lumbricoides",
+        "feedback": "Incorrect. Ascaris does not typically cause these symptoms."
+      },
+      {
+        "text": "Necator americanus",
+        "feedback": "Incorrect. Hookworm causes anemia, not these symptoms."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 151,
+    "question": "The common name for Enterobius vermicularis is",
+    "options": [
+      {
+        "text": "Threadworm",
+        "feedback": "Incorrect. Threadworm is Strongyloides."
+      },
+      {
+        "text": "Pinworm",
+        "feedback": "Incorrect. Pinworm is one common name."
+      },
+      {
+        "text": "Seatworm",
+        "feedback": "Correct! Enterobius is known as seatworm (and pinworm)."
+      },
+      {
+        "text": "Whip worm",
+        "feedback": "Incorrect. Whipworm is Trichuris."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 152,
+    "question": "Which of the following nematodes lays eggs containing larvae",
+    "options": [
+      {
+        "text": "Trichinella spiralis",
+        "feedback": "Incorrect. T. spiralis is viviparous (produces larvae)."
+      },
+      {
+        "text": "Enterobius vermicularis",
+        "feedback": "Correct! Pinworm eggs contain fully developed larvae (infective stage)."
+      },
+      {
+        "text": "Brugia malayi",
+        "feedback": "Incorrect. B. malayi produces microfilariae."
+      },
+      {
+        "text": "Ascaris lumbricoides",
+        "feedback": "Incorrect. Ascaris eggs are not infective when laid."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 153,
+    "question": "Which of the following parasites does not penetrate human skin",
+    "options": [
+      {
+        "text": "Ascaris lumbricoides",
+        "feedback": "Correct! Ascaris does NOT penetrate skin; it is ingested."
+      },
+      {
+        "text": "Ancylostoma duodenale",
+        "feedback": "Incorrect. Hookworm penetrates skin."
+      },
+      {
+        "text": "Strongyloides stercoralis",
+        "feedback": "Incorrect. Strongyloides penetrates skin."
+      },
+      {
+        "text": "Schistosoma haematobium",
+        "feedback": "Incorrect. Schistosoma cercariae penetrate skin."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 154,
+    "question": "The common name for Ascaris lumbricoides is",
+    "options": [
+      {
+        "text": "Roundworm",
+        "feedback": "Correct! Ascaris is known as roundworm."
+      },
+      {
+        "text": "Hookworm",
+        "feedback": "Incorrect. Hookworm is Ancylostoma/Necator."
+      },
+      {
+        "text": "Threadworm",
+        "feedback": "Incorrect. Threadworm is Strongyloides."
+      },
+      {
+        "text": "None of the above",
+        "feedback": "Incorrect. Ascaris is roundworm."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 155,
+    "question": "The largest intestinal nematode infecting humans is",
+    "options": [
+      {
+        "text": "Necator americanus",
+        "feedback": "Incorrect. Hookworm is smaller."
+      },
+      {
+        "text": "Ascaris lumbricoides",
+        "feedback": "Correct! Ascaris is the largest intestinal nematode."
+      },
+      {
+        "text": "Enterobius vermicularis",
+        "feedback": "Incorrect. Pinworm is small."
+      },
+      {
+        "text": "None of the above",
+        "feedback": "Incorrect. Ascaris is the largest."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 156,
+    "question": "All of the following are correct regarding fertilized egg of Ascaris except",
+    "options": [
+      {
+        "text": "It is always bile-stained",
+        "feedback": "Incorrect. This statement is true - fertilized Ascaris eggs are bile-stained."
+      },
+      {
+        "text": "Covered by an outer mamillated coat",
+        "feedback": "Incorrect. This statement is true."
+      },
+      {
+        "text": "Floats in saturated solution of salt",
+        "feedback": "Incorrect. This statement is true."
+      },
+      {
+        "text": "Does not float in saturated solution of salt",
+        "feedback": "Correct! This statement is FALSE. Fertilized Ascaris eggs DO float in saturated salt solution."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 157,
+    "question": "All of the following parasites have bile-stained eggs except",
+    "options": [
+      {
+        "text": "Ascaris",
+        "feedback": "Incorrect. Ascaris eggs are bile-stained."
+      },
+      {
+        "text": "Clonorchis",
+        "feedback": "Incorrect. Clonorchis eggs are bile-stained."
+      },
+      {
+        "text": "Taenia solium",
+        "feedback": "Incorrect. T. solium eggs are bile-stained."
+      },
+      {
+        "text": "Enterobius",
+        "feedback": "Correct! Enterobius eggs are NOT bile-stained (they are colorless)."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 158,
+    "question": "Loeffler's syndrome may be seen in infection with",
+    "options": [
+      {
+        "text": "Ancylostoma duodenale",
+        "feedback": "Incorrect. Hookworm can cause Loeffler's syndrome, but it's more commonly associated with Ascaris."
+      },
+      {
+        "text": "Ascaris lumbricoides",
+        "feedback": "Correct! Loeffler's syndrome (pulmonary infiltrates with eosinophilia) is seen in Ascaris infection."
+      },
+      {
+        "text": "Trichinella spiralis",
+        "feedback": "Incorrect. Trichinella does not cause Loeffler's syndrome."
+      },
+      {
+        "text": "Trichuris trichiura",
+        "feedback": "Incorrect. Trichuris does not cause Loeffler's syndrome."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 159,
+    "question": "All are true regarding filariasis except",
+    "options": [
+      {
+        "text": "Man is an intermediate host",
+        "feedback": "Correct! This statement is FALSE. Man is the DEFINITIVE host (not intermediate)."
+      },
+      {
+        "text": "Caused by Wuchereria bancrofti",
+        "feedback": "Incorrect. This statement is true."
+      },
+      {
+        "text": "Involves lymphatic system",
+        "feedback": "Incorrect. This statement is true."
+      },
+      {
+        "text": "DEC is used in treatment",
+        "feedback": "Incorrect. This statement is true."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 160,
+    "question": "All of the following are true about Brugia malayi except",
+    "options": [
+      {
+        "text": "The intermediate host in India is Mansonia mosquito",
+        "feedback": "Incorrect. This statement is true."
+      },
+      {
+        "text": "The tail tip is free from nuclei",
+        "feedback": "Correct! This statement is FALSE. B. malayi microfilariae have nuclei that extend to the tail tip."
+      },
+      {
+        "text": "Nuclei are blurred, so counting is difficult",
+        "feedback": "Incorrect. This statement is true."
+      },
+      {
+        "text": "Adult worm is found in the lymphatic system",
+        "feedback": "Incorrect. This statement is true."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 161,
+    "question": "Hydrocele and edema in foot occurs in",
+    "options": [
+      {
+        "text": "Wuchereria bancrofti",
+        "feedback": "Correct! W. bancrofti causes hydrocele and edema."
+      },
+      {
+        "text": "Brugia malayi",
+        "feedback": "Incorrect. B. malayi does not typically cause hydrocele."
+      },
+      {
+        "text": "Brugia timori",
+        "feedback": "Incorrect. B. timori does not typically cause hydrocele."
+      },
+      {
+        "text": "Onchocerca volvulus",
+        "feedback": "Incorrect. O. volvulus causes river blindness."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 162,
+    "question": "In which stage of filariasis are microfilaria seen in peripheral blood",
+    "options": [
+      {
+        "text": "Tropical eosinophilia",
+        "feedback": "Incorrect. Microfilariae are NOT seen in tropical eosinophilia."
+      },
+      {
+        "text": "Early adenolymphangitis stage",
+        "feedback": "Incorrect. Microfilariae are present in the early stage."
+      },
+      {
+        "text": "Late adenolymphangitis stage",
+        "feedback": "Incorrect. Microfilariae are present in this stage."
+      },
+      {
+        "text": "Elephantiasis",
+        "feedback": "Correct! Microfilariae are NOT seen in elephantiasis."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 163,
+    "question": "Diurnal periodicity is seen in larvae of",
+    "options": [
+      {
+        "text": "Brugia malayi",
+        "feedback": "Incorrect. B. malayi has nocturnal periodicity."
+      },
+      {
+        "text": "Wuchereria bancrofti",
+        "feedback": "Incorrect. W. bancrofti has nocturnal periodicity."
+      },
+      {
+        "text": "Loa loa",
+        "feedback": "Correct! Loa loa has diurnal periodicity (appears in blood during the day)."
+      },
+      {
+        "text": "Mansonella perstans",
+        "feedback": "Incorrect. M. perstans has no periodicity."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 164,
+    "question": "Which of the following microfilariae is unsheathed",
+    "options": [
+      {
+        "text": "Mf. loa",
+        "feedback": "Incorrect. Loa loa microfilariae are sheathed."
+      },
+      {
+        "text": "Mf. bancrofti",
+        "feedback": "Incorrect. W. bancrofti microfilariae are sheathed."
+      },
+      {
+        "text": "Mf. malayi",
+        "feedback": "Incorrect. B. malayi microfilariae are sheathed."
+      },
+      {
+        "text": "Mf. perstans",
+        "feedback": "Correct! M. perstans microfilariae are unsheathed."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 165,
+    "question": "All of the following parasites can be detected in urine sample except",
+    "options": [
+      {
+        "text": "Wuchereria bancrofti",
+        "feedback": "Incorrect. W. bancrofti microfilariae can be found in urine (chyluria)."
+      },
+      {
+        "text": "Schistosoma haematobium",
+        "feedback": "Incorrect. S. haematobium eggs are found in urine."
+      },
+      {
+        "text": "Trichomonas vaginalis",
+        "feedback": "Incorrect. T. vaginalis can be found in urine."
+      },
+      {
+        "text": "Giardia lamblia",
+        "feedback": "Correct! Giardia is NOT detected in urine; it is found in stool."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 166,
+    "question": "Fugitive or calabar swelling is seen in infection with",
+    "options": [
+      {
+        "text": "Onchocerca volvulus",
+        "feedback": "Incorrect. O. volvulus causes river blindness."
+      },
+      {
+        "text": "Loa loa",
+        "feedback": "Correct! Calabar swelling is characteristic of Loa loa infection."
+      },
+      {
+        "text": "Wuchereria bancrofti",
+        "feedback": "Incorrect. W. bancrofti causes lymphatic filariasis."
+      },
+      {
+        "text": "Brugia timori",
+        "feedback": "Incorrect. B. timori causes filariasis."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 167,
+    "question": "River blindness is the name given to disease caused by",
+    "options": [
+      {
+        "text": "Loa loa",
+        "feedback": "Incorrect. Loa loa causes Calabar swelling."
+      },
+      {
+        "text": "Onchocerca volvulus",
+        "feedback": "Correct! O. volvulus causes river blindness (onchocerciasis)."
+      },
+      {
+        "text": "Toxoplasma gondii",
+        "feedback": "Incorrect. T. gondii causes toxoplasmosis."
+      },
+      {
+        "text": "Acanthamoeba culbertsoni",
+        "feedback": "Incorrect. Acanthamoeba causes keratitis."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 168,
+    "question": "The filarial worm which can be seen in conjunctiva is",
+    "options": [
+      {
+        "text": "Brugia malayi",
+        "feedback": "Incorrect. B. malayi is found in lymphatic system."
+      },
+      {
+        "text": "Loa loa",
+        "feedback": "Correct! Loa loa can migrate across the conjunctiva."
+      },
+      {
+        "text": "Onchocerca volvulus",
+        "feedback": "Incorrect. O. volvulus is found in the eye, not conjunctiva."
+      },
+      {
+        "text": "None of the above",
+        "feedback": "Incorrect. Loa loa is correct."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 169,
+    "question": "Which of the following parasite does not enter into the body by skin penetration",
+    "options": [
+      {
+        "text": "Dracunculus",
+        "feedback": "Correct! Dracunculus enters through ingestion of infected copepods."
+      },
+      {
+        "text": "Necator americanus",
+        "feedback": "Incorrect. Hookworm penetrates skin."
+      },
+      {
+        "text": "Ancylostoma duodenale",
+        "feedback": "Incorrect. Hookworm penetrates skin."
+      },
+      {
+        "text": "Strongyloides",
+        "feedback": "Incorrect. Strongyloides penetrates skin."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 170,
+    "question": "Definitive host for Guinea worm is",
+    "options": [
+      {
+        "text": "Man",
+        "feedback": "Correct! Man is the definitive host for Dracunculus medinensis."
+      },
+      {
+        "text": "Cyclops",
+        "feedback": "Incorrect. Cyclops is the intermediate host."
+      },
+      {
+        "text": "Snail",
+        "feedback": "Incorrect. Snails are not involved."
+      },
+      {
+        "text": "Cyclops and man",
+        "feedback": "Incorrect. Only man is the definitive host."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 171,
+    "question": "Guinea worm is",
+    "options": [
+      {
+        "text": "Enterobius",
+        "feedback": "Incorrect. Enterobius is pinworm."
+      },
+      {
+        "text": "Trichuris",
+        "feedback": "Incorrect. Trichuris is whipworm."
+      },
+      {
+        "text": "Dracunculus",
+        "feedback": "Correct! Guinea worm is Dracunculus medinensis."
+      },
+      {
+        "text": "Taenia solium",
+        "feedback": "Incorrect. T. solium is pork tapeworm."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 172,
+    "question": "Cyclops is the source of infection in",
+    "options": [
+      {
+        "text": "Dracunculus",
+        "feedback": "Incorrect. Cyclops is the intermediate host for Dracunculus."
+      },
+      {
+        "text": "Spirometra",
+        "feedback": "Incorrect. Cyclops is the intermediate host for Spirometra."
+      },
+      {
+        "text": "Both",
+        "feedback": "Correct! Cyclops is involved in the life cycle of both Dracunculus and Spirometra."
+      },
+      {
+        "text": "None",
+        "feedback": "Incorrect. Cyclops is involved in both."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 173,
+    "question": "Rat lung worm is the common name of",
+    "options": [
+      {
+        "text": "Paragonimus westermani",
+        "feedback": "Incorrect. P. westermani is a lung fluke."
+      },
+      {
+        "text": "Toxocara canis",
+        "feedback": "Incorrect. T. canis causes VLM."
+      },
+      {
+        "text": "Angiostrongylus cantonensis",
+        "feedback": "Correct! A. cantonensis is the rat lung worm."
+      },
+      {
+        "text": "Mansonella streptocerca",
+        "feedback": "Incorrect. M. streptocerca is a filarial worm."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 174,
+    "question": "Paratenic host for Angiostrongylus cantonensis is",
+    "options": [
+      {
+        "text": "Rat",
+        "feedback": "Incorrect. Rat is the definitive host."
+      },
+      {
+        "text": "Man",
+        "feedback": "Correct! Man is the paratenic (accidental) host for A. cantonensis."
+      },
+      {
+        "text": "Frog",
+        "feedback": "Incorrect. Frogs are not involved in the life cycle."
+      },
+      {
+        "text": "Camel",
+        "feedback": "Incorrect. Camels are not involved."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 175,
+    "question": "All of the following parasites are found in CSF except",
+    "options": [
+      {
+        "text": "Naegleria",
+        "feedback": "Incorrect. Naegleria is found in CSF."
+      },
+      {
+        "text": "Acanthamoeba",
+        "feedback": "Incorrect. Acanthamoeba is found in CSF."
+      },
+      {
+        "text": "Angiostrongylus",
+        "feedback": "Incorrect. Angiostrongylus is found in CSF."
+      },
+      {
+        "text": "Trypanosoma",
+        "feedback": "Correct! Trypanosoma is NOT typically found in CSF (it's found in blood)."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 176,
+    "question": "Definitive host for Capillaria philippinensis is",
+    "options": [
+      {
+        "text": "Man",
+        "feedback": "Incorrect. Man is not the definitive host."
+      },
+      {
+        "text": "Rat",
+        "feedback": "Incorrect. Rats are not the definitive host."
+      },
+      {
+        "text": "Birds",
+        "feedback": "Correct! Birds are the definitive host for C. philippinensis."
+      },
+      {
+        "text": "Fish",
+        "feedback": "Incorrect. Fish are the intermediate host."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 177,
+    "question": "Time of collection of blood is important in",
+    "options": [
+      {
+        "text": "Microfilaria",
+        "feedback": "Correct! Blood collection time is important for microfilaria (periodicity)."
+      },
+      {
+        "text": "Trypanosoma spp.",
+        "feedback": "Incorrect. Trypanosomes do not show periodicity."
+      },
+      {
+        "text": "Leishmania spp.",
+        "feedback": "Incorrect. Leishmania is not detected in blood."
+      },
+      {
+        "text": "Babesia spp.",
+        "feedback": "Incorrect. Babesia does not show periodicity."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 178,
+    "question": "Modified acid-fast stain is used for the diagnosis of",
+    "options": [
+      {
+        "text": "Entamoeba histolytica",
+        "feedback": "Incorrect. Modified acid-fast is not used for E. histolytica."
+      },
+      {
+        "text": "Toxoplasma gondii",
+        "feedback": "Incorrect. Modified acid-fast is not used for T. gondii."
+      },
+      {
+        "text": "Cryptosporidium parvum",
+        "feedback": "Correct! Modified acid-fast stain is used for Cryptosporidium oocysts."
+      },
+      {
+        "text": "Leishmania donovani",
+        "feedback": "Incorrect. Modified acid-fast is not used for L. donovani."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 179,
+    "question": "Sputum examination is commonly done for detecting the eggs of",
+    "options": [
+      {
+        "text": "Strongyloides stercoralis",
+        "feedback": "Incorrect. Strongyloides larvae are found in stool, not sputum."
+      },
+      {
+        "text": "Entamoeba histolytica",
+        "feedback": "Incorrect. E. histolytica is found in stool."
+      },
+      {
+        "text": "Paragonimus westermani",
+        "feedback": "Correct! P. westermani eggs are found in sputum."
+      },
+      {
+        "text": "Ascaris lumbricoides",
+        "feedback": "Incorrect. Ascaris eggs are found in stool."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 180,
+    "question": "Larval forms of which parasite can be found in muscle biopsy",
+    "options": [
+      {
+        "text": "Ascaris lumbricoides",
+        "feedback": "Incorrect. Ascaris larvae are not found in muscle."
+      },
+      {
+        "text": "Taenia solium",
+        "feedback": "Correct! Cysticercus larvae of T. solium can be found in muscle."
+      },
+      {
+        "text": "Trichuris trichiura",
+        "feedback": "Incorrect. Trichuris does not encyst in muscle."
+      },
+      {
+        "text": "Ancylostoma duodenale",
+        "feedback": "Incorrect. Hookworm larvae are not found in muscle."
+      }
+    ],
+    "correctAnswerIndex": 1
+  }
+]
