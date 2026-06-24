@@ -1,0 +1,947 @@
+[
+{
+"id": 1,
+"question": "Hard chancre is characteristic of ?",
+"options": [
+{"text": "Quaternary syphilis", "feedback": "Incorrect. Hard chancre is not characteristic of quaternary syphilis."},
+{"text": "Primary syphilis", "feedback": "Correct! Hard chancre is the hallmark of primary syphilis."},
+{"text": "Latent syphilis", "feedback": "Incorrect. Latent syphilis does not present with a chancre."},
+{"text": "Secondary syphilis", "feedback": "Incorrect. Secondary syphilis presents with a rash, not a hard chancre."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 2,
+"question": "All of the following are spore-forming bacteria except",
+"options": [
+{"text": "Bacillus anthracis", "feedback": "Incorrect. B. anthracis is spore-forming."},
+{"text": "Clostridium botulinum", "feedback": "Incorrect. C. botulinum is spore-forming."},
+{"text": "Vibrio cholerae", "feedback": "Correct! V. cholerae does not form spores."},
+{"text": "Clostridium tetani", "feedback": "Incorrect. C. tetani is spore-forming."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 3,
+"question": "Which of the following bacteria is cell-wall deficient",
+"options": [
+{"text": "Streptococcus aureus", "feedback": "Incorrect. S. aureus has a cell wall."},
+{"text": "Mycoplasma", "feedback": "Correct! Mycoplasma lacks a cell wall."},
+{"text": "Staphylococcus", "feedback": "Incorrect. Staphylococcus has a cell wall."},
+{"text": "Treponema pallidum", "feedback": "Incorrect. T. pallidum has a cell wall."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 4,
+"question": "Human infection with the beef tapeworm, Taenia saginata, usually is less serious than infection with the pork tapeworm, T. solium, because",
+"options": [
+{"text": "all", "feedback": "Incorrect. Not all statements are correct."},
+{"text": "Toxic by-products are not given off by the adult beef tapeworm", "feedback": "Incorrect. This is not the primary reason."},
+{"text": "Larval invasion does not occur in beef tapeworm infection", "feedback": "Correct! T. saginata does not cause cysticercosis because humans are the definitive host only."},
+{"text": "Acute intestinal stoppage is less common in beef tapeworm infection", "feedback": "Incorrect. This is not the primary reason."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 5,
+"question": "A medical students have visited Muhazi lake in eastern province of Rwanda and consumed raw fish daily for 2 weeks of their stay. Six months after their return home, They had a routine physical and was found to be anemic. Their vitamin B12 levels were below normal. The most likely cause of that vitamin B12 deficiency anemia could be due to",
+"options": [
+{"text": "Infection with parvovirus B19", "feedback": "Incorrect. Parvovirus B19 causes aplastic crisis, not B12 deficiency."},
+{"text": "Infection with the fish tapeworm Diphyllobothrium latum", "feedback": "Correct! D. latum competes for vitamin B12."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 6,
+"question": "Cholera is defined as an acute, diarrheal illness caused by infection of the intestine with the toxigenic bacterium Vibrio cholerae serotype 01 or 0139. Which of the following is the major reservoir of Vibrio cholerae serotype 01",
+"options": [
+{"text": "Drosophila melanogaster", "feedback": "Incorrect. Fruit flies are not a reservoir."},
+{"text": "Pig", "feedback": "Incorrect. Pigs are not the major reservoir."},
+{"text": "Man", "feedback": "Correct! Humans are the major reservoir."},
+{"text": "all of them", "feedback": "Incorrect. Only humans are the major reservoir."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 7,
+"question": "Other than Mycobacterium tuberculosis, which of the following bacteria causes tuberculosis infection in animals and can be transmitted to humans by consumption of milk and other animal products",
+"options": [
+{"text": "Mycobacterium africanum", "feedback": "Incorrect. M. africanum is found in West Africa."},
+{"text": "Mycobacterium ulcerans", "feedback": "Incorrect. M. ulcerans causes Buruli ulcer."},
+{"text": "Mycobacterium bovis", "feedback": "Correct! M. bovis is transmitted through unpasteurized milk."},
+{"text": "Mycobacterium leprae", "feedback": "Incorrect. M. leprae causes leprosy."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 8,
+"question": "What is a hallmark characteristic of reverse transcriptase?",
+"options": [
+{"text": "It allows virus to infect bacteria through endocytosis", "feedback": "Incorrect. This is not a function of reverse transcriptase."},
+{"text": "It is encoded in the host cell genome", "feedback": "Incorrect. Reverse transcriptase is encoded by the virus."},
+{"text": "None", "feedback": "Incorrect. There is a correct answer."},
+{"text": "It challenges the central dogma of biology (DNA to RNA to Protein)", "feedback": "Correct! Reverse transcriptase converts RNA to DNA, challenging the central dogma."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 9,
+"question": "A baby has the greatest chance of acquiring which virus in utero?",
+"options": [
+{"text": "Epstein Barr Virus", "feedback": "Incorrect. EBV is not a common congenital infection."},
+{"text": "Enterovirus", "feedback": "Incorrect. Enteroviruses are not a common congenital infection."},
+{"text": "Cytomegalovirus", "feedback": "Correct! CMV is the most common congenital viral infection."},
+{"text": "Poliovirus", "feedback": "Incorrect. Polio is not a common congenital infection."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 10,
+"question": "The following statements regarding HIV are true EXCEPT ONE",
+"options": [
+{"text": "It belongs to the family retroviridae", "feedback": "Incorrect. This is true."},
+{"text": "It is transmitted through casual contact", "feedback": "Correct! HIV is not transmitted through casual contact."},
+{"text": "It contains RNA as its genetic material", "feedback": "Incorrect. This is true."},
+{"text": "It targets CD4+ T cells", "feedback": "Incorrect. This is true."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 11,
+"question": "The Entamoeba histolytica trophozoites is multiplied by",
+"options": [
+{"text": "Binary fission", "feedback": "Correct! E. histolytica multiplies by binary fission."},
+{"text": "Schizogony", "feedback": "Incorrect. Schizogony is seen in Plasmodium."},
+{"text": "All of the above", "feedback": "Incorrect. Only binary fission is correct."},
+{"text": "Gametogony", "feedback": "Incorrect. Gametogony is the sexual stage."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 12,
+"question": "Stool of amoebic dysentery has all of the following Characteristics except",
+"options": [
+{"text": "Pyknotic bodies", "feedback": "Incorrect. Pyknotic bodies are seen in amoebic dysentery."},
+{"text": "RBCs", "feedback": "Incorrect. RBCs are seen in amoebic dysentery."},
+{"text": "Charcot-Leyden crystals", "feedback": "Incorrect. These are seen in amoebic dysentery."},
+{"text": "Ghost cell", "feedback": "Correct! Ghost cells are not a characteristic of amoebic dysentery."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 13,
+"question": "The following characteristics are true of giardiasis except",
+"options": [
+{"text": "Acute or chronic diarrhea", "feedback": "Incorrect. This is true."},
+{"text": "Duodenum and jejunum are the prime sites of involvement", "feedback": "Incorrect. This is true."},
+{"text": "Giardia cysts are resistant to dessication", "feedback": "Incorrect. This is true."},
+{"text": "Fever and presence of blood and mucus in stool", "feedback": "Correct! Giardia does not cause fever or bloody stools."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 14,
+"question": "Vaginal discharge in Trichomonas vaginitis is",
+"options": [
+{"text": "Colorless", "feedback": "Incorrect. Trichomonas discharge is not colorless."},
+{"text": "Curdy White", "feedback": "Incorrect. Curdy white is characteristic of Candida."},
+{"text": "Blood stained", "feedback": "Incorrect. Blood stained is not typical."},
+{"text": "Yellow", "feedback": "Correct! Trichomonas discharge is typically yellow-green and frothy."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 15,
+"question": "The infective form of the malaria parasite is",
+"options": [
+{"text": "Sporozoite", "feedback": "Correct! Sporozoites are the infective form injected by the mosquito."},
+{"text": "Oocyst", "feedback": "Incorrect. Oocysts are in the mosquito."},
+{"text": "Tachyzoite", "feedback": "Incorrect. Tachyzoites are in Toxoplasma."},
+{"text": "Bradyzoite", "feedback": "Incorrect. Bradyzoites are in Toxoplasma."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 16,
+"question": "Which of the following methods can be used for the diagnosis of fungal infections?",
+"options": [
+{"text": "Culture", "feedback": "Incorrect. This is a method."},
+{"text": "PCR", "feedback": "Incorrect. This is a method."},
+{"text": "Direct microscopy of specimens", "feedback": "Incorrect. This is a method."},
+{"text": "All the above", "feedback": "Correct! All are methods for diagnosing fungal infections."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 17,
+"question": "Which of the following culture media can be used for growing fungi?",
+"options": [
+{"text": "All the above", "feedback": "Correct! All can be used for fungi."},
+{"text": "Sabourauds dextrose agar", "feedback": "Incorrect. This is a medium."},
+{"text": "Brain heart infusion agar", "feedback": "Incorrect. This is a medium."},
+{"text": "Mannitol Salt Agar", "feedback": "Incorrect. This is selective for staphylococci."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 18,
+"question": "The majority of normal bacterial flora are present in:",
+"options": [
+{"text": "Skin", "feedback": "Incorrect. Skin has flora but not the majority."},
+{"text": "Large intestine", "feedback": "Correct! The large intestine has the highest concentration of bacteria."},
+{"text": "Lungs", "feedback": "Incorrect. Lungs are normally sterile."},
+{"text": "Nasopharynx", "feedback": "Incorrect. The nasopharynx has flora but not the majority."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 19,
+"question": "Which bacteria is responsible for producing acidic pH in adult vagina:",
+"options": [
+{"text": "Streptococcus pneumoniae", "feedback": "Incorrect. S. pneumoniae is not a vaginal flora."},
+{"text": "Bacteroides species", "feedback": "Incorrect. Bacteroides are not responsible for acidic pH."},
+{"text": "Lactobacillus", "feedback": "Correct! Lactobacillus produces lactic acid, lowering pH."},
+{"text": "Diphtheroids", "feedback": "Incorrect. Diphtheroids are not the main acid producers."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 20,
+"question": "Which of the following bacteria can cause purulent meningitis:",
+"options": [
+{"text": "H. influenzae", "feedback": "Incorrect. This is a cause."},
+{"text": "All the above", "feedback": "Correct! All listed can cause purulent meningitis."},
+{"text": "Streptococcus pneumoniae", "feedback": "Incorrect. This is a cause."},
+{"text": "None of them", "feedback": "Incorrect. There are causes listed."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 21,
+"question": "Which of the following agents cause/s aseptic meningitis?",
+"options": [
+{"text": "Herpes simplex", "feedback": "Incorrect. HSV can cause aseptic meningitis."},
+{"text": "All of the above", "feedback": "Correct! Multiple viruses can cause aseptic meningitis."},
+{"text": "Enteroviruses", "feedback": "Incorrect. Enteroviruses can cause aseptic meningitis."},
+{"text": "Mumps virus", "feedback": "Incorrect. Mumps virus can cause aseptic meningitis."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 22,
+"question": "Terminal spined eggs are seen in",
+"options": [
+{"text": "Schistosoma mansoni", "feedback": "Incorrect. S. mansoni has a lateral spine."},
+{"text": "Schistosoma haematobium", "feedback": "Correct! S. haematobium has a terminal spine."},
+{"text": "Clonorchis sinensis", "feedback": "Incorrect. C. sinensis has an operculated egg."},
+{"text": "Schistosoma japonicum", "feedback": "Incorrect. S. japonicum has a small lateral spine."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 23,
+"question": "On microscopic examination, eggs are seen, but on saturation with salt solution eggs are not seen. The eggs are likely to be of:",
+"options": [
+{"text": "Diphyllobothrium latum", "feedback": "Correct! D. latum eggs do not float in saturated salt solution."},
+{"text": "Ancylostoma duodenale", "feedback": "Incorrect. Hookworm eggs float."},
+{"text": "Taenia solium", "feedback": "Incorrect. Taenia eggs float."},
+{"text": "Ascaris lumbricoides", "feedback": "Incorrect. Ascaris eggs float."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 24,
+"question": "Which parasitic infection leads to malignancy",
+"options": [
+{"text": "Trypanosoma cruzi", "feedback": "Incorrect. T. cruzi causes Chagas disease."},
+{"text": "Babesioses", "feedback": "Incorrect. Babesiosis does not lead to malignancy."},
+{"text": "Schistosoma hematobium", "feedback": "Correct! S. haematobium is associated with bladder cancer."},
+{"text": "Clonorchis sinensis", "feedback": "Incorrect. C. sinensis is associated with cholangiocarcinoma."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 25,
+"question": "Antigenic variation is exhibited by",
+"options": [
+{"text": "Entamoeba", "feedback": "Incorrect. Entamoeba does not exhibit antigenic variation."},
+{"text": "Trypanosoma", "feedback": "Correct! Trypanosoma exhibits antigenic variation."},
+{"text": "Leishmania", "feedback": "Incorrect. Leishmania does not exhibit antigenic variation."},
+{"text": "Schistosoma", "feedback": "Incorrect. Schistosoma does not exhibit antigenic variation."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 26,
+"question": "Which parasite enters the body by piercing the skin?",
+"options": [
+{"text": "Necator americanus", "feedback": "Correct! Hookworm larvae penetrate the skin."},
+{"text": "Trichuris trichiura", "feedback": "Incorrect. Trichuris is transmitted by ingestion of eggs."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 27,
+"question": "The Susceptibility to bacitracin can be used to identify:",
+"options": [
+{"text": "Streptococcus viridans", "feedback": "Incorrect. Viridans group is resistant to bacitracin."},
+{"text": "Streptococcus pyogenes", "feedback": "Correct! S. pyogenes is susceptible to bacitracin."},
+{"text": "Streptococcus pneumoniae", "feedback": "Incorrect. S. pneumoniae is resistant to bacitracin."},
+{"text": "Streptococcus mitis", "feedback": "Incorrect. S. mitis is resistant to bacitracin."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 28,
+"question": "Which of the following bacteria produce alpha hemolysis on blood agar?",
+"options": [
+{"text": "Streptococcus pyogenes", "feedback": "Incorrect. S. pyogenes is beta-hemolytic."},
+{"text": "Staphylococcus aureus", "feedback": "Incorrect. S. aureus is beta-hemolytic."},
+{"text": "Streptococcus pneumoniae", "feedback": "Correct! S. pneumoniae is alpha-hemolytic."},
+{"text": "Staphylococcus aureus", "feedback": "Incorrect. S. aureus is beta-hemolytic."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 29,
+"question": "Causative agent of nongonococcal urethritis is caused by:",
+"options": [
+{"text": "Ureaplasma urealyticum", "feedback": "Incorrect. U. urealyticum is a cause."},
+{"text": "All the answers are correct", "feedback": "Correct! All listed can cause NGU."},
+{"text": "Trichomonas vaginalis", "feedback": "Incorrect. T. vaginalis is a cause."},
+{"text": "Chlamydia trachomatis", "feedback": "Incorrect. C. trachomatis is a cause."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 30,
+"question": "Lactobacilli constitute the normal flora of:",
+"options": [
+{"text": "Prepubertal vagina", "feedback": "Incorrect. Prepubertal vagina has low Lactobacillus."},
+{"text": "Intestinal", "feedback": "Incorrect. Intestinal flora are different."},
+{"text": "Adult vagina", "feedback": "Correct! Lactobacillus is the dominant flora in the adult vagina."},
+{"text": "Post-menopausal vagina", "feedback": "Incorrect. Post-menopausal vagina has reduced Lactobacillus."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 31,
+"question": "The most important specimen for isolation of Salmonella Typhi culture in the early stage of enteric fever?",
+"options": [
+{"text": "Blood", "feedback": "Correct! Blood cultures are positive in the first week."},
+{"text": "Urine", "feedback": "Incorrect. Urine is positive later."},
+{"text": "Stool", "feedback": "Incorrect. Stool is positive later."},
+{"text": "None of them", "feedback": "Incorrect. Blood is the correct specimen."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 32,
+"question": "Which of the following bacteria is the most common cause of UTI:",
+"options": [
+{"text": "Streptococcus pyogenes", "feedback": "Incorrect. S. pyogenes is not a common UTI cause."},
+{"text": "Pseudomonas aeruginosa", "feedback": "Incorrect. Pseudomonas is less common."},
+{"text": "E. coli", "feedback": "Correct! E. coli is the most common cause of UTIs."},
+{"text": "Staphylococcus aureus", "feedback": "Incorrect. S. aureus is not a common UTI cause."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 33,
+"question": "Which of the following agents can cause diarrhea?",
+"options": [
+{"text": "Vibrio cholerae", "feedback": "Incorrect. V. cholerae causes diarrhea."},
+{"text": "None of them", "feedback": "Incorrect. There are causes listed."},
+{"text": "Rotavirus", "feedback": "Incorrect. Rotavirus causes diarrhea."},
+{"text": "All the above", "feedback": "Correct! All can cause diarrhea."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 34,
+"question": "Which of the following agents can cause dysentery",
+"options": [
+{"text": "All the above", "feedback": "Correct! All can cause dysentery."},
+{"text": "Escherichia coli (EIEC)", "feedback": "Incorrect. EIEC can cause dysentery."},
+{"text": "Staphylococcus aureus", "feedback": "Incorrect. S. aureus does not cause dysentery."},
+{"text": "Shigella dysenteriae", "feedback": "Incorrect. Shigella causes dysentery."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 35,
+"question": "Which of the following bacteria can cause infective type of food poisoning:",
+"options": [
+{"text": "Staphylococcus aureus", "feedback": "Incorrect. S. aureus causes intoxication, not infection."},
+{"text": "Salmonella Enteritidis", "feedback": "Correct! Salmonella causes infective food poisoning."},
+{"text": "Clostridium botulinum", "feedback": "Incorrect. C. botulinum causes intoxication."},
+{"text": "All the above", "feedback": "Incorrect. Only Salmonella is infective."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 36,
+"question": "Which of the following anaerobes can cause wound infection:",
+"options": [
+{"text": "Bacteroides spp", "feedback": "Incorrect. Bacteroides can cause wound infections."},
+{"text": "All the above", "feedback": "Correct! All are anaerobes that can cause wound infections."},
+{"text": "Peptostreptococci", "feedback": "Incorrect. Peptostreptococci can cause wound infections."},
+{"text": "Clostridium perfringens", "feedback": "Incorrect. C. perfringens can cause wound infections."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 37,
+"question": "All of the following are correct regarding fertilized egg of Ascaris except",
+"options": [
+{"text": "Floats in saturated solution of salt", "feedback": "Incorrect. This is correct."},
+{"text": "Does not float in saturated solution of salt", "feedback": "Correct! Fertilized Ascaris eggs float."},
+{"text": "It is always bile-stained", "feedback": "Incorrect. This is correct."},
+{"text": "Covered by an outer mamillated coat", "feedback": "Incorrect. This is correct."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 38,
+"question": "A 6-year-old girl is emaciated with a hemoglobin level of 6 g/dL. Her face appears puffy with swollen eyelids and edema over feet and ankles. There are no laboratory facilities available. The most likely cause of the child's condition is:",
+"options": [
+{"text": "Cercarial dermatitis", "feedback": "Incorrect. Cercarial dermatitis causes skin rash."},
+{"text": "Schistosomiasis", "feedback": "Incorrect. Schistosomiasis can cause anemia but not primarily this presentation."},
+{"text": "Hookworm disease", "feedback": "Correct! Hookworm causes iron deficiency anemia, leading to edema and anemia."},
+{"text": "Ascariasis", "feedback": "Incorrect. Ascariasis does not typically cause severe anemia."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 39,
+"question": "Baermann's funnel gauze method is used for detection of larva of",
+"options": [
+{"text": "Necator", "feedback": "Incorrect. Necator larvae are detected by this method."},
+{"text": "Ancylostoma", "feedback": "Incorrect. Ancylostoma larvae are detected by this method."},
+{"text": "Ascaris", "feedback": "Incorrect. Ascaris is detected by eggs."},
+{"text": "Strongyloides", "feedback": "Correct! Baermann method is used for Strongyloides larvae."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 40,
+"question": "Larval form of the following parasites is found in stool except",
+"options": [
+{"text": "Necator americanus", "feedback": "Incorrect. Necator larvae can be found in stool."},
+{"text": "Ancylostoma duodenale", "feedback": "Incorrect. Ancylostoma larvae can be found in stool."},
+{"text": "Strongyloides stercoralis", "feedback": "Incorrect. Strongyloides larvae can be found in stool."},
+{"text": "Ascaris lumbricoides", "feedback": "Correct! Ascaris eggs are found in stool, not larvae."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 41,
+"question": "A teenager who plays with dogs developed skin rash, eosinophilia, and an enlarged liver and spleen for 1 year. The most likely cause of this infection is",
+"options": [
+{"text": "Trichinosis", "feedback": "Incorrect. Trichinosis is from eating undercooked meat."},
+{"text": "Visceral Larva Migrans (from Toxocara canis)", "feedback": "Correct! Toxocariasis causes these symptoms."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 42,
+"question": "Which of the following is the major reservoir of Vibrio cholerae serotype 01",
+"options": [
+{"text": "Drosophila melanogaster", "feedback": "Incorrect. Fruit flies are not a reservoir."},
+{"text": "Pig", "feedback": "Incorrect. Pigs are not the major reservoir."},
+{"text": "Man", "feedback": "Correct! Humans are the major reservoir."},
+{"text": "all of them", "feedback": "Incorrect. Only humans are the major reservoir."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 43,
+"question": "Other than Mycobacterium tuberculosis, which of the following bacteria causes tuberculosis infection in animals and can be transmitted to humans by consumption of milk and other animal products",
+"options": [
+{"text": "Mycobacterium africanum", "feedback": "Incorrect. M. africanum is found in West Africa."},
+{"text": "Mycobacterium ulcerans", "feedback": "Incorrect. M. ulcerans causes Buruli ulcer."},
+{"text": "Mycobacterium bovis", "feedback": "Correct! M. bovis is transmitted through unpasteurized milk."},
+{"text": "Mycobacterium leprae", "feedback": "Incorrect. M. leprae causes leprosy."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 44,
+"question": "What is a hallmark characteristic of reverse transcriptase?",
+"options": [
+{"text": "It allows virus to infect bacteria through endocytosis", "feedback": "Incorrect. This is not a function of reverse transcriptase."},
+{"text": "It is encoded in the host cell genome", "feedback": "Incorrect. Reverse transcriptase is encoded by the virus."},
+{"text": "None", "feedback": "Incorrect. There is a correct answer."},
+{"text": "It challenges the central dogma of biology (DNA to RNA to Protein)", "feedback": "Correct! Reverse transcriptase converts RNA to DNA, challenging the central dogma."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 45,
+"question": "A baby has the greatest chance of acquiring which virus in utero?",
+"options": [
+{"text": "Epstein Barr Virus", "feedback": "Incorrect. EBV is not a common congenital infection."},
+{"text": "Enterovirus", "feedback": "Incorrect. Enteroviruses are not a common congenital infection."},
+{"text": "Cytomegalovirus", "feedback": "Correct! CMV is the most common congenital viral infection."},
+{"text": "Poliovirus", "feedback": "Incorrect. Polio is not a common congenital infection."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 46,
+"question": "The following statements regarding HIV are true EXCEPT ONE",
+"options": [
+{"text": "It belongs to the family retroviridae", "feedback": "Incorrect. This is true."},
+{"text": "It is transmitted through casual contact", "feedback": "Correct! HIV is not transmitted through casual contact."},
+{"text": "It contains RNA as its genetic material", "feedback": "Incorrect. This is true."},
+{"text": "It targets CD4+ T cells", "feedback": "Incorrect. This is true."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 47,
+"question": "Hard chancre is characteristic of ?",
+"options": [
+{"text": "Quaternary syphilis", "feedback": "Incorrect. Hard chancre is not characteristic of quaternary syphilis."},
+{"text": "Primary syphilis", "feedback": "Correct! Hard chancre is the hallmark of primary syphilis."},
+{"text": "Latent syphilis", "feedback": "Incorrect. Latent syphilis does not present with a chancre."},
+{"text": "Secondary syphilis", "feedback": "Incorrect. Secondary syphilis presents with a rash, not a hard chancre."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 48,
+"question": "All of the following are spore-forming bacteria except",
+"options": [
+{"text": "Bacillus anthracis", "feedback": "Incorrect. B. anthracis is spore-forming."},
+{"text": "Clostridium botulinum", "feedback": "Incorrect. C. botulinum is spore-forming."},
+{"text": "Vibrio cholerae", "feedback": "Correct! V. cholerae does not form spores."},
+{"text": "Clostridium tetani", "feedback": "Incorrect. C. tetani is spore-forming."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 49,
+"question": "Which of the following bacteria is cell-wall deficient",
+"options": [
+{"text": "Streptococcus aureus", "feedback": "Incorrect. S. aureus has a cell wall."},
+{"text": "Mycoplasma", "feedback": "Correct! Mycoplasma lacks a cell wall."},
+{"text": "Staphylococcus", "feedback": "Incorrect. Staphylococcus has a cell wall."},
+{"text": "Treponema pallidum", "feedback": "Incorrect. T. pallidum has a cell wall."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 50,
+"question": "Human infection with the beef tapeworm, Taenia saginata, usually is less serious than infection with the pork tapeworm, T. solium, because",
+"options": [
+{"text": "all", "feedback": "Incorrect. Not all statements are correct."},
+{"text": "Toxic by-products are not given off by the adult beef tapeworm", "feedback": "Incorrect. This is not the primary reason."},
+{"text": "Larval invasion does not occur in beef tapeworm infection", "feedback": "Correct! T. saginata does not cause cysticercosis because humans are the definitive host only."},
+{"text": "Acute intestinal stoppage is less common in beef tapeworm infection", "feedback": "Incorrect. This is not the primary reason."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 51,
+"question": "A medical students have visited Muhazi lake in eastern province of Rwanda and consumed raw fish daily for 2 weeks of their stay. Six months after their return home, They had a routine physical and was found to be anemic. Their vitamin B12 levels were below normal. The most likely cause of that vitamin B12 deficiency anemia could be due to",
+"options": [
+{"text": "Infection with parvovirus B19", "feedback": "Incorrect. Parvovirus B19 causes aplastic crisis, not B12 deficiency."},
+{"text": "Infection with the fish tapeworm Diphyllobothrium latum", "feedback": "Correct! D. latum competes for vitamin B12."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 52,
+"question": "Cholera is defined as an acute, diarrheal illness caused by infection of the intestine with the toxigenic bacterium Vibrio cholerae serotype 01 or 0139. Which of the following is the major reservoir of Vibrio cholerae serotype 01",
+"options": [
+{"text": "Drosophila melanogaster", "feedback": "Incorrect. Fruit flies are not a reservoir."},
+{"text": "Pig", "feedback": "Incorrect. Pigs are not the major reservoir."},
+{"text": "Man", "feedback": "Correct! Humans are the major reservoir."},
+{"text": "all of them", "feedback": "Incorrect. Only humans are the major reservoir."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 53,
+"question": "Other than Mycobacterium tuberculosis, which of the following bacteria causes tuberculosis infection in animals and can be transmitted to humans by consumption of milk and other animal products",
+"options": [
+{"text": "Mycobacterium africanum", "feedback": "Incorrect. M. africanum is found in West Africa."},
+{"text": "Mycobacterium ulcerans", "feedback": "Incorrect. M. ulcerans causes Buruli ulcer."},
+{"text": "Mycobacterium bovis", "feedback": "Correct! M. bovis is transmitted through unpasteurized milk."},
+{"text": "Mycobacterium leprae", "feedback": "Incorrect. M. leprae causes leprosy."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 54,
+"question": "What is a hallmark characteristic of reverse transcriptase?",
+"options": [
+{"text": "It allows virus to infect bacteria through endocytosis", "feedback": "Incorrect. This is not a function of reverse transcriptase."},
+{"text": "It is encoded in the host cell genome", "feedback": "Incorrect. Reverse transcriptase is encoded by the virus."},
+{"text": "None", "feedback": "Incorrect. There is a correct answer."},
+{"text": "It challenges the central dogma of biology (DNA to RNA to Protein)", "feedback": "Correct! Reverse transcriptase converts RNA to DNA, challenging the central dogma."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 55,
+"question": "A baby has the greatest chance of acquiring which virus in utero?",
+"options": [
+{"text": "Epstein Barr Virus", "feedback": "Incorrect. EBV is not a common congenital infection."},
+{"text": "Enterovirus", "feedback": "Incorrect. Enteroviruses are not a common congenital infection."},
+{"text": "Cytomegalovirus", "feedback": "Correct! CMV is the most common congenital viral infection."},
+{"text": "Poliovirus", "feedback": "Incorrect. Polio is not a common congenital infection."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 56,
+"question": "The following statements regarding HIV are true EXCEPT ONE",
+"options": [
+{"text": "It belongs to the family retroviridae", "feedback": "Incorrect. This is true."},
+{"text": "It is transmitted through casual contact", "feedback": "Correct! HIV is not transmitted through casual contact."},
+{"text": "It contains RNA as its genetic material", "feedback": "Incorrect. This is true."},
+{"text": "It targets CD4+ T cells", "feedback": "Incorrect. This is true."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 57,
+"question": "The Entamoeba histolytica trophozoites is multiplied by",
+"options": [
+{"text": "Binary fission", "feedback": "Correct! E. histolytica multiplies by binary fission."},
+{"text": "Schizogony", "feedback": "Incorrect. Schizogony is seen in Plasmodium."},
+{"text": "All of the above", "feedback": "Incorrect. Only binary fission is correct."},
+{"text": "Gametogony", "feedback": "Incorrect. Gametogony is the sexual stage."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 58,
+"question": "Stool of amoebic dysentery has all of the following Characteristics except",
+"options": [
+{"text": "Pyknotic bodies", "feedback": "Incorrect. Pyknotic bodies are seen in amoebic dysentery."},
+{"text": "RBCs", "feedback": "Incorrect. RBCs are seen in amoebic dysentery."},
+{"text": "Charcot-Leyden crystals", "feedback": "Incorrect. These are seen in amoebic dysentery."},
+{"text": "Ghost cell", "feedback": "Correct! Ghost cells are not a characteristic of amoebic dysentery."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 59,
+"question": "The following characteristics are true of giardiasis except",
+"options": [
+{"text": "Acute or chronic diarrhea", "feedback": "Incorrect. This is true."},
+{"text": "Duodenum and jejunum are the prime sites of involvement", "feedback": "Incorrect. This is true."},
+{"text": "Giardia cysts are resistant to dessication", "feedback": "Incorrect. This is true."},
+{"text": "Fever and presence of blood and mucus in stool", "feedback": "Correct! Giardia does not cause fever or bloody stools."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 60,
+"question": "Vaginal discharge in Trichomonas vaginitis is",
+"options": [
+{"text": "Colorless", "feedback": "Incorrect. Trichomonas discharge is not colorless."},
+{"text": "Curdy White", "feedback": "Incorrect. Curdy white is characteristic of Candida."},
+{"text": "Blood stained", "feedback": "Incorrect. Blood stained is not typical."},
+{"text": "Yellow", "feedback": "Correct! Trichomonas discharge is typically yellow-green and frothy."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 61,
+"question": "The infective form of the malaria parasite is",
+"options": [
+{"text": "Sporozoite", "feedback": "Correct! Sporozoites are the infective form injected by the mosquito."},
+{"text": "Oocyst", "feedback": "Incorrect. Oocysts are in the mosquito."},
+{"text": "Tachyzoite", "feedback": "Incorrect. Tachyzoites are in Toxoplasma."},
+{"text": "Bradyzoite", "feedback": "Incorrect. Bradyzoites are in Toxoplasma."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 62,
+"question": "Which of the following methods can be used for the diagnosis of fungal infections?",
+"options": [
+{"text": "Culture", "feedback": "Incorrect. This is a method."},
+{"text": "PCR", "feedback": "Incorrect. This is a method."},
+{"text": "Direct microscopy of specimens", "feedback": "Incorrect. This is a method."},
+{"text": "All the above", "feedback": "Correct! All are methods for diagnosing fungal infections."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 63,
+"question": "Which of the following culture media can be used for growing fungi?",
+"options": [
+{"text": "All the above", "feedback": "Correct! All can be used for fungi."},
+{"text": "Sabourauds dextrose agar", "feedback": "Incorrect. This is a medium."},
+{"text": "Brain heart infusion agar", "feedback": "Incorrect. This is a medium."},
+{"text": "Mannitol Salt Agar", "feedback": "Incorrect. This is selective for staphylococci."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 64,
+"question": "The majority of normal bacterial flora are present in:",
+"options": [
+{"text": "Skin", "feedback": "Incorrect. Skin has flora but not the majority."},
+{"text": "Large intestine", "feedback": "Correct! The large intestine has the highest concentration of bacteria."},
+{"text": "Lungs", "feedback": "Incorrect. Lungs are normally sterile."},
+{"text": "Nasopharynx", "feedback": "Incorrect. The nasopharynx has flora but not the majority."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 65,
+"question": "Which bacteria is responsible for producing acidic pH in adult vagina:",
+"options": [
+{"text": "Streptococcus pneumoniae", "feedback": "Incorrect. S. pneumoniae is not a vaginal flora."},
+{"text": "Bacteroides species", "feedback": "Incorrect. Bacteroides are not responsible for acidic pH."},
+{"text": "Lactobacillus", "feedback": "Correct! Lactobacillus produces lactic acid, lowering pH."},
+{"text": "Diphtheroids", "feedback": "Incorrect. Diphtheroids are not the main acid producers."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 66,
+"question": "Which of the following bacteria can cause purulent meningitis:",
+"options": [
+{"text": "H. influenzae", "feedback": "Incorrect. This is a cause."},
+{"text": "All the above", "feedback": "Correct! All listed can cause purulent meningitis."},
+{"text": "Streptococcus pneumoniae", "feedback": "Incorrect. This is a cause."},
+{"text": "None of them", "feedback": "Incorrect. There are causes listed."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 67,
+"question": "Which of the following agents cause/s aseptic meningitis?",
+"options": [
+{"text": "Herpes simplex", "feedback": "Incorrect. HSV can cause aseptic meningitis."},
+{"text": "All of the above", "feedback": "Correct! Multiple viruses can cause aseptic meningitis."},
+{"text": "Enteroviruses", "feedback": "Incorrect. Enteroviruses can cause aseptic meningitis."},
+{"text": "Mumps virus", "feedback": "Incorrect. Mumps virus can cause aseptic meningitis."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 68,
+"question": "Terminal spined eggs are seen in",
+"options": [
+{"text": "Schistosoma mansoni", "feedback": "Incorrect. S. mansoni has a lateral spine."},
+{"text": "Schistosoma haematobium", "feedback": "Correct! S. haematobium has a terminal spine."},
+{"text": "Clonorchis sinensis", "feedback": "Incorrect. C. sinensis has an operculated egg."},
+{"text": "Schistosoma japonicum", "feedback": "Incorrect. S. japonicum has a small lateral spine."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 69,
+"question": "On microscopic examination, eggs are seen, but on saturation with salt solution eggs are not seen. The eggs are likely to be of:",
+"options": [
+{"text": "Diphyllobothrium latum", "feedback": "Correct! D. latum eggs do not float in saturated salt solution."},
+{"text": "Ancylostoma duodenale", "feedback": "Incorrect. Hookworm eggs float."},
+{"text": "Taenia solium", "feedback": "Incorrect. Taenia eggs float."},
+{"text": "Ascaris lumbricoides", "feedback": "Incorrect. Ascaris eggs float."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 70,
+"question": "Which parasitic infection leads to malignancy",
+"options": [
+{"text": "Trypanosoma cruzi", "feedback": "Incorrect. T. cruzi causes Chagas disease."},
+{"text": "Babesioses", "feedback": "Incorrect. Babesiosis does not lead to malignancy."},
+{"text": "Schistosoma hematobium", "feedback": "Correct! S. haematobium is associated with bladder cancer."},
+{"text": "Clonorchis sinensis", "feedback": "Incorrect. C. sinensis is associated with cholangiocarcinoma."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 71,
+"question": "Antigenic variation is exhibited by",
+"options": [
+{"text": "Entamoeba", "feedback": "Incorrect. Entamoeba does not exhibit antigenic variation."},
+{"text": "Trypanosoma", "feedback": "Correct! Trypanosoma exhibits antigenic variation."},
+{"text": "Leishmania", "feedback": "Incorrect. Leishmania does not exhibit antigenic variation."},
+{"text": "Schistosoma", "feedback": "Incorrect. Schistosoma does not exhibit antigenic variation."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 72,
+"question": "Which parasite enters the body by piercing the skin?",
+"options": [
+{"text": "Necator americanus", "feedback": "Correct! Hookworm larvae penetrate the skin."},
+{"text": "Trichuris trichiura", "feedback": "Incorrect. Trichuris is transmitted by ingestion of eggs."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 73,
+"question": "The Susceptibility to bacitracin can be used to identify:",
+"options": [
+{"text": "Streptococcus viridans", "feedback": "Incorrect. Viridans group is resistant to bacitracin."},
+{"text": "Streptococcus pyogenes", "feedback": "Correct! S. pyogenes is susceptible to bacitracin."},
+{"text": "Streptococcus pneumoniae", "feedback": "Incorrect. S. pneumoniae is resistant to bacitracin."},
+{"text": "Streptococcus mitis", "feedback": "Incorrect. S. mitis is resistant to bacitracin."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 74,
+"question": "Which of the following bacteria produce alpha hemolysis on blood agar?",
+"options": [
+{"text": "Streptococcus pyogenes", "feedback": "Incorrect. S. pyogenes is beta-hemolytic."},
+{"text": "Staphylococcus aureus", "feedback": "Incorrect. S. aureus is beta-hemolytic."},
+{"text": "Streptococcus pneumoniae", "feedback": "Correct! S. pneumoniae is alpha-hemolytic."},
+{"text": "Staphylococcus aureus", "feedback": "Incorrect. S. aureus is beta-hemolytic."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 75,
+"question": "Causative agent of nongonococcal urethritis is caused by:",
+"options": [
+{"text": "Ureaplasma urealyticum", "feedback": "Incorrect. U. urealyticum is a cause."},
+{"text": "All the answers are correct", "feedback": "Correct! All listed can cause NGU."},
+{"text": "Trichomonas vaginalis", "feedback": "Incorrect. T. vaginalis is a cause."},
+{"text": "Chlamydia trachomatis", "feedback": "Incorrect. C. trachomatis is a cause."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 76,
+"question": "Lactobacilli constitute the normal flora of:",
+"options": [
+{"text": "Prepubertal vagina", "feedback": "Incorrect. Prepubertal vagina has low Lactobacillus."},
+{"text": "Intestinal", "feedback": "Incorrect. Intestinal flora are different."},
+{"text": "Adult vagina", "feedback": "Correct! Lactobacillus is the dominant flora in the adult vagina."},
+{"text": "Post-menopausal vagina", "feedback": "Incorrect. Post-menopausal vagina has reduced Lactobacillus."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 77,
+"question": "The most important specimen for isolation of Salmonella Typhi culture in the early stage of enteric fever?",
+"options": [
+{"text": "Blood", "feedback": "Correct! Blood cultures are positive in the first week."},
+{"text": "Urine", "feedback": "Incorrect. Urine is positive later."},
+{"text": "Stool", "feedback": "Incorrect. Stool is positive later."},
+{"text": "None of them", "feedback": "Incorrect. Blood is the correct specimen."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 78,
+"question": "Which of the following bacteria is the most common cause of UTI:",
+"options": [
+{"text": "Streptococcus pyogenes", "feedback": "Incorrect. S. pyogenes is not a common UTI cause."},
+{"text": "Pseudomonas aeruginosa", "feedback": "Incorrect. Pseudomonas is less common."},
+{"text": "E. coli", "feedback": "Correct! E. coli is the most common cause of UTIs."},
+{"text": "Staphylococcus aureus", "feedback": "Incorrect. S. aureus is not a common UTI cause."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 79,
+"question": "Which of the following agents can cause diarrhea?",
+"options": [
+{"text": "Vibrio cholerae", "feedback": "Incorrect. V. cholerae causes diarrhea."},
+{"text": "None of them", "feedback": "Incorrect. There are causes listed."},
+{"text": "Rotavirus", "feedback": "Incorrect. Rotavirus causes diarrhea."},
+{"text": "All the above", "feedback": "Correct! All can cause diarrhea."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 80,
+"question": "Which of the following agents can cause dysentery",
+"options": [
+{"text": "All the above", "feedback": "Correct! All can cause dysentery."},
+{"text": "Escherichia coli (EIEC)", "feedback": "Incorrect. EIEC can cause dysentery."},
+{"text": "Staphylococcus aureus", "feedback": "Incorrect. S. aureus does not cause dysentery."},
+{"text": "Shigella dysenteriae", "feedback": "Incorrect. Shigella causes dysentery."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 81,
+"question": "Which of the following bacteria can cause infective type of food poisoning:",
+"options": [
+{"text": "Staphylococcus aureus", "feedback": "Incorrect. S. aureus causes intoxication, not infection."},
+{"text": "Salmonella Enteritidis", "feedback": "Correct! Salmonella causes infective food poisoning."},
+{"text": "Clostridium botulinum", "feedback": "Incorrect. C. botulinum causes intoxication."},
+{"text": "All the above", "feedback": "Incorrect. Only Salmonella is infective."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 82,
+"question": "Which of the following anaerobes can cause wound infection:",
+"options": [
+{"text": "Bacteroides spp", "feedback": "Incorrect. Bacteroides can cause wound infections."},
+{"text": "All the above", "feedback": "Correct! All are anaerobes that can cause wound infections."},
+{"text": "Peptostreptococci", "feedback": "Incorrect. Peptostreptococci can cause wound infections."},
+{"text": "Clostridium perfringens", "feedback": "Incorrect. C. perfringens can cause wound infections."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 83,
+"question": "All of the following are correct regarding fertilized egg of Ascaris except",
+"options": [
+{"text": "Floats in saturated solution of salt", "feedback": "Incorrect. This is correct."},
+{"text": "Does not float in saturated solution of salt", "feedback": "Correct! Fertilized Ascaris eggs float."},
+{"text": "It is always bile-stained", "feedback": "Incorrect. This is correct."},
+{"text": "Covered by an outer mamillated coat", "feedback": "Incorrect. This is correct."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 84,
+"question": "A 6-year-old girl is emaciated with a hemoglobin level of 6 g/dL. Her face appears puffy with swollen eyelids and edema over feet and ankles. There are no laboratory facilities available. The most likely cause of the child's condition is:",
+"options": [
+{"text": "Cercarial dermatitis", "feedback": "Incorrect. Cercarial dermatitis causes skin rash."},
+{"text": "Schistosomiasis", "feedback": "Incorrect. Schistosomiasis can cause anemia but not primarily this presentation."},
+{"text": "Hookworm disease", "feedback": "Correct! Hookworm causes iron deficiency anemia, leading to edema and anemia."},
+{"text": "Ascariasis", "feedback": "Incorrect. Ascariasis does not typically cause severe anemia."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 85,
+"question": "Baermann's funnel gauze method is used for detection of larva of",
+"options": [
+{"text": "Necator", "feedback": "Incorrect. Necator larvae are detected by this method."},
+{"text": "Ancylostoma", "feedback": "Incorrect. Ancylostoma larvae are detected by this method."},
+{"text": "Ascaris", "feedback": "Incorrect. Ascaris is detected by eggs."},
+{"text": "Strongyloides", "feedback": "Correct! Baermann method is used for Strongyloides larvae."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 86,
+"question": "Larval form of the following parasites is found in stool except",
+"options": [
+{"text": "Necator americanus", "feedback": "Incorrect. Necator larvae can be found in stool."},
+{"text": "Ancylostoma duodenale", "feedback": "Incorrect. Ancylostoma larvae can be found in stool."},
+{"text": "Strongyloides stercoralis", "feedback": "Incorrect. Strongyloides larvae can be found in stool."},
+{"text": "Ascaris lumbricoides", "feedback": "Correct! Ascaris eggs are found in stool, not larvae."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 87,
+"question": "A teenager who plays with dogs developed skin rash, eosinophilia, and an enlarged liver and spleen for 1 year. The most likely cause of this infection is",
+"options": [
+{"text": "Trichinosis", "feedback": "Incorrect. Trichinosis is from eating undercooked meat."},
+{"text": "Visceral Larva Migrans (from Toxocara canis)", "feedback": "Correct! Toxocariasis causes these symptoms."}
+],
+"correctAnswerIndex": 1
+}
+]

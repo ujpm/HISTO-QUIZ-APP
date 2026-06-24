@@ -16,16 +16,16 @@
       { "quizId": "micro_3", "title": " paniker parasitology ", "status": "available", "file": "micro_q3.json" },
       { "quizId": "micro_4", "title": " COUNCIL EXAM MICROBIOLOGY ", "status": "available", "file": "micro_q4.json" },
       { "quizId": "micro_5", "title": " Microbiology papers ", "status": "available", "file": "micro_q5.json" },
-      { "quizId": "micro_6", "title": " paniker parasitology ", "status": "available", "file": "micro_q6.json" },
-      { "quizId": "micro_7", "title": " paniker parasitology ", "status": "available", "file": "micro_q7.json" },
-      { "quizId": "micro_8", "title": " paniker parasitology ", "status": "available", "file": "micro_q8.json" }
+      { "quizId": "micro_6", "title": " B microbiology aske...2024 ", "status": "available", "file": "micro_q6.json" },
+      { "quizId": "micro_7", "title": " RAHPC 2025 ", "status": "available", "file": "micro_q7.json" },
+      { "quizId": "micro_8", "title": " merged questions", "status": "available", "file": "micro_q8.json" }
     ]
   },
   {
     "courseId": "chemical",
     "title": "Chemical Pathology",
     "quizzes": [
-      { "quizId": "chem_liver", "title": "Liver Function Tests", "status": "coming_soon", "file": "" }
+      { "quizId": "chem_1", "title": "available tommorrow 6:30 PM", "status": "coming_soon", "file": "" }
     ]
   }
 ]

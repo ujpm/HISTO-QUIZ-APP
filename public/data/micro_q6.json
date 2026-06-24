@@ -1,0 +1,1359 @@
+[
+  {
+    "id": 1,
+    "question": "The best specimen for recovery of the mycobacteria from a sputum sample is:",
+    "options": [
+      {
+        "text": "First morning specimen",
+        "feedback": "Correct! First morning specimens are best for mycobacterial recovery as they are concentrated from overnight pooling."
+      },
+      {
+        "text": "10-hour evening specimen",
+        "feedback": "Incorrect. Evening specimens are not as concentrated as first morning specimens."
+      },
+      {
+        "text": "12-hour pooled specimen",
+        "feedback": "Incorrect. Pooled specimens are not recommended as they increase contamination risk."
+      },
+      {
+        "text": "24-hour pooled specimen",
+        "feedback": "Incorrect. 24-hour pooled specimens increase contamination risk and are not recommended."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 2,
+    "question": "Which organism, associated with tuberculosis in cattle, causes tuberculosis in humans, especially in regions where dairy farming is prevalent?",
+    "options": [
+      {
+        "text": "Mycobacterium avium-intracellulare complex",
+        "feedback": "Incorrect. MAC causes disseminated infection in immunocompromised patients, not bovine tuberculosis."
+      },
+      {
+        "text": "Mycobacterium kansasii",
+        "feedback": "Incorrect. M. kansasii causes pulmonary disease but is not associated with cattle."
+      },
+      {
+        "text": "Mycobacterium marinum",
+        "feedback": "Incorrect. M. marinum causes fish tank granuloma, not bovine tuberculosis."
+      },
+      {
+        "text": "Mycobacterium bovis",
+        "feedback": "Correct! M. bovis is associated with tuberculosis in cattle and can be transmitted to humans through unpasteurized dairy products."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 3,
+    "question": "Which mycobacterium is associated with Crohn's disease?",
+    "options": [
+      {
+        "text": "M. marinum",
+        "feedback": "Incorrect. M. marinum causes skin infections from fish tanks."
+      },
+      {
+        "text": "M. paratuberculosis",
+        "feedback": "Correct! M. paratuberculosis has been associated with Crohn's disease (Johne's disease in cattle)."
+      },
+      {
+        "text": "M. avium",
+        "feedback": "Incorrect. M. avium causes disseminated infections in immunocompromised patients."
+      },
+      {
+        "text": "M. gordonae",
+        "feedback": "Incorrect. M. gordonae is a nonpathogenic environmental organism."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 4,
+    "question": "All of the following are examples of appropriate specimens for the recovery of fungi except:",
+    "options": [
+      {
+        "text": "Tissue biopsy",
+        "feedback": "Incorrect. Tissue biopsy is an appropriate specimen for fungal recovery."
+      },
+      {
+        "text": "CSF",
+        "feedback": "Incorrect. CSF is an appropriate specimen for fungal recovery."
+      },
+      {
+        "text": "Aspirate of exudate",
+        "feedback": "Incorrect. Aspirate of exudate is an appropriate specimen for fungal recovery."
+      },
+      {
+        "text": "Swab",
+        "feedback": "Correct! Swabs are generally NOT recommended for fungal recovery due to contamination risk and poor specimen quality."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 5,
+    "question": "For which clinical specimens is the KOH direct mount technique for examination of fungal elements used?",
+    "options": [
+      {
+        "text": "Skin",
+        "feedback": "Correct! KOH preparation is primarily used for skin, hair, and nail specimens to detect fungal elements."
+      },
+      {
+        "text": "CSF",
+        "feedback": "Incorrect. KOH is not used for CSF; India ink or cryptococcal antigen test is preferred."
+      },
+      {
+        "text": "Blood",
+        "feedback": "Incorrect. KOH is not used for blood specimens."
+      },
+      {
+        "text": "Bone marrow",
+        "feedback": "Incorrect. KOH is not used for bone marrow specimens."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 6,
+    "question": "The India ink stain is used as a presumptive test for the presence of which organism?",
+    "options": [
+      {
+        "text": "Aspergillus niger in blood",
+        "feedback": "Incorrect. Aspergillus niger is not detected by India ink stain."
+      },
+      {
+        "text": "Cryptococcus neoformans in CSF",
+        "feedback": "Correct! India ink stain is used as a presumptive test for Cryptococcus neoformans in CSF, demonstrating encapsulated yeast cells."
+      },
+      {
+        "text": "Histoplasma capsulatum in CSF",
+        "feedback": "Incorrect. Histoplasma capsulatum is not detected by India ink stain."
+      },
+      {
+        "text": "Candida albicans in CSF",
+        "feedback": "Incorrect. Candida albicans is not detected by India ink stain."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 7,
+    "question": "Cutaneous disease involving skin, hair, and nails usually indicates an infection with a:",
+    "options": [
+      {
+        "text": "Dimorphic fungus",
+        "feedback": "Incorrect. Dimorphic fungi typically cause systemic infections, not superficial skin/hair/nail infections."
+      },
+      {
+        "text": "Dermatophyte",
+        "feedback": "Correct! Dermatophytes (Microsporum, Trichophyton, Epidermophyton) are the primary cause of cutaneous infections involving skin, hair, and nails."
+      },
+      {
+        "text": "Zygomycetes",
+        "feedback": "Incorrect. Zygomycetes cause mucormycosis, typically in immunocompromised patients."
+      },
+      {
+        "text": "Candida species",
+        "feedback": "Incorrect. While Candida can cause cutaneous infections, dermatophytes are the classic cause of skin, hair, and nail infections."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 8,
+    "question": "Cornmeal agar with Tween 80 is used to identify which characteristic of an unknown yeast isolate?",
+    "options": [
+      {
+        "text": "Hyphae (true and pseudo)",
+        "feedback": "Incorrect. While hyphae may be observed, this is not the primary purpose."
+      },
+      {
+        "text": "Blastoconidia and arthroconidia",
+        "feedback": "Incorrect. This is not the primary purpose of cornmeal agar with Tween 80."
+      },
+      {
+        "text": "Chlamydospores",
+        "feedback": "Incorrect. While chlamydospores are important, the answer is 'All of these options'."
+      },
+      {
+        "text": "All of these options",
+        "feedback": "Correct! Cornmeal agar with Tween 80 is used to identify hyphae (true and pseudo), blastoconidia, arthroconidia, and chlamydospores."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 9,
+    "question": "Which of the following yeasts is characteristically positive for germ tube production?",
+    "options": [
+      {
+        "text": "Candida tropicalis",
+        "feedback": "Incorrect. While C. tropicalis can produce germ tubes, it is not characteristically positive like C. albicans."
+      },
+      {
+        "text": "Candida kefyr (pseudotropicalis)",
+        "feedback": "Incorrect. Candida kefyr is typically germ tube-negative."
+      },
+      {
+        "text": "Cryptococcus neoformans",
+        "feedback": "Incorrect. Cryptococcus neoformans is germ tube-negative."
+      },
+      {
+        "text": "Candida albicans",
+        "feedback": "Correct! Candida albicans is characteristically positive for germ tube production."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 10,
+    "question": "Which group of molds can be ruled out when septate hyphae are observed in a culture?",
+    "options": [
+      {
+        "text": "Dematiaceous",
+        "feedback": "Incorrect. Dematiaceous molds typically have septate hyphae."
+      },
+      {
+        "text": "Zygomycetes",
+        "feedback": "Correct! Zygomycetes (Mucor, Rhizopus) have non-septate (coenocytic) hyphae, so septate hyphae rules them out."
+      },
+      {
+        "text": "Dermatophytes",
+        "feedback": "Incorrect. Dermatophytes have septate hyphae."
+      },
+      {
+        "text": "Dimorphic molds",
+        "feedback": "Incorrect. Dimorphic molds have septate hyphae in their mold phase."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 11,
+    "question": "What is the specimen of choice for the initial diagnosis of Pneumocystis jirovecii (carinii) in an immunocompromised patient, such as someone with AIDS?",
+    "options": [
+      {
+        "text": "Induced sputum",
+        "feedback": "Correct! Induced sputum is the specimen of choice for initial diagnosis of P. jirovecii in HIV/AIDS patients."
+      },
+      {
+        "text": "Open-thorax lung biopsy",
+        "feedback": "Incorrect. This is invasive and not the initial specimen of choice."
+      },
+      {
+        "text": "CSF",
+        "feedback": "Incorrect. P. jirovecii is not diagnosed from CSF."
+      },
+      {
+        "text": "Urine",
+        "feedback": "Incorrect. P. jirovecii is not diagnosed from urine."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 12,
+    "question": "A transplant patient is suspected of having invasive aspergillosis on the basis of clinical and radiological findings. Which specimen is best for the initial identification of aspergillosis by soluble antigen testing?",
+    "options": [
+      {
+        "text": "Blood culture",
+        "feedback": "Incorrect. Blood cultures are often negative in invasive aspergillosis."
+      },
+      {
+        "text": "Lung biopsy",
+        "feedback": "Incorrect. While biopsy is definitive, it is invasive and not the initial test."
+      },
+      {
+        "text": "Serum or urine",
+        "feedback": "Correct! Serum or urine is used for galactomannan antigen testing, which is the initial screening for invasive aspergillosis."
+      },
+      {
+        "text": "Sputum",
+        "feedback": "Incorrect. Sputum can be used for culture but is less reliable for antigen testing."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 13,
+    "question": "The yeast form of which dimorphic mold shows a large parent yeast cell surrounded by smaller budding yeast cells?",
+    "options": [
+      {
+        "text": "Paracoccidioides brasiliensis",
+        "feedback": "Correct! P. brasiliensis shows 'mariner's wheel' or 'steering wheel' appearance with large parent cell surrounded by smaller buds."
+      },
+      {
+        "text": "Sporothrix schenckii",
+        "feedback": "Incorrect. S. schenckii shows cigar-shaped yeast cells."
+      },
+      {
+        "text": "Coccidioides immitis",
+        "feedback": "Incorrect. C. immitis shows spherules in tissue."
+      },
+      {
+        "text": "Histoplasma capsulatum",
+        "feedback": "Incorrect. H. capsulatum shows small intracellular yeast cells."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 14,
+    "question": "Tinea versicolor is a skin infection caused by:",
+    "options": [
+      {
+        "text": "Malassezia furfur",
+        "feedback": "Correct! Malassezia furfur causes tinea versicolor (pityriasis versicolor)."
+      },
+      {
+        "text": "Trichophyton rubrum",
+        "feedback": "Incorrect. T. rubrum causes dermatophytosis (athlete's foot, ringworm)."
+      },
+      {
+        "text": "Trichophyton schoenleinii",
+        "feedback": "Incorrect. T. schoenleinii causes favus (tinea favosa)."
+      },
+      {
+        "text": "Microsporum gypseum",
+        "feedback": "Incorrect. M. gypseum causes ringworm infections."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 15,
+    "question": "Microscopic examination of a fungus cultured from a patient with athlete's foot showed large, smooth-walled, club-shaped macroconidia appearing singly or in clusters of two to three from the tips of short conidiophores. The colonies did not produce microconidia. What is the most likely identification?",
+    "options": [
+      {
+        "text": "Trichophyton spp.",
+        "feedback": "Incorrect. Trichophyton spp. produce microconidia and have different macroconidia morphology."
+      },
+      {
+        "text": "Alternaria spp.",
+        "feedback": "Incorrect. Alternaria produces distinctive muriform conidia with both transverse and longitudinal septa."
+      },
+      {
+        "text": "Epidermophyton spp.",
+        "feedback": "Correct! Epidermophyton floccosum produces large, smooth-walled, club-shaped macroconidia in clusters and does NOT produce microconidia."
+      },
+      {
+        "text": "Microsporum spp.",
+        "feedback": "Incorrect. Microsporum produces macroconidia with rough/thick walls, not smooth-walled."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 16,
+    "question": "A mold that produces colonies with a dark brown, green-black, or black appearance of both the surface and reverse side is classified as a:",
+    "options": [
+      {
+        "text": "Dematiaceous mold",
+        "feedback": "Correct! Dematiaceous molds are characterized by dark pigmentation on both the surface and reverse side due to melanin production."
+      },
+      {
+        "text": "Dermatophyte",
+        "feedback": "Incorrect. Dermatophytes typically have characteristic colors but are not classified as dematiaceous."
+      },
+      {
+        "text": "Hyaline mold",
+        "feedback": "Incorrect. Hyaline molds are non-pigmented (light-colored)."
+      },
+      {
+        "text": "Dimorphic fungus",
+        "feedback": "Incorrect. Dimorphic fungi can be temperature-dependent, not characterized by dark pigmentation."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 17,
+    "question": "A bone marrow sample obtained from an immunocompromised patient revealed small intracellular cells using a Wright's stain preparation. Growth on Sabouraud-dextrose agar plates of a mold phase at 25°C and a yeast phase at 37°C designates the organism as dimorphic. The mold phase produced thick, spherical tuberculated macroconidia. What is the most likely identification?",
+    "options": [
+      {
+        "text": "Histoplasma capsulatum",
+        "feedback": "Correct! H. capsulatum is dimorphic, produces tuberculated macroconidia, and appears as small intracellular yeast cells in bone marrow."
+      },
+      {
+        "text": "Sepedonium spp.",
+        "feedback": "Incorrect. Sepedonium produces tuberculated macroconidia but is not a dimorphic pathogen."
+      },
+      {
+        "text": "Sporothrix schenckii",
+        "feedback": "Incorrect. S. schenckii produces cigar-shaped yeast cells, not tuberculated macroconidia."
+      },
+      {
+        "text": "Coccidioides immitis",
+        "feedback": "Incorrect. C. immitis produces spherules in tissue, not small intracellular yeast cells."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 18,
+    "question": "Classification of viruses is made by:",
+    "options": [
+      {
+        "text": "Complement fixation serology",
+        "feedback": "Incorrect. Serology is used for diagnosis, not primary classification."
+      },
+      {
+        "text": "Electron microscopy",
+        "feedback": "Incorrect. While EM is useful, the primary classification is by nucleic acid composition."
+      },
+      {
+        "text": "Nucleic acid composition",
+        "feedback": "Correct! Viruses are primarily classified by their nucleic acid composition (DNA vs RNA, single vs double stranded, etc.)."
+      },
+      {
+        "text": "Cellular inclusion bodies",
+        "feedback": "Incorrect. Inclusion bodies are used for diagnosis, not classification."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 19,
+    "question": "Which virus belonging to the Reoviridae group causes gastroenteritis in infants and young children but an asymptomatic infection in adults?",
+    "options": [
+      {
+        "text": "Coxsackie B virus",
+        "feedback": "Incorrect. Coxsackie B virus belongs to Picornaviridae, not Reoviridae."
+      },
+      {
+        "text": "Rotavirus",
+        "feedback": "Correct! Rotavirus belongs to Reoviridae and causes gastroenteritis in infants/young children but is often asymptomatic in adults."
+      },
+      {
+        "text": "Respiratory syncytial virus",
+        "feedback": "Incorrect. RSV belongs to Paramyxoviridae, not Reoviridae."
+      },
+      {
+        "text": "Rhabdovirus",
+        "feedback": "Incorrect. Rhabdovirus is a different family."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 20,
+    "question": "Hepatitis B virus can be transmitted by:",
+    "options": [
+      {
+        "text": "Acupuncture",
+        "feedback": "Incorrect. While acupuncture is a route, the answer is 'All of these options'."
+      },
+      {
+        "text": "Tattoos",
+        "feedback": "Incorrect. While tattoos are a route, the answer is 'All of these options'."
+      },
+      {
+        "text": "Sexual contact",
+        "feedback": "Incorrect. While sexual contact is a route, the answer is 'All of these options'."
+      },
+      {
+        "text": "All of these options",
+        "feedback": "Correct! HBV can be transmitted through acupuncture, tattoos, sexual contact, blood transfusion, and needle sharing."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 21,
+    "question": "A clinical test used for the detection and identification of viral infections other than culture is:",
+    "options": [
+      {
+        "text": "Hemagglutination",
+        "feedback": "Incorrect. While hemagglutination is used, the answer is 'All of these options'."
+      },
+      {
+        "text": "Hemadsorption",
+        "feedback": "Incorrect. While hemadsorption is used, the answer is 'All of these options'."
+      },
+      {
+        "text": "Viral antigen detection",
+        "feedback": "Incorrect. While antigen detection is used, the answer is 'All of these options'."
+      },
+      {
+        "text": "All of these options",
+        "feedback": "Correct! Hemagglutination, hemadsorption, and viral antigen detection are all used for viral identification."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 22,
+    "question": "Which technique is used for the confirmation of infection with human immunodeficiency virus (HIV-1)?",
+    "options": [
+      {
+        "text": "Western blot (immunoblot) assay",
+        "feedback": "Correct! Western blot is the confirmatory test for HIV-1 infection."
+      },
+      {
+        "text": "Enzyme-linked immunosorbent assay (ELISA)",
+        "feedback": "Incorrect. ELISA is a screening test, not confirmatory."
+      },
+      {
+        "text": "Complement fixation",
+        "feedback": "Incorrect. Complement fixation is not used for HIV confirmation."
+      },
+      {
+        "text": "p24 Antigen testing",
+        "feedback": "Incorrect. p24 antigen testing is used for early detection, not confirmation."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 23,
+    "question": "A 25-year-old male patient was diagnosed with HIV-1 by enzyme immunoassay, testing positive twice, and the diagnosis was confirmed by Western blot testing. Which laboratory test should be performed prior to initiating antiviral therapy?",
+    "options": [
+      {
+        "text": "Quantitative plasma virus concentration (viral load testing)",
+        "feedback": "Incorrect. While viral load testing is important, all of these tests should be performed."
+      },
+      {
+        "text": "Quantitation of CD4 lymphocytes",
+        "feedback": "Incorrect. While CD4 quantitation is important, all of these tests should be performed."
+      },
+      {
+        "text": "Phenotype/genotype resistance testing",
+        "feedback": "Incorrect. While resistance testing is important, all of these tests should be performed."
+      },
+      {
+        "text": "All of these options",
+        "feedback": "Correct! All three tests (viral load, CD4 count, and resistance testing) should be performed prior to initiating antiviral therapy."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 24,
+    "question": "A 6-month-old male infant was hospitalized with a respiratory infection. He was diagnosed with apnea and bronchiolitis. Further testing revealed congenital heart disease. Bacterial cultures were negative for Streptococcus pneumoniae and Haemophilus influenzae. What further testing should be done?",
+    "options": [
+      {
+        "text": "Respiratory syncytial virus (RSV)",
+        "feedback": "Correct! RSV is the most common cause of bronchiolitis in infants, especially those with congenital heart disease."
+      },
+      {
+        "text": "Rotavirus",
+        "feedback": "Incorrect. Rotavirus causes gastroenteritis, not respiratory infection."
+      },
+      {
+        "text": "Norwalk virus",
+        "feedback": "Incorrect. Norwalk virus causes gastroenteritis."
+      },
+      {
+        "text": "HIV",
+        "feedback": "Incorrect. HIV does not typically present as bronchiolitis in infants."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 25,
+    "question": "The organs of a 65-year-old male were donated soon after a fatal auto accident. Three recipients of his corneas and kidneys died within weeks after receiving his organs. Which of the following viruses most likely caused the death of these recipients?",
+    "options": [
+      {
+        "text": "HIV",
+        "feedback": "Incorrect. HIV transmission through organ transplant is possible but would not cause death within weeks."
+      },
+      {
+        "text": "Rabies",
+        "feedback": "Correct! Rabies has been transmitted through corneal and organ transplants, with rapid progression to death."
+      },
+      {
+        "text": "Norwalk-like",
+        "feedback": "Incorrect. Norwalk-like viruses cause gastroenteritis, not fatal transplant complications."
+      },
+      {
+        "text": "Rotavirus",
+        "feedback": "Incorrect. Rotavirus causes gastroenteritis in children, not fatal transplant complications."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 26,
+    "question": "Which virus belonging to the Reoviridae group causes gastroenteritis in infants and young children but an asymptomatic infection in adults?",
+    "options": [
+      {
+        "text": "Coxsackie B virus",
+        "feedback": "Incorrect. Coxsackie B virus belongs to Picornaviridae, not Reoviridae."
+      },
+      {
+        "text": "Rotavirus",
+        "feedback": "Correct! Rotavirus belongs to Reoviridae and causes gastroenteritis in infants/young children but is often asymptomatic in adults."
+      },
+      {
+        "text": "Respiratory syncytial virus",
+        "feedback": "Incorrect. RSV belongs to Paramyxoviridae, not Reoviridae."
+      },
+      {
+        "text": "Rhabdovirus",
+        "feedback": "Incorrect. Rhabdovirus is a different family."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 27,
+    "question": "Hepatitis B virus can be transmitted by:",
+    "options": [
+      {
+        "text": "Acupuncture",
+        "feedback": "Incorrect. While acupuncture is a route, the answer is 'All of these options'."
+      },
+      {
+        "text": "Tattoos",
+        "feedback": "Incorrect. While tattoos are a route, the answer is 'All of these options'."
+      },
+      {
+        "text": "Sexual contact",
+        "feedback": "Incorrect. While sexual contact is a route, the answer is 'All of these options'."
+      },
+      {
+        "text": "All of these options",
+        "feedback": "Correct! HBV can be transmitted through acupuncture, tattoos, sexual contact, blood transfusion, and needle sharing."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 28,
+    "question": "Which virus has been implicated in adult gastroenteritis resulting from ingestion of contaminated food (especially shellfish) and water?",
+    "options": [
+      {
+        "text": "Norwalk-like viruses",
+        "feedback": "Correct! Norwalk-like viruses (noroviruses) are a common cause of adult gastroenteritis from contaminated shellfish and water."
+      },
+      {
+        "text": "Rotavirus",
+        "feedback": "Incorrect. Rotavirus primarily affects infants and young children."
+      },
+      {
+        "text": "Hepatitis C virus",
+        "feedback": "Incorrect. HCV causes hepatitis, not gastroenteritis."
+      },
+      {
+        "text": "Coronavirus",
+        "feedback": "Incorrect. Coronaviruses typically cause respiratory infections."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 29,
+    "question": "Which virus is associated with venereal and respiratory tract warts and produces lesions of skin and mucous membranes?",
+    "options": [
+      {
+        "text": "Polyomavirus",
+        "feedback": "Incorrect. Polyomaviruses are associated with different conditions."
+      },
+      {
+        "text": "Poxvirus",
+        "feedback": "Incorrect. Poxviruses cause skin lesions like smallpox and molluscum."
+      },
+      {
+        "text": "Adenovirus",
+        "feedback": "Incorrect. Adenoviruses cause respiratory infections, not warts."
+      },
+      {
+        "text": "Papillomavirus",
+        "feedback": "Correct! Papillomavirus (HPV) causes venereal warts and respiratory tract warts."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 30,
+    "question": "SITUATION: A patient tested positive for HIV-1 infection using a reverse transcriptase-polymerase chain reaction (RT-PCR) method. However, 1 week later a second blood sample was collected and sent to a reference lab that performed a confirmatory test by Western blot. The Western blot test was negative. What best explains these results?",
+    "options": [
+      {
+        "text": "The samples for RT-PCR and Western blot were not from the same patient",
+        "feedback": "Incorrect. The most likely explanation is that RT-PCR is more sensitive for early detection."
+      },
+      {
+        "text": "RT-PCR is more sensitive for early detection",
+        "feedback": "Correct! RT-PCR detects viral RNA early in infection before antibodies appear, while Western blot detects antibodies that may not yet be present."
+      },
+      {
+        "text": "The RT-PCR result was falsely positive",
+        "feedback": "Incorrect. RT-PCR is highly specific and false positives are rare."
+      },
+      {
+        "text": "The RT-PCR test detected HIV-2 and the Western blot is specific for HIV-1",
+        "feedback": "Incorrect. This is less likely than the sensitivity explanation."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 31,
+    "question": "The incorrect match between organism and the appropriate diagnostic procedure is:",
+    "options": [
+      {
+        "text": "Onchocerca volvulus - examination of skin snips",
+        "feedback": "Incorrect. This match is correct - skin snips are used for Onchocerca."
+      },
+      {
+        "text": "Cryptosporidium - modified acid-fast stain",
+        "feedback": "Incorrect. This match is correct - modified acid-fast stain is used for Cryptosporidium."
+      },
+      {
+        "text": "Echinococcus granulosus - routine ova and parasite examination",
+        "feedback": "Correct! This match is incorrect. E. granulosus diagnosis requires imaging (CT/MRI) or serology, not routine O&P."
+      },
+      {
+        "text": "Schistosoma haematobium - examination of urine sediment",
+        "feedback": "Incorrect. This match is correct - S. haematobium eggs are found in urine."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 32,
+    "question": "Charcot-Leyden crystals in stool may be associated with an immune response and are thought to be formed from the breakdown products of:",
+    "options": [
+      {
+        "text": "Neutrophils",
+        "feedback": "Incorrect. Charcot-Leyden crystals are not formed from neutrophils."
+      },
+      {
+        "text": "Eosinophils",
+        "feedback": "Correct! Charcot-Leyden crystals are formed from the breakdown products of eosinophils."
+      },
+      {
+        "text": "Monocytes",
+        "feedback": "Incorrect. Charcot-Leyden crystals are not formed from monocytes."
+      },
+      {
+        "text": "Lymphocytes",
+        "feedback": "Incorrect. Charcot-Leyden crystals are not formed from lymphocytes."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 33,
+    "question": "The incorrect match between the organism and one method of acquiring the infection is:",
+    "options": [
+      {
+        "text": "Trypanosoma brucei rhodesiense - bite of sandflies",
+        "feedback": "Correct! This match is incorrect. T. brucei rhodesiense is transmitted by the tsetse fly, NOT sandflies."
+      },
+      {
+        "text": "Giardia lamblia - ingestion of water contaminated with cysts",
+        "feedback": "Incorrect. This match is correct - Giardia is transmitted through contaminated water."
+      },
+      {
+        "text": "Hookworm - skin penetration of larvae from soil",
+        "feedback": "Incorrect. This match is correct - hookworm larvae penetrate skin."
+      },
+      {
+        "text": "Toxoplasma gondii - ingestion of raw or rare meats",
+        "feedback": "Incorrect. This match is correct - Toxoplasma is transmitted through undercooked meat."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 34,
+    "question": "Upon examination of stool material for Cystoisospora belli, one would expect to see:",
+    "options": [
+      {
+        "text": "Cysts containing sporozoites",
+        "feedback": "Incorrect. C. belli produces oocysts, not cysts with sporozoites."
+      },
+      {
+        "text": "Precysts containing chromatoidal bars",
+        "feedback": "Incorrect. Chromatoidal bars are seen in Entamoeba cysts, not C. belli."
+      },
+      {
+        "text": "Oocysts that are modified acid-fast variable",
+        "feedback": "Correct! C. belli oocysts are variably acid-fast and can be visualized with modified acid-fast stain."
+      },
+      {
+        "text": "Sporozoites that are hematoxylin positive",
+        "feedback": "Incorrect. Sporozoites are not typically identified this way in stool."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 35,
+    "question": "Which specimen is the least likely to provide recovery of Trichomonas vaginalis?",
+    "options": [
+      {
+        "text": "Urine",
+        "feedback": "Incorrect. T. vaginalis can be recovered from urine."
+      },
+      {
+        "text": "Urethral discharge",
+        "feedback": "Incorrect. T. vaginalis can be recovered from urethral discharge."
+      },
+      {
+        "text": "Vaginal discharge",
+        "feedback": "Incorrect. T. vaginalis can be recovered from vaginal discharge."
+      },
+      {
+        "text": "Feces",
+        "feedback": "Correct! T. vaginalis is NOT typically found in feces; it inhabits the genitourinary tract."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 36,
+    "question": "Which of the following is the best technique to identify Dientamoeba fragilis in stool?",
+    "options": [
+      {
+        "text": "Formalin concentrate",
+        "feedback": "Incorrect. Formalin concentration is not the best technique for D. fragilis as it is fragile."
+      },
+      {
+        "text": "Trichrome-stained smear",
+        "feedback": "Correct! Permanent trichrome-stained smear is the best technique for identifying D. fragilis in stool."
+      },
+      {
+        "text": "Modified acid-fast-stained smear",
+        "feedback": "Incorrect. Modified acid-fast is used for Cryptosporidium, not D. fragilis."
+      },
+      {
+        "text": "Giemsa's stain",
+        "feedback": "Incorrect. Giemsa stain is not typically used for stool protozoa identification."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 37,
+    "question": "One of the following protozoan organisms has been implicated in waterborne and foodborne outbreaks within the United States. The suspect organism is:",
+    "options": [
+      {
+        "text": "Pentatrichomonas hominis",
+        "feedback": "Incorrect. P. hominis is not a common cause of waterborne/foodborne outbreaks."
+      },
+      {
+        "text": "Dientamoeba fragilis",
+        "feedback": "Incorrect. D. fragilis is not typically associated with waterborne outbreaks."
+      },
+      {
+        "text": "Giardia lamblia",
+        "feedback": "Correct! Giardia lamblia is the most common cause of waterborne and foodborne protozoan outbreaks in the United States."
+      },
+      {
+        "text": "Balantidium coli",
+        "feedback": "Incorrect. B. coli is rare in the United States and not typically associated with outbreaks."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 38,
+    "question": "Visceral larva migrans is associated with which of the following organisms?",
+    "options": [
+      {
+        "text": "Toxocara - serology",
+        "feedback": "Correct! Toxocara causes visceral larva migrans and diagnosis is confirmed by serology."
+      },
+      {
+        "text": "Onchocerca - skin snips",
+        "feedback": "Incorrect. Onchocerca causes river blindness, not VLM."
+      },
+      {
+        "text": "Dracunculus - skin biopsy",
+        "feedback": "Incorrect. Dracunculus causes guinea worm disease, not VLM."
+      },
+      {
+        "text": "Angiostrongylus - CSF examination",
+        "feedback": "Incorrect. Angiostrongylus causes eosinophilic meningitis, not VLM."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 39,
+    "question": "The following organisms are linked with specific, relevant information. The incorrect combination is:",
+    "options": [
+      {
+        "text": "Strongyloides stercoralis - internal autoinfection",
+        "feedback": "Incorrect. This combination is correct - S. stercoralis causes internal autoinfection."
+      },
+      {
+        "text": "Echinococcus granulosus - hydatid examination",
+        "feedback": "Incorrect. This combination is correct - E. granulosus causes hydatid disease."
+      },
+      {
+        "text": "Toxoplasma - serology",
+        "feedback": "Incorrect. This combination is correct - Toxoplasma is diagnosed by serology."
+      },
+      {
+        "text": "Balantidium coli - common within the United States",
+        "feedback": "Correct! This combination is incorrect. B. coli is NOT common in the United States; it is more common in tropical/subtropical regions."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 40,
+    "question": "The adult tapeworm of Echinococcus granulosus is found in the intestine of:",
+    "options": [
+      {
+        "text": "Dogs",
+        "feedback": "Correct! Dogs are the definitive host of E. granulosus, with the adult tapeworm in their intestine."
+      },
+      {
+        "text": "Sheep",
+        "feedback": "Incorrect. Sheep are intermediate hosts, harboring the larval stage (hydatid cyst)."
+      },
+      {
+        "text": "Humans",
+        "feedback": "Incorrect. Humans are accidental intermediate hosts, not definitive hosts."
+      },
+      {
+        "text": "Cattle",
+        "feedback": "Incorrect. Cattle are intermediate hosts, not definitive hosts."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 41,
+    "question": "The examination of sputum may be necessary to diagnose infection with:",
+    "options": [
+      {
+        "text": "Paragonimus westermani",
+        "feedback": "Correct! P. westermani eggs are found in sputum."
+      },
+      {
+        "text": "Trichinella spiralis",
+        "feedback": "Incorrect. Trichinella is diagnosed by muscle biopsy, not sputum."
+      },
+      {
+        "text": "Wuchereria bancrofti",
+        "feedback": "Incorrect. W. bancrofti is diagnosed by blood examination."
+      },
+      {
+        "text": "Fasciola hepatica",
+        "feedback": "Incorrect. F. hepatica eggs are found in stool, not sputum."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 42,
+    "question": "Organisms that should be considered in a nursery school outbreak of diarrhea include:",
+    "options": [
+      {
+        "text": "Endolimax nana, Giardia lamblia, and Entamoeba coli",
+        "feedback": "Incorrect. Endolimax nana and Entamoeba coli are nonpathogenic and would not cause a diarrhea outbreak."
+      },
+      {
+        "text": "Giardia lamblia, Dientamoeba fragilis, and Cryptosporidium spp.",
+        "feedback": "Correct! All three are pathogenic protozoa that can cause diarrhea outbreaks in nursery schools."
+      },
+      {
+        "text": "Cryptosporidium spp., Trichomonas vaginalis, and Entamoeba coli",
+        "feedback": "Incorrect. T. vaginalis is sexually transmitted and E. coli is nonpathogenic."
+      },
+      {
+        "text": "Pentatrichomonas hominis, Dientamoeba fragilis, and Endolimax nana",
+        "feedback": "Incorrect. P. hominis and E. nana are nonpathogenic."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 43,
+    "question": "The incorrect match between disease and symptoms is:",
+    "options": [
+      {
+        "text": "Paragonimiasis - hemoptysis",
+        "feedback": "Incorrect. This match is correct - Paragonimiasis causes hemoptysis."
+      },
+      {
+        "text": "Cryptosporidiosis - watery diarrhea",
+        "feedback": "Incorrect. This match is correct - Cryptosporidiosis causes watery diarrhea."
+      },
+      {
+        "text": "Toxoplasmosis in compromised host - central nervous system symptoms",
+        "feedback": "Incorrect. This match is correct - toxoplasmosis causes CNS symptoms in immunocompromised patients."
+      },
+      {
+        "text": "Enterobiasis - dysentery",
+        "feedback": "Correct! This match is incorrect. Enterobiasis (pinworm) causes perianal itching, NOT dysentery."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 44,
+    "question": "Massive hemolysis, blackwater fever, and central nervous system involvement are most common with:",
+    "options": [
+      {
+        "text": "Plasmodium vivax",
+        "feedback": "Incorrect. P. vivax does not typically cause blackwater fever or CNS involvement."
+      },
+      {
+        "text": "Plasmodium falciparum",
+        "feedback": "Correct! P. falciparum is associated with massive hemolysis, blackwater fever, and CNS involvement (cerebral malaria)."
+      },
+      {
+        "text": "Plasmodium ovale",
+        "feedback": "Incorrect. P. ovale does not cause these severe manifestations."
+      },
+      {
+        "text": "Plasmodium malariae",
+        "feedback": "Incorrect. P. malariae does not cause blackwater fever or CNS involvement."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 45,
+    "question": "The incorrect match between symptoms and disease is:",
+    "options": [
+      {
+        "text": "Dysentery - amebiasis",
+        "feedback": "Incorrect. This match is correct - E. histolytica causes amebic dysentery."
+      },
+      {
+        "text": "Malabsorption syndrome - giardiasis",
+        "feedback": "Incorrect. This match is correct - Giardia causes malabsorption."
+      },
+      {
+        "text": "Cardiac involvement - chronic Chagas disease",
+        "feedback": "Incorrect. This match is correct - T. cruzi causes cardiac involvement in chronic Chagas disease."
+      },
+      {
+        "text": "Myalgias - trichuriasis",
+        "feedback": "Correct! This match is incorrect. Trichuriasis (whipworm) causes gastrointestinal symptoms, NOT myalgias."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 46,
+    "question": "The incorrect match between organism and characteristic is:",
+    "options": [
+      {
+        "text": "Chilomastix mesnili - Shepherd's crook and lemon shape",
+        "feedback": "Incorrect. This match is correct - C. mesnili has shepherd's crook and lemon shape."
+      },
+      {
+        "text": "Plasmodium malariae - 'band troph'",
+        "feedback": "Incorrect. This match is correct - P. malariae shows band-form trophozoites."
+      },
+      {
+        "text": "Hymenolepis nana - striated shell",
+        "feedback": "Correct! This match is incorrect. H. nana eggs have polar filaments, NOT striated shell."
+      },
+      {
+        "text": "Wuchereria bancrofti - sheathed microfilariae",
+        "feedback": "Incorrect. This match is correct - W. bancrofti has sheathed microfilariae."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 47,
+    "question": "The incorrect match between method and method objective is:",
+    "options": [
+      {
+        "text": "Direct wet examination - detection of organism motility",
+        "feedback": "Incorrect. This match is correct - wet examination detects motility."
+      },
+      {
+        "text": "Knott's concentration - the recovery of operculated helminth eggs",
+        "feedback": "Correct! This match is incorrect. Knott's concentration is used for microfilariae, NOT operculated helminth eggs."
+      },
+      {
+        "text": "Baermann's concentration - the recovery of Strongyloides",
+        "feedback": "Incorrect. This match is correct - Baermann's method is used for Strongyloides larvae."
+      },
+      {
+        "text": "Permanent stained fecal smear - confirmation of protozoa",
+        "feedback": "Incorrect. This match is correct - permanent stained smears confirm protozoan identification."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 48,
+    "question": "The incorrect match between organism and characteristic is:",
+    "options": [
+      {
+        "text": "Dientamoeba fragilis - tetrad karyosome in the nucleus",
+        "feedback": "Incorrect. This match is correct - D. fragilis has a tetrad karyosome."
+      },
+      {
+        "text": "Toxoplasma gondii - diagnostic serology",
+        "feedback": "Incorrect. This match is correct - Toxoplasma is diagnosed by serology."
+      },
+      {
+        "text": "Echinococcus granulosus - daughter cysts",
+        "feedback": "Incorrect. This match is correct - E. granulosus forms daughter cysts in hydatid disease."
+      },
+      {
+        "text": "Schistosoma mansoni - egg with terminal spine",
+        "feedback": "Correct! This match is incorrect. S. mansoni eggs have a LATERAL spine, not terminal. S. haematobium has terminal spine."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 49,
+    "question": "An immunosuppressed man has several episodes of pneumonia, intestinal pain, sepsis with gram-negative rods, and a history of military service in Southeast Asia 20 years earlier. The most likely cause is infection with:",
+    "options": [
+      {
+        "text": "Trypanosoma cruzi",
+        "feedback": "Incorrect. T. cruzi causes Chagas disease, not pneumonia or sepsis."
+      },
+      {
+        "text": "Strongyloides stercoralis",
+        "feedback": "Correct! Strongyloides hyperinfection syndrome in immunocompromised patients can cause pneumonia, intestinal symptoms, and gram-negative sepsis."
+      },
+      {
+        "text": "Naegleria fowleri",
+        "feedback": "Incorrect. N. fowleri causes meningoencephalitis, not pneumonia."
+      },
+      {
+        "text": "Paragonimus westermani",
+        "feedback": "Incorrect. P. westermani causes lung infection but not the full syndrome described."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 50,
+    "question": "Ascospores are formed by which yeast isolate?",
+    "options": [
+      {
+        "text": "Saccharomyces cerevisiae",
+        "feedback": "Correct! S. cerevisiae produces ascospores (sexual spores) within an ascus."
+      },
+      {
+        "text": "Candida albicans",
+        "feedback": "Incorrect. C. albicans does not produce ascospores."
+      },
+      {
+        "text": "Cryptococcus neoformans",
+        "feedback": "Incorrect. C. neoformans produces basidiospores, not ascospores."
+      },
+      {
+        "text": "All of these options",
+        "feedback": "Incorrect. Only S. cerevisiae produces ascospores among these options."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 51,
+    "question": "Carbohydrate assimilation tests are used for the identification of yeast isolates by inoculating media:",
+    "options": [
+      {
+        "text": "Free of carbohydrates",
+        "feedback": "Correct! Carbohydrate assimilation tests use media free of carbohydrates to test the yeast's ability to utilize specific sugars."
+      },
+      {
+        "text": "Free of niger seed",
+        "feedback": "Incorrect. Niger seed agar is used for Cryptococcus, not assimilation tests."
+      },
+      {
+        "text": "Containing carbohydrates",
+        "feedback": "Incorrect. The media is carbohydrate-free to allow testing of specific carbohydrate utilization."
+      },
+      {
+        "text": "Containing yeast extract",
+        "feedback": "Incorrect. Yeast extract is not the key component for assimilation testing."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 52,
+    "question": "Which of the following structures is invaded by the genus Trichophyton?",
+    "options": [
+      {
+        "text": "Hair",
+        "feedback": "Incorrect. While Trichophyton invades hair, the answer is 'All of these options'."
+      },
+      {
+        "text": "Nails",
+        "feedback": "Incorrect. While Trichophyton invades nails, the answer is 'All of these options'."
+      },
+      {
+        "text": "Skin",
+        "feedback": "Incorrect. While Trichophyton invades skin, the answer is 'All of these options'."
+      },
+      {
+        "text": "All of these options",
+        "feedback": "Correct! Trichophyton invades hair, nails, and skin (dermatophyte)."
+      }
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 53,
+    "question": "Which Aspergillus species, recovered from sputum or bronchial mucus, is the most common cause of pulmonary aspergillosis?",
+    "options": [
+      {
+        "text": "A. niger",
+        "feedback": "Incorrect. A. niger is less common in pulmonary aspergillosis."
+      },
+      {
+        "text": "A. flavus",
+        "feedback": "Incorrect. A. flavus is more common in sinus infections."
+      },
+      {
+        "text": "A. fumigatus",
+        "feedback": "Correct! A. fumigatus is the most common cause of pulmonary aspergillosis."
+      },
+      {
+        "text": "All of these options",
+        "feedback": "Incorrect. A. fumigatus is the most common, not all species equally."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 54,
+    "question": "A thermally dimorphic fungus shows a filamentous mold form with tuberculate macroconidia at room temperature, and a yeast form above 35°C. Which organism best fits this description?",
+    "options": [
+      {
+        "text": "Histoplasma capsulatum",
+        "feedback": "Correct! H. capsulatum shows mold with tuberculate macroconidia at 25°C and yeast at 37°C."
+      },
+      {
+        "text": "Paracoccidioides brasiliensis",
+        "feedback": "Incorrect. P. brasiliensis shows multiple buds ('mariner's wheel'), not tuberculate macroconidia."
+      },
+      {
+        "text": "Candida albicans",
+        "feedback": "Incorrect. C. albicans is not dimorphic in this way (it's a yeast with pseudohyphae)."
+      },
+      {
+        "text": "Coccidioides immitis",
+        "feedback": "Incorrect. C. immitis shows spherules, not tuberculate macroconidia."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 55,
+    "question": "A dehydrated 25-year-old male patient was admitted to the hospital with symptoms similar to those of chronic fatigue syndrome. Serological testing proved negative for recent streptococcal infection, Epstein-Barr virus, and hepatitis. Which of the following viral serological tests should help with a possible diagnosis?",
+    "options": [
+      {
+        "text": "CMV",
+        "feedback": "Correct! CMV infection can cause symptoms similar to chronic fatigue syndrome and infectious mononucleosis."
+      },
+      {
+        "text": "Echovirus",
+        "feedback": "Incorrect. Echovirus causes aseptic meningitis and respiratory infections, not chronic fatigue symptoms."
+      },
+      {
+        "text": "Respiratory syncytial virus",
+        "feedback": "Incorrect. RSV causes respiratory infections, not chronic fatigue syndrome."
+      },
+      {
+        "text": "Measles virus",
+        "feedback": "Incorrect. Measles causes characteristic rash and respiratory symptoms, not chronic fatigue."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 56,
+    "question": "A nursing student working in the emergency department accidentally stuck herself with a needle after removing it from an intravenous set taken from a suspected drug user. The best course of action, after reporting the incident to her supervisor, is to:",
+    "options": [
+      {
+        "text": "Test the student for HIV virus if flulike symptoms develop in 2-4 weeks",
+        "feedback": "Incorrect. Waiting for symptoms is not appropriate; immediate testing is recommended."
+      },
+      {
+        "text": "Immediately test the patient and the student for HIV using an EIA or ELISA test",
+        "feedback": "Correct! Both the patient and the student should be tested immediately (with consent) for HIV."
+      },
+      {
+        "text": "Perform a Western blot assay on the student's serum",
+        "feedback": "Incorrect. Western blot is not the initial test; EIA/ELISA is used for screening."
+      },
+      {
+        "text": "Draw blood from the student only and freeze it for further testing",
+        "feedback": "Incorrect. The patient should also be tested, and immediate testing is preferred."
+      }
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 57,
+    "question": "Examination of a modified acid-fast stained fecal smear reveals round structures measuring approximately 8-10 μm, some of which are stained and some of which are not. They do not appear to show any internal morphology. The patient is symptomatic with diarrhea, and the cause may be:",
+    "options": [
+      {
+        "text": "Blastocystis hominis",
+        "feedback": "Incorrect. B. hominis is variable in size and has characteristic vacuole."
+      },
+      {
+        "text": "Polymorphonuclear leukocytes",
+        "feedback": "Incorrect. PMNs are not acid-fast and have nuclei."
+      },
+      {
+        "text": "Cyclospora cayetanensis",
+        "feedback": "Correct! Cyclospora oocysts are 8-10 μm, variably acid-fast, and cause diarrhea."
+      },
+      {
+        "text": "Large yeast cells",
+        "feedback": "Incorrect. Yeast cells are not acid-fast."
+      }
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 58,
+    "question": "The diagnostic method most commonly used for the identification of Lyme disease is:",
+    "options": [
+      {
+        "text": "Serology",
+        "feedback": "Correct! Serology (ELISA followed by Western blot) is the most common diagnostic method for Lyme disease."
+      },
+      {
+        "text": "Culture",
+        "feedback": "Incorrect. Culture is difficult and not routinely performed."
+      },
+      {
+        "text": "Gram stain",
+        "feedback": "Incorrect. The organism (B. burgdorferi) is not visible on Gram stain from clinical specimens."
+      },
+      {
+        "text": "Acid-fast stain",
+        "feedback": "Incorrect. B. burgdorferi is not acid-fast."
+      }
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 59,
+    "question": "Which spore type and location is found on Clostridium tetani?",
+    "options": [
+      {
+        "text": "Round, terminal spores",
+        "feedback": "Correct! C. tetani produces round, terminal spores (resembling a tennis racket)."
+      },
+      {
+        "text": "Round, subterminal spores",
+        "feedback": "Incorrect. This is characteristic of C. perfringens."
+      },
+      {
+        "text": "Ovoid, subterminal spores",
+        "feedback": "Incorrect. This is characteristic of C. botulinum."
+      },
+      {
+        "text": "Ovoid, terminal spores",
+        "feedback": "Incorrect. C. tetani has ROUND, terminal spores."
+      }
+    ],
+    "correctAnswerIndex": 0
+  }
+]
