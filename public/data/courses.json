@@ -25,7 +25,13 @@
     "courseId": "chemical",
     "title": "Chemical Pathology",
     "quizzes": [
-      { "quizId": "chem_1", "title": "available tommorrow 6:30 PM", "status": "coming_soon", "file": "" }
+      { "quizId": "chem_1", "title": "COUNCIL 2024", "status": "available", "file": "clinical_q1.json" },
+      { "quizId": "chem_1", "title": "COUNCIL 2023", "status": "available", "file": "clinical_q2.json" },
+      { "quizId": "chem_1", "title": "END CYCLE 206 JUNE", "status": "available", "file": "clinical_q3.json" },
+      { "quizId": "chem_1", "title": "...084407", "status": "available", "file": "clinical_q4.json" },
+      { "quizId": "chem_1", "title": "from CUR", "status": "available", "file": "clinical_q5.json" },
+      { "quizId": "chem_1", "title": "from kibogora", "status": "available", "file": "clinical_q6.json" },
+      { "quizId": "chem_1", "title": "exam to be 2018", "status": "available", "file": "clinical_q7.json" }
     ]
   }
 ]
