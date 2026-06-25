@@ -1,0 +1,2250 @@
+[
+{
+"id": 1,
+"question": "If levels of PTH are high, one would expect to see:",
+"options": [
+{"text": "Increased osteoblast activity", "feedback": "Incorrect. PTH increases osteoclast activity, not osteoblast activity."},
+{"text": "Increased excretion of calcium ions in urine", "feedback": "Incorrect. PTH increases calcium reabsorption in the kidneys, decreasing urinary calcium excretion."},
+{"text": "Increased excretion of phosphate ions in urine", "feedback": "Correct! PTH inhibits phosphate reabsorption in the kidney, leading to increased phosphate excretion in urine."},
+{"text": "Decreased calcium concentration of the blood", "feedback": "Incorrect. PTH increases blood calcium levels."},
+{"text": "C and D are both correct", "feedback": "Incorrect. Only C is correct; D is incorrect."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 2,
+"question": "Exophthalmos of the eyes is a characteristic sign of:",
+"options": [
+{"text": "Myxedema", "feedback": "Incorrect. Myxedema is associated with hypothyroidism and does not cause exophthalmos."},
+{"text": "Cretinism", "feedback": "Incorrect. Cretinism is congenital hypothyroidism, not associated with exophthalmos."},
+{"text": "Graves' Disease", "feedback": "Correct! Exophthalmos (bulging eyes) is a characteristic sign of Graves' disease (hyperthyroidism)."},
+{"text": "Acromegaly", "feedback": "Incorrect. Acromegaly causes enlargement of bones in the face, hands, and feet, not exophthalmos."},
+{"text": "Cushing's Disease", "feedback": "Incorrect. Cushing's disease causes truncal obesity, moon face, and other features, not exophthalmos."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 3,
+"question": "Levels of ACTH are high in Addison's disease because:",
+"options": [
+{"text": "Levels of glucocorticoids are low", "feedback": "Correct! In Addison's disease, low cortisol levels remove negative feedback on the pituitary, resulting in high ACTH levels."},
+{"text": "Levels of glucocorticoids are high", "feedback": "Incorrect. High glucocorticoids would suppress ACTH."},
+{"text": "Excessive water is being lost with sodium ions", "feedback": "Incorrect. This is a consequence of aldosterone deficiency, not the cause of high ACTH."},
+{"text": "There is a tumor of the corticotrophs in the adenohypophysis", "feedback": "Incorrect. This would cause Cushing's disease, not Addison's."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 4,
+"question": "Destruction of the beta cells of the pancreas results in:",
+"options": [
+{"text": "Type I diabetes (insulin-dependent)", "feedback": "Correct! Beta cells produce insulin; their destruction leads to type 1 diabetes mellitus."},
+{"text": "Type II diabetes (insulin-nondependent)", "feedback": "Incorrect. Type 2 diabetes is characterized by insulin resistance, not beta cell destruction."},
+{"text": "Diabetes insipidus", "feedback": "Incorrect. Diabetes insipidus is caused by ADH deficiency or resistance."},
+{"text": "Hyperglycemia", "feedback": "Incorrect. While hyperglycemia is a consequence, the primary condition is type 1 diabetes."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 5,
+"question": "What hormone causes contraction of smooth muscle surrounding milk glands of the mammary gland?",
+"options": [
+{"text": "Oxytocin", "feedback": "Correct! Oxytocin causes myoepithelial cell contraction, leading to milk ejection."},
+{"text": "ADH", "feedback": "Incorrect. ADH (vasopressin) regulates water balance."},
+{"text": "Prolactin", "feedback": "Incorrect. Prolactin stimulates milk production (lactogenesis), not ejection."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 6,
+"question": "What hormone, along with estrogen, stimulates the development of the mammary glands?",
+"options": [
+{"text": "Oxytocin", "feedback": "Incorrect. Oxytocin causes milk ejection."},
+{"text": "ADH", "feedback": "Incorrect. ADH regulates water balance."},
+{"text": "TSH", "feedback": "Incorrect. TSH stimulates the thyroid gland."},
+{"text": "GH", "feedback": "Incorrect. GH is involved in growth, but not directly in mammary gland development."},
+{"text": "Prolactin", "feedback": "Correct! Prolactin, along with estrogen and progesterone, stimulates mammary gland development during pregnancy."}
+],
+"correctAnswerIndex": 4
+},
+{
+"id": 7,
+"question": "What endocrine glands are stimulated by FSH and LH?",
+"options": [
+{"text": "Thyroid", "feedback": "Incorrect. The thyroid is stimulated by TSH."},
+{"text": "Testes/ovaries", "feedback": "Correct! FSH and LH are gonadotropins that stimulate the gonads (testes and ovaries)."},
+{"text": "Adrenal medulla", "feedback": "Incorrect. The adrenal medulla is stimulated by the sympathetic nervous system."},
+{"text": "Alpha cells of the pancreas", "feedback": "Incorrect. Alpha cells produce glucagon and are not stimulated by FSH/LH."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 8,
+"question": "Simmond's Disease is an adult disease of not enough:",
+"options": [
+{"text": "PTH", "feedback": "Incorrect. PTH deficiency causes hypoparathyroidism."},
+{"text": "GH", "feedback": "Correct! Simmond's disease (panhypopituitarism) is due to deficiency of all pituitary hormones, including growth hormone (GH)."},
+{"text": "ADH", "feedback": "Incorrect. ADH deficiency causes diabetes insipidus."},
+{"text": "Cortisol", "feedback": "Incorrect. Cortisol deficiency is part of the syndrome but not the primary definition."},
+{"text": "Insulin", "feedback": "Incorrect. Insulin deficiency causes diabetes mellitus."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 9,
+"question": "Which of the following hormones are manufactured in the hypothalamus?",
+"options": [
+{"text": "TSH-RF", "feedback": "Incorrect. TSH-RF (TRH) is produced by the hypothalamus."},
+{"text": "ACTH-RH", "feedback": "Incorrect. ACTH-RH (CRH) is produced by the hypothalamus."},
+{"text": "Oxytocin", "feedback": "Correct! Oxytocin is synthesized in the hypothalamus and stored/released by the posterior pituitary."},
+{"text": "ADH", "feedback": "Correct! ADH (vasopressin) is synthesized in the hypothalamus and stored/released by the posterior pituitary."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 10,
+"question": "A simple goiter results from:",
+"options": [
+{"text": "Lack of TSH", "feedback": "Incorrect. Lack of TSH would cause thyroid atrophy, not goiter."},
+{"text": "Too much PTH", "feedback": "Incorrect. PTH is not involved in goiter formation."},
+{"text": "Lack of iodine", "feedback": "Correct! Iodine deficiency leads to decreased thyroid hormone production, increased TSH, and thyroid hyperplasia (simple goiter)."},
+{"text": "Lack of iron", "feedback": "Incorrect. Iron deficiency causes anemia, not goiter."},
+{"text": "Autoimmunity", "feedback": "Incorrect. Autoimmune goiter is seen in Hashimoto's or Graves' disease, not simple goiter."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 11,
+"question": "The amino acid, tyrosine, has 4 iodines attached to the ring structures. What is the correct name of this hormone?",
+"options": [
+{"text": "Triiodothyronine", "feedback": "Incorrect. Triiodothyronine (T3) has 3 iodines."},
+{"text": "Tetrahydrogenous", "feedback": "Incorrect. This is not a hormone name."},
+{"text": "Tetraiodothyronine", "feedback": "Correct! Tetraiodothyronine is the chemical name for thyroxine (T4), which has 4 iodine atoms."},
+{"text": "Calcitonin", "feedback": "Incorrect. Calcitonin is a different hormone produced by the thyroid."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 12,
+"question": "Select the correct disorder for these symptoms: (1) salt craving; (2) high K+; (3) hypotension; (4) hypoglycemia; (5) collapse due to stress.",
+"options": [
+{"text": "Diabetes, Type I", "feedback": "Incorrect. Type 1 diabetes causes hyperglycemia, not these symptoms."},
+{"text": "Cushing's disease (syndrome)", "feedback": "Incorrect. Cushing's causes hypertension, hyperglycemia, and high cortisol."},
+{"text": "Diabetes insipidus", "feedback": "Incorrect. Diabetes insipidus causes polyuria and polydipsia without electrolyte abnormalities."},
+{"text": "Addison's Disease (hypoadrenalism)", "feedback": "Correct! These are classic symptoms of Addison's disease: salt craving (Na+ loss), hyperkalemia, hypotension, hypoglycemia, and adrenal crisis with stress."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 13,
+"question": "When a hormone name ends in 'tropic,' what does this mean?",
+"options": [
+{"text": "The hormone stimulates the metabolism of the cell it contacts", "feedback": "Incorrect. This describes a metabolic effect, not the meaning of 'tropic'."},
+{"text": "It means the hormone affects another 'target' endocrine gland", "feedback": "Correct! Tropic hormones stimulate other endocrine glands to secrete hormones."},
+{"text": "It means the hormone always enters the cell and turns on and off portions of the cell's DNA", "feedback": "Incorrect. This describes steroid hormone action, not the meaning of 'tropic'."},
+{"text": "It means it is a posterior pituitary hormone", "feedback": "Incorrect. Posterior pituitary hormones are oxytocin and ADH, which are not tropic."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 14,
+"question": "Aldosterone acts primarily on two things:",
+"options": [
+{"text": "Kidney & sweat glands", "feedback": "Correct! Aldosterone acts on the kidneys (distal tubules) and sweat glands to promote sodium reabsorption and potassium excretion."},
+{"text": "Kidney & liver", "feedback": "Incorrect. The liver is not a primary target of aldosterone."},
+{"text": "Adrenal glands & kidney", "feedback": "Incorrect. The adrenal glands produce aldosterone, but it acts on the kidney."},
+{"text": "Sweat glands & salivary glands", "feedback": "Incorrect. While aldosterone affects sweat glands, it primarily acts on the kidney."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 15,
+"question": "What gland produces calcitonin?",
+"options": [
+{"text": "Parathyroids", "feedback": "Incorrect. The parathyroid glands produce PTH."},
+{"text": "Thyroid", "feedback": "Correct! Calcitonin is produced by the parafollicular cells (C-cells) of the thyroid gland."},
+{"text": "Adrenal cortex", "feedback": "Incorrect. The adrenal cortex produces corticosteroids."},
+{"text": "Adrenohypophysis", "feedback": "Incorrect. The anterior pituitary produces tropic hormones."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 16,
+"question": "The statistical term for the average value is the?",
+"options": [
+{"text": "Mode", "feedback": "Incorrect. The mode is the most frequent value."},
+{"text": "Median", "feedback": "Incorrect. The median is the middle value."},
+{"text": "Mean", "feedback": "Correct! The mean is the arithmetic average of all values."},
+{"text": "Coefficient of variation", "feedback": "Incorrect. CV is a measure of relative variability."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 17,
+"question": "The most frequent value in a collection of data is statistically known as the?",
+"options": [
+{"text": "Mode", "feedback": "Correct! The mode is the value that appears most frequently."},
+{"text": "Median", "feedback": "Incorrect. The median is the middle value."},
+{"text": "Mean", "feedback": "Incorrect. The mean is the average."},
+{"text": "Standard deviation", "feedback": "Incorrect. Standard deviation is a measure of dispersion."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 18,
+"question": "The middle value of a data set is statistically known as the?",
+"options": [
+{"text": "Mean", "feedback": "Incorrect. The mean is the average."},
+{"text": "Median", "feedback": "Correct! The median is the middle value when data are arranged in order."},
+{"text": "Mode", "feedback": "Incorrect. The mode is the most frequent value."},
+{"text": "Standard deviation", "feedback": "Incorrect. Standard deviation is a measure of dispersion."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 19,
+"question": "The formula for calculating serum osmolality that incorporates a correction for the water content of plasma is?",
+"options": [
+{"text": "Na x (Glucose/20) x (BUN/3)", "feedback": "Incorrect. This formula does not correctly calculate osmolality."},
+{"text": "Na + (2 x Glucose/20) x (BUN/3)", "feedback": "Incorrect. This formula is not correct."},
+{"text": "2 Na + Glucose/20 + (BUN/3)", "feedback": "Correct! This is the standard formula for serum osmolality (mOsm/kg H2O)."},
+{"text": "2 Na + Glucose/3 + (BUN/20)", "feedback": "Incorrect. The denominators are reversed."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 20,
+"question": "The extent to which measurements agree with the true value of the quantity being measured is known as?",
+"options": [
+{"text": "Reliability", "feedback": "Incorrect. Reliability is the consistency of a measurement."},
+{"text": "Accuracy", "feedback": "Correct! Accuracy is the closeness of a measurement to the true value."},
+{"text": "Reproducibility", "feedback": "Incorrect. Reproducibility is the ability to obtain the same result under different conditions."},
+{"text": "Precision", "feedback": "Incorrect. Precision is the closeness of repeated measurements to each other."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 21,
+"question": "Acidosis is characterized by:",
+"options": [
+{"text": "Increased blood pH", "feedback": "Incorrect. Acidosis is characterized by decreased pH."},
+{"text": "Increasing of blood hydroxyl anions concentration", "feedback": "Incorrect. Acidosis has decreased hydroxyl ions."},
+{"text": "Decreased blood pH", "feedback": "Correct! Acidosis is a condition characterized by a decrease in blood pH."},
+{"text": "Increased hydrogen ions concentration in the blood", "feedback": "Correct! Acidosis is characterized by an increased concentration of hydrogen ions."},
+{"text": "Decreased lactate blood level", "feedback": "Incorrect. Lactic acidosis involves increased lactate."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 22,
+"question": "Alkalosis is characterized by:",
+"options": [
+{"text": "Decreased blood pH", "feedback": "Incorrect. Alkalosis is characterized by increased pH."},
+{"text": "Decreased blood hydroxyl anions concentration", "feedback": "Incorrect. Alkalosis has increased hydroxyl ions."},
+{"text": "Increased lactate blood level", "feedback": "Incorrect. Lactate is associated with acidosis, not alkalosis."},
+{"text": "Increased blood pH", "feedback": "Correct! Alkalosis is characterized by an increase in blood pH."},
+{"text": "Decreased hydrogen ions concentration in blood", "feedback": "Correct! Alkalosis is characterized by a decreased concentration of hydrogen ions."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 23,
+"question": "Respiratory acidosis may develop due to:",
+"options": [
+{"text": "Prolonged starvation", "feedback": "Incorrect. Starvation causes metabolic acidosis."},
+{"text": "Pyelonephritis", "feedback": "Incorrect. Pyelonephritis can cause metabolic acidosis."},
+{"text": "Respiratory distress syndrome", "feedback": "Correct! Respiratory distress syndrome leads to hypoventilation, CO2 retention, and respiratory acidosis."},
+{"text": "Hyperventilation", "feedback": "Incorrect. Hyperventilation causes respiratory alkalosis."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 24,
+"question": "Reason of metabolic alkalosis may be:",
+"options": [
+{"text": "CO2 retention", "feedback": "Incorrect. CO2 retention causes respiratory acidosis."},
+{"text": "Organic acids retention", "feedback": "Incorrect. Retention of organic acids causes metabolic acidosis."},
+{"text": "Loss of potassium ions", "feedback": "Correct! Hypokalemia can lead to metabolic alkalosis (as seen with diuretic use or vomiting)."},
+{"text": "Hyperventilation", "feedback": "Incorrect. Hyperventilation causes respiratory alkalosis."},
+{"text": "Hypoventilation", "feedback": "Incorrect. Hypoventilation causes respiratory acidosis."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 25,
+"question": "Respiratory alkalosis develops due to:",
+"options": [
+{"text": "Hyperventilation", "feedback": "Correct! Hyperventilation causes excessive CO2 elimination, leading to respiratory alkalosis."},
+{"text": "Excessive vomiting", "feedback": "Incorrect. Vomiting causes metabolic alkalosis."},
+{"text": "Tumors of oesophagus", "feedback": "Incorrect. Esophageal tumors do not directly cause respiratory alkalosis."},
+{"text": "Infusion of alkaline solutions", "feedback": "Incorrect. Alkaline infusion causes metabolic alkalosis."},
+{"text": "Hypoventilation", "feedback": "Incorrect. Hypoventilation causes respiratory acidosis."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 26,
+"question": "The normal range for the pH of arterial blood measured at 37 degrees Celsius is?",
+"options": [
+{"text": "7.28-7.34", "feedback": "Incorrect. This range is too low."},
+{"text": "7.33-7.37", "feedback": "Incorrect. This range is too low."},
+{"text": "7.35-7.45", "feedback": "Correct! The normal range for arterial blood pH is 7.35-7.45."},
+{"text": "7.45-7.50", "feedback": "Incorrect. This range is too high."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 27,
+"question": "Maximal activity of ALT is revealed in:",
+"options": [
+{"text": "Lungs", "feedback": "Incorrect. ALT is not highly active in lungs."},
+{"text": "Liver", "feedback": "Correct! ALT is found primarily in the liver, making it liver-specific."},
+{"text": "Skeletal muscles", "feedback": "Incorrect. AST is more prominent in skeletal muscles."},
+{"text": "Kidneys", "feedback": "Incorrect. ALT is present in kidneys but at lower levels than liver."},
+{"text": "Pancreas", "feedback": "Incorrect. ALT is not highly active in the pancreas."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 28,
+"question": "Hypoglycaemia can be caused by:",
+"options": [
+{"text": "Adrenaline", "feedback": "Incorrect. Adrenaline increases blood glucose."},
+{"text": "Glucocorticoids", "feedback": "Incorrect. Glucocorticoids increase blood glucose."},
+{"text": "Insulin", "feedback": "Correct! Insulin lowers blood glucose and can cause hypoglycemia."},
+{"text": "Somatotrophin (growth hormone)", "feedback": "Incorrect. GH increases blood glucose."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 29,
+"question": "In suspected diabetes mellitus it is necessary to determine:",
+"options": [
+{"text": "Blood glucose level", "feedback": "Correct! Blood glucose is the primary diagnostic test for diabetes."},
+{"text": "Urinary glucose", "feedback": "Correct! Urinary glucose (glycosuria) supports the diagnosis."},
+{"text": "Glycosilated haemoglobin", "feedback": "Correct! HbA1c reflects long-term glycemic control."},
+{"text": "Cholesterol", "feedback": "Incorrect. Cholesterol is not used to diagnose diabetes."},
+{"text": "Triglycerides", "feedback": "Incorrect. Triglycerides are not used to diagnose diabetes."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 30,
+"question": "Bence-Jones protein can be revealed by:",
+"options": [
+{"text": "Reaction of agglutination", "feedback": "Incorrect. Agglutination is not used for Bence-Jones protein."},
+{"text": "Dialysis of the urine", "feedback": "Incorrect. Dialysis is not used to detect Bence-Jones protein."},
+{"text": "Electrophoresis of the urine", "feedback": "Correct! Bence-Jones proteins are monoclonal light chains detected by urine protein electrophoresis."},
+{"text": "Concentration of the urine", "feedback": "Incorrect. Concentration alone does not identify Bence-Jones protein."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 31,
+"question": "Hyperchloridaemia appears in:",
+"options": [
+{"text": "Hypoventilation", "feedback": "Incorrect. Hypoventilation causes respiratory acidosis, not hyperchloremia."},
+{"text": "Diabetic ketoacidosis", "feedback": "Incorrect. DKA has an increased anion gap with normal or low chloride."},
+{"text": "Lactic acidosis", "feedback": "Incorrect. Lactic acidosis has an increased anion gap."},
+{"text": "Oedema", "feedback": "Incorrect. Edema is not associated with hyperchloremia."},
+{"text": "Dehydration", "feedback": "Correct! Hyperchloremia can occur in dehydration due to loss of water relative to chloride."}
+],
+"correctAnswerIndex": 4
+},
+{
+"id": 32,
+"question": "Increased magnesium level revealed in:",
+"options": [
+{"text": "Malabsorption", "feedback": "Incorrect. Malabsorption causes low magnesium."},
+{"text": "Chronic alcoholism", "feedback": "Incorrect. Chronic alcoholism causes low magnesium."},
+{"text": "Hypoparathyroidism", "feedback": "Incorrect. Hypoparathyroidism can cause low magnesium."},
+{"text": "Primary adrenal hypofunction", "feedback": "Incorrect. Adrenal insufficiency does not cause hypermagnesemia."},
+{"text": "Renal failure", "feedback": "Correct! Hypermagnesemia is seen in renal failure due to decreased excretion."}
+],
+"correctAnswerIndex": 4
+},
+{
+"id": 33,
+"question": "Magnesium excretion in urine is reduced in:",
+"options": [
+{"text": "Alcoholism", "feedback": "Incorrect. Alcoholism causes increased magnesium excretion."},
+{"text": "Starvation", "feedback": "Incorrect. Starvation can cause decreased intake but not necessarily reduced excretion."},
+{"text": "Hypoparathyroidism", "feedback": "Correct! Hypoparathyroidism can cause decreased magnesium excretion."},
+{"text": "Hyperthyroidism", "feedback": "Incorrect. Hyperthyroidism does not typically affect magnesium excretion."},
+{"text": "Magnesium deficiency", "feedback": "Incorrect. In magnesium deficiency, the kidney conserves magnesium, reducing excretion."}
+],
+"correctAnswerIndex": 4
+},
+{
+"id": 34,
+"question": "Which ion determines water transport process across cellular membranes?",
+"options": [
+{"text": "Calcium", "feedback": "Incorrect. Calcium is not the primary determinant of water transport."},
+{"text": "Potassium", "feedback": "Incorrect. Potassium is important for membrane potential but not the primary driver of water transport."},
+{"text": "Sodium", "feedback": "Correct! Sodium is the major extracellular cation and determines osmotic balance, driving water transport."},
+{"text": "Hydrogen", "feedback": "Incorrect. Hydrogen ions affect pH but not water transport primarily."},
+{"text": "Chloride", "feedback": "Incorrect. Chloride follows sodium but does not determine water transport."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 35,
+"question": "Reduced magnesium level results in:",
+"options": [
+{"text": "Depression", "feedback": "Correct! Hypomagnesemia can cause CNS symptoms including depression."},
+{"text": "Acid-base disturbances", "feedback": "Correct! Magnesium deficiency can lead to metabolic alkalosis."},
+{"text": "Hypothyroidism", "feedback": "Incorrect. Magnesium deficiency is not a cause of hypothyroidism."},
+{"text": "Renal calculi formation", "feedback": "Incorrect. Low magnesium is not a primary cause of renal calculi."},
+{"text": "Anemia", "feedback": "Correct! Magnesium deficiency can contribute to anemia."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 36,
+"question": "Which hormones regulate sodium level in plasma?",
+"options": [
+{"text": "Aldosterone", "feedback": "Correct! Aldosterone regulates sodium reabsorption in the kidney."},
+{"text": "Insulin", "feedback": "Incorrect. Insulin regulates glucose, not sodium."},
+{"text": "Adrenaline", "feedback": "Incorrect. Adrenaline does not directly regulate sodium."},
+{"text": "Prostaglandins", "feedback": "Incorrect. Prostaglandins can affect renal blood flow but are not primary sodium regulators."},
+{"text": "Calcitonin", "feedback": "Incorrect. Calcitonin regulates calcium, not sodium."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 37,
+"question": "The main reason of hypernatraemia is:",
+"options": [
+{"text": "Conn's syndrome", "feedback": "Correct! Conn's syndrome (primary aldosteronism) causes sodium retention and hypernatremia."},
+{"text": "Pheochromocytoma", "feedback": "Incorrect. Pheochromocytoma causes hypertension but not typically hypernatremia."},
+{"text": "Addison's disease", "feedback": "Incorrect. Addison's disease causes hyponatremia."},
+{"text": "Hypovitaminosis D", "feedback": "Incorrect. Vitamin D deficiency causes hypocalcemia."},
+{"text": "Parathyroid adenoma", "feedback": "Incorrect. Parathyroid adenoma causes hypercalcemia."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 38,
+"question": "Hypokalemia may develop in:",
+"options": [
+{"text": "Vomiting", "feedback": "Correct! Vomiting causes loss of potassium, leading to hypokalemia."},
+{"text": "Acute and chronic renal failure", "feedback": "Incorrect. Renal failure typically causes hyperkalemia."},
+{"text": "Sepsis", "feedback": "Incorrect. Sepsis can cause various electrolyte disturbances but not specifically hypokalemia."},
+{"text": "Crush syndrome", "feedback": "Incorrect. Crush syndrome causes hyperkalemia due to cell lysis."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 39,
+"question": "The biuret reaction for the analysis of serum protein depends on the number of?",
+"options": [
+{"text": "Free amino acids", "feedback": "Incorrect. The biuret reaction does not depend on free amino acids."},
+{"text": "Free carboxyl groups", "feedback": "Incorrect. Free carboxyl groups do not participate in the biuret reaction."},
+{"text": "Peptide bonds", "feedback": "Correct! The biuret reaction depends on the number of peptide bonds in the protein."},
+{"text": "Tyrosine residues", "feedback": "Incorrect. Tyrosine residues are involved in the Lowry method, not the biuret method."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 40,
+"question": "Calcium concentration in the serum is regulated by?",
+"options": [
+{"text": "Insulin", "feedback": "Incorrect. Insulin regulates glucose."},
+{"text": "Parathyroid hormone", "feedback": "Correct! PTH is the primary regulator of serum calcium."},
+{"text": "Thyroxin", "feedback": "Incorrect. Thyroxine regulates metabolism."},
+{"text": "Vitamin C", "feedback": "Incorrect. Vitamin C is not a primary regulator of calcium."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 41,
+"question": "In the liver, bilirubin is converted to:",
+"options": [
+{"text": "Urobilinogen", "feedback": "Incorrect. Urobilinogen is formed in the intestine."},
+{"text": "Urobilin", "feedback": "Incorrect. Urobilin is formed in the intestine."},
+{"text": "Bilirubin-albumin complex", "feedback": "Incorrect. This is the transport form in blood."},
+{"text": "Bilirubin diglucuronide", "feedback": "Correct! In the liver, bilirubin is conjugated with glucuronic acid to form bilirubin diglucuronide (conjugated bilirubin)."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 42,
+"question": "The osmolality of a urine or serum specimen is measured by a change in the?",
+"options": [
+{"text": "Freezing point", "feedback": "Correct! Osmolality is determined by measuring the freezing point depression of the solution."},
+{"text": "Sediment point", "feedback": "Incorrect. This is not a term used in osmolality measurement."},
+{"text": "Midpoint", "feedback": "Incorrect. This is not a term used in osmolality measurement."},
+{"text": "Osmotic pressure", "feedback": "Incorrect. Osmotic pressure is related but not directly measured."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 43,
+"question": "Which of the following steroids is an adrenal cortical hormone?",
+"options": [
+{"text": "Angiotensinogen", "feedback": "Incorrect. Angiotensinogen is produced by the liver."},
+{"text": "Corticosterone", "feedback": "Correct! Corticosterone is a glucocorticoid produced by the adrenal cortex."},
+{"text": "Progesterone", "feedback": "Incorrect. Progesterone is produced by the ovaries and placenta."},
+{"text": "Pregnanetriol", "feedback": "Incorrect. Pregnanetriol is a metabolite of progesterone."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 44,
+"question": "Which two conditions can 'physiologically' elevate serum alkaline phosphatase?",
+"options": [
+{"text": "Rickets, hyperparathyroidism", "feedback": "Incorrect. These are pathological causes."},
+{"text": "Obstructive jaundice", "feedback": "Incorrect. This is pathological."},
+{"text": "Growth, third trimester of pregnancy", "feedback": "Correct! Growth (bone growth) and pregnancy (placental ALP) are physiological causes of elevated ALP."},
+{"text": "Viral hepatitis, infectious mononucleosis", "feedback": "Incorrect. These are pathological causes."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 45,
+"question": "During an evaluation of adrenal function, a patient had plasma cortisol determination in the morning after awakening and in the evening. Laboratory results indicated that the morning value was higher than the evening concentration. This is indicative of?",
+"options": [
+{"text": "A normal finding", "feedback": "Correct! Cortisol has a diurnal rhythm, with peak levels in the morning and lower levels in the evening."},
+{"text": "Cushing's syndrome", "feedback": "Incorrect. Cushing's syndrome shows loss of diurnal rhythm."},
+{"text": "Addison's disease", "feedback": "Incorrect. Addison's disease has low cortisol levels."},
+{"text": "Hypopituitarism", "feedback": "Incorrect. Hypopituitarism causes low cortisol levels."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 46,
+"question": "In electrophoretic analysis, buffers?",
+"options": [
+{"text": "Stabilize electrolytes", "feedback": "Incorrect. Buffers primarily maintain pH."},
+{"text": "Maintain basic pH", "feedback": "Correct! Buffers maintain a constant pH during electrophoresis, ensuring consistent charge on molecules."},
+{"text": "Provide current", "feedback": "Incorrect. The power supply provides current."},
+{"text": "Separate proteins", "feedback": "Incorrect. The electric field separates proteins."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 47,
+"question": "The T3 resin uptake test is a measure of:",
+"options": [
+{"text": "Circulating T3", "feedback": "Incorrect. It does not directly measure T3."},
+{"text": "Bound T3", "feedback": "Incorrect. It measures binding capacity."},
+{"text": "Binding capacity of thyroxine-binding globulin", "feedback": "Correct! The T3 resin uptake test assesses the unsaturated binding capacity of TBG."},
+{"text": "Total thyroxine-binding globulin", "feedback": "Incorrect. It measures binding capacity, not total TBG."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 48,
+"question": "Blood PCO2 may be measured by:",
+"options": [
+{"text": "Direct colorimetric measurement of dissolved CO2", "feedback": "Incorrect. PCO2 is measured directly using a CO2 electrode."},
+{"text": "Calculation from blood pH and total CO2 concentration", "feedback": "Incorrect. PCO2 is directly measured, not calculated."},
+{"text": "Measurement of CO2-saturated hemoglobin", "feedback": "Incorrect. This is not how PCO2 is measured."},
+{"text": "Measurement of CO2 consumed at the cathode", "feedback": "Incorrect. This describes an electrochemical method."},
+{"text": "CO2 electrode", "feedback": "Correct! PCO2 is measured directly using a Severinghaus CO2 electrode."}
+],
+"correctAnswerIndex": 4
+},
+{
+"id": 49,
+"question": "Which of the following serum constituents is unstable if a blood specimen is left standing at room temperature for 8 hours before processing?",
+"options": [
+{"text": "Cholesterol", "feedback": "Incorrect. Cholesterol is stable."},
+{"text": "Triglyceride", "feedback": "Incorrect. Triglycerides are relatively stable."},
+{"text": "Creatinine", "feedback": "Incorrect. Creatinine is stable."},
+{"text": "Glucose", "feedback": "Correct! Glucose is unstable due to glycolysis; it decreases by about 5-10% per hour at room temperature."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 50,
+"question": "Total iron-binding capacity measures the serum iron transporting capacity of:",
+"options": [
+{"text": "Hemoglobin", "feedback": "Incorrect. Hemoglobin transports oxygen."},
+{"text": "Ceruloplasmin", "feedback": "Incorrect. Ceruloplasmin transports copper."},
+{"text": "Transferrin", "feedback": "Correct! TIBC measures the capacity of transferrin to bind iron."},
+{"text": "Ferritin", "feedback": "Incorrect. Ferritin stores iron."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 51,
+"question": "In a spectrophotometer, light of a specific wavelength can be isolated from white light with a(n)?",
+"options": [
+{"text": "Double beam", "feedback": "Incorrect. A double beam refers to the optical design, not wavelength selection."},
+{"text": "Diffraction grating", "feedback": "Correct! A diffraction grating (or monochromator) is used to isolate specific wavelengths of light."},
+{"text": "Photomultiplier tube", "feedback": "Incorrect. A photomultiplier tube is a detector."},
+{"text": "Cuvette", "feedback": "Incorrect. A cuvette holds the sample."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 52,
+"question": "A condition in which erythrocyte protoporphyrin is increased is?",
+"options": [
+{"text": "Acute intermittent porphyria", "feedback": "Incorrect. AIP does not typically increase erythrocyte protoporphyrin."},
+{"text": "Iron Deficiency anemia", "feedback": "Correct! Iron deficiency leads to accumulation of protoporphyrin in RBCs (free erythrocyte protoporphyrin)."},
+{"text": "Porphyria cutanea tarda", "feedback": "Incorrect. PCT affects the liver, not erythrocytes."},
+{"text": "Acute porphyric attack", "feedback": "Incorrect. This is not a condition of increased erythrocyte protoporphyrin."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 53,
+"question": "The first step to be taken when attempting to repair a piece of electronic equipment is?",
+"options": [
+{"text": "Check all the electronic connections", "feedback": "Incorrect. Safety first - turn off the instrument."},
+{"text": "Reset all the printed circuit boards", "feedback": "Incorrect. Safety first - turn off the instrument."},
+{"text": "Turn the instrument off", "feedback": "Correct! The first step should always be to turn off and unplug the equipment for safety."},
+{"text": "Replace all the fuses", "feedback": "Incorrect. Safety first - turn off the instrument."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 54,
+"question": "Most of the carbon dioxide present in the blood is in the form of?",
+"options": [
+{"text": "Dissolved CO2", "feedback": "Incorrect. Only about 5-10% is dissolved."},
+{"text": "Carbonate", "feedback": "Incorrect. Carbonate is not a major form."},
+{"text": "Bicarbonate ion", "feedback": "Correct! About 70-80% of CO2 is transported as bicarbonate ion (HCO3-)."},
+{"text": "Carbonic acid", "feedback": "Incorrect. Carbonic acid is a transient intermediate."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 55,
+"question": "An index of precision is statistically known as the?",
+"options": [
+{"text": "Median", "feedback": "Incorrect. The median is a measure of central tendency."},
+{"text": "Mean", "feedback": "Incorrect. The mean is a measure of central tendency."},
+{"text": "Standard deviation", "feedback": "Correct! Standard deviation is a measure of precision (dispersion)."},
+{"text": "Coefficient of variation", "feedback": "Incorrect. CV is a relative measure of precision, but standard deviation is the index of precision."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 56,
+"question": "In a specimen collected for plasma glucose analysis, sodium fluoride:",
+"options": [
+{"text": "Serves as a coenzyme of hexokinase", "feedback": "Incorrect. Sodium fluoride does not serve as a coenzyme."},
+{"text": "Prevents reactivity of non-glucose reducing substances", "feedback": "Incorrect. Sodium fluoride inhibits glycolysis, not interfering substances."},
+{"text": "Preserves glucose by inhibiting glycolysis", "feedback": "Correct! Sodium fluoride inhibits enolase and prevents glycolysis."},
+{"text": "Enhances glucose oxidase reaction", "feedback": "Incorrect. Sodium fluoride does not enhance the reaction."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 57,
+"question": "The solute that contributes to most serum osmolality is?",
+"options": [
+{"text": "Glucose", "feedback": "Incorrect. Glucose contributes but is not the major solute."},
+{"text": "Sodium", "feedback": "Correct! Sodium and its associated anions (chloride, bicarbonate) contribute to about 80-90% of serum osmolality."},
+{"text": "Chloride", "feedback": "Incorrect. Chloride contributes but sodium is the primary determinant."},
+{"text": "Urea", "feedback": "Incorrect. Urea contributes but is not the major solute."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 58,
+"question": "Which family of steroid hormones is characterized by an unsaturated A ring?",
+"options": [
+{"text": "Progestins", "feedback": "Incorrect. Progestins do not have an unsaturated A ring."},
+{"text": "Estrogens", "feedback": "Correct! Estrogens have an aromatic (unsaturated) A ring."},
+{"text": "Androgens", "feedback": "Incorrect. Androgens have a saturated A ring."},
+{"text": "Glucocorticoids", "feedback": "Incorrect. Glucocorticoids have a saturated A ring."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 59,
+"question": "Which of the following serum protein fractions is most likely to be elevated in patients with nephrotic syndrome?",
+"options": [
+{"text": "Alpha-1 globulin", "feedback": "Incorrect. Alpha-1 globulin is not typically elevated."},
+{"text": "Alpha1-globulin and alpha-2 globulin", "feedback": "Incorrect. Alpha-1 is not elevated."},
+{"text": "Alpha-2 globulin and beta globulin", "feedback": "Correct! In nephrotic syndrome, alpha-2 and beta globulins are elevated (due to increased synthesis of lipoproteins and acute phase proteins)."},
+{"text": "Beta globulin and gamma globulin", "feedback": "Incorrect. Gamma globulins are decreased or normal in nephrotic syndrome."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 60,
+"question": "The following lab results were obtained from arterial blood: sodium: 136 mEq/L; pH 7.32; Potassium: 4.4 mEq/L; PCO2: 79 mm Hg; Chloride: 92 mEq/L; Bicarbonate: 40 mEq/L; these results are compatible with?",
+"options": [
+{"text": "Respiratory alkalosis", "feedback": "Incorrect. PCO2 is elevated, not decreased."},
+{"text": "Respiratory acidosis", "feedback": "Correct! High PCO2 (79 mm Hg) with low pH (7.32) and high bicarbonate (40 mEq/L, compensatory) indicates respiratory acidosis."},
+{"text": "Metabolic alkalosis", "feedback": "Incorrect. The primary disturbance is respiratory, not metabolic."},
+{"text": "Metabolic acidosis", "feedback": "Incorrect. Bicarbonate is elevated, not decreased."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 61,
+"question": "Which of the following statements about fluorometry are true?",
+"options": [
+{"text": "A compound is said to fluoresce when it absorbs light at one wavelength and emits light at a second wavelength", "feedback": "Correct! Fluorescence involves absorption at one wavelength and emission at a longer wavelength."},
+{"text": "Detectors in fluorometers are placed 180 degrees from the excitation source", "feedback": "Incorrect. Detectors are typically placed at 90 degrees to the excitation source to avoid scattered light."},
+{"text": "It is less sensitive than spectrophotometry", "feedback": "Incorrect. Fluorometry is generally more sensitive than spectrophotometry."},
+{"text": "It avoids the necessity for complexing of components because fluorescence is a native property", "feedback": "Incorrect. Many compounds require derivatization to become fluorescent."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 62,
+"question": "Two standard deviations is the acceptable limit of error in the chemistry laboratory. If you run the normal control 100 times, how many of the values would be out of control due to random error?",
+"options": [
+{"text": "1", "feedback": "Incorrect. ±2 SD includes 95% of values."},
+{"text": "5", "feedback": "Correct! ±2 SD includes 95% of values, so 5 out of 100 would be outside this range."},
+{"text": "10", "feedback": "Incorrect. ±2 SD includes 95% of values."},
+{"text": "20", "feedback": "Incorrect. ±2 SD includes 95% of values."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 63,
+"question": "Serum anion gap is increased in patients with?",
+"options": [
+{"text": "Renal tubular acidosis", "feedback": "Incorrect. RTA typically has a normal anion gap."},
+{"text": "Diabetic alkalosis", "feedback": "Incorrect. Diabetic alkalosis is not a typical condition."},
+{"text": "Metabolic acidosis due to diarrhea", "feedback": "Incorrect. Diarrhea causes normal anion gap metabolic acidosis."},
+{"text": "Lactic acidosis", "feedback": "Correct! Lactic acidosis is an increased anion gap metabolic acidosis."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 64,
+"question": "The nanometer is used as a measure of?",
+"options": [
+{"text": "Absorbance", "feedback": "Incorrect. Absorbance is unitless."},
+{"text": "% transmittance", "feedback": "Incorrect. % transmittance is a percentage."},
+{"text": "Intensity of radiant energy", "feedback": "Incorrect. Intensity is measured in other units."},
+{"text": "Wavelength of radiant energy", "feedback": "Correct! The nanometer (nm) is a unit of wavelength."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 65,
+"question": "A common cause of respiratory alkalosis is?",
+"options": [
+{"text": "Vomiting", "feedback": "Incorrect. Vomiting causes metabolic alkalosis."},
+{"text": "Starvation", "feedback": "Incorrect. Starvation causes metabolic acidosis."},
+{"text": "Asthma", "feedback": "Incorrect. Asthma can cause respiratory acidosis."},
+{"text": "Hyperventilation", "feedback": "Correct! Hyperventilation is a common cause of respiratory alkalosis."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 66,
+"question": "Major actions of angiotensin II include?",
+"options": [
+{"text": "Increased pituitary secretion of renin", "feedback": "Incorrect. Renin is secreted by the kidney, not pituitary."},
+{"text": "Increased vasoconstriction", "feedback": "Correct! Angiotensin II is a potent vasoconstrictor."},
+{"text": "Increased parathyroid hormone secretion by the parathyroid", "feedback": "Incorrect. Angiotensin II does not affect PTH secretion."},
+{"text": "Decreased adrenal secretion of aldosterone", "feedback": "Incorrect. Angiotensin II stimulates aldosterone secretion."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 67,
+"question": "The anion gap is useful for QC of laboratory results for?",
+"options": [
+{"text": "Amino acids and proteins", "feedback": "Incorrect. The anion gap does not involve amino acids."},
+{"text": "Blood gas analyses", "feedback": "Incorrect. Blood gases are separate from the anion gap."},
+{"text": "Sodium, potassium, chloride, and total CO2", "feedback": "Correct! The anion gap is calculated from Na+, K+, Cl-, and CO2 (bicarbonate)."},
+{"text": "Calcium, phosphorus, and magnesium", "feedback": "Incorrect. The anion gap does not include these ions."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 68,
+"question": "Which of the following electrolytes is the chief plasma cation whose main function is maintaining osmotic pressure?",
+"options": [
+{"text": "Chloride", "feedback": "Incorrect. Chloride is an anion."},
+{"text": "Calcium", "feedback": "Incorrect. Calcium is not the chief cation for osmotic pressure."},
+{"text": "Potassium", "feedback": "Incorrect. Potassium is the chief intracellular cation."},
+{"text": "Sodium", "feedback": "Correct! Sodium is the chief extracellular cation and is the primary determinant of plasma osmotic pressure."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 69,
+"question": "What is the molarity of a solution that contains 18.7 g of KCl (MW=74.5) in 500 ml of water?",
+"options": [
+{"text": "0.1", "feedback": "Incorrect. Moles = 18.7/74.5 = 0.25 mol; M = 0.25/0.5 = 0.5 M."},
+{"text": "0.5", "feedback": "Correct! Moles = 18.7/74.5 = 0.25 mol; Molarity = 0.25 mol / 0.5 L = 0.5 M."},
+{"text": "1.0", "feedback": "Incorrect. Moles = 18.7/74.5 = 0.25 mol; M = 0.25/0.5 = 0.5 M."},
+{"text": "5.0", "feedback": "Incorrect. Moles = 18.7/74.5 = 0.25 mol; M = 0.25/0.5 = 0.5 M."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 70,
+"question": "The buffering capacity of blood is maintained by a reversible exchange process between bicarbonate and?",
+"options": [
+{"text": "Sodium", "feedback": "Incorrect. Sodium is not directly exchanged with bicarbonate."},
+{"text": "Potassium", "feedback": "Incorrect. Potassium is not directly exchanged with bicarbonate."},
+{"text": "Calcium", "feedback": "Incorrect. Calcium is not directly exchanged with bicarbonate."},
+{"text": "Chloride", "feedback": "Correct! The chloride shift (bicarbonate-chloride exchange) helps maintain buffering capacity."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 71,
+"question": "The different water content of erythrocytes and plasma makes true glucose concentrations in whole blood a function of the?",
+"options": [
+{"text": "Hematocrit", "feedback": "Correct! The glucose concentration in whole blood depends on the hematocrit because RBCs and plasma have different water content."},
+{"text": "Leukocyte count", "feedback": "Incorrect. Leukocyte count does not significantly affect glucose concentration."},
+{"text": "Erythrocyte count", "feedback": "Incorrect. Erythrocyte count is related to hematocrit but hematocrit is the direct measure."},
+{"text": "Erythrocyte indices", "feedback": "Incorrect. Erythrocyte indices do not directly affect glucose concentration."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 72,
+"question": "Acidosis and alkalosis are best defined as fluctuations in blood pH and CO2 content due to changes in?",
+"options": [
+{"text": "Bohr's effect", "feedback": "Incorrect. Bohr effect describes the effect of pH on hemoglobin oxygen affinity."},
+{"text": "O2 content", "feedback": "Incorrect. O2 content is not the primary factor in acidosis/alkalosis."},
+{"text": "Bicarbonate buffer", "feedback": "Correct! The bicarbonate buffer system is the primary regulator of blood pH."},
+{"text": "Carbonic anhydrase", "feedback": "Incorrect. Carbonic anhydrase catalyzes the reaction but is not the defining factor."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 73,
+"question": "Metabolic acidosis is described as a(n)?",
+"options": [
+{"text": "Increase in CO2 content and PCO2 with a decreased pH", "feedback": "Incorrect. This describes respiratory acidosis."},
+{"text": "Decrease in CO2 content with an increased pH", "feedback": "Incorrect. This describes metabolic alkalosis."},
+{"text": "Increase in CO2 with an increased pH", "feedback": "Incorrect. This does not describe any acid-base disorder."},
+{"text": "Decrease in CO2 content and PCO2 with a decreased pH", "feedback": "Correct! Metabolic acidosis is characterized by a primary decrease in bicarbonate (CO2 content) leading to a decreased pH."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 74,
+"question": "Hydrogen ion concentration (pH) in blood is usually determined by means of which of the following electrodes?",
+"options": [
+{"text": "Silver", "feedback": "Incorrect. Silver electrodes are not used for pH measurement."},
+{"text": "Glass", "feedback": "Correct! The glass electrode is used to measure pH."},
+{"text": "Platinum", "feedback": "Incorrect. Platinum electrodes are used for PCO2 and PO2."},
+{"text": "Platinum-lactate", "feedback": "Incorrect. This is not a standard electrode."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 75,
+"question": "The conversion of glucose or other hexoses into lactate or pyruvate is called?",
+"options": [
+{"text": "Glycogenesis", "feedback": "Incorrect. Glycogenesis is the synthesis of glycogen."},
+{"text": "Glycogenolysis", "feedback": "Incorrect. Glycogenolysis is the breakdown of glycogen."},
+{"text": "Gluconeogenesis", "feedback": "Incorrect. Gluconeogenesis is the synthesis of glucose."},
+{"text": "Glycolysis", "feedback": "Correct! Glycolysis is the conversion of glucose to pyruvate or lactate."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 76,
+"question": "A reciprocal relationship exists between?",
+"options": [
+{"text": "Sodium and potassium", "feedback": "Incorrect. Sodium and potassium have an inverse relationship but not a reciprocal one."},
+{"text": "Calcium and phosphorus", "feedback": "Correct! Calcium and phosphorus have a reciprocal relationship (Ca x P product is relatively constant)."},
+{"text": "Chloride and CO2", "feedback": "Incorrect. Chloride and CO2 have an inverse relationship but not reciprocal."},
+{"text": "Calcium and magnesium", "feedback": "Incorrect. Calcium and magnesium do not have a reciprocal relationship."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 77,
+"question": "Respiratory acidosis is described as a(n)?",
+"options": [
+{"text": "Increase in CO2 content and PCO2 with a decreased pH", "feedback": "Correct! Respiratory acidosis is caused by CO2 retention, leading to elevated PCO2 and decreased pH."},
+{"text": "Decrease in CO2 content with an increased pH", "feedback": "Incorrect. This describes metabolic alkalosis."},
+{"text": "Increase in CO2 content with an increased pH", "feedback": "Incorrect. This does not describe any acid-base disorder."},
+{"text": "Decrease in CO2 content and PCO2 with a decreased pH", "feedback": "Incorrect. This describes metabolic acidosis."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 78,
+"question": "Which of the following hemoglobin has glucose-6-phosphate on the amino-terminal valine of the beta chain?",
+"options": [
+{"text": "Hb S", "feedback": "Incorrect. Hb S has a valine to glutamic acid substitution."},
+{"text": "Hb C", "feedback": "Incorrect. Hb C has a lysine to glutamic acid substitution."},
+{"text": "Hb A2", "feedback": "Incorrect. Hb A2 is a normal variant with delta chains."},
+{"text": "Hb A1c", "feedback": "Correct! HbA1c is formed by the attachment of glucose to the N-terminal valine of the beta chain."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 79,
+"question": "The function of the major lipid components of the very low density lipoproteins (VLDL) is to transport?",
+"options": [
+{"text": "Cholesterol from peripheral cells to the liver", "feedback": "Incorrect. HDL transports cholesterol to the liver."},
+{"text": "Cholesterol and Phospholipids to peripheral cells", "feedback": "Incorrect. LDL transports cholesterol to peripheral cells."},
+{"text": "Exogenous triglycerides", "feedback": "Incorrect. Chylomicrons transport exogenous triglycerides."},
+{"text": "Endogenous triglycerides", "feedback": "Correct! VLDL transports endogenous triglycerides from the liver to peripheral tissues."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 80,
+"question": "A hospitalized patient is experiencing increased neuromuscular irritability (tetany). Which of the following tests should be ordered immediately?",
+"options": [
+{"text": "Calcium", "feedback": "Correct! Tetany is a classic sign of hypocalcemia, so serum calcium should be checked immediately."},
+{"text": "Phosphorus", "feedback": "Incorrect. While phosphorus may be abnormal, calcium is the primary test for tetany."},
+{"text": "BUN", "feedback": "Incorrect. BUN is not related to tetany."},
+{"text": "Glucose", "feedback": "Incorrect. Glucose is not related to tetany."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 81,
+"question": "Sixty to seventy-five percent of the plasma cholesterol is transported by?",
+"options": [
+{"text": "Chylomicrons", "feedback": "Incorrect. Chylomicrons transport dietary lipids."},
+{"text": "VLDL", "feedback": "Incorrect. VLDL transports endogenous triglycerides."},
+{"text": "LDL", "feedback": "Correct! LDL transports 60-75% of plasma cholesterol."},
+{"text": "HDL", "feedback": "Incorrect. HDL transports about 20-30% of cholesterol."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 82,
+"question": "Measurement of total T4 by competitive protein binding or displacement is based on the specific binding properties of?",
+"options": [
+{"text": "Thyroxine-binding prealbumin", "feedback": "Incorrect. TBPA binds T4 but TBG is the primary binding protein."},
+{"text": "Albumin", "feedback": "Incorrect. Albumin has low affinity for T4."},
+{"text": "Thyroxine-binding globulin", "feedback": "Correct! TBG is the primary high-affinity binding protein for T4."},
+{"text": "Thyroid-stimulating hormone", "feedback": "Incorrect. TSH binds to receptors, not T4."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 83,
+"question": "Which of the following methods employs a highly specific antibody to thyroxine?",
+"options": [
+{"text": "Total T4 by competitive protein binding", "feedback": "Incorrect. CPB uses binding proteins, not antibodies."},
+{"text": "T4 by RIA", "feedback": "Correct! Radioimmunoassay uses a specific antibody to T4."},
+{"text": "T4 by column", "feedback": "Incorrect. Column methods do not use antibodies."},
+{"text": "T4 by equilibrium dialysis", "feedback": "Incorrect. Equilibrium dialysis uses physical separation, not antibodies."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 84,
+"question": "When myocardial infarction occurs, the first enzyme to become elevated is?",
+"options": [
+{"text": "CK", "feedback": "Correct! Creatine kinase (CK) is the first enzyme to rise after MI (within 3-6 hours)."},
+{"text": "LD", "feedback": "Incorrect. LDH rises later (24-48 hours)."},
+{"text": "AST", "feedback": "Incorrect. AST rises later (8-12 hours)."},
+{"text": "ALT", "feedback": "Incorrect. ALT is not a cardiac marker."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 85,
+"question": "In the Jaffe reaction, creatinine reacts with?",
+"options": [
+{"text": "Alkaline sulfasalazine solution to produce an orange-yellow complex", "feedback": "Incorrect. Sulfasalazine is not used."},
+{"text": "Potassium iodide to form a reddish-purple complex", "feedback": "Incorrect. Potassium iodide is not used."},
+{"text": "Sodium nitroferricyanide to yield a reddish-brown color", "feedback": "Incorrect. Sodium nitroferricyanide is used for ketones."},
+{"text": "Alkaline picrate solution to yield an orange-red complex", "feedback": "Correct! The Jaffe reaction involves creatinine reacting with picric acid in alkaline solution to form an orange-red complex."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 86,
+"question": "Which of the following represents the end product of purine metabolism in humans?",
+"options": [
+{"text": "AMP and GMP", "feedback": "Incorrect. AMP and GMP are nucleotides, not end products."},
+{"text": "DNA and RNA", "feedback": "Incorrect. DNA and RNA are nucleic acids."},
+{"text": "Allantoin", "feedback": "Incorrect. Allantoin is the end product in animals other than humans."},
+{"text": "Uric acid", "feedback": "Correct! Uric acid is the end product of purine metabolism in humans."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 87,
+"question": "The biological most active, naturally occurring androgen is?",
+"options": [
+{"text": "Androstenedione", "feedback": "Incorrect. Androstenedione is a weak androgen."},
+{"text": "Dehydroepiandrosterone", "feedback": "Incorrect. DHEA is a weak androgen."},
+{"text": "Epiandrosterone", "feedback": "Incorrect. Epiandrosterone is not a naturally occurring androgen."},
+{"text": "Testosterone", "feedback": "Correct! Testosterone is the most biologically active naturally occurring androgen."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 88,
+"question": "Bile acid concentrations are useful to assess?",
+"options": [
+{"text": "Diabetes mellitus", "feedback": "Incorrect. Diabetes is assessed by glucose and HbA1c."},
+{"text": "Hepatobiliary disease", "feedback": "Correct! Bile acids are useful in assessing hepatobiliary disease."},
+{"text": "Intestinal Malabsorption", "feedback": "Incorrect. Bile acids can be used for malabsorption but are primarily used for hepatobiliary disease."},
+{"text": "Kidney function", "feedback": "Incorrect. Kidney function is assessed by creatinine and urea."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 89,
+"question": "Which of the following is secreted by the placenta and used for the early detection of pregnancy?",
+"options": [
+{"text": "Follicle-stimulating hormone (FSH)", "feedback": "Incorrect. FSH is a pituitary hormone."},
+{"text": "Human Chorionic Gonadotropin (hCG)", "feedback": "Correct! hCG is secreted by the placenta and is the basis for early pregnancy tests."},
+{"text": "Luteinizing hormone (LH)", "feedback": "Incorrect. LH is a pituitary hormone."},
+{"text": "Progesterone", "feedback": "Incorrect. Progesterone is secreted by the corpus luteum and placenta but is not the primary pregnancy marker."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 90,
+"question": "Decreased serum iron associated with increased TIBC is compatible with which of the following disease states?",
+"options": [
+{"text": "Anemia of chronic infection", "feedback": "Incorrect. Anemia of chronic disease has low iron and low TIBC."},
+{"text": "Iron deficiency anemia", "feedback": "Correct! Iron deficiency anemia is characterized by low serum iron and high TIBC (increased transferrin)."},
+{"text": "Chronic liver disease", "feedback": "Incorrect. Liver disease may have high iron."},
+{"text": "Nephrosis", "feedback": "Incorrect. Nephrosis may have low iron but not typically high TIBC."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 91,
+"question": "The principle excretory form of nitrogen is?",
+"options": [
+{"text": "Amino acids", "feedback": "Incorrect. Amino acids are not the excretory form."},
+{"text": "Creatinine", "feedback": "Incorrect. Creatinine is a smaller amount."},
+{"text": "Urea", "feedback": "Correct! Urea accounts for about 80-90% of excreted nitrogen."},
+{"text": "Uric acid", "feedback": "Incorrect. Uric acid is a smaller amount."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 92,
+"question": "A 45 year old male of average height and weight was admitted to the hospital for renal function studies. He had the following lab results: Urine Creatinine 120 mg/dL, Serum Creatinine 1.5 mg/dL, Total Urine volume in 24h 1800 mL. Calculate the Creatinine Clearance for this patient in mL/min:",
+"options": [
+{"text": "100", "feedback": "Correct! Clearance = (U × V) / S = (120 × 1800) / (1.5 × 1440) = 216000 / 2160 = 100 mL/min."},
+{"text": "144", "feedback": "Incorrect. Calculation error."},
+{"text": "156", "feedback": "Incorrect. Calculation error."},
+{"text": "225", "feedback": "Incorrect. Calculation error."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 93,
+"question": "The parent substance in the biosynthesis of androgens and estrogens is:",
+"options": [
+{"text": "Cortisol", "feedback": "Incorrect. Cortisol is a product of steroidogenesis."},
+{"text": "Catecholamines", "feedback": "Incorrect. Catecholamines are derived from tyrosine."},
+{"text": "Progesterone", "feedback": "Incorrect. Progesterone is a precursor but not the parent substance."},
+{"text": "Cholesterol", "feedback": "Correct! Cholesterol is the parent substance for all steroid hormones, including androgens and estrogens."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 94,
+"question": "In the Malloy and Evelyn method for the determination of bilirubin, the reagent that is reacted with bilirubin is:",
+"options": [
+{"text": "Alkaline picrate", "feedback": "Incorrect. Alkaline picrate is used for creatinine."},
+{"text": "Diazo reagent", "feedback": "Correct! The Malloy-Evelyn method uses diazotized sulfanilic acid (diazo reagent) to react with bilirubin."},
+{"text": "Folin-Ciocalteu reagent", "feedback": "Incorrect. This reagent is used for proteins."},
+{"text": "Biuret reagent", "feedback": "Incorrect. Biuret is used for proteins."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 95,
+"question": "Maple syrup urine disease is characterized by an increase in which of the following urinary amino acids?",
+"options": [
+{"text": "Phenylalanine", "feedback": "Incorrect. Phenylalanine is elevated in phenylketonuria."},
+{"text": "Tyrosine", "feedback": "Incorrect. Tyrosine is not the primary elevated amino acid."},
+{"text": "Valine, leucine, and isoleucine", "feedback": "Correct! Maple syrup urine disease involves a defect in branched-chain amino acid metabolism, leading to elevated valine, leucine, and isoleucine."},
+{"text": "Cystine and cysteine", "feedback": "Incorrect. Cystinuria involves cystine."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 96,
+"question": "Which of the following enzymes catalyzes the conversion of starch to glucose and maltose?",
+"options": [
+{"text": "Malate dehydrogenase (MD)", "feedback": "Incorrect. MDH is involved in the TCA cycle."},
+{"text": "Amylase (AMS)", "feedback": "Correct! Amylase hydrolyzes starch into glucose and maltose."},
+{"text": "Creatine kinase (CK)", "feedback": "Incorrect. CK is involved in muscle energy metabolism."},
+{"text": "Isocitric dehydrogenase (ICD)", "feedback": "Incorrect. ICD is involved in the TCA cycle."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 97,
+"question": "The greatest activities of serum AST and ALT are seen in?",
+"options": [
+{"text": "Acute hepatitis", "feedback": "Correct! Acute viral hepatitis causes massive release of AST and ALT from hepatocytes."},
+{"text": "Primary Biliary cirrhosis", "feedback": "Incorrect. PBC shows elevated ALP and GGT more than transaminases."},
+{"text": "Metastatic hepatic carcinoma", "feedback": "Incorrect. Liver tumors may have elevated ALP."},
+{"text": "Alcoholic cirrhosis", "feedback": "Incorrect. Alcoholic cirrhosis shows AST/ALT ratio >2 with moderate elevations."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 98,
+"question": "Bioavailability of a drug refers to the?",
+"options": [
+{"text": "Availability for therapeutic administration", "feedback": "Incorrect. This is not the definition."},
+{"text": "Availability of the protein-bound fraction of the drug", "feedback": "Incorrect. Protein-bound drug is inactive."},
+{"text": "Drug transformation", "feedback": "Incorrect. This is metabolism."},
+{"text": "The fraction of the drug absorbed into the systemic circulation", "feedback": "Correct! Bioavailability is the fraction of administered drug that reaches the systemic circulation."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 99,
+"question": "The cyclic antidepressants are classified as?",
+"options": [
+{"text": "Basic drugs", "feedback": "Correct! Cyclic antidepressants are weak bases."},
+{"text": "Neutral drugs", "feedback": "Incorrect. They are not neutral."},
+{"text": "Acidic Drugs", "feedback": "Incorrect. They are not acidic."},
+{"text": "Structurally cycloparaffinic", "feedback": "Incorrect. This is not their classification."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 100,
+"question": "The most widely employed screening technique for drug abuse is?",
+"options": [
+{"text": "High performance liquid chromatography", "feedback": "Incorrect. HPLC is used for confirmatory testing."},
+{"text": "Gas liquid chromatography", "feedback": "Incorrect. GLC is used for confirmatory testing."},
+{"text": "Thin layer chromatography", "feedback": "Correct! TLC is the most widely used screening technique for drug abuse."},
+{"text": "UV spectrophotometry", "feedback": "Incorrect. UV is not typically used for drug screening."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 101,
+"question": "Phenobarbital is a metabolite of?",
+"options": [
+{"text": "Primidone", "feedback": "Correct! Primidone is metabolized to phenobarbital."},
+{"text": "Phenytoin", "feedback": "Incorrect. Phenytoin is not metabolized to phenobarbital."},
+{"text": "Amobarbital", "feedback": "Incorrect. Amobarbital is a different barbiturate."},
+{"text": "Secobarbital", "feedback": "Incorrect. Secobarbital is a different barbiturate."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 102,
+"question": "Increased serum albumin concentrations are seen in which of the following conditions?",
+"options": [
+{"text": "Nephrotic syndrome", "feedback": "Incorrect. Nephrotic syndrome causes decreased albumin."},
+{"text": "Acute hepatitis", "feedback": "Incorrect. Liver disease causes decreased albumin."},
+{"text": "Chronic inflammation", "feedback": "Incorrect. Chronic inflammation may decrease albumin."},
+{"text": "Dehydration", "feedback": "Correct! Dehydration causes hemoconcentration, leading to increased serum albumin."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 103,
+"question": "Which of the following amino acids is associated with sulfhydryl group?",
+"options": [
+{"text": "Cysteine", "feedback": "Correct! Cysteine contains a sulfhydryl (-SH) group."},
+{"text": "Glycine", "feedback": "Incorrect. Glycine does not contain sulfur."},
+{"text": "Serine", "feedback": "Incorrect. Serine contains a hydroxyl group."},
+{"text": "Tyrosine", "feedback": "Incorrect. Tyrosine contains a phenol group."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 104,
+"question": "Night blindness is associated with deficiency of which of the following vitamins?",
+"options": [
+{"text": "A", "feedback": "Correct! Vitamin A deficiency causes night blindness."},
+{"text": "C", "feedback": "Incorrect. Vitamin C deficiency causes scurvy."},
+{"text": "Niacin", "feedback": "Incorrect. Niacin deficiency causes pellagra."},
+{"text": "Thiamine", "feedback": "Incorrect. Thiamine deficiency causes beriberi."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 105,
+"question": "Scurvy is associated with deficiency of which of the following vitamins?",
+"options": [
+{"text": "A", "feedback": "Incorrect. Vitamin A deficiency causes night blindness."},
+{"text": "C", "feedback": "Correct! Vitamin C deficiency causes scurvy."},
+{"text": "Niacin", "feedback": "Incorrect. Niacin deficiency causes pellagra."},
+{"text": "Thiamine", "feedback": "Incorrect. Thiamine deficiency causes beriberi."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 106,
+"question": "A cardiac glycoside that is used in the treatment of congestive heart failure and arrhythmias by increasing the force and velocity of myocardial contraction is?",
+"options": [
+{"text": "Digoxin", "feedback": "Correct! Digoxin is a cardiac glycoside used for heart failure."},
+{"text": "Acetaminophen", "feedback": "Incorrect. Acetaminophen is an analgesic."},
+{"text": "Lithium", "feedback": "Incorrect. Lithium is used for bipolar disorder."},
+{"text": "Phenytoin", "feedback": "Incorrect. Phenytoin is an anticonvulsant."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 107,
+"question": "Pellagra is associated with deficiency of which of the following vitamins?",
+"options": [
+{"text": "A", "feedback": "Incorrect. Vitamin A deficiency causes night blindness."},
+{"text": "C", "feedback": "Incorrect. Vitamin C deficiency causes scurvy."},
+{"text": "Niacin", "feedback": "Correct! Niacin (vitamin B3) deficiency causes pellagra."},
+{"text": "Thiamine", "feedback": "Incorrect. Thiamine deficiency causes beriberi."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 108,
+"question": "A drug that relaxes the smooth muscles of the bronchial passages is?",
+"options": [
+{"text": "Acetaminophen", "feedback": "Incorrect. Acetaminophen is an analgesic."},
+{"text": "Lithium", "feedback": "Incorrect. Lithium is used for bipolar disorder."},
+{"text": "Phenytoin", "feedback": "Incorrect. Phenytoin is an anticonvulsant."},
+{"text": "Theophylline", "feedback": "Correct! Theophylline is a bronchodilator that relaxes bronchial smooth muscle."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 109,
+"question": "Which of the following is the formula for calculating the unknown concentration based on Beer's Law?",
+"options": [
+{"text": "(A unknown/A standard) x C standard", "feedback": "Correct! C_unknown = (A_unknown / A_standard) × C_standard."},
+{"text": "C standard x A unknown", "feedback": "Incorrect. This does not account for standard absorbance."},
+{"text": "A standard x A unknown", "feedback": "Incorrect. This does not give concentration."},
+{"text": "(C standard)/(A standard) x 100", "feedback": "Incorrect. This is not the correct formula."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 110,
+"question": "Which of the following is the formula for coefficient of variation?",
+"options": [
+{"text": "(standard deviation x 100)/standard error", "feedback": "Incorrect. Standard error is not used."},
+{"text": "(mean x 100)/standard deviation", "feedback": "Incorrect. This is inverted."},
+{"text": "(standard deviation x 100)/mean", "feedback": "Correct! CV = (SD / Mean) × 100."},
+{"text": "(variance x 100)/mean", "feedback": "Incorrect. Variance is SD^2."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 111,
+"question": "Rickets is associated with deficiency in which of the following vitamins?",
+"options": [
+{"text": "A", "feedback": "Incorrect. Vitamin A deficiency causes night blindness."},
+{"text": "C", "feedback": "Incorrect. Vitamin C deficiency causes scurvy."},
+{"text": "Niacin", "feedback": "Incorrect. Niacin deficiency causes pellagra."},
+{"text": "D", "feedback": "Correct! Vitamin D deficiency causes rickets in children."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 112,
+"question": "The regulation of calcium and phosphorus metabolism is accomplished by which of the following glands?",
+"options": [
+{"text": "Thyroid", "feedback": "Incorrect. The thyroid produces calcitonin but is not the primary regulator."},
+{"text": "Parathyroid", "feedback": "Correct! The parathyroid glands regulate calcium and phosphorus metabolism via PTH."},
+{"text": "Adrenal glands", "feedback": "Incorrect. Adrenal glands do not regulate calcium/phosphorus."},
+{"text": "Pituitary", "feedback": "Incorrect. The pituitary does not directly regulate calcium/phosphorus."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 113,
+"question": "Lithium therapy is widely used in the treatment of?",
+"options": [
+{"text": "Hypertension", "feedback": "Incorrect. Lithium is not used for hypertension."},
+{"text": "Hyperactivity", "feedback": "Incorrect. Lithium is not used for hyperactivity."},
+{"text": "Aggression", "feedback": "Incorrect. Lithium is not used for aggression."},
+{"text": "Bipolar disorder", "feedback": "Correct! Lithium is used to treat manic episodes in bipolar disorder."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 114,
+"question": "An arterial blood specimen submitted for blood gas analysis was obtained at 8:30 am but was not received in the laboratory until 11:00 am. The technologist should?",
+"options": [
+{"text": "Perform the test immediately upon receipt", "feedback": "Incorrect. The specimen has been at room temperature too long."},
+{"text": "Perform the test only if the specimen was submitted in ice water", "feedback": "Incorrect. Even on ice, 2.5 hours is too long."},
+{"text": "Request a venous blood specimen", "feedback": "Incorrect. Venous blood is not used for blood gas analysis."},
+{"text": "Request a new arterial specimen be obtained", "feedback": "Correct! Blood gas specimens should be analyzed within 30-60 minutes; 2.5 hours is too long."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 115,
+"question": "The anticonvulsant used to control tonic-clonic (grand mal) seizures is?",
+"options": [
+{"text": "Digoxin", "feedback": "Incorrect. Digoxin is used for heart failure."},
+{"text": "Acetaminophen", "feedback": "Incorrect. Acetaminophen is an analgesic."},
+{"text": "Lithium", "feedback": "Incorrect. Lithium is used for bipolar disorder."},
+{"text": "Phenytoin", "feedback": "Correct! Phenytoin is used to control grand mal seizures."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 116,
+"question": "A carbonate salt used to control manic-depressive disorders is?",
+"options": [
+{"text": "Digoxin", "feedback": "Incorrect. Digoxin is used for heart failure."},
+{"text": "Acetaminophen", "feedback": "Incorrect. Acetaminophen is an analgesic."},
+{"text": "Lithium", "feedback": "Correct! Lithium carbonate is used to treat bipolar disorder."},
+{"text": "Phenytoin", "feedback": "Incorrect. Phenytoin is an anticonvulsant."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 117,
+"question": "A potassium level of 6.8 mEq/L is obtained. Before reporting the results, the first step the technologist should take is to?",
+"options": [
+{"text": "Check the serum for hemolysis", "feedback": "Correct! Hemolysis releases intracellular potassium, causing falsely elevated results."},
+{"text": "Rerun the test", "feedback": "Incorrect. Checking for hemolysis is the first step."},
+{"text": "Check the age of the patient", "feedback": "Incorrect. This is not the first step."},
+{"text": "Do nothing, simply report the result", "feedback": "Incorrect. This result needs verification."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 118,
+"question": "Specimens for blood gas determination should be drawn into a syringe containing?",
+"options": [
+{"text": "No preservatives", "feedback": "Incorrect. Anticoagulant is needed."},
+{"text": "Heparin", "feedback": "Correct! Heparin is the anticoagulant of choice for blood gas analysis."},
+{"text": "EDTA", "feedback": "Incorrect. EDTA is not used for blood gases."},
+{"text": "Citrate", "feedback": "Incorrect. Citrate is not used for blood gases."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 119,
+"question": "The measurement of light scattered by particles in the sample is the principle of?",
+"options": [
+{"text": "Spectrophotometer", "feedback": "Incorrect. Spectrophotometry measures transmitted light."},
+{"text": "Fluorometry", "feedback": "Incorrect. Fluorometry measures emitted light."},
+{"text": "Nephelometry", "feedback": "Correct! Nephelometry measures light scattered by particles."},
+{"text": "Atomic absorption", "feedback": "Incorrect. Atomic absorption measures absorbed light."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 120,
+"question": "Coulometry is used to measure?",
+"options": [
+{"text": "Chloride", "feedback": "Correct! Coulometric titration is used to measure chloride."},
+{"text": "pH", "feedback": "Incorrect. pH is measured by potentiometry."},
+{"text": "Bicarbonate", "feedback": "Incorrect. Bicarbonate is measured by enzymatic methods."},
+{"text": "Ammonia", "feedback": "Incorrect. Ammonia is measured by enzymatic methods."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 121,
+"question": "The measurement of the amount of electricity passing between two electrodes in an electrochemical cell is the principle of:",
+"options": [
+{"text": "Electrophoresis", "feedback": "Incorrect. Electrophoresis separates by charge."},
+{"text": "Amperometry", "feedback": "Correct! Amperometry measures current (electricity) at a constant potential."},
+{"text": "Nephelometry", "feedback": "Incorrect. Nephelometry measures scattered light."},
+{"text": "Coulometry", "feedback": "Incorrect. Coulometry measures total charge."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 122,
+"question": "Which of the following lipid results would be expected to be falsely elevated on a serum specimen from a nonfasting patient?",
+"options": [
+{"text": "Cholesterol", "feedback": "Incorrect. Cholesterol is minimally affected by fasting status."},
+{"text": "Triglyceride", "feedback": "Correct! Triglycerides are significantly elevated after a meal."},
+{"text": "HDL", "feedback": "Incorrect. HDL is not significantly affected by fasting."},
+{"text": "LDL", "feedback": "Incorrect. LDL may be slightly affected but triglycerides are the most affected."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 123,
+"question": "Turbidity in serum suggests elevation of?",
+"options": [
+{"text": "Cholesterol", "feedback": "Incorrect. Cholesterol may cause turbidity but triglycerides are the primary cause."},
+{"text": "Triglycerides", "feedback": "Correct! Lipemia (elevated triglycerides) causes turbidity."},
+{"text": "HDL", "feedback": "Incorrect. HDL does not cause turbidity."},
+{"text": "LDL", "feedback": "Incorrect. LDL does not cause significant turbidity."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 124,
+"question": "Enzyme-multiplied immunoassay techniques (EMIT) differ from all other types of enzyme immunoassays in that?",
+"options": [
+{"text": "Lysozyme is the only enzyme used to label the hapten molecule", "feedback": "Incorrect. EMIT uses glucose-6-phosphate dehydrogenase."},
+{"text": "No separation of bound and free antigen is required", "feedback": "Correct! EMIT is a homogeneous immunoassay; no separation step is needed."},
+{"text": "Inhibition of the enzyme label is accomplished with polyethylene glycol", "feedback": "Incorrect. This is not how EMIT works."},
+{"text": "Antibody absorption to polystyrene tubes precludes competition to labeled and unlabeled antigen", "feedback": "Incorrect. This describes a heterogeneous immunoassay."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 125,
+"question": "The TRH stimulation test is useful in assessing which of the following?",
+"options": [
+{"text": "TRH concentration", "feedback": "Incorrect. The test measures TSH response."},
+{"text": "Iodine deficiency", "feedback": "Incorrect. Iodine deficiency is assessed by other tests."},
+{"text": "Depression", "feedback": "Incorrect. TRH test is not used for depression."},
+{"text": "Hypothyroidism", "feedback": "Correct! The TRH test is used to differentiate primary, secondary, and tertiary hypothyroidism."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 126,
+"question": "Clinical assays for tumor markers are most important for?",
+"options": [
+{"text": "Screening for the presence of cancer", "feedback": "Incorrect. Most tumor markers are not suitable for screening."},
+{"text": "Monitoring the course of a known cancer", "feedback": "Correct! Tumor markers are most useful for monitoring therapy response and detecting recurrence."},
+{"text": "Confirming the absence of disease", "feedback": "Incorrect. Tumor markers are not used to confirm absence of disease."},
+{"text": "Identifying patients at risk for cancer", "feedback": "Incorrect. Tumor markers are not used for risk identification."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 127,
+"question": "The following results were obtained in a creatinine clearance evaluation: Urine concentration: 84 mg/dL, Urine volume: 1440 mL/24hr, Serum concentration: 1.4 mg/dL, Body surface area: 1.60 m2 (average = 1.73 m2). The creatinine clearance in mL/min is:",
+"options": [
+{"text": "6", "feedback": "Incorrect. Calculation error."},
+{"text": "22", "feedback": "Incorrect. Calculation error."},
+{"text": "60", "feedback": "Correct! Clearance = (U × V) / S = (84 × 1440) / (1.4 × 1440) = 120960 / 2016 = 60 mL/min."},
+{"text": "100", "feedback": "Incorrect. Calculation error."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 128,
+"question": "TSH is produced by the?",
+"options": [
+{"text": "Hypothalamus", "feedback": "Incorrect. The hypothalamus produces TRH."},
+{"text": "Pituitary Gland", "feedback": "Correct! TSH is produced by the anterior pituitary gland."},
+{"text": "Adrenal Cortex", "feedback": "Incorrect. The adrenal cortex produces corticosteroids."},
+{"text": "Thyroid", "feedback": "Incorrect. The thyroid produces T4 and T3."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 129,
+"question": "Estrogen and progesterone receptor assays are useful in assessing prognosis in which of the following?",
+"options": [
+{"text": "Ovarian Cancer", "feedback": "Incorrect. Receptor assays are not primarily used for ovarian cancer."},
+{"text": "Breast Cancer", "feedback": "Correct! Estrogen and progesterone receptor status is important in breast cancer prognosis and treatment decisions."},
+{"text": "Endometriosis", "feedback": "Incorrect. Endometriosis is not typically assessed by receptor assays."},
+{"text": "Amenorrhea", "feedback": "Incorrect. Amenorrhea is assessed by hormone levels, not receptor assays."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 130,
+"question": "Cerebrospinal fluid for glucose assay should be?",
+"options": [
+{"text": "Refrigerated", "feedback": "Incorrect. Refrigeration may cause precipitation."},
+{"text": "Analyzed immediately", "feedback": "Correct! CSF glucose should be measured immediately to prevent glycolysis."},
+{"text": "Heated to 56 degrees Celsius", "feedback": "Incorrect. Heating would destroy glucose."},
+{"text": "Stored at room temperature after centrifugation", "feedback": "Incorrect. Glycolysis would occur."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 131,
+"question": "An analgesic that alleviates pain without causing loss of consciousness is?",
+"options": [
+{"text": "Digoxin", "feedback": "Incorrect. Digoxin is used for heart failure."},
+{"text": "Acetaminophen", "feedback": "Correct! Acetaminophen is an analgesic that does not cause loss of consciousness."},
+{"text": "Lithium", "feedback": "Incorrect. Lithium is used for bipolar disorder."},
+{"text": "Phenytoin", "feedback": "Incorrect. Phenytoin is an anticonvulsant."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 132,
+"question": "Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) are both elevated in which of the following diseases?",
+"options": [
+{"text": "Muscular dystrophy", "feedback": "Incorrect. Muscular dystrophy elevates CK, not primarily transaminases."},
+{"text": "Viral hepatitis", "feedback": "Correct! Viral hepatitis causes elevation of both AST and ALT."},
+{"text": "Pulmonary emboli", "feedback": "Incorrect. Pulmonary emboli may elevate LDH, not transaminases."},
+{"text": "Infectious mononucleosis", "feedback": "Incorrect. Infectious mononucleosis may cause mild elevation but is not the classic presentation."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 133,
+"question": "Urobilinogen is formed in the?",
+"options": [
+{"text": "Kidney", "feedback": "Incorrect. Urobilinogen is not formed in the kidney."},
+{"text": "Spleen", "feedback": "Incorrect. Urobilinogen is not formed in the spleen."},
+{"text": "Liver", "feedback": "Incorrect. Urobilinogen is not formed in the liver."},
+{"text": "Intestine", "feedback": "Correct! Urobilinogen is formed by bacterial action on bilirubin in the intestine."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 134,
+"question": "Reproducible inaccuracies that are consistently in the same direction define which of the following?",
+"options": [
+{"text": "Systematic error", "feedback": "Correct! Systematic error (bias) is reproducible and consistently in the same direction."},
+{"text": "Imprecision", "feedback": "Incorrect. Imprecision is random error."},
+{"text": "Random error", "feedback": "Incorrect. Random error is not consistently in the same direction."},
+{"text": "Dissociative statistics", "feedback": "Incorrect. This is not a standard term."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 135,
+"question": "Which of the following is true regarding Sigma metrics?",
+"options": [
+{"text": "All parameters in the equation should be of different units", "feedback": "Incorrect. Sigma is unitless."},
+{"text": "With a Sigma < 3.0, your method is considered performing at 3.4 defects per million opportunities", "feedback": "Incorrect. Sigma 6.0 corresponds to 3.4 DPM."},
+{"text": "Sigma has no units", "feedback": "Correct! Sigma is a unitless metric."},
+{"text": "None of the above", "feedback": "Incorrect. One statement is correct."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 136,
+"question": "All facilities in the United States that perform laboratory testing on human specimens for health assessment or the diagnosis, prevention, or treatment of disease are regulated under which of the following?",
+"options": [
+{"text": "Food and Drug Administration", "feedback": "Incorrect. The FDA regulates devices and drugs."},
+{"text": "College of American Pathology", "feedback": "Incorrect. CAP is an accreditation organization."},
+{"text": "Clinical Laboratory Improvements Amendment", "feedback": "Correct! CLIA regulates all clinical laboratories."},
+{"text": "Centers for Disease Control and Prevention", "feedback": "Incorrect. The CDC is a public health agency."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 137,
+"question": "The satisfactory grade for proficiency testing in the clinical laboratory is always at least:",
+"options": [
+{"text": "100%", "feedback": "Incorrect. 100% is not always required."},
+{"text": "50%", "feedback": "Incorrect. The passing grade is higher."},
+{"text": "25%", "feedback": "Incorrect. The passing grade is higher."},
+{"text": "None of the above", "feedback": "Correct! The satisfactory grade is typically ≥80% for most PT programs."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 138,
+"question": "pH reflects:",
+"options": [
+{"text": "Free hydrogen ions concentration.", "feedback": "Correct! pH is the negative logarithm of the hydrogen ion concentration."},
+{"text": "Concentration of hydroxyl anions.", "feedback": "Incorrect. pH measures H+, not OH-."},
+{"text": "Hydrogen ions concentration to hydroxyl anions concentration ratio.", "feedback": "Incorrect. pH is not a ratio."},
+{"text": "Hydrogen ions partial pressure.", "feedback": "Incorrect. This is not pH."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 139,
+"question": "Which buffer system predominates inside cells?",
+"options": [
+{"text": "Bicarbonate", "feedback": "Incorrect. Bicarbonate predominates in extracellular fluid."},
+{"text": "Acetate", "feedback": "Incorrect. Acetate is not a buffer system."},
+{"text": "Protein", "feedback": "Incorrect. Protein is important but not the predominant one."},
+{"text": "Phosphate", "feedback": "Correct! The phosphate buffer system predominates intracellularly."},
+{"text": "Haemoglobin", "feedback": "Incorrect. Hemoglobin is important in RBCs but not in all cells."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 140,
+"question": "Which enzyme in renal tubules catalyzes dissociation of carbonic acid?",
+"options": [
+{"text": "Lactate Dehydrogenase", "feedback": "Incorrect. LDH is involved in carbohydrate metabolism."},
+{"text": "AST", "feedback": "Incorrect. AST is a transaminase."},
+{"text": "ALT", "feedback": "Incorrect. ALT is a transaminase."},
+{"text": "Lipase", "feedback": "Incorrect. Lipase hydrolyzes lipids."},
+{"text": "Carbonic Anhydrase", "feedback": "Correct! Carbonic anhydrase catalyzes the interconversion of carbonic acid to CO2 and water."}
+],
+"correctAnswerIndex": 4
+},
+{
+"id": 141,
+"question": "Which anticoagulant is used for determination of parameters of acid-base balance?",
+"options": [
+{"text": "Oxalate", "feedback": "Incorrect. Oxalate is used for glucose preservation."},
+{"text": "Citrate", "feedback": "Incorrect. Citrate is used for coagulation studies."},
+{"text": "Heparin Li", "feedback": "Incorrect. Lithium heparin is used for chemistry but not specifically for acid-base."},
+{"text": "Heparin-Na", "feedback": "Correct! Sodium heparin is the preferred anticoagulant for blood gas analysis."},
+{"text": "EDTA", "feedback": "Incorrect. EDTA is used for hematology."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 142,
+"question": "What are the main organs taking part in regulation of acid-base balance?",
+"options": [
+{"text": "Lungs", "feedback": "Correct! The lungs regulate CO2 (respiratory component)."},
+{"text": "Kidneys", "feedback": "Correct! The kidneys regulate bicarbonate (metabolic component)."},
+{"text": "Liver", "feedback": "Incorrect. The liver does not directly regulate acid-base balance."},
+{"text": "Spleen", "feedback": "Incorrect. The spleen does not directly regulate acid-base balance."},
+{"text": "Small intestine", "feedback": "Incorrect. The small intestine does not directly regulate acid-base balance."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 143,
+"question": "Criterion of compensated diabetes mellitus type I is when fasting blood glucose level is:",
+"options": [
+{"text": "5.0-6.0 mmol/l", "feedback": "Incorrect. This is normal, not compensated diabetes."},
+{"text": "6.1-6.5 mmol/l", "feedback": "Correct! Good glycemic control in type 1 diabetes aims for fasting glucose between 6.1-6.5 mmol/L."},
+{"text": "6.5-6.9 mmol/l", "feedback": "Incorrect. This is suboptimal control."},
+{"text": "7.0-7.5 mmol/l", "feedback": "Incorrect. This is poor control."},
+{"text": "7.5-7.8 mmol/l", "feedback": "Incorrect. This is poor control."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 144,
+"question": "How often HbA1c concentration should be determined in patients with diabetes mellitus type I?",
+"options": [
+{"text": "Once a month", "feedback": "Incorrect. Monthly is not necessary."},
+{"text": "Once a year", "feedback": "Incorrect. Annual is not frequent enough."},
+{"text": "Once a 6 months", "feedback": "Incorrect. Every 6 months is acceptable but every 3 months is recommended."},
+{"text": "Once a 3 months", "feedback": "Correct! HbA1c should be measured every 3 months in type 1 diabetes."},
+{"text": "Once a 2 weeks", "feedback": "Incorrect. Too frequent."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 145,
+"question": "How often HbA1c concentration should be determined in patients with diabetes mellitus type II?",
+"options": [
+{"text": "Once a month", "feedback": "Incorrect. Monthly is not necessary."},
+{"text": "Once a year", "feedback": "Incorrect. Annual is not frequent enough."},
+{"text": "Once a 6 months", "feedback": "Correct! Every 6 months is recommended for well-controlled type 2 diabetes."},
+{"text": "Once a 3 months", "feedback": "Incorrect. Every 3 months is recommended for type 1 or poorly controlled type 2."},
+{"text": "Once a 2 weeks", "feedback": "Incorrect. Too frequent."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 146,
+"question": "How often microalbuminuria should be determined in patients with diabetes mellitus type I?",
+"options": [
+{"text": "Once a year, 5 years after the beginning of the disease", "feedback": "Correct! Annual screening for microalbuminuria should begin 5 years after diagnosis of type 1 diabetes."},
+{"text": "Twice a year, 5 years after the beginning of the disease", "feedback": "Incorrect. Annual is recommended."},
+{"text": "Twice a year, 3 years after the beginning of the disease", "feedback": "Incorrect."},
+{"text": "Once a year, 3 years after the beginning of the disease", "feedback": "Incorrect. Screening begins at 5 years."},
+{"text": "Once a month", "feedback": "Incorrect. Too frequent."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 147,
+"question": "What are the reasons of hypocholesterolaemia?",
+"options": [
+{"text": "Nephrotic syndrome", "feedback": "Incorrect. Nephrotic syndrome causes hypercholesterolemia."},
+{"text": "Glomerulonephritis", "feedback": "Incorrect. Glomerulonephritis does not typically cause hypocholesterolemia."},
+{"text": "Hard physical exercises", "feedback": "Correct! Strenuous exercise can lower cholesterol."},
+{"text": "Insulin deficiency", "feedback": "Incorrect. Insulin deficiency can cause hypercholesterolemia."},
+{"text": "Phaeochromocytoma", "feedback": "Incorrect. Phaeochromocytoma does not cause hypocholesterolemia."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 148,
+"question": "Hypertriglyceridaemia may develop in:",
+"options": [
+{"text": "Pancreatitis", "feedback": "Correct! Hypertriglyceridemia can cause pancreatitis, and vice versa."},
+{"text": "Diabetes mellitus", "feedback": "Correct! Diabetes mellitus often causes hypertriglyceridemia."},
+{"text": "Hepatitis", "feedback": "Incorrect. Hepatitis does not typically cause hypertriglyceridemia."},
+{"text": "Thyrotoxicosis", "feedback": "Incorrect. Thyrotoxicosis (hyperthyroidism) lowers triglycerides."},
+{"text": "Starvation", "feedback": "Incorrect. Starvation lowers triglycerides."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 149,
+"question": "A 43-years old patient, plasma is transparent, cholesterol - 5.2 mmol/l, α-cholesterol - 0.94 mmol/l, atherogenity index - 4.5. Assess his lipid metabolism status.",
+"options": [
+{"text": "Normal", "feedback": "Incorrect. The atherogenicity index is elevated."},
+{"text": "Hyperlipidaemia", "feedback": "Incorrect. Total cholesterol is normal."},
+{"text": "Hypocholesterolaemia", "feedback": "Incorrect. Cholesterol is not low."},
+{"text": "High atherogenous risk", "feedback": "Correct! Atherogenicity index >3.0 indicates high risk (4.5 is elevated)."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 150,
+"question": "A 13-years old patient: obese, plasma is turbid (milky), hypertriglyceridaemia. Suspected type of hyperlipoproteinemia is:",
+"options": [
+{"text": "Type I", "feedback": "Incorrect. Type I is characterized by chylomicronemia, usually not seen in children."},
+{"text": "Type II", "feedback": "Incorrect. Type II is characterized by hypercholesterolemia."},
+{"text": "Type III", "feedback": "Incorrect. Type III shows broad beta band."},
+{"text": "Type IV", "feedback": "Correct! Type IV hyperlipoproteinemia is characterized by hypertriglyceridemia (VLDL elevation) and turbid plasma."},
+{"text": "Type V", "feedback": "Incorrect. Type V shows chylomicrons and VLDL."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 151,
+"question": "A 49-years old patient was admitted to the hospital. He complains of frequent onsets of angina pectoris, eliminated by nitroglycerin. Laboratory investigation should include determination of:",
+"options": [
+{"text": "Cholesterol, triglycerides, α-cholesterol", "feedback": "Correct! This lipid panel assesses cardiovascular risk."},
+{"text": "Cholesterol, cholesterol esters, total lipids", "feedback": "Incorrect. These are not standard for angina."},
+{"text": "Cholesterol, total lipids, phospholipids", "feedback": "Incorrect. Phospholipids are not routinely measured."},
+{"text": "Cholesterol, ketone bodies, non-esterified fatty acids", "feedback": "Incorrect. Ketone bodies are not relevant to angina."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 152,
+"question": "Reference level of total plasma protein is:",
+"options": [
+{"text": "25-45 g/l", "feedback": "Incorrect. This range is too low."},
+{"text": "45-65 g/l", "feedback": "Incorrect. This range is too low."},
+{"text": "62-85 g/l", "feedback": "Correct! The reference range for total protein is 62-85 g/L."},
+{"text": "82-95 g/l", "feedback": "Incorrect. This range is too high."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 153,
+"question": "Life threatening total plasma protein level is less than:",
+"options": [
+{"text": "40 g/l", "feedback": "Correct! A total protein < 40 g/L is considered life-threatening."},
+{"text": "60 g/l", "feedback": "Incorrect. This is below normal but not necessarily life-threatening."},
+{"text": "55 g/l", "feedback": "Incorrect. This is low but not life-threatening."},
+{"text": "50 g/l", "feedback": "Incorrect. This is low but not life-threatening."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 154,
+"question": "During electrophoresis plasma proteins are separated into following fractions:",
+"options": [
+{"text": "Albumin", "feedback": "Correct! Albumin is a major fraction."},
+{"text": "α-globulins", "feedback": "Correct! α1 and α2 globulins are fractions."},
+{"text": "Chylomicrons", "feedback": "Incorrect. Chylomicrons do not migrate in protein electrophoresis."},
+{"text": "γ-globulins", "feedback": "Correct! γ-globulins are a fraction."},
+{"text": "β-globulins", "feedback": "Correct! β-globulins are a fraction."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 155,
+"question": "Life threatening hypoalbuminaemia is:",
+"options": [
+{"text": "Albumin level is less than 50 g/l", "feedback": "Incorrect. This is not low enough to be life-threatening."},
+{"text": "Albumin level is less than 45 g/l", "feedback": "Incorrect. This is not low enough."},
+{"text": "Albumin level is less than 20 g/l", "feedback": "Correct! Albumin < 20 g/L is life-threatening."},
+{"text": "Albumin level is less than 30 g/l", "feedback": "Incorrect. This is low but not life-threatening."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 156,
+"question": "Proteinuria is:",
+"options": [
+{"text": "Protein excreted in the urine in a quantity above 20 mg/24h", "feedback": "Incorrect. This is below the normal threshold."},
+{"text": "Protein excreted in the urine in a quantity of more than 150 mg/24h", "feedback": "Correct! Proteinuria is defined as >150 mg/24h."},
+{"text": "Protein excreted in the urine in a quantity of more than 50 mg/24h", "feedback": "Incorrect. This is below the threshold."},
+{"text": "Protein excreted in the urine in a quantity of more than 30 mg/24h", "feedback": "Incorrect. This is below the threshold."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 157,
+"question": "Dysproteinemia is:",
+"options": [
+{"text": "Increased concentration of total plasma protein", "feedback": "Incorrect. This is hyperproteinemia."},
+{"text": "Decreased concentration of total plasma protein", "feedback": "Incorrect. This is hypoproteinemia."},
+{"text": "Decreased fibrinogen level", "feedback": "Incorrect. This is hypofibrinogenemia."},
+{"text": "Altered ratio of plasma proteins fractions", "feedback": "Correct! Dysproteinemia is an abnormal distribution of protein fractions."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 158,
+"question": "Which diseases are accompanied by decreased fibrinogen level:",
+"options": [
+{"text": "Myocardial infarction", "feedback": "Incorrect. MI typically increases fibrinogen (acute phase)."},
+{"text": "Chronic liver diseases", "feedback": "Correct! The liver synthesizes fibrinogen; liver disease decreases fibrinogen."},
+{"text": "Rheumatoid arthritis", "feedback": "Incorrect. RA increases fibrinogen."},
+{"text": "Uraemia", "feedback": "Incorrect. Uremia does not directly lower fibrinogen."},
+{"text": "Glomerulonephritis", "feedback": "Incorrect. Glomerulonephritis does not lower fibrinogen."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 159,
+"question": "Which pathological states lead to hyperproteinemia:",
+"options": [
+{"text": "Increased synthesis of paraproteins", "feedback": "Correct! Multiple myeloma causes hyperproteinemia due to paraprotein synthesis."},
+{"text": "Hyperhydration", "feedback": "Incorrect. Hyperhydration causes hypoproteinemia."},
+{"text": "Malabsorption of proteins in the intestine", "feedback": "Incorrect. Malabsorption causes hypoproteinemia."},
+{"text": "Increased permeability of blood vessel wall", "feedback": "Incorrect. This causes protein loss, not hyperproteinemia."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 160,
+"question": "The main physiological function of haptoglobin is:",
+"options": [
+{"text": "Binding of haemoglobin", "feedback": "Correct! Haptoglobin binds free hemoglobin to prevent renal loss."},
+{"text": "Acute phase protein", "feedback": "Incorrect. While haptoglobin is an acute phase protein, its main function is binding hemoglobin."},
+{"text": "Takes part in immunological reactions", "feedback": "Incorrect. Haptoglobin is not primarily immunological."},
+{"text": "Takes part in blood coagulation", "feedback": "Incorrect. Haptoglobin is not involved in coagulation."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 161,
+"question": "What are the main diagnostic purposes of CRP determination?",
+"options": [
+{"text": "Diagnosis of neonatal sepsis", "feedback": "Correct! CRP is used to diagnose neonatal sepsis."},
+{"text": "Differential diagnosis of viral and bacterial inflammation", "feedback": "Correct! CRP is elevated in bacterial infections, not viral."},
+{"text": "Assessment of antibiotic therapy efficacy", "feedback": "Correct! Decreasing CRP indicates effective antibiotic therapy."},
+{"text": "Assessment of hyperglycaemia duration", "feedback": "Incorrect. CRP is not used for hyperglycemia."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 162,
+"question": "Isoenzymes are:",
+"options": [
+{"text": "Multiple forms of enzymes catalyzing different reactions", "feedback": "Incorrect. They catalyze the same reaction."},
+{"text": "Multiple forms of enzymes catalyzing the same reaction", "feedback": "Correct! Isoenzymes catalyze the same reaction but differ in structure."},
+{"text": "Multiple forms of enzymes with different physical and chemical properties", "feedback": "Correct! Isoenzymes have different physical/chemical properties."},
+{"text": "Multiple forms of enzymes with the same physical and chemical properties", "feedback": "Incorrect. They have different properties."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 163,
+"question": "Enzymes activity is determined in:",
+"options": [
+{"text": "Blood serum", "feedback": "Correct! Serum is the most common sample for enzyme assays."},
+{"text": "Leucoconcentrates", "feedback": "Incorrect. Leucoconcentrates are used for genetic studies."},
+{"text": "Biopsy material", "feedback": "Correct! Biopsy material can be used for enzyme assays."},
+{"text": "CSF", "feedback": "Correct! CSF can be used for certain enzyme assays."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 164,
+"question": "Maximal activity of Creatine Kinase is revealed in:",
+"options": [
+{"text": "Heart muscle", "feedback": "Correct! CK-MB is found in heart muscle."},
+{"text": "Prostate gland", "feedback": "Incorrect. Prostate gland has high acid phosphatase."},
+{"text": "Spleen", "feedback": "Incorrect. Spleen is not rich in CK."},
+{"text": "Kidneys", "feedback": "Incorrect. Kidneys are not rich in CK."},
+{"text": "Pancreas", "feedback": "Incorrect. Pancreas is not rich in CK."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 165,
+"question": "Increased activity of γ-Glutamyl Transpeptidase in serum is revealed in:",
+"options": [
+{"text": "Prostatitis", "feedback": "Incorrect. Prostatitis elevates acid phosphatase."},
+{"text": "Gastritis", "feedback": "Incorrect. Gastritis does not elevate GGT."},
+{"text": "Pancreatitis", "feedback": "Incorrect. Pancreatitis elevates amylase and lipase."},
+{"text": "Cholestasis", "feedback": "Correct! GGT is a marker of cholestasis (biliary obstruction)."},
+{"text": "Glomerulonephritis", "feedback": "Incorrect. Glomerulonephritis does not elevate GGT."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 166,
+"question": "Lactate Dehydrogenase molecule consists of such subunits:",
+"options": [
+{"text": "B and M", "feedback": "Incorrect. LDH subunits are H and M."},
+{"text": "H and M", "feedback": "Correct! LDH has two subunit types: H (heart) and M (muscle)."},
+{"text": "B, M and H", "feedback": "Incorrect. Only H and M exist."},
+{"text": "B and H", "feedback": "Incorrect. B and M are not LDH subunits."},
+{"text": "B", "feedback": "Incorrect. Only B is not correct."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 167,
+"question": "Myocardium is rich in:",
+"options": [
+{"text": "LDH-1", "feedback": "Correct! LDH-1 (H4) is the predominant isoenzyme in the heart."},
+{"text": "LDH-2", "feedback": "Incorrect. LDH-2 is also present but LDH-1 is predominant."},
+{"text": "LDH-3", "feedback": "Incorrect. LDH-3 is found in intermediate tissues."},
+{"text": "LDH-4", "feedback": "Incorrect. LDH-4 is found in liver and skeletal muscle."},
+{"text": "LDH-5", "feedback": "Incorrect. LDH-5 is found in liver and skeletal muscle."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 168,
+"question": "Acid Phosphatase activity increases in:",
+"options": [
+{"text": "Prostatitis", "feedback": "Correct! Acid phosphatase is elevated in prostate cancer and prostatitis."},
+{"text": "Gastritis", "feedback": "Incorrect. Gastritis does not elevate acid phosphatase."},
+{"text": "Bronchitis", "feedback": "Incorrect. Bronchitis does not elevate acid phosphatase."},
+{"text": "Meningitis", "feedback": "Incorrect. Meningitis does not elevate acid phosphatase."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 169,
+"question": "Patient complains of an onset of acute pain in the abdomen. Laboratory investigation revealed increased α-Amylase activity. Which diagnosis should be suspected?",
+"options": [
+{"text": "Acute pancreatitis", "feedback": "Correct! Elevated amylase with abdominal pain suggests acute pancreatitis."},
+{"text": "Acute viral hepatitis", "feedback": "Incorrect. Hepatitis elevates transaminases."},
+{"text": "Renal calculi", "feedback": "Incorrect. Renal calculi do not elevate amylase."},
+{"text": "Myocardial infarction", "feedback": "Incorrect. MI elevates cardiac enzymes."},
+{"text": "Acute pleuritis", "feedback": "Incorrect. Pleuritis does not elevate amylase."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 170,
+"question": "Amylase isoenzymes are located in:",
+"options": [
+{"text": "Prostate gland", "feedback": "Incorrect. Prostate gland is not a source of amylase."},
+{"text": "Myocardium", "feedback": "Incorrect. Myocardium is not a source of amylase."},
+{"text": "Pancreas", "feedback": "Correct! Pancreatic amylase is a major isoenzyme."},
+{"text": "Lungs", "feedback": "Incorrect. Lungs are not a source of amylase."},
+{"text": "Salivary glands", "feedback": "Correct! Salivary amylase is a major isoenzyme."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 171,
+"question": "Patient complains of an onset of acute retrosternal pain. Laboratory investigation revealed increased activity of serum Creatine Kinase. Suspected diagnosis is:",
+"options": [
+{"text": "Acute pancreatitis", "feedback": "Incorrect. Pancreatitis elevates amylase/lipase."},
+{"text": "Acute viral hepatitis", "feedback": "Incorrect. Hepatitis elevates transaminases."},
+{"text": "Renal calculi", "feedback": "Incorrect. Renal calculi do not elevate CK."},
+{"text": "Myocardial infarction", "feedback": "Correct! Retrosternal pain and elevated CK suggest myocardial infarction."},
+{"text": "Acute pleuritis", "feedback": "Incorrect. Pleuritis does not elevate CK."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 172,
+"question": "Which enzyme activity grows in increased bone resorption?",
+"options": [
+{"text": "Alkaline Phosphatase", "feedback": "Correct! ALP is elevated in bone resorption (Paget's disease, etc.)."},
+{"text": "Amino Transferases", "feedback": "Incorrect. Transaminases are not bone markers."},
+{"text": "Catalase", "feedback": "Incorrect. Catalase is not a bone marker."},
+{"text": "Acid Phosphatase", "feedback": "Incorrect. Acid phosphatase is a prostate marker."},
+{"text": "Lactate Dehydrogenase", "feedback": "Incorrect. LDH is not specific to bone."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 173,
+"question": "Determination of which enzyme activity is the most significant in pancreatic injury?",
+"options": [
+{"text": "Cholinesterase", "feedback": "Incorrect. Cholinesterase is a liver marker."},
+{"text": "α-Amylase", "feedback": "Incorrect. Amylase is less specific than lipase."},
+{"text": "Creatine Kinase", "feedback": "Incorrect. CK is a cardiac/muscle marker."},
+{"text": "LDH", "feedback": "Incorrect. LDH is not specific."},
+{"text": "Lipase", "feedback": "Correct! Lipase is the most specific marker for pancreatic injury."}
+],
+"correctAnswerIndex": 4
+},
+{
+"id": 174,
+"question": "Which enzyme is considered to be early marker of myocardial infarction?",
+"options": [
+{"text": "LDH-5", "feedback": "Incorrect. LDH-5 is found in liver."},
+{"text": "Cholinesterase", "feedback": "Incorrect. Cholinesterase is a liver marker."},
+{"text": "α-Amylase", "feedback": "Incorrect. Amylase is a pancreatic marker."},
+{"text": "Creatine Kinase", "feedback": "Correct! CK is an early marker of MI (rises in 3-6 hours)."},
+{"text": "Alkaline Phosphatase", "feedback": "Incorrect. ALP is a liver/bone marker."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 175,
+"question": "Which enzyme activity grows mostly in prostate gland cancer?",
+"options": [
+{"text": "α-Amylase", "feedback": "Incorrect. Amylase is pancreatic/salivary."},
+{"text": "Creatine Kinase", "feedback": "Incorrect. CK is cardiac/muscle."},
+{"text": "Alkaline Phosphatase", "feedback": "Incorrect. ALP is liver/bone."},
+{"text": "Acid Phosphatase", "feedback": "Correct! Acid phosphatase is elevated in prostate cancer."},
+{"text": "ALT", "feedback": "Incorrect. ALT is a liver enzyme."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 176,
+"question": "Which enzymes activity should be determined in serum in suspected toxic hepatic injury?",
+"options": [
+{"text": "Cholinesterase", "feedback": "Correct! Cholinesterase reflects liver synthetic function."},
+{"text": "LDH", "feedback": "Incorrect. LDH is not specific to liver."},
+{"text": "Creatine Kinase", "feedback": "Incorrect. CK is not a liver marker."},
+{"text": "γ-Glutamyl Transpeptidase", "feedback": "Correct! GGT is elevated in toxic liver injury."},
+{"text": "Acid Phosphatase", "feedback": "Incorrect. Acid phosphatase is a prostate marker."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 177,
+"question": "Which enzymes activity will increase in skeletal muscles injury?",
+"options": [
+{"text": "Creatine Kinase", "feedback": "Correct! CK (especially CK-MM) is elevated in skeletal muscle injury."},
+{"text": "α-Amylase", "feedback": "Incorrect. Amylase is not a muscle marker."},
+{"text": "LDH", "feedback": "Correct! LDH is elevated in muscle injury (though less specific)."},
+{"text": "Amino Transferases", "feedback": "Correct! AST is elevated in muscle injury."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 178,
+"question": "Increased activity of serum Creatine Kinase is revealed in:",
+"options": [
+{"text": "Muscular traumas", "feedback": "Correct! Trauma causes CK release from muscle."},
+{"text": "Alcoholic intoxication", "feedback": "Incorrect. Alcoholism may elevate GGT, not directly CK."},
+{"text": "Muscular dystrophy", "feedback": "Correct! Duchenne's muscular dystrophy causes massive CK elevation."},
+{"text": "Pyelonephritis", "feedback": "Incorrect. Pyelonephritis does not elevate CK."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 179,
+"question": "Markers of cholestasis are:",
+"options": [
+{"text": "Amino Transferases", "feedback": "Incorrect. Transaminases are hepatocellular markers."},
+{"text": "LDH and Creatine Kinase", "feedback": "Incorrect. LDH and CK are not cholestasis markers."},
+{"text": "Hystidase and Urokinase", "feedback": "Incorrect. These are not cholestasis markers."},
+{"text": "γ-Glutamyl Transpeptidase and Alkaline Phosphatase", "feedback": "Correct! GGT and ALP are markers of cholestasis."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 180,
+"question": "Which enzymes activity is increased in pancreatitis:",
+"options": [
+{"text": "Urokinase", "feedback": "Incorrect. Urokinase is not a pancreatic marker."},
+{"text": "Acid Phosphatase", "feedback": "Incorrect. Acid phosphatase is a prostate marker."},
+{"text": "γ-Glutamyl Transpeptidase", "feedback": "Incorrect. GGT is a liver marker."},
+{"text": "Alkaline Phosphatase", "feedback": "Incorrect. ALP is a liver/bone marker."},
+{"text": "α-Amylase", "feedback": "Correct! Amylase is elevated in pancreatitis."}
+],
+"correctAnswerIndex": 4
+},
+{
+"id": 181,
+"question": "Which enzyme activity should be determined in serum in suspected chronic hepatitis?",
+"options": [
+{"text": "ALT, AST, γ-Glutamyl Transpeptidase, Cholinesterase, Alkaline Phosphatase", "feedback": "Correct! These are the key liver function tests for chronic hepatitis."},
+{"text": "LDH and Creatine Kinase", "feedback": "Incorrect. LDH and CK are not specific to hepatitis."},
+{"text": "Acid Phosphatase and Urokinase", "feedback": "Incorrect. These are not liver markers."},
+{"text": "Alkaline Phosphatase isoenzymes", "feedback": "Incorrect. ALP isoenzymes are not routinely used."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 182,
+"question": "De Ritis ratio is:",
+"options": [
+{"text": "ALT to AST ratio", "feedback": "Incorrect. De Ritis ratio is AST to ALT."},
+{"text": "Alkaline Phosphatase to Lipase ratio", "feedback": "Incorrect. This is not De Ritis ratio."},
+{"text": "γ-Glutamyl Transpeptidase to ALT ratio", "feedback": "Incorrect. This is not De Ritis ratio."},
+{"text": "AST to ALT ratio", "feedback": "Correct! The De Ritis ratio is AST/ALT."},
+{"text": "AST to Acid Phosphatase ratio", "feedback": "Incorrect. This is not De Ritis ratio."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 183,
+"question": "Acid Phosphatase activity increases in:",
+"options": [
+{"text": "Tumors of prostate gland", "feedback": "Correct! Acid phosphatase is elevated in prostate cancer."},
+{"text": "Pancreatitis", "feedback": "Incorrect. Pancreatitis elevates amylase/lipase."},
+{"text": "Pregnancy", "feedback": "Incorrect. Pregnancy may increase ALP, not acid phosphatase."},
+{"text": "Bone metastatic injury", "feedback": "Incorrect. Bone metastases may increase ALP, not acid phosphatase."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 184,
+"question": "Isoenzymes LDH-1 and LDH-2 content is high in:",
+"options": [
+{"text": "Heart", "feedback": "Correct! LDH-1 and LDH-2 are predominant in the heart."},
+{"text": "Skeletal muscles", "feedback": "Incorrect. Skeletal muscle has LDH-4 and LDH-5."},
+{"text": "Liver", "feedback": "Incorrect. Liver has LDH-4 and LDH-5."},
+{"text": "Tumor cells", "feedback": "Incorrect. Tumors can have various isoenzymes."},
+{"text": "Pancreas", "feedback": "Incorrect. Pancreas is not high in LDH-1/LDH-2."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 185,
+"question": "γ-Glutamyl Transpeptidase activity increases in:",
+"options": [
+{"text": "Toxic hepatic injury", "feedback": "Correct! GGT is elevated in toxic liver injury."},
+{"text": "Myocardial infarction", "feedback": "Incorrect. MI elevates CK and troponin."},
+{"text": "Intra- and extrahepatic cholestasis", "feedback": "Correct! GGT is a marker of cholestasis."},
+{"text": "Acute pancreatitis", "feedback": "Incorrect. Pancreatitis elevates amylase/lipase."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 186,
+"question": "Increasing of which Creatine Kinase isoenzymes is specific for myocardial infarction?",
+"options": [
+{"text": "CK-MM", "feedback": "Incorrect. CK-MM is found in skeletal muscle."},
+{"text": "CK-MB", "feedback": "Correct! CK-MB is specific for myocardial infarction."},
+{"text": "CK-BB", "feedback": "Incorrect. CK-BB is found in brain."},
+{"text": "CK-CC", "feedback": "Incorrect. CK-CC does not exist."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 187,
+"question": "Increased activity of Alkaline Phosphatase bone isoenzyme is characteristic for:",
+"options": [
+{"text": "Hepatic cirrhosis", "feedback": "Incorrect. Hepatic cirrhosis elevates liver ALP."},
+{"text": "Primary and secondary hepatic tumors", "feedback": "Incorrect. Liver tumors elevate liver ALP."},
+{"text": "Intrahepatic cholestasis", "feedback": "Incorrect. Cholestasis elevates liver ALP."},
+{"text": "Paget's disease", "feedback": "Correct! Paget's disease (bone disease) elevates bone ALP."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 188,
+"question": "Life threatening hyponatraemia is:",
+"options": [
+{"text": "<125 mmol/l", "feedback": "Correct! Hyponatremia <125 mmol/L is considered life-threatening."},
+{"text": "<130 mmol/l", "feedback": "Incorrect. <130 mmol/L is moderate hyponatremia."},
+{"text": "<122 mmol/l", "feedback": "Incorrect. This is severe but <125 is the standard cutoff."},
+{"text": "<120 mmol/l", "feedback": "Incorrect. This is also severe but <125 is the standard threshold."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 189,
+"question": "Life threatening hypernatraemia is:",
+"options": [
+{"text": ">150 mmol/l", "feedback": "Incorrect. >150 mmol/L is mild hypernatremia."},
+{"text": ">148 mmol/l", "feedback": "Incorrect. >148 mmol/L is mild."},
+{"text": ">155 mmol/l", "feedback": "Correct! Hypernatremia >155 mmol/L is life-threatening."},
+{"text": ">160 mmol/l", "feedback": "Incorrect. >160 mmol/L is also life-threatening but >155 is the standard threshold."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 190,
+"question": "Physiological function of sodium is:",
+"options": [
+{"text": "Regulation of oncotic pressure", "feedback": "Incorrect. Oncotic pressure is regulated by proteins."},
+{"text": "Regulation of water and electrolyte balance", "feedback": "Correct! Sodium is the major determinant of water and electrolyte balance."},
+{"text": "Regulation of acid-base balance", "feedback": "Incorrect. Sodium is not primarily involved in acid-base balance."},
+{"text": "Nerve impulse generation", "feedback": "Correct! Sodium is involved in nerve impulse generation."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 191,
+"question": "The main reasons of hyponatraemia are:",
+"options": [
+{"text": "Hypotonic hyperhydration", "feedback": "Correct! Excess water dilutes sodium."},
+{"text": "Hypertonic dehydration", "feedback": "Incorrect. Hypertonic dehydration causes hypernatremia."},
+{"text": "Diuretic therapy", "feedback": "Correct! Diuretics can cause sodium loss."},
+{"text": "Addison's disease", "feedback": "Correct! Addison's disease causes sodium loss due to aldosterone deficiency."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 192,
+"question": "Life threatening hypokalaemia is:",
+"options": [
+{"text": "<3.0 mmol/l", "feedback": "Incorrect. <3.0 mmol/L is moderate hypokalemia."},
+{"text": "<2.9 mmol/l", "feedback": "Incorrect. <2.9 mmol/L is significant but not life-threatening."},
+{"text": "<2.7 mmol/l", "feedback": "Incorrect. <2.7 mmol/L is severe."},
+{"text": "<2.5 mmol/l", "feedback": "Correct! Hypokalemia <2.5 mmol/L is life-threatening."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 193,
+"question": "Life threatening hyperkalaemia is:",
+"options": [
+{"text": ">3.5 mmol/l", "feedback": "Incorrect. >3.5 mmol/L is normal."},
+{"text": ">5.5 mmol/l", "feedback": "Incorrect. >5.5 mmol/L is moderate hyperkalemia."},
+{"text": ">7.5 mmol/l", "feedback": "Correct! Hyperkalemia >7.5 mmol/L is life-threatening."},
+{"text": ">6.5 mmol/l", "feedback": "Incorrect. >6.5 mmol/L is severe but >7.5 is life-threatening."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 194,
+"question": "Biological functions of potassium are:",
+"options": [
+{"text": "Nerve impulse generation", "feedback": "Correct! Potassium is involved in nerve impulse generation."},
+{"text": "Affects neuromuscular activity", "feedback": "Correct! Potassium is essential for neuromuscular function."},
+{"text": "Cell membrane potentials formation", "feedback": "Correct! Potassium is the major intracellular cation and contributes to membrane potential."},
+{"text": "Takes part in lipid transport", "feedback": "Incorrect. Potassium is not involved in lipid transport."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 195,
+"question": "The main reasons of hyperkalaemia are:",
+"options": [
+{"text": "Haemolytic crisis", "feedback": "Correct! Hemolysis releases intracellular potassium."},
+{"text": "Metabolic acidosis", "feedback": "Correct! Acidosis shifts potassium out of cells."},
+{"text": "Shock", "feedback": "Correct! Shock can cause hyperkalemia due to tissue damage."},
+{"text": "Hyperemesis", "feedback": "Incorrect. Vomiting causes hypokalemia."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 196,
+"question": "Clinical signs of hyperkalaemia are:",
+"options": [
+{"text": "Vision disturbances", "feedback": "Incorrect. Vision disturbances are not typical."},
+{"text": "Paralysis", "feedback": "Correct! Hyperkalemia can cause muscle weakness and paralysis."},
+{"text": "Myocardial function impairment", "feedback": "Correct! Hyperkalemia causes cardiac arrhythmias."},
+{"text": "Gastrointestinal tract function impairment", "feedback": "Correct! Hyperkalemia can cause nausea and vomiting."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 197,
+"question": "Serum ionized calcium concentration is influenced by:",
+"options": [
+{"text": "pH", "feedback": "Correct! pH affects calcium binding to albumin; acidosis increases ionized calcium."},
+{"text": "Plasma triglycerides level", "feedback": "Incorrect. Triglycerides do not affect ionized calcium."},
+{"text": "Plasma potassium level", "feedback": "Incorrect. Potassium does not directly affect ionized calcium."},
+{"text": "Plasma sodium level", "feedback": "Incorrect. Sodium does not directly affect ionized calcium."},
+{"text": "Plasma chloride level", "feedback": "Incorrect. Chloride does not directly affect ionized calcium."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 198,
+"question": "The main reasons of hypercalcaemia are:",
+"options": [
+{"text": "Vitamin D deficiency", "feedback": "Incorrect. Vitamin D deficiency causes hypocalcemia."},
+{"text": "Rickets", "feedback": "Incorrect. Rickets causes hypocalcemia."},
+{"text": "Parathyroid adenoma", "feedback": "Correct! Parathyroid adenoma causes hyperparathyroidism and hypercalcemia."},
+{"text": "Administration of digitalis", "feedback": "Incorrect. Digitalis does not cause hypercalcemia."},
+{"text": "Nephrotic syndrome", "feedback": "Incorrect. Nephrotic syndrome does not cause hypercalcemia."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 199,
+"question": "Physiological functions of phosphorus are:",
+"options": [
+{"text": "Formation of energy rich bonds", "feedback": "Correct! Phosphorus is part of ATP and other high-energy compounds."},
+{"text": "Transport of glucose", "feedback": "Incorrect. Glucose transport does not require phosphorus directly."},
+{"text": "Takes part in bone formation", "feedback": "Correct! Phosphorus is essential for bone formation (hydroxyapatite)."},
+{"text": "Takes part in protein exchange", "feedback": "Incorrect. Protein exchange does not directly involve phosphorus."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 200,
+"question": "The reasons of hypochloridaemia are:",
+"options": [
+{"text": "Myocardial infarction", "feedback": "Incorrect. MI does not cause hypochloridemia."},
+{"text": "Diabetic ketoacidosis", "feedback": "Incorrect. DKA may cause hyperchloremia."},
+{"text": "Chronic diarrhea", "feedback": "Correct! Diarrhea causes loss of chloride."},
+{"text": "Renal failure", "feedback": "Incorrect. Renal failure can cause hyperchloremia."}
+],
+"correctAnswerIndex": 2
+}
+]

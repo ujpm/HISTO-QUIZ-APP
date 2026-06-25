@@ -1,0 +1,1101 @@
+[
+{
+"id": 1,
+"question": "Which of the following is considered a lipid?",
+"options": [
+{"text": "Chylomicrons", "feedback": "Incorrect. Chylomicrons are lipoproteins that transport lipids, but they are not themselves classified as a simple lipid."},
+{"text": "LDL", "feedback": "Incorrect. LDL is a lipoprotein that transports cholesterol, not a lipid itself."},
+{"text": "Cholesterol", "feedback": "Correct! Cholesterol is a sterol and is classified as a lipid."},
+{"text": "HDL", "feedback": "Incorrect. HDL is a lipoprotein that transports cholesterol, not a lipid itself."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 2,
+"question": "Which of the following lipoproteins is the smallest of all the lipoproteins and is composed of 50% protein?",
+"options": [
+{"text": "HDL", "feedback": "Correct! HDL is the smallest lipoprotein and has the highest protein content (approximately 50%)."},
+{"text": "Chylomicrons", "feedback": "Incorrect. Chylomicrons are the largest lipoproteins with the lowest protein content."},
+{"text": "LDL", "feedback": "Incorrect. LDL is smaller than chylomicrons but larger than HDL, with about 25% protein."},
+{"text": "Triglycerides", "feedback": "Incorrect. Triglycerides are not lipoproteins; they are lipid molecules."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 3,
+"question": "Which of the following enzymes is found bound to HDL and LDL in blood plasma and acts to convert free cholesterol into cholesteryl esters?",
+"options": [
+{"text": "Lipoprotein lipase", "feedback": "Incorrect. Lipoprotein lipase hydrolyzes triglycerides."},
+{"text": "Hepatic lipase", "feedback": "Incorrect. Hepatic lipase hydrolyzes triglycerides and phospholipids."},
+{"text": "Lecithin-cholesterol acyltransferase (LCAT)", "feedback": "Correct! LCAT is associated with HDL and LDL and converts free cholesterol to cholesteryl esters."},
+{"text": "Cholesterol ester transfer protein (CETP)", "feedback": "Incorrect. CETP transfers cholesteryl esters between lipoproteins, but does not catalyze their formation."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 4,
+"question": "According to the National Cholesterol Education Program, which lipid or lipoprotein class is more important for therapeutic decision making (diet and medication decisions)?",
+"options": [
+{"text": "Chylomicrons", "feedback": "Incorrect. Chylomicrons are not the primary focus for therapeutic decisions in dyslipidemia."},
+{"text": "LDL", "feedback": "Correct! LDL cholesterol is the primary target for therapeutic decision making regarding diet and medication."},
+{"text": "HDL", "feedback": "Incorrect. While HDL is important, LDL is the primary target for therapy."},
+{"text": "Cholesterol", "feedback": "Incorrect. Total cholesterol is less specific than LDL for therapeutic decisions."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 5,
+"question": "A patient sample is assayed for fasting triglycerides and a triglyceride value of 1036 mg/dL. This value is of immediate concern because of its association with which of the following conditions?",
+"options": [
+{"text": "Coronary heart disease", "feedback": "Incorrect. While elevated triglycerides increase CHD risk, the immediate concern at this level is pancreatitis."},
+{"text": "Diabetes", "feedback": "Incorrect. Diabetes is associated with hypertriglyceridemia, but the immediate concern for such high levels is pancreatitis."},
+{"text": "Pancreatitis", "feedback": "Correct! Severe hypertriglyceridemia (>1000 mg/dL) is a major risk factor for acute pancreatitis."},
+{"text": "Gout", "feedback": "Incorrect. Gout is associated with hyperuricemia, not hypertriglyceridemia directly."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 6,
+"question": "Sucrose is considered a disaccharide that on hydrolysis yields which of the following sugars?",
+"options": [
+{"text": "Glucose", "feedback": "Incorrect. Glucose is only one of the products; sucrose yields two monosaccharides."},
+{"text": "Galactose and glucose", "feedback": "Incorrect. This is the product of lactose hydrolysis."},
+{"text": "Glucose and fructose", "feedback": "Correct! Sucrose (table sugar) is hydrolyzed to glucose and fructose."},
+{"text": "Fructose", "feedback": "Incorrect. Fructose is only one of the products."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 7,
+"question": "Laboratory tests are performed for a postmenopausal, 57-year-old woman as part of an annual physical examination. The patient's random serum glucose is 220 mg/dL, and the glycated hemoglobin (HbA1c) is 11%. Based on this information, this patient would mostly likely be classified as:",
+"options": [
+{"text": "Normal", "feedback": "Incorrect. Both glucose and HbA1c are markedly elevated."},
+{"text": "Impaired", "feedback": "Incorrect. The values exceed the criteria for impaired glucose status."},
+{"text": "Having type 1 diabetes", "feedback": "Incorrect. Type 1 diabetes typically presents in younger patients with acute symptoms; type 2 is more likely in this age group."},
+{"text": "Having type 2 diabetes", "feedback": "Correct! The random glucose >200 mg/dL and HbA1c ≥6.5% are diagnostic of diabetes, and type 2 is more common in postmenopausal women."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 8,
+"question": "Which of the biochemical processes below is promoted by insulin?",
+"options": [
+{"text": "Glycogenolysis", "feedback": "Incorrect. Insulin inhibits glycogenolysis (breakdown of glycogen)."},
+{"text": "Gluconeogenesis", "feedback": "Incorrect. Insulin inhibits gluconeogenesis (synthesis of glucose)."},
+{"text": "Esterification of cholesterol", "feedback": "Incorrect. Insulin promotes lipid storage but not directly cholesterol esterification."},
+{"text": "Uptake of glucose by the cells", "feedback": "Correct! Insulin promotes glucose uptake by cells via GLUT4 translocation."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 9,
+"question": "At what serum glucose concentration would glucose begin to appear in the urine?",
+"options": [
+{"text": "50 mg/dL", "feedback": "Incorrect. This is below the normal fasting range and too low."},
+{"text": "75 mg/dL", "feedback": "Incorrect. This is within the normal fasting range."},
+{"text": "100 mg/dL", "feedback": "Incorrect. This is at the upper end of normal fasting but below the renal threshold."},
+{"text": "170 mg/dL", "feedback": "Correct! The renal threshold for glucose is approximately 160-180 mg/dL (often cited as 170-180 mg/dL)."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 10,
+"question": "Which of the following laboratory tests is the best marker to detect patients with diabetes who are at risk for developing diabetic nephropathy?",
+"options": [
+{"text": "Creatinine", "feedback": "Incorrect. Creatinine rises later in renal dysfunction, not an early marker."},
+{"text": "BUN", "feedback": "Incorrect. BUN rises later in renal dysfunction, not an early marker."},
+{"text": "Microalbuminuria test", "feedback": "Correct! Microalbuminuria is the earliest marker of diabetic nephropathy."},
+{"text": "Glucose", "feedback": "Incorrect. Glucose reflects glycemic control, not renal damage."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 11,
+"question": "Which of the following hemoglobin A1c results represents an impaired state according to the American Diabetes Association?",
+"options": [
+{"text": "4.5%", "feedback": "Incorrect. This is within the normal range (<5.7%)."},
+{"text": "5.5%", "feedback": "Incorrect. This is within the normal range (<5.7%)."},
+{"text": "6.0%", "feedback": "Correct! HbA1c of 5.7-6.4% indicates prediabetes (impaired state)."},
+{"text": "6.5%", "feedback": "Incorrect. This is diagnostic of diabetes mellitus."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 12,
+"question": "A 62-year-old patient presents to the physician with report of increased thirst and increased urination, particularly at night. The physician requests a series of tests over the next few days. The following data are received: Random glucose 186 mg/dL, Fasting glucose 114 mg/dL, 2-Hour OGTT 153 mg/dL, HbA1c 5.9%. Which of the following conclusions may be made regarding these data?",
+"options": [
+{"text": "Data represents normal glucose status", "feedback": "Incorrect. The random glucose and fasting glucose are elevated."},
+{"text": "Data represents an impaired glucose status", "feedback": "Correct! The fasting glucose of 114 mg/dL (IFG: 100-125 mg/dL) and HbA1c of 5.9% (prediabetes range) indicate impaired glucose status."},
+{"text": "Data represents the presence of an insulinoma", "feedback": "Incorrect. Insulinoma would cause hypoglycemia, not hyperglycemia."},
+{"text": "Data represents the diagnosis of diabetes", "feedback": "Incorrect. Diabetes diagnosis requires fasting ≥126 mg/dL, 2-hour OGTT ≥200 mg/dL, random ≥200 mg/dL with symptoms, or HbA1c ≥6.5%."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 13,
+"question": "Which of the following renal conditions is associated with a recent group A β-hemolytic streptococcus infection?",
+"options": [
+{"text": "Kidney obstruction", "feedback": "Incorrect. Obstruction is not typically caused by streptococcal infection."},
+{"text": "Acute renal failure", "feedback": "Incorrect. While streptococcal infection can cause renal failure, the specific association is with glomerulonephritis."},
+{"text": "Uremic syndrome", "feedback": "Incorrect. Uremia is a later complication, not the initial presentation."},
+{"text": "Acute glomerulonephritis", "feedback": "Correct! Acute post-streptococcal glomerulonephritis occurs 1-2 weeks after a group A streptococcal infection."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 14,
+"question": "The kidney is responsible for acid-base balance through the removal of H+ ions via four major mechanisms. Which of the following describes one of those mechanisms?",
+"options": [
+{"text": "Reabsorption of H+ ions in the proximal convoluted tubule", "feedback": "Incorrect. The kidney secretes, not reabsorbs, H+ ions."},
+{"text": "Reaction of H+ ions with Na in the descending loop of Henle", "feedback": "Incorrect. This is not a mechanism of acid-base regulation."},
+{"text": "Reaction of H+ ions with filtered bicarbonate ions", "feedback": "Correct! H+ ions react with filtered bicarbonate (HCO3-) to form carbonic acid, which is then converted to CO2 and water, regenerating bicarbonate."},
+{"text": "Reaction of H+ ions with ADH in the collecting ducts", "feedback": "Incorrect. ADH regulates water, not acid-base balance."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 15,
+"question": "An increased osmole gap is most commonly seen in which of the following?",
+"options": [
+{"text": "Type 2 diabetes", "feedback": "Incorrect. Type 2 diabetes may cause hyperosmolarity but not typically an increased osmole gap."},
+{"text": "Pancreatitis", "feedback": "Incorrect. Pancreatitis does not typically cause an increased osmole gap."},
+{"text": "Presence of toxins such as ethanol and ethylene glycol", "feedback": "Correct! An increased osmole gap is commonly seen with ingestion of toxins like ethanol, methanol, ethylene glycol, or isopropanol."},
+{"text": "Liver failure", "feedback": "Incorrect. Liver failure does not typically cause an increased osmole gap."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 16,
+"question": "In which of the following disease states would you see an elevation in total bilirubin and conjugated bilirubin only?",
+"options": [
+{"text": "Biliary obstruction", "feedback": "Correct! Biliary obstruction causes conjugated (direct) bilirubin to rise, as it cannot be excreted into the bile, leading to elevated total and direct bilirubin."},
+{"text": "Hemolysis", "feedback": "Incorrect. Hemolysis causes elevation of unconjugated (indirect) bilirubin."},
+{"text": "Neonatal jaundice", "feedback": "Incorrect. Neonatal jaundice is primarily unconjugated hyperbilirubinemia."},
+{"text": "Hepatitis", "feedback": "Incorrect. Hepatitis elevates both conjugated and unconjugated bilirubin."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 17,
+"question": "Which of the following analytes is the best indicator of hepatobiliary damage?",
+"options": [
+{"text": "AST", "feedback": "Incorrect. AST is a marker of hepatocellular damage, but less specific than ALT."},
+{"text": "ALT", "feedback": "Incorrect. ALT is more specific for hepatocellular damage."},
+{"text": "ALP", "feedback": "Correct! Alkaline phosphatase (ALP) is the best indicator of hepatobiliary (biliary tract) damage, as it is concentrated in bile duct epithelium."},
+{"text": "Bilirubin", "feedback": "Incorrect. Bilirubin indicates cholestasis but is not as specific for hepatobiliary damage as ALP."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 18,
+"question": "To maintain electrical neutrality in the red blood cell, bicarbonate leaves the red blood cell and enters the plasma through an exchange mechanism with which of the following?",
+"options": [
+{"text": "TCO2", "feedback": "Incorrect. TCO2 is total carbon dioxide content, not a transport ion."},
+{"text": "Sodium", "feedback": "Incorrect. Sodium is not exchanged with bicarbonate in RBCs."},
+{"text": "Chloride", "feedback": "Correct! The chloride shift (Hamburger effect) involves bicarbonate leaving the RBC in exchange for chloride entering."},
+{"text": "Phosphate", "feedback": "Incorrect. Phosphate is not exchanged with bicarbonate in this context."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 19,
+"question": "Which of the following hormones does not promote an increase in blood glucose levels?",
+"options": [
+{"text": "Growth hormone", "feedback": "Incorrect. Growth hormone increases blood glucose (anti-insulin effect)."},
+{"text": "Cortisol", "feedback": "Incorrect. Cortisol increases blood glucose (gluconeogenesis)."},
+{"text": "Glucagon", "feedback": "Incorrect. Glucagon increases blood glucose."},
+{"text": "Insulin", "feedback": "Correct! Insulin decreases blood glucose levels."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 20,
+"question": "Which test may be performed to assess the average plasma glucose level that an individual maintained during a previous 2- to 3-month period?",
+"options": [
+{"text": "Plasma glucose", "feedback": "Incorrect. Plasma glucose reflects the current level."},
+{"text": "Two-hour postprandial glucose", "feedback": "Incorrect. This reflects glucose handling after a meal."},
+{"text": "Oral glucose tolerance", "feedback": "Incorrect. OGTT assesses glucose handling."},
+{"text": "Glycated hemoglobin", "feedback": "Correct! HbA1c reflects average blood glucose over the previous 2-3 months."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 21,
+"question": "An endogenous substance assayed to assess the glomerular filtration rate may be described as being filtered by the glomeruli, not reabsorbed by the tubules, and only secreted by the tubules when plasma levels become elevated. What is this frequently assayed substance?",
+"options": [
+{"text": "Inulin", "feedback": "Incorrect. Inulin is exogenous, not endogenous."},
+{"text": "Uric acid", "feedback": "Incorrect. Uric acid is reabsorbed and secreted, not ideal for GFR."},
+{"text": "Creatinine", "feedback": "Correct! Creatinine is freely filtered, not reabsorbed, and minimally secreted (more secretion occurs at elevated levels), making it the most commonly used endogenous GFR marker."},
+{"text": "Urea", "feedback": "Incorrect. Urea is reabsorbed, so it is not ideal for GFR."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 22,
+"question": "The physician determined that the patient needed an oral glucose tolerance test (OGTT) to assist in diagnosis. The patient had blood drawn for the OGTT, and the following serum glucose results were obtained. Fasting serum glucose 124 mg/dL, 2-hour postload serum glucose 227 mg/dL. These results are indicative of what state?",
+"options": [
+{"text": "Normal", "feedback": "Incorrect. Both values exceed normal limits."},
+{"text": "Diabetes mellitus", "feedback": "Correct! Fasting ≥126 mg/dL and 2-hour OGTT ≥200 mg/dL are diagnostic of diabetes mellitus."},
+{"text": "Addison disease", "feedback": "Incorrect. Addison's disease causes hypoglycemia, not hyperglycemia."},
+{"text": "Hyperinsulinism", "feedback": "Incorrect. Hyperinsulinism causes hypoglycemia."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 23,
+"question": "In gout, what analyte deposits in joints and other body tissues?",
+"options": [
+{"text": "Calcium", "feedback": "Incorrect. Calcium deposits are seen in conditions like pseudogout."},
+{"text": "Creatinine", "feedback": "Incorrect. Creatinine is not deposited in tissues."},
+{"text": "Urea", "feedback": "Incorrect. Urea is not deposited in tissues."},
+{"text": "Uric acid", "feedback": "Correct! Uric acid crystals (monosodium urate) deposit in joints and other tissues in gout."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 24,
+"question": "Which of the following blood gas disorders is most commonly associated with an abnormal anion gap?",
+"options": [
+{"text": "Metabolic acidosis", "feedback": "Correct! Metabolic acidosis is often associated with an increased anion gap (e.g., DKA, lactic acidosis, renal failure)."},
+{"text": "Metabolic alkalosis", "feedback": "Incorrect. Metabolic alkalosis typically has a normal anion gap."},
+{"text": "Respiratory acidosis", "feedback": "Incorrect. Respiratory acidosis does not affect the anion gap."},
+{"text": "Respiratory alkalosis", "feedback": "Incorrect. Respiratory alkalosis does not affect the anion gap."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 25,
+"question": "A 42-year-old woman presents to her physician with truncal obesity, bruising, hypertension, hyperglycemia, and increased facial hair. The physician suspects an endocrine disturbance. Significant test results are as follows: TSH 3.0 mU/mL, FT4 1.0 ng/dL, Glucose 90 mg/dL, Serum cortisol (8 AM) 45 mg/dL, Plasma ACTH (8 AM) 152 pg/mL, Urine free cortisol Increased, Dexamethasone suppression tests: Overnight 300 nmol/L, High dose >50% suppression. What is the most probable condition?",
+"options": [
+{"text": "Pituitary tumor", "feedback": "Correct! The high ACTH with high cortisol and suppression with high-dose dexamethasone (>50%) indicates pituitary Cushing's disease (pituitary tumor)."},
+{"text": "Addison's disease", "feedback": "Incorrect. Addison's disease causes low cortisol, not high."},
+{"text": "Adrenal adenoma", "feedback": "Incorrect. Adrenal adenoma would have low ACTH (suppressed) and cortisol not suppressed by dexamethasone."},
+{"text": "Ectopic ACTH production", "feedback": "Incorrect. Ectopic ACTH production typically does not suppress with high-dose dexamethasone."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 26,
+"question": "You will NOT find a cell wall in which of these kinds of organisms?",
+"options": [
+{"text": "Bacteria", "feedback": "Incorrect. Bacteria have cell walls (peptidoglycan)."},
+{"text": "Fungi", "feedback": "Incorrect. Fungi have cell walls (chitin)."},
+{"text": "Plants", "feedback": "Incorrect. Plants have cell walls (cellulose)."},
+{"text": "Animals", "feedback": "Correct! Animal cells do not have cell walls; they have a cell membrane."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 27,
+"question": "What does the term hydrophilic mean when it is translated literally?",
+"options": [
+{"text": "Oil loving", "feedback": "Incorrect. Oil loving is lipophilic or hydrophobic."},
+{"text": "Water loving", "feedback": "Correct! Hydrophilic literally means 'water loving'."},
+{"text": "Oil fearing", "feedback": "Incorrect. Oil fearing is lipophobic."},
+{"text": "Water fearing", "feedback": "Incorrect. Water fearing is hydrophobic."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 28,
+"question": "If a solution surrounding the cell is hypotonic relative to the inside of the cell, how will water move?",
+"options": [
+{"text": "It will move into the cell via osmosis", "feedback": "Correct! Water moves from a hypotonic (lower solute concentration) environment into the hypertonic (higher solute concentration) cell interior."},
+{"text": "It will move out of the cell via osmosis", "feedback": "Incorrect. Water moves into the cell, not out."},
+{"text": "It will not move, because equilibrium exists", "feedback": "Incorrect. Equilibrium does not exist; there is a concentration gradient."},
+{"text": "It will evaporate from the cell surface rapidly", "feedback": "Incorrect. Evaporation is not the mechanism in a liquid environment."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 29,
+"question": "If a solution surrounding the cell is hypertonic relative to the inside of the cell how will water move?",
+"options": [
+{"text": "It will move into the cell via Osmosis", "feedback": "Incorrect. Water moves out of the cell, not into it."},
+{"text": "It will move out of the cell via osmosis", "feedback": "Correct! Water moves from the hypotonic cell interior to the hypertonic external solution."},
+{"text": "It will not move, because equilibrium exists", "feedback": "Incorrect. Equilibrium does not exist."},
+{"text": "It will evaporate from the cell surface more rapidly", "feedback": "Incorrect. Evaporation is not the mechanism."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 30,
+"question": "An animal cell that is surrounded by fresh water will burst because the osmotic pressure causes",
+"options": [
+{"text": "water to move into the cell.", "feedback": "Correct! Fresh water is hypotonic to the cell, so water enters the cell, causing it to swell and burst (lysis)."},
+{"text": "water to move out of the cell.", "feedback": "Incorrect. Water moves into the cell."},
+{"text": "solutes to move into the cell.", "feedback": "Incorrect. Osmosis involves water movement, not solute movement."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 31,
+"question": "Which means of particle transport requires input of energy from the cell?",
+"options": [
+{"text": "Diffusion", "feedback": "Incorrect. Diffusion is passive and does not require energy."},
+{"text": "Osmosis", "feedback": "Incorrect. Osmosis is passive and does not require energy."},
+{"text": "Facilitated diffusion", "feedback": "Incorrect. Facilitated diffusion is passive and does not require energy."},
+{"text": "Active transport", "feedback": "Correct! Active transport requires energy (ATP) to move particles against a concentration gradient."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 32,
+"question": "Which means of particle transport is shown in Figure 7-4 above? (Figure shows a carrier protein facilitating movement of molecules across a membrane from high to low concentration)",
+"options": [
+{"text": "Diffusion", "feedback": "Incorrect. Diffusion does not involve a carrier protein."},
+{"text": "Osmosis", "feedback": "Incorrect. Osmosis involves water movement through aquaporins, not carrier proteins for solutes."},
+{"text": "Facilitated diffusion", "feedback": "Correct! Facilitated diffusion uses carrier proteins to move molecules down their concentration gradient without energy."},
+{"text": "Active transport", "feedback": "Incorrect. Active transport requires energy and moves molecules against the concentration gradient."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 33,
+"question": "In which of the following disease states would you see an elevation in total bilirubin and conjugated bilirubin only?",
+"options": [
+{"text": "Biliary obstruction", "feedback": "Correct! Biliary obstruction causes conjugated (direct) bilirubin to rise as it cannot be excreted, leading to elevated total and direct bilirubin."},
+{"text": "Hemolysis", "feedback": "Incorrect. Hemolysis causes elevation of unconjugated (indirect) bilirubin."},
+{"text": "Neonatal jaundice", "feedback": "Incorrect. Neonatal jaundice is primarily unconjugated hyperbilirubinemia."},
+{"text": "Hepatitis", "feedback": "Incorrect. Hepatitis elevates both conjugated and unconjugated bilirubin."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 34,
+"question": "In which of the following conditions does no activity of glucuronyl transferase result in increased unconjugated bilirubin and kernicterus in neonates and eventual death within 18 months?",
+"options": [
+{"text": "Gilbert's disease", "feedback": "Incorrect. Gilbert's disease is a mild reduction in UDPGT activity, not absent."},
+{"text": "Dubin-Johnson syndrome", "feedback": "Incorrect. Dubin-Johnson syndrome involves conjugated bilirubin (defective excretion)."},
+{"text": "Crigler-Najjar syndrome", "feedback": "Correct! Crigler-Najjar syndrome type I has complete absence of UDPGT activity, leading to severe unconjugated hyperbilirubinemia and kernicterus."},
+{"text": "Intravascular hemolysis", "feedback": "Incorrect. Hemolysis increases production of unconjugated bilirubin, but glucuronyl transferase activity is normal."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 35,
+"question": "As a reduction product of bilirubin catabolism, this compound is partially reabsorbed from the intestines through the portal circulation for reexcretion by the liver. What is this compound?",
+"options": [
+{"text": "Urobilinogen", "feedback": "Correct! Urobilinogen is formed by bacterial reduction of bilirubin in the intestine and is partially reabsorbed via enterohepatic circulation."},
+{"text": "Azobilirubin", "feedback": "Incorrect. Azobilirubin is a product of the diazo reaction."},
+{"text": "Biliverdin", "feedback": "Incorrect. Biliverdin is an intermediate in heme degradation, formed before bilirubin."},
+{"text": "Urobilin", "feedback": "Incorrect. Urobilin is the oxidized form of urobilinogen, found in feces."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 36,
+"question": "In the liver, bilirubin is conjugated in the presence of which of the following?",
+"options": [
+{"text": "β-Glucuronidase", "feedback": "Incorrect. β-Glucuronidase hydrolyzes conjugated bilirubin, reversing the conjugation."},
+{"text": "Bilirubin oxidase", "feedback": "Incorrect. Bilirubin oxidase oxidizes bilirubin, not conjugates it."},
+{"text": "Uridine diphosphate (UDPGT)-glucuronyl transferase", "feedback": "Correct! UDP-glucuronyl transferase catalyzes the conjugation of bilirubin with glucuronic acid."},
+{"text": "Peroxidase", "feedback": "Incorrect. Peroxidase is not involved in bilirubin conjugation."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 37,
+"question": "Hepatocellular damage may be best assessed by which of the following parameters?",
+"options": [
+{"text": "Serum AST and ALT levels", "feedback": "Correct! AST and ALT are sensitive indicators of hepatocellular injury, with ALT being more specific."},
+{"text": "GGT and ALP", "feedback": "Incorrect. GGT and ALP are indicators of biliary/hepatobiliary damage."},
+{"text": "Bilirubin, GGT, and ALP", "feedback": "Incorrect. These are indicators of cholestasis/hepatobiliary damage."},
+{"text": "Ammonia and urea", "feedback": "Incorrect. These reflect liver synthetic function and detoxification, not acute hepatocellular injury."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 38,
+"question": "Which of the following conditions is caused by deficient secretion of bilirubin into the bile canaliculi?",
+"options": [
+{"text": "Gilbert's disease", "feedback": "Incorrect. Gilbert's disease is due to reduced UDPGT activity."},
+{"text": "Physiologic jaundice of the newborn", "feedback": "Incorrect. This is due to immature UDPGT activity."},
+{"text": "Dubin-Johnson syndrome", "feedback": "Correct! Dubin-Johnson syndrome is caused by defective transport of conjugated bilirubin into the bile canaliculi."},
+{"text": "Hemolytic jaundice", "feedback": "Incorrect. Hemolytic jaundice is due to increased bilirubin production."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 39,
+"question": "Which of the following enzymes is responsible for the conjugation of bilirubin?",
+"options": [
+{"text": "Biliverdin reductase", "feedback": "Incorrect. Biliverdin reductase converts biliverdin to bilirubin."},
+{"text": "Peroxidase", "feedback": "Incorrect. Peroxidase is not involved in bilirubin conjugation."},
+{"text": "(UDPGT)-glucuronyl transferase", "feedback": "Correct! UDP-glucuronyl transferase conjugates bilirubin with glucuronic acid."},
+{"text": "β-Glucuronidase", "feedback": "Incorrect. β-Glucuronidase hydrolyzes conjugated bilirubin."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 40,
+"question": "Which of the following analytes is the best indicator of hepatobiliary damage?",
+"options": [
+{"text": "AST", "feedback": "Incorrect. AST is a marker of hepatocellular damage."},
+{"text": "ALT", "feedback": "Incorrect. ALT is more specific for hepatocellular damage."},
+{"text": "ALP", "feedback": "Correct! Alkaline phosphatase (ALP) is the best indicator of hepatobiliary (biliary tract) damage."},
+{"text": "Bilirubin", "feedback": "Incorrect. Bilirubin indicates cholestasis but is not as specific for hepatobiliary damage as ALP."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 41,
+"question": "Which of the following fractions of bilirubin in high concentrations is associated with kernicterus in newborns?",
+"options": [
+{"text": "Conjugated bilirubin", "feedback": "Incorrect. Conjugated bilirubin is water-soluble and does not cross the blood-brain barrier."},
+{"text": "Unconjugated bilirubin", "feedback": "Correct! Unconjugated bilirubin is fat-soluble and can cross the blood-brain barrier, causing kernicterus in neonates."},
+{"text": "Delta bilirubin", "feedback": "Incorrect. Delta bilirubin is conjugated bilirubin bound to albumin and does not cross the BBB."},
+{"text": "Total bilirubin", "feedback": "Incorrect. Total bilirubin includes all fractions, but the specific fraction causing kernicterus is unconjugated."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 42,
+"question": "The characteristic laboratory finding in alcoholic cirrhosis includes:",
+"options": [
+{"text": "Moderate elevations in AST and ALT, normal GGT, and normal ALP", "feedback": "Incorrect. Alcoholic cirrhosis typically has AST > ALT, elevated GGT, and mild ALP elevation."},
+{"text": "Slight elevations in AST and ALT, marked elevations in ALP, normal GGT", "feedback": "Incorrect. This pattern is more characteristic of biliary obstruction."},
+{"text": "Slight elevations in AST, ALT, and GGT and marked elevations in 50 nucleotide disease", "feedback": "Incorrect. This is not a standard description."},
+{"text": "Slight elevations in AST and ALT (AST>ALT), marked elevations in GGT, slight elevations in ALP", "feedback": "Correct! Alcoholic cirrhosis typically shows AST > ALT (ratio >2), elevated GGT (due to enzyme induction), and slightly elevated ALP."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 43,
+"question": "Which of the following liver conditions shows an increase in both conjugated bilirubin and ALP, manifests with antimitochondrial antibodies, and shows a characteristic lipoprotein X on electrophoresis?",
+"options": [
+{"text": "Hemochromatosis", "feedback": "Incorrect. Hemochromatosis involves iron overload, not antimitochondrial antibodies."},
+{"text": "Primary biliary cirrhosis", "feedback": "Correct! Primary biliary cirrhosis is characterized by cholestasis (conjugated bilirubin, elevated ALP), antimitochondrial antibodies, and lipoprotein X."},
+{"text": "Alcoholic fatty liver", "feedback": "Incorrect. Alcoholic fatty liver does not have antimitochondrial antibodies."},
+{"text": "Hepatic tumors", "feedback": "Incorrect. Hepatic tumors do not typically present with antimitochondrial antibodies."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 44,
+"question": "Which set of results is consistent with uncompensated metabolic acidosis?",
+"options": [
+{"text": "pH 7.25, HCO3 15 mmol/L, PCO2 37 mm Hg", "feedback": "Correct! Low pH (acidemia), low HCO3 (metabolic acidosis), and normal PCO2 (no respiratory compensation) indicate uncompensated metabolic acidosis."},
+{"text": "pH 7.30, HCO3 16 mmol/L, PCO2 28 mm Hg", "feedback": "Incorrect. This shows partially compensated metabolic acidosis (low PCO2 indicates respiratory compensation)."},
+{"text": "pH 7.45, HCO3 22 mmol/L, PCO2 40 mm Hg", "feedback": "Incorrect. This is normal."},
+{"text": "pH 7.40, HCO3 25 mmol/L, PCO2 40 mm Hg", "feedback": "Incorrect. This is normal."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 45,
+"question": "A patient with emphysema who has fluid accumulation in the alveolar sacs (causing decreased ventilation) is likely to be in which of the following acid-base clinical states?",
+"options": [
+{"text": "Respiratory alkalosis", "feedback": "Incorrect. Decreased ventilation leads to CO2 retention, not loss."},
+{"text": "Respiratory acidosis", "feedback": "Correct! Decreased ventilation (hypoventilation) causes CO2 retention, leading to respiratory acidosis."},
+{"text": "Metabolic acidosis", "feedback": "Incorrect. This is primarily a respiratory problem, not metabolic."},
+{"text": "Metabolic alkalosis", "feedback": "Incorrect. This is not metabolic."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 46,
+"question": "Which of the following buffer systems is the most important physiologic buffer system in the body?",
+"options": [
+{"text": "Bicarbonate buffer system", "feedback": "Correct! The bicarbonate buffer system is the most important physiological buffer system due to its open-ended nature (ability to adjust CO2 and HCO3- via lungs and kidneys)."},
+{"text": "Phosphate buffer system", "feedback": "Incorrect. This is important intracellularly but not the most important physiologically."},
+{"text": "Protein buffer system", "feedback": "Incorrect. Proteins (like hemoglobin) are important but not the primary buffer system."},
+{"text": "Ammonia buffer system", "feedback": "Incorrect. Ammonia is involved in renal acid excretion but is not the primary buffer."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 47,
+"question": "To maintain electrical neutrality in the red blood cell, bicarbonate leaves the red blood cell and enters the plasma through an exchange mechanism with which of the following?",
+"options": [
+{"text": "TCO2", "feedback": "Incorrect. TCO2 is total carbon dioxide content, not a transport ion."},
+{"text": "Sodium", "feedback": "Incorrect. Sodium is not exchanged with bicarbonate in RBCs."},
+{"text": "Chloride", "feedback": "Correct! The chloride shift involves bicarbonate leaving the RBC in exchange for chloride entering."},
+{"text": "Phosphate", "feedback": "Incorrect. Phosphate is not exchanged with bicarbonate in this context."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 48,
+"question": "Increased PCO2 in a patient most commonly results in which of the following primary acid-base abnormalities?",
+"options": [
+{"text": "Respiratory acidosis", "feedback": "Correct! Increased PCO2 (CO2 retention) causes respiratory acidosis."},
+{"text": "Metabolic acidosis", "feedback": "Incorrect. Metabolic acidosis is characterized by low HCO3, not high PCO2."},
+{"text": "Respiratory alkalosis", "feedback": "Incorrect. Respiratory alkalosis is characterized by low PCO2."},
+{"text": "Metabolic alkalosis", "feedback": "Incorrect. Metabolic alkalosis is characterized by high HCO3."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 49,
+"question": "Which of the following changes will occur with a blood gas sample exposed to room air?",
+"options": [
+{"text": "pH increased", "feedback": "Correct! Loss of CO2 to room air increases pH (alkalemia)."},
+{"text": "PCO2 increased", "feedback": "Incorrect. PCO2 decreases as CO2 escapes to room air."},
+{"text": "pO2 decreased", "feedback": "Incorrect. pO2 increases as oxygen from room air dissolves."},
+{"text": "Ionized calcium increased", "feedback": "Incorrect. pH changes affect ionized calcium; increased pH decreases ionized calcium."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 50,
+"question": "Which of the following is the correct collection and handling for the analysis of blood gases?",
+"options": [
+{"text": "Plastic syringe, dry heparin, store on ice, assay within 1 hour", "feedback": "Correct! Plastic syringes with dry heparin are acceptable, storage on ice slows metabolism, and assay within 1 hour is standard."},
+{"text": "Glass syringe, liquid heparin, store on ice, assay within 15 minutes", "feedback": "Incorrect. Liquid heparin can dilute sample and affect results."},
+{"text": "Glass syringe, no additive, store on ice, assay within 15 minutes", "feedback": "Incorrect. Blood gases require heparin to prevent clotting."},
+{"text": "Plastic syringe, dry heparin, store at room temperature, assay within 15 minutes", "feedback": "Incorrect. Storage at room temperature allows continued metabolism, affecting results."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 51,
+"question": "An individual has a plasma glucose level of 110 mg/dL. What would be the approximate glucose concentration in this patient's cerebrospinal fluid?",
+"options": [
+{"text": "33 mg/dL", "feedback": "Incorrect. CSF glucose is about 60-70% of plasma glucose."},
+{"text": "55 mg/dL", "feedback": "Correct! CSF glucose is approximately 60-70% of plasma glucose (110 × 0.6 ≈ 66 mg/dL, but the closest option is 55 mg/dL, which is within the expected range)."},
+{"text": "70 mg/dL", "feedback": "Incorrect. This is higher than expected for CSF."},
+{"text": "110 mg/dL", "feedback": "Incorrect. CSF glucose is lower than plasma glucose."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 52,
+"question": "Which of the following hormones does not promote an increase in blood glucose levels?",
+"options": [
+{"text": "Growth hormone", "feedback": "Incorrect. Growth hormone increases blood glucose."},
+{"text": "Cortisol", "feedback": "Incorrect. Cortisol increases blood glucose."},
+{"text": "Glucagon", "feedback": "Incorrect. Glucagon increases blood glucose."},
+{"text": "Insulin", "feedback": "Correct! Insulin decreases blood glucose levels."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 53,
+"question": "Which of the following analytes would not commonly be measured when monitoring complications of diabetes mellitus?",
+"options": [
+{"text": "Serum urea nitrogen", "feedback": "Incorrect. BUN is measured to monitor renal function in diabetes."},
+{"text": "Urinary albumin", "feedback": "Incorrect. Microalbuminuria is measured to detect diabetic nephropathy."},
+{"text": "Serum creatinine", "feedback": "Incorrect. Creatinine is measured to monitor renal function."},
+{"text": "Serum bilirubin", "feedback": "Correct! Bilirubin is not commonly measured for monitoring diabetes complications; it is used for liver function assessment."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 54,
+"question": "A sample of blood is collected for glucose in a sodium fluoride tube before the patient has had breakfast. The physician calls 2 hours later and requests that determination of blood urea nitrogen (BUN) be performed on the same sample rather than obtaining another specimen. The automated analyzer in your laboratory utilizes the urease method to quantify BUN. What should you tell the physician?",
+"options": [
+{"text": "Will gladly do the test if sufficient specimen remains", "feedback": "Incorrect. Sodium fluoride inhibits urease, which would falsely lower BUN."},
+{"text": "Could do the test using a micromethod", "feedback": "Incorrect. A micromethod would not overcome the urease inhibition."},
+{"text": "Can do the BUN determination on the automated analyzer", "feedback": "Incorrect. The automated analyzer uses urease, which would be inhibited by fluoride."},
+{"text": "Cannot perform the procedure", "feedback": "Correct! Sodium fluoride inhibits urease, so BUN cannot be accurately measured on this sample."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 55,
+"question": "Which test may be performed to assess the average plasma glucose level that an individual maintained during a previous 2- to 3-month period?",
+"options": [
+{"text": "Plasma glucose", "feedback": "Incorrect. Plasma glucose reflects the current level."},
+{"text": "Two-hour postprandial glucose", "feedback": "Incorrect. This reflects glucose handling after a meal."},
+{"text": "Oral glucose tolerance", "feedback": "Incorrect. OGTT assesses glucose handling."},
+{"text": "Glycated hemoglobin", "feedback": "Correct! HbA1c reflects average blood glucose over the previous 2-3 months."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 56,
+"question": "An endogenous substance assayed to assess the glomerular filtration rate may be described as being filtered by the glomeruli, not reabsorbed by the tubules, and only secreted by the tubules when plasma levels become elevated. What is this frequently assayed substance?",
+"options": [
+{"text": "Inulin", "feedback": "Incorrect. Inulin is exogenous, not endogenous."},
+{"text": "Uric acid", "feedback": "Incorrect. Uric acid is reabsorbed and secreted."},
+{"text": "Creatinine", "feedback": "Correct! Creatinine is freely filtered, not reabsorbed, and minimally secreted (more at elevated levels)."},
+{"text": "Urea", "feedback": "Incorrect. Urea is reabsorbed."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 57,
+"question": "The physician determined that the patient needed an oral glucose tolerance test (OGTT) to assist in diagnosis. The patient had blood drawn for the OGTT, and the following serum glucose results were obtained. Fasting serum glucose 124 mg/dL, 2-hour postload serum glucose 227 mg/dL. These results are indicative of what state?",
+"options": [
+{"text": "Normal", "feedback": "Incorrect. Both values exceed normal limits."},
+{"text": "Diabetes mellitus", "feedback": "Correct! Fasting ≥126 mg/dL and 2-hour OGTT ≥200 mg/dL are diagnostic of diabetes."},
+{"text": "Addison disease", "feedback": "Incorrect. Addison's causes hypoglycemia."},
+{"text": "Hyperinsulinism", "feedback": "Incorrect. Hyperinsulinism causes hypoglycemia."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 58,
+"question": "A 30-year-old pregnant woman has a gestational diabetes mellitus screening test performed at 26 weeks of gestation. Her physician chooses to order a 50-g oral glucose load. Her serum glucose level is 150 mg/dL at 1 hour. What should occur next?",
+"options": [
+{"text": "This confirms diabetes mellitus; give insulin.", "feedback": "Incorrect. The 50-g screening test is not diagnostic."},
+{"text": "This confirms diabetes mellitus; dietary intake of carbohydrates should be lessened.", "feedback": "Incorrect. The screening test is not diagnostic."},
+{"text": "This is suspicious of diabetes mellitus; an oral glucose tolerance test should be performed.", "feedback": "Correct! A 1-hour glucose ≥140 mg/dL after a 50-g screen is abnormal and warrants a diagnostic 100-g OGTT."},
+{"text": "This is an expected glucose level in a pregnant woman.", "feedback": "Incorrect. A 1-hour glucose ≥140 mg/dL is abnormal."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 59,
+"question": "Which of the following disorders is best characterized by laboratory findings that include increased serum levels of inorganic phosphorus, magnesium, potassium, uric acid, urea, and creatinine and decreased serum calcium and erythropoietin levels?",
+"options": [
+{"text": "Chronic renal failure", "feedback": "Correct! Chronic renal failure presents with retention of urea, creatinine, phosphorus, magnesium, potassium, uric acid, and decreased calcium (due to impaired vitamin D activation) and decreased erythropoietin (causing anemia)."},
+{"text": "Renal tubular disease", "feedback": "Incorrect. Tubular disease causes specific electrolyte wasting, not the global pattern seen here."},
+{"text": "Nephrotic syndrome", "feedback": "Incorrect. Nephrotic syndrome presents with proteinuria, hypoalbuminemia, and edema."},
+{"text": "Acute glomerulonephritis", "feedback": "Incorrect. Acute glomerulonephritis may show hematuria, proteinuria, and mild azotemia, but not the full pattern."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 60,
+"question": "In gout, what analyte deposits in joints and other body tissues?",
+"options": [
+{"text": "Calcium", "feedback": "Incorrect. Calcium deposits are seen in pseudogout."},
+{"text": "Creatinine", "feedback": "Incorrect. Creatinine is not deposited."},
+{"text": "Urea", "feedback": "Incorrect. Urea is not deposited."},
+{"text": "Uric acid", "feedback": "Correct! Uric acid crystals deposit in joints in gout."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 61,
+"question": "Which of the following sets of blood gas data is considered normal?",
+"options": [
+{"text": "pH 7.33, HCO3 18 mmol/L, pCO2 32 mm Hg", "feedback": "Incorrect. This shows acidemia with low HCO3 and low PCO2, indicating compensated metabolic acidosis."},
+{"text": "pH 7.30, HCO3 16 mmol/L, pCO2 28 mm Hg", "feedback": "Incorrect. This shows acidemia with low HCO3 and low PCO2, indicating compensated metabolic acidosis."},
+{"text": "pH 7.45, HCO3 22 mmol/L, pCO2 40 mm Hg", "feedback": "Incorrect. While pH is slightly high, HCO3 and PCO2 are normal; this may be mild alkalemia."},
+{"text": "pH 7.40, HCO3 25 mmol/L, pCO2 40 mm Hg", "feedback": "Correct! Normal pH (7.35-7.45), normal HCO3 (22-26 mmol/L), and normal PCO2 (35-45 mm Hg)."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 62,
+"question": "Which of the following values would be seen in uncompensated metabolic acidosis?",
+"options": [
+{"text": "pH 7.38", "feedback": "Incorrect. This is a normal pH."},
+{"text": "pCO2 52 mm Hg", "feedback": "Incorrect. Elevated PCO2 indicates respiratory acidosis, not metabolic."},
+{"text": "HCO3 15 mmol/L", "feedback": "Correct! Uncompensated metabolic acidosis is characterized by low HCO3 and low pH; this option shows low HCO3."},
+{"text": "pH 7.53", "feedback": "Incorrect. This indicates alkalemia."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 63,
+"question": "Which of the following blood gas disorders is most commonly associated with an abnormal anion gap?",
+"options": [
+{"text": "Metabolic acidosis", "feedback": "Correct! Metabolic acidosis is often associated with an increased anion gap (e.g., DKA, lactic acidosis, renal failure)."},
+{"text": "Metabolic alkalosis", "feedback": "Incorrect. Metabolic alkalosis typically has a normal anion gap."},
+{"text": "Respiratory acidosis", "feedback": "Incorrect. Respiratory acidosis does not affect the anion gap."},
+{"text": "Respiratory alkalosis", "feedback": "Incorrect. Respiratory alkalosis does not affect the anion gap."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 64,
+"question": "Which of the following statements best describes the predominant feedback system associated with endocrinology?",
+"options": [
+{"text": "Decreased levels of circulating hormones directly result in the production of hormone from the target organ", "feedback": "Incorrect. Target organs respond to hormones; they do not produce the primary hormone in this feedback loop."},
+{"text": "Increased circulating levels of hormones directly result in the production of releasing factor from the hypothalamus", "feedback": "Incorrect. Increased hormone levels inhibit releasing factor production (negative feedback)."},
+{"text": "Increased circulating levels of hormones directly result in the production of inhibiting factor from the hypothalamus", "feedback": "Incorrect. While this describes part of the feedback, negative feedback primarily inhibits the release of tropic hormones."},
+{"text": "Normal levels of circulating hormones directly result in the production of hormone from the target organ", "feedback": "Incorrect. Normal levels of hormone do not directly stimulate target organ hormone production; target organs produce hormones in response to stimulation from tropic hormones."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 65,
+"question": "The following laboratory results are from a 54-year-old woman complaining of weight gain, intolerance to heat, fatigue, and not being able to stay awake. TSH 7.2 mU/mL, FT4 1.0 ng/dL. Which of the following conditions best fits with the history and data?",
+"options": [
+{"text": "Hyperthyroidism", "feedback": "Incorrect. Hyperthyroidism would have low TSH and high FT4."},
+{"text": "Cushing's syndrome", "feedback": "Incorrect. Cushing's syndrome would have elevated cortisol."},
+{"text": "Hyperaldosteronism", "feedback": "Incorrect. Hyperaldosteronism would have altered sodium/potassium."},
+{"text": "Hypothyroidism", "feedback": "Correct! High TSH with low FT4 (free thyroxine) is diagnostic of primary hypothyroidism. Symptoms include weight gain, fatigue, and cold intolerance."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 66,
+"question": "A 42-year-old woman presents to her physician with truncal obesity, bruising, hypertension, hyperglycemia, and increased facial hair. The physician suspects an endocrine disturbance. Significant test results are as follows: TSH 3.0 mU/mL, FT4 1.0 ng/dL, Glucose 90 mg/dL, Serum cortisol (8 AM) 45 mg/dL, Plasma ACTH (8 AM) 152 pg/mL, Urine free cortisol Increased, Dexamethasone suppression tests: Overnight 300 nmol/L, High dose >50% suppression. What is the most probable condition?",
+"options": [
+{"text": "Pituitary tumor", "feedback": "Correct! The high ACTH with high cortisol and suppression with high-dose dexamethasone (>50%) indicates pituitary Cushing's disease (pituitary tumor)."},
+{"text": "Addison's disease", "feedback": "Incorrect. Addison's disease causes low cortisol."},
+{"text": "Adrenal adenoma", "feedback": "Incorrect. Adrenal adenoma has low ACTH and cortisol not suppressible by dexamethasone."},
+{"text": "Ectopic ACTH production", "feedback": "Incorrect. Ectopic ACTH typically does not suppress with high-dose dexamethasone."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 67,
+"question": "The most commonly used challenge test to assist in evaluating a potential growth hormone deficiency is the:",
+"options": [
+{"text": "Insulin challenge test", "feedback": "Correct! Insulin-induced hypoglycemia is the most commonly used test to evaluate GH deficiency."},
+{"text": "Dexamethasone suppression test", "feedback": "Incorrect. This is used to evaluate Cushing's syndrome."},
+{"text": "Oral glucose tolerance test", "feedback": "Incorrect. OGTT is used to diagnose diabetes."},
+{"text": "Captopril suppression test", "feedback": "Incorrect. This is used to evaluate primary aldosteronism."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 68,
+"question": "Symptoms of primary adrenal insufficiency (Addison's disease) include which of the following?",
+"options": [
+{"text": "Hypercortisolism", "feedback": "Incorrect. Addison's disease has hypocortisolism."},
+{"text": "Hypokalemia", "feedback": "Incorrect. Addison's disease causes hyperkalemia due to lack of aldosterone."},
+{"text": "Hypertension", "feedback": "Incorrect. Addison's disease causes hypotension."},
+{"text": "Acidosis", "feedback": "Correct! Addison's disease can cause metabolic acidosis due to loss of sodium and impaired acid excretion."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 69,
+"question": "A TRH stimulation test is performed, and a flat response is received from this test procedure. This most likely indicates:",
+"options": [
+{"text": "Secondary hypothyroidism", "feedback": "Correct! A flat (no) TSH response to TRH indicates pituitary dysfunction (secondary hypothyroidism)."},
+{"text": "Tertiary hypothyroidism", "feedback": "Incorrect. Tertiary hypothyroidism (hypothalamic) would show a delayed or prolonged TSH response."},
+{"text": "Primary hypothyroidism", "feedback": "Incorrect. Primary hypothyroidism would show an exaggerated TSH response."},
+{"text": "Secondary hyperthyroidism", "feedback": "Incorrect. Secondary hyperthyroidism would have high TSH and high T4, with an exaggerated response."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 70,
+"question": "The first step in the synthesis of thyroid hormones is:",
+"options": [
+{"text": "Iodide trapping", "feedback": "Correct! The first step is active transport (trapping) of iodide into the thyroid follicular cell."},
+{"text": "Binding of thyroglobulin", "feedback": "Incorrect. Binding occurs later in the process."},
+{"text": "Oxidation of iodine", "feedback": "Incorrect. Oxidation occurs after trapping."},
+{"text": "Oxidation of TG molecule", "feedback": "Incorrect. Oxidation of thyroglobulin occurs later."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 71,
+"question": "Which of the following conditions is a result of catecholamine excess, includes two classifications (MEN 1 and MEN 2), and may result in death from severe cardiovascular complications?",
+"options": [
+{"text": "Cushing's syndrome", "feedback": "Incorrect. Cushing's syndrome is due to cortisol excess."},
+{"text": "Conn's syndrome", "feedback": "Incorrect. Conn's syndrome is due to aldosterone excess."},
+{"text": "Addison's disease", "feedback": "Incorrect. Addison's disease is due to adrenal insufficiency."},
+{"text": "Pheochromocytoma", "feedback": "Correct! Pheochromocytoma is a catecholamine-secreting tumor. It can be associated with MEN types 1 and 2 and can cause severe cardiovascular complications."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 72,
+"question": "The main estrogen produced by the ovaries and used to evaluate ovarian function is:",
+"options": [
+{"text": "Estriol", "feedback": "Incorrect. Estriol is the main estrogen during pregnancy (produced by the placenta)."},
+{"text": "Estradiol", "feedback": "Correct! Estradiol (E2) is the main estrogen produced by the ovaries and is used to evaluate ovarian function."},
+{"text": "Epiestriol", "feedback": "Incorrect. Epiestriol is a minor estrogen metabolite."},
+{"text": "Estrogen", "feedback": "Incorrect. This is a general term; estradiol is the specific main estrogen."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 73,
+"question": "The Michaelis-Menten theory states which of the following?",
+"options": [
+{"text": "E + S + I ↔ ES + EI + ESI → E + P", "feedback": "Incorrect. This includes an inhibitor (I), which is not part of the basic Michaelis-Menten equation."},
+{"text": "E + S ↔ ES → E + P", "feedback": "Correct! The Michaelis-Menten equation describes the formation of an enzyme-substrate complex (ES) that then breaks down to enzyme (E) and product (P)."},
+{"text": "E + S + I ↔ ES + EI → E + P", "feedback": "Incorrect. This includes an inhibitor (I), which is not part of the basic equation."},
+{"text": "E ↔ ES → E + P", "feedback": "Incorrect. The equation must include both E and S forming ES."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 74,
+"question": "Which of the following enzymes is the best indicator of pancreatic function?",
+"options": [
+{"text": "AST", "feedback": "Incorrect. AST is a liver/heart enzyme."},
+{"text": "ALT", "feedback": "Incorrect. ALT is a liver enzyme."},
+{"text": "GGT", "feedback": "Incorrect. GGT is a liver/biliary enzyme."},
+{"text": "Lipase", "feedback": "Correct! Lipase is the most specific and sensitive indicator of pancreatic function (especially acute pancreatitis)."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 75,
+"question": "Which of the following enzymes catalyzes the conversion of p-nitrophenyl phosphate to a colored p-nitrophenol product?",
+"options": [
+{"text": "AST", "feedback": "Incorrect. AST uses substrates like alpha-ketoglutarate and aspartate."},
+{"text": "ALT", "feedback": "Incorrect. ALT uses alpha-ketoglutarate and alanine."},
+{"text": "ALP", "feedback": "Correct! Alkaline phosphatase catalyzes the hydrolysis of p-nitrophenyl phosphate to p-nitrophenol (colored) and phosphate."},
+{"text": "GGT", "feedback": "Incorrect. GGT uses substrates like gamma-glutamyl-p-nitroanilide."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 76,
+"question": "One international unit of enzyme activity is the amount of enzyme that under specified reaction conditions of substrate concentration, pH, and temperature, causes usage of substrate at the rate of:",
+"options": [
+{"text": "1 millimole/min", "feedback": "Incorrect. This is too high for one international unit."},
+{"text": "1 micromole/min", "feedback": "Correct! One International Unit (IU) is defined as the amount of enzyme that catalyzes the conversion of 1 micromole of substrate per minute."},
+{"text": "1 nanomole/min", "feedback": "Incorrect. This is too low."},
+{"text": "1 picomole/min", "feedback": "Incorrect. This is too low."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 77,
+"question": "A physician calls to request a CK test on a sample already in the laboratory for coagulation studies. The sample is 1 hour old and has been stored at 4°C. The plasma shows very slight hemolysis. What is the best course of action and the reason for it?",
+"options": [
+{"text": "Perform the CK assay because no interferent is present", "feedback": "Incorrect. There are interferents present."},
+{"text": "Reject the sample because it is slightly hemolyzed", "feedback": "Incorrect. Slight hemolysis may not significantly affect CK, but the anticoagulant is the main issue."},
+{"text": "Reject the sample because it has been stored too long", "feedback": "Incorrect. 1 hour at 4°C is acceptable for CK."},
+{"text": "Reject the sample because the citrate will interfere", "feedback": "Correct! Coagulation samples contain citrate, which is not suitable for CK analysis (and may interfere with the assay)."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 78,
+"question": "Which of the following statements regarding CK is true?",
+"options": [
+{"text": "Levels are unaffected by strenuous exercise", "feedback": "Incorrect. Strenuous exercise can elevate CK."},
+{"text": "Levels are unaffected by repeated intramuscular injections", "feedback": "Incorrect. IM injections can elevate CK."},
+{"text": "Highest levels are seen in Duchenne's muscular dystrophy", "feedback": "Correct! Duchenne's muscular dystrophy causes massive elevations in CK (often 50-100 times normal)."},
+{"text": "The enzyme is highly specific for heart injury", "feedback": "Incorrect. CK is not specific for heart injury; CK-MB is more specific, and troponin is the gold standard."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 79,
+"question": "Which of the following conditions can 'physiologically' elevate serum alkaline phosphatase?",
+"options": [
+{"text": "Hyperparathyroidism", "feedback": "Incorrect. This is a pathological cause of ALP elevation."},
+{"text": "Diabetes", "feedback": "Incorrect. Diabetes does not typically elevate ALP."},
+{"text": "Pregnancy", "feedback": "Correct! Pregnancy is a physiological cause of elevated ALP due to placental production."},
+{"text": "Renal failure", "feedback": "Incorrect. This is a pathological cause."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 80,
+"question": "In the laboratory procedure for the quantification of HDL, the purpose of the dextran sulfate is to:",
+"options": [
+{"text": "Precipitate all Apo A1 containing lipoproteins", "feedback": "Incorrect. Dextran sulfate does not precipitate Apo A1."},
+{"text": "Cover cholesterol esters for cholesterol detection", "feedback": "Incorrect. This is not the purpose."},
+{"text": "Precipitate all Apo B and Apo A containing lipoproteins", "feedback": "Incorrect. Dextran sulfate does not precipitate Apo A."},
+{"text": "Precipitate all Apo B containing proteins", "feedback": "Correct! Dextran sulfate, in the presence of magnesium ions, precipitates lipoproteins containing Apo B (LDL, VLDL, and chylomicrons), leaving HDL in the supernatant."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 81,
+"question": "Which of the following lipoproteins is the smallest of all the lipoproteins and is composed of 50% protein?",
+"options": [
+{"text": "HDL", "feedback": "Correct! HDL is the smallest lipoprotein and has the highest protein content (approximately 50%)."},
+{"text": "Chylomicrons", "feedback": "Incorrect. Chylomicrons are the largest."},
+{"text": "LDL", "feedback": "Incorrect. LDL is smaller than chylomicrons but larger than HDL."},
+{"text": "Triglycerides", "feedback": "Incorrect. Triglycerides are not lipoproteins."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 82,
+"question": "Which of the following would be most adversely affected by a non-fasting sample?",
+"options": [
+{"text": "HDL", "feedback": "Incorrect. HDL is less affected by fasting status."},
+{"text": "LDL", "feedback": "Incorrect. LDL can be calculated and is less affected."},
+{"text": "Cholesterol", "feedback": "Incorrect. Total cholesterol is minimally affected by fasting."},
+{"text": "Triglycerides", "feedback": "Correct! Triglycerides are significantly elevated after a meal, so they are most adversely affected by a non-fasting sample."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 83,
+"question": "At what serum glucose concentration would glucose begin to appear in the urine?",
+"options": [
+{"text": "50 mg/dL", "feedback": "Incorrect. This is below the renal threshold."},
+{"text": "75 mg/dL", "feedback": "Incorrect. This is below the renal threshold."},
+{"text": "100 mg/dL", "feedback": "Incorrect. This is below the renal threshold."},
+{"text": "170 mg/dL", "feedback": "Correct! The renal threshold for glucose is approximately 160-180 mg/dL (often cited as 170 mg/dL)."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 84,
+"question": "Which of the following laboratory tests is the best marker to detect patients with diabetes who are at risk for developing diabetic nephropathy?",
+"options": [
+{"text": "Creatinine", "feedback": "Incorrect. Creatinine rises later in nephropathy."},
+{"text": "BUN", "feedback": "Incorrect. BUN rises later in nephropathy."},
+{"text": "Microalbuminuria test", "feedback": "Correct! Microalbuminuria is the earliest marker of diabetic nephropathy."},
+{"text": "Glucose", "feedback": "Incorrect. Glucose reflects glycemic control, not renal damage."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 85,
+"question": "A 68-year-old obese woman visits her doctor reporting increased urination (especially at night), increased thirst, and increased appetite. Her glucose on examination was 210 mg/dL (fasting). Which of the following statements best fits with the given information above?",
+"options": [
+{"text": "The patient most likely has type 1 diabetes mellitus", "feedback": "Incorrect. Type 1 typically presents in younger patients; this is likely type 2."},
+{"text": "The patient would show a positive glucose in her urine", "feedback": "Correct! With a fasting glucose of 210 mg/dL (exceeding the renal threshold), glucose would be present in the urine (glycosuria)."},
+{"text": "The patient would have a decreased glycated hemoglobin", "feedback": "Incorrect. HbA1c would be elevated."},
+{"text": "Additional testing of this patient should include assessment of hypoglycemia", "feedback": "Incorrect. This patient has hyperglycemia, not hypoglycemia."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 86,
+"question": "The characteristic laboratory finding in alcoholic cirrhosis includes:",
+"options": [
+{"text": "Moderate elevations in AST and ALT, normal GGT, and normal ALP", "feedback": "Incorrect. Alcoholic cirrhosis has AST > ALT, elevated GGT."},
+{"text": "Slight elevations in AST and ALT, marked elevations in ALP, normal GGT", "feedback": "Incorrect. This pattern is characteristic of biliary obstruction."},
+{"text": "Slight elevations in AST, ALT, and GGT and marked elevations in 50 nucleotide", "feedback": "Incorrect. This is not a standard description."},
+{"text": "Slight elevations in AST and ALT (AST>ALT), marked elevations in GGT, slight elevations in ALP", "feedback": "Correct! Alcoholic cirrhosis typically shows AST > ALT (ratio >2), elevated GGT (due to enzyme induction), and slightly elevated ALP."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 87,
+"question": "Which of the following liver conditions shows an increase in both conjugated bilirubin and ALP, manifests with antimitochondrial antibodies, and shows a characteristic lipoprotein X on electrophoresis?",
+"options": [
+{"text": "Hemochromatosis", "feedback": "Incorrect. Hemochromatosis involves iron overload, not antimitochondrial antibodies."},
+{"text": "Primary biliary cirrhosis", "feedback": "Correct! Primary biliary cirrhosis is characterized by cholestasis (conjugated bilirubin, elevated ALP), antimitochondrial antibodies, and lipoprotein X."},
+{"text": "Alcoholic fatty liver", "feedback": "Incorrect. Alcoholic fatty liver does not have antimitochondrial antibodies."},
+{"text": "Hepatic tumors", "feedback": "Incorrect. Hepatic tumors do not typically present with antimitochondrial antibodies."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 88,
+"question": "A patient with emphysema who has fluid accumulation in the alveolar sacs (causing decreased ventilation) is likely to be in which of the following acid-base clinical states?",
+"options": [
+{"text": "Respiratory alkalosis", "feedback": "Incorrect. Decreased ventilation causes CO2 retention."},
+{"text": "Respiratory acidosis", "feedback": "Correct! Decreased ventilation (hypoventilation) causes CO2 retention, leading to respiratory acidosis."},
+{"text": "Metabolic acidosis", "feedback": "Incorrect. This is a respiratory problem."},
+{"text": "Metabolic alkalosis", "feedback": "Incorrect. This is a respiratory problem."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 89,
+"question": "Which of the following enzymes catalyzes the conversion of starch to glucose and maltose?",
+"options": [
+{"text": "Lipase", "feedback": "Incorrect. Lipase hydrolyzes lipids."},
+{"text": "Amylase", "feedback": "Correct! Amylase hydrolyzes starch (amylose) into maltose and glucose."},
+{"text": "ALT", "feedback": "Incorrect. ALT is a transaminase."},
+{"text": "ALP", "feedback": "Incorrect. ALP hydrolyzes phosphate esters."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 90,
+"question": "Hyperparathyroidism is most consistently associated with which of the following?",
+"options": [
+{"text": "Hypocalcemia", "feedback": "Incorrect. Hyperparathyroidism causes hypercalcemia."},
+{"text": "Hypercalciuria", "feedback": "Correct! Hyperparathyroidism consistently causes hypercalciuria (increased urinary calcium excretion) due to hypercalcemia."},
+{"text": "Hypophosphatemia", "feedback": "Incorrect. While hypophosphatemia is common, hypercalciuria is more consistently associated with primary hyperparathyroidism."},
+{"text": "Metabolic alkalosis", "feedback": "Incorrect. Hyperparathyroidism does not typically cause metabolic alkalosis."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 91,
+"question": "Which of the following hormones involved in calcium regulation acts by decreasing both calcium and phosphorus?",
+"options": [
+{"text": "PTH", "feedback": "Incorrect. PTH increases calcium and decreases phosphorus."},
+{"text": "Calcitonin", "feedback": "Correct! Calcitonin lowers both serum calcium and phosphorus levels by inhibiting bone resorption."},
+{"text": "Vitamin D", "feedback": "Incorrect. Vitamin D increases both calcium and phosphorus."},
+{"text": "Cortisol", "feedback": "Incorrect. Cortisol is not a primary calcium-regulating hormone."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 92,
+"question": "Which of the following is not characteristic of severe hyperglycemia?",
+"options": [
+{"text": "Polyuria", "feedback": "Incorrect. Polyuria (excessive urination) is characteristic of hyperglycemia."},
+{"text": "Ketonuria", "feedback": "Incorrect. Ketonuria can occur in severe hyperglycemia (DKA)."},
+{"text": "Glycosuria", "feedback": "Incorrect. Glycosuria is characteristic of hyperglycemia."},
+{"text": "Hypogluconemia", "feedback": "Correct! Hypogluconemia (low blood glucose) is not characteristic of severe hyperglycemia."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 93,
+"question": "Which of the following statements applies to the preferred use of plasma or serum, rather than whole blood, for glucose determination?",
+"options": [
+{"text": "Glucose is more stable in separated plasma or serum.", "feedback": "Correct! Glucose is more stable in separated plasma/serum because glycolysis is minimized."},
+{"text": "Specificity for glucose is higher with most methods when plasma or serum is used.", "feedback": "Incorrect. Specificity is determined by the method, not the sample type."},
+{"text": "It is convenient to use serum or plasma with automated instruments because whole blood requires mixing immediately before sampling.", "feedback": "Incorrect. While convenience is a factor, stability is the main advantage."},
+{"text": "All the above.", "feedback": "Incorrect. Not all statements are correct."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 94,
+"question": "Which glucose method catalyzes the phosphorylation of glucose by adenosine triphosphate, forming glucose-6-phosphate and adenosine diphosphate with the absorbance of the NADPH product read at 340 nm?",
+"options": [
+{"text": "O-Toluidine", "feedback": "Incorrect. O-Toluidine is a chemical method, not enzymatic."},
+{"text": "Glucose oxidase", "feedback": "Incorrect. Glucose oxidase produces hydrogen peroxide, not NADPH."},
+{"text": "Hexokinase", "feedback": "Correct! The hexokinase method uses hexokinase to phosphorylate glucose and glucose-6-phosphate dehydrogenase to produce NADPH, measured at 340 nm."},
+{"text": "Glucose dehydrogenase", "feedback": "Incorrect. Glucose dehydrogenase uses NAD or NADP directly, but the classic method described is hexokinase."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 95,
+"question": "Which of the following enzymes is found bound to HDL and LDL in blood plasma and acts to convert free cholesterol into cholesteryl esters?",
+"options": [
+{"text": "Lipoprotein lipase", "feedback": "Incorrect. Lipoprotein lipase hydrolyzes triglycerides."},
+{"text": "Hepatic lipase", "feedback": "Incorrect. Hepatic lipase hydrolyzes triglycerides and phospholipids."},
+{"text": "Lecithin-cholesterol acyltransferase (LCAT)", "feedback": "Correct! LCAT is associated with HDL and LDL and converts free cholesterol to cholesteryl esters."},
+{"text": "Cholesterol ester transfer protein (CETP)", "feedback": "Incorrect. CETP transfers cholesteryl esters between lipoproteins, but does not catalyze their formation."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 96,
+"question": "According to the National Cholesterol Education Program, which lipid or lipoprotein class is more important for therapeutic decision making (diet and medication decisions)?",
+"options": [
+{"text": "Chylomicrons", "feedback": "Incorrect. Chylomicrons are not the primary focus for therapeutic decisions in dyslipidemia."},
+{"text": "LDL", "feedback": "Correct! LDL cholesterol is the primary target for therapeutic decision making regarding diet and medication."},
+{"text": "HDL", "feedback": "Incorrect. While HDL is important, LDL is the primary target for therapy."},
+{"text": "Cholesterol", "feedback": "Incorrect. Total cholesterol is less specific than LDL for therapeutic decisions."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 97,
+"question": "Which of the following enzymes is responsible for the conjugation of bilirubin?",
+"options": [
+{"text": "Biliverdin reductase", "feedback": "Incorrect. Biliverdin reductase converts biliverdin to bilirubin."},
+{"text": "Peroxidase", "feedback": "Incorrect. Peroxidase is not involved in bilirubin conjugation."},
+{"text": "(UDPGT)-glucuronyl transferase", "feedback": "Correct! UDP-glucuronyl transferase conjugates bilirubin with glucuronic acid."},
+{"text": "β-Glucuronidase", "feedback": "Incorrect. β-Glucuronidase hydrolyzes conjugated bilirubin."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 98,
+"question": "The first step in the synthesis of thyroid hormones is:",
+"options": [
+{"text": "Iodide trapping", "feedback": "Correct! The first step is active transport (trapping) of iodide into the thyroid follicular cell."},
+{"text": "Binding of thyroglobulin", "feedback": "Incorrect. Binding occurs later in the process."},
+{"text": "Oxidation of iodine", "feedback": "Incorrect. Oxidation occurs after trapping."},
+{"text": "Oxidation of TG molecule", "feedback": "Incorrect. Oxidation of thyroglobulin occurs later."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 99,
+"question": "One international unit of enzyme activity is the amount of enzyme that under specified reaction conditions of substrate concentration, pH, and temperature, causes usage of substrate at the rate of:",
+"options": [
+{"text": "1 millimole/min", "feedback": "Incorrect. This is too high for one international unit."},
+{"text": "1 micromole/min", "feedback": "Correct! One International Unit (IU) is defined as the amount of enzyme that catalyzes the conversion of 1 micromole of substrate per minute."},
+{"text": "1 nanomole/min", "feedback": "Incorrect. This is too low."},
+{"text": "1 picomole/min", "feedback": "Incorrect. This is too low."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 100,
+"question": "Which glucose method catalyzes the phosphorylation of glucose by adenosine triphosphate, forming glucose-6-phosphate and adenosine diphosphate with the absorbance of the NADPH product read at 340 nm?",
+"options": [
+{"text": "O-Toluidine", "feedback": "Incorrect. O-Toluidine is a chemical method, not enzymatic."},
+{"text": "Glucose oxidase", "feedback": "Incorrect. Glucose oxidase produces hydrogen peroxide, not NADPH."},
+{"text": "Hexokinase", "feedback": "Correct! The hexokinase method uses hexokinase to phosphorylate glucose and glucose-6-phosphate dehydrogenase to produce NADPH, measured at 340 nm."},
+{"text": "Glucose dehydrogenase", "feedback": "Incorrect. Glucose dehydrogenase uses NAD or NADP directly, but the classic method described is hexokinase."}
+],
+"correctAnswerIndex": 2
+}
+]
