@@ -1,0 +1,1102 @@
+[
+{
+"id": 1,
+"question": "Which enzyme is most specific for hepatocellular injury?",
+"options": [
+{"text": "Alkaline phosphatase", "feedback": "Incorrect. ALP is associated with bile duct epithelium and bone, not specifically hepatocellular injury."},
+{"text": "Gamma-glutamyl transferase", "feedback": "Incorrect. GGT is a marker of biliary tract disease and alcohol use, not specific to hepatocellular injury."},
+{"text": "Alanine aminotransferase", "feedback": "Correct! ALT is found mainly in hepatocytes, making it more liver-specific than AST, which is also present in heart, muscle, and other tissues."},
+{"text": "Lactate dehydrogenase", "feedback": "Incorrect. LDH is found in many tissues and is not specific to the liver."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 2,
+"question": "A marked increase in alkaline phosphatase is mainly seen in:",
+"options": [
+{"text": "Viral hepatitis", "feedback": "Incorrect. Viral hepatitis typically shows elevated transaminases (ALT/AST) with a lesser increase in ALP."},
+{"text": "Hemolytic anemia", "feedback": "Incorrect. Hemolytic anemia increases unconjugated bilirubin but not ALP."},
+{"text": "Obstructive jaundice", "feedback": "Correct! ALP is concentrated in bile duct epithelium; cholestasis/biliary obstruction causes marked ALP elevation, far more than hepatocellular conditions."},
+{"text": "Myocardial infarction", "feedback": "Incorrect. MI elevates cardiac markers like troponin and CK-MB, not ALP."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 3,
+"question": "Which bilirubin fraction increases in hemolytic jaundice?",
+"options": [
+{"text": "Conjugated bilirubin", "feedback": "Incorrect. Conjugated bilirubin increases in obstructive and hepatocellular jaundice."},
+{"text": "Delta bilirubin", "feedback": "Incorrect. Delta bilirubin is conjugated bilirubin bound to albumin and increases in prolonged cholestasis."},
+{"text": "Unconjugated bilirubin", "feedback": "Correct! Hemolysis increases bilirubin production faster than the liver can conjugate it, raising unconjugated (indirect) bilirubin."},
+{"text": "Total bilirubin only", "feedback": "Incorrect. While total bilirubin increases, the specific fraction that increases is unconjugated bilirubin."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 4,
+"question": "Gamma-glutamyl transferase (GGT) is especially increased in:",
+"options": [
+{"text": "Bone disease", "feedback": "Incorrect. Bone disease elevates ALP, not GGT."},
+{"text": "Renal failure", "feedback": "Incorrect. Renal failure elevates urea and creatinine, not specifically GGT."},
+{"text": "Chronic alcoholism", "feedback": "Correct! Alcohol induces GGT synthesis in the liver, making GGT a sensitive marker of chronic alcohol use and biliary/hepatic enzyme induction."},
+{"text": "Hemolysis", "feedback": "Incorrect. Hemolysis elevates unconjugated bilirubin, not GGT."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 5,
+"question": "Prolonged prothrombin time in liver disease is due to decreased synthesis of:",
+"options": [
+{"text": "Albumin", "feedback": "Incorrect. Albumin is a protein, but it does not directly affect prothrombin time."},
+{"text": "Globulins", "feedback": "Incorrect. Globulins are not primarily involved in the coagulation pathway."},
+{"text": "Clotting factors", "feedback": "Correct! The liver synthesizes most clotting factors (II, VII, IX, X); impaired synthesis prolongs prothrombin time."},
+{"text": "Hemoglobin", "feedback": "Incorrect. Hemoglobin is produced in the bone marrow, not the liver."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 6,
+"question": "Which protein level is decreased in chronic liver disease?",
+"options": [
+{"text": "Globulin", "feedback": "Incorrect. Globulins are often elevated in chronic liver disease due to immune stimulation."},
+{"text": "Fibrinogen", "feedback": "Incorrect. Fibrinogen may be decreased in severe liver disease, but albumin is the classic finding."},
+{"text": "Albumin", "feedback": "Correct! Albumin is synthesized exclusively by the liver; chronic liver disease reduces synthetic capacity, lowering serum albumin."},
+{"text": "Ceruloplasmin", "feedback": "Incorrect. Ceruloplasmin is decreased in Wilson's disease, not general chronic liver disease."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 7,
+"question": "AST is also found in all EXCEPT:",
+"options": [
+{"text": "Liver", "feedback": "Incorrect. AST is found in the liver."},
+{"text": "Heart", "feedback": "Incorrect. AST is found in the heart."},
+{"text": "Pancreas", "feedback": "Correct! AST is found in liver, heart, and skeletal muscle (and other tissues like kidney/RBCs) but not significantly in pancreas."},
+{"text": "Skeletal muscle", "feedback": "Incorrect. AST is found in skeletal muscle."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 8,
+"question": "An AST/ALT ratio greater than 2 is suggestive of:",
+"options": [
+{"text": "Viral hepatitis", "feedback": "Incorrect. Viral hepatitis typically has ALT > AST, with a ratio less than 1."},
+{"text": "Fatty liver", "feedback": "Incorrect. Fatty liver may have a ratio close to 1 or slightly elevated, but rarely >2."},
+{"text": "Alcoholic liver disease", "feedback": "Correct! An AST/ALT ratio >2 is classically associated with alcoholic liver disease due to mitochondrial AST release and pyridoxine deficiency lowering ALT."},
+{"text": "Biliary obstruction", "feedback": "Incorrect. Biliary obstruction elevates ALP and GGT more than transaminases."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 9,
+"question": "Which enzyme helps differentiate hepatic ALP from bone ALP?",
+"options": [
+{"text": "AST", "feedback": "Incorrect. AST is a transaminase, not used for differentiating ALP sources."},
+{"text": "ALT", "feedback": "Incorrect. ALT is a transaminase, not used for differentiating ALP sources."},
+{"text": "GGT", "feedback": "Correct! GGT is elevated with hepatic ALP but normal with bone ALP, helping localize the source of an elevated ALP."},
+{"text": "LDH", "feedback": "Incorrect. LDH is a general enzyme, not specific for differentiating ALP sources."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 10,
+"question": "In hepatocellular jaundice, which enzymes are predominantly raised?",
+"options": [
+{"text": "ALP and GGT", "feedback": "Incorrect. ALP and GGT are predominantly raised in obstructive/cholestatic jaundice."},
+{"text": "LDH only", "feedback": "Incorrect. LDH is not specific to hepatocellular damage."},
+{"text": "ALT and AST", "feedback": "Correct! Hepatocellular jaundice reflects hepatocyte injury, releasing predominantly the aminotransferases ALT and AST."},
+{"text": "CK", "feedback": "Incorrect. CK is a muscle enzyme, not related to liver function."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 11,
+"question": "Increased serum ammonia is commonly seen in:",
+"options": [
+{"text": "Acute hepatitis", "feedback": "Incorrect. While ammonia may be elevated, it is most characteristic of cirrhosis."},
+{"text": "Cirrhosis with hepatic encephalopathy", "feedback": "Correct! Impaired hepatic urea cycle function in cirrhosis prevents ammonia detoxification, raising serum ammonia and contributing to encephalopathy."},
+{"text": "Obstructive jaundice", "feedback": "Incorrect. Obstructive jaundice elevates bilirubin and ALP, not primarily ammonia."},
+{"text": "Hemolysis", "feedback": "Incorrect. Hemolysis elevates unconjugated bilirubin, not ammonia."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 12,
+"question": "Which bilirubin is water-soluble?",
+"options": [
+{"text": "Unconjugated", "feedback": "Incorrect. Unconjugated bilirubin is fat-soluble and not water-soluble."},
+{"text": "Conjugated", "feedback": "Correct! Conjugation with glucuronic acid makes bilirubin water-soluble, allowing its excretion in bile and urine."},
+{"text": "Delta bilirubin", "feedback": "Incorrect. Delta bilirubin is conjugated bilirubin covalently bound to albumin; it is water-soluble but behaves differently."},
+{"text": "Indirect bilirubin", "feedback": "Incorrect. Indirect bilirubin is unconjugated bilirubin, which is fat-soluble."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 13,
+"question": "Normal serum ALT reference range is approximately:",
+"options": [
+{"text": "5-15 U/L", "feedback": "Incorrect. This range is too low for adult ALT reference."},
+{"text": "10-40 U/L", "feedback": "Correct! This range approximates the standard adult reference interval for serum ALT used in most clinical laboratories."},
+{"text": "50-100 U/L", "feedback": "Incorrect. This range is elevated and not considered normal."},
+{"text": "100-200 U/L", "feedback": "Incorrect. This range is significantly elevated and indicative of liver injury."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 14,
+"question": "Which substance is freely filtered by the glomerulus and neither reabsorbed nor secreted?",
+"options": [
+{"text": "Urea", "feedback": "Incorrect. Urea is freely filtered but is partially reabsorbed in the tubules."},
+{"text": "Creatinine", "feedback": "Correct! Creatinine is freely filtered by the glomerulus with minimal reabsorption/secretion, making it useful for estimating GFR."},
+{"text": "Glucose", "feedback": "Incorrect. Glucose is freely filtered but completely reabsorbed under normal conditions."},
+{"text": "Sodium", "feedback": "Incorrect. Sodium is freely filtered but extensively reabsorbed."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 15,
+"question": "Increased serum potassium is commonly seen in:",
+"options": [
+{"text": "Metabolic alkalosis", "feedback": "Incorrect. Metabolic alkalosis typically causes hypokalemia due to potassium shifting into cells."},
+{"text": "Chronic kidney disease", "feedback": "Correct! Reduced renal excretion of potassium in CKD leads to hyperkalemia, a common and dangerous complication."},
+{"text": "Diarrhea", "feedback": "Incorrect. Diarrhea causes loss of potassium, leading to hypokalemia."},
+{"text": "Hyperaldosteronism", "feedback": "Incorrect. Hyperaldosteronism causes increased potassium excretion, leading to hypokalemia."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 16,
+"question": "Urea is synthesized in the:",
+"options": [
+{"text": "Kidney", "feedback": "Incorrect. The kidney excretes urea but does not synthesize it."},
+{"text": "Liver", "feedback": "Correct! Urea is synthesized in the liver via the urea cycle from ammonia generated by amino acid catabolism."},
+{"text": "Muscle", "feedback": "Incorrect. Muscle produces ammonia but does not synthesize urea."},
+{"text": "Intestine", "feedback": "Incorrect. The intestine is not the site of urea synthesis."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 17,
+"question": "Elevated blood urea and creatinine together indicate:",
+"options": [
+{"text": "Liver disease", "feedback": "Incorrect. Liver disease affects albumin and clotting factors, not urea/creatinine."},
+{"text": "Renal dysfunction", "feedback": "Correct! Both urea and creatinine are renally excreted; simultaneous elevation reflects decreased glomerular filtration, i.e., renal dysfunction (azotemia)."},
+{"text": "Hemolysis", "feedback": "Incorrect. Hemolysis elevates bilirubin, not urea/creatinine."},
+{"text": "Dehydration", "feedback": "Incorrect. Dehydration causes a disproportionate rise in urea with normal creatinine."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 18,
+"question": "Glucose Tolerance Test is primarily used to diagnose:",
+"options": [
+{"text": "Hypoglycemia", "feedback": "Incorrect. GTT is not used to diagnose hypoglycemia."},
+{"text": "Diabetes mellitus", "feedback": "Correct! The oral glucose tolerance test assesses the body's ability to handle a glucose load and is used to diagnose diabetes mellitus and prediabetic states."},
+{"text": "Liver disease", "feedback": "Incorrect. Liver disease is diagnosed with liver function tests."},
+{"text": "Renal failure", "feedback": "Incorrect. Renal failure is diagnosed with urea, creatinine, and GFR."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 19,
+"question": "Fasting plasma glucose level in impaired fasting glucose (IFG) is:",
+"options": [
+{"text": "< 100 mg/dL", "feedback": "Incorrect. This is a normal fasting glucose level."},
+{"text": "100-125 mg/dL", "feedback": "Correct! Impaired fasting glucose is defined as a fasting plasma glucose of 100-125 mg/dL, between normal and the diabetic threshold."},
+{"text": "140-199 mg/dL", "feedback": "Incorrect. This range defines impaired glucose tolerance (IGT) at 2 hours post-load."},
+{"text": "≥ 200 mg/dL", "feedback": "Incorrect. This is diagnostic of diabetes mellitus."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 20,
+"question": "Renal glycosuria is characterized by:",
+"options": [
+{"text": "High blood glucose with glucose in urine", "feedback": "Incorrect. This is diabetes mellitus, where hyperglycemia exceeds the renal threshold."},
+{"text": "Normal blood glucose with glucose in urine", "feedback": "Correct! Renal glycosuria results from a low renal threshold for glucose reabsorption, so glucose appears in urine despite normal blood glucose levels."},
+{"text": "Low blood glucose with glucose in urine", "feedback": "Incorrect. This is not a standard condition."},
+{"text": "High blood glucose without glucose in urine", "feedback": "Incorrect. This is not consistent with glycosuria."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 21,
+"question": "Renal glycosuria is characterized by:",
+"options": [
+{"text": "High blood glucose with glucose in urine", "feedback": "Incorrect. This is diabetes mellitus."},
+{"text": "Normal blood glucose with glucose in urine", "feedback": "Correct! Renal glycosuria results from a low renal threshold for glucose reabsorption, so glucose appears in urine despite normal blood glucose levels."},
+{"text": "Low blood glucose with glucose in urine", "feedback": "Incorrect. This is not a standard condition."},
+{"text": "High blood glucose without glucose in urine", "feedback": "Incorrect. This is not consistent with glycosuria."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 22,
+"question": "Which hormone is primarily responsible for lowering blood glucose after a glucose load?",
+"options": [
+{"text": "Glucagon", "feedback": "Incorrect. Glucagon raises blood glucose."},
+{"text": "Cortisol", "feedback": "Incorrect. Cortisol raises blood glucose."},
+{"text": "Insulin", "feedback": "Correct! Insulin is the primary hormone that lowers blood glucose by promoting cellular uptake and storage after a glucose load."},
+{"text": "Growth hormone", "feedback": "Incorrect. Growth hormone raises blood glucose."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 23,
+"question": "In normal glucose tolerance, the blood glucose level returns to fasting level within:",
+"options": [
+{"text": "30 minutes", "feedback": "Incorrect. 30 minutes is too short; glucose levels are still rising."},
+{"text": "1 hour", "feedback": "Incorrect. At 1 hour, glucose is typically still elevated."},
+{"text": "2 hours", "feedback": "Correct! In normal glucose tolerance, blood glucose returns to baseline within about 2 hours after the glucose load."},
+{"text": "3 hours", "feedback": "Incorrect. Normal glucose tolerance returns to baseline by 2 hours, not 3."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 24,
+"question": "According to WHO criteria, a 2-hour plasma glucose ≥ 200 mg/dL indicates:",
+"options": [
+{"text": "Normal glucose tolerance", "feedback": "Incorrect. This level is not normal."},
+{"text": "Impaired fasting glucose", "feedback": "Incorrect. IFG is diagnosed based on fasting glucose, not 2-hour levels."},
+{"text": "Diabetes Mellitus", "feedback": "Correct! WHO criteria define a 2-hour plasma glucose of ≥ 200 mg/dL during OGTT as diagnostic of diabetes mellitus."},
+{"text": "Impaired glucose tolerance", "feedback": "Incorrect. IGT is defined as a 2-hour glucose of 140-199 mg/dL."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 25,
+"question": "Blood samples in OGTT are commonly collected at:",
+"options": [
+{"text": "Fasting and 1 hour only", "feedback": "Incorrect. The standard OGTT requires a 2-hour sample as well."},
+{"text": "Fasting and 2 hours only", "feedback": "Correct! Standard OGTT protocol typically requires a fasting sample and a 2-hour post-load sample."},
+{"text": "Fasting, 1 hour, and 2 hours", "feedback": "Incorrect. While some protocols use multiple time points, the standard WHO/ADA recommendation is fasting and 2 hours."},
+{"text": "Random only", "feedback": "Incorrect. Random samples are not used for OGTT."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 26,
+"question": "Which electrolyte imbalance is commonly associated with chronic kidney disease?",
+"options": [
+{"text": "Hypokalemia", "feedback": "Incorrect. CKD is more commonly associated with hyperkalemia due to decreased excretion."},
+{"text": "Hypercalcemia", "feedback": "Incorrect. CKD causes hypocalcemia due to impaired vitamin D activation."},
+{"text": "Hypocalcemia", "feedback": "Correct! CKD impairs renal activation of vitamin D and causes phosphate retention, both of which contribute to hypocalcemia."},
+{"text": "Hypernatremia", "feedback": "Incorrect. CKD can cause various sodium imbalances, but hypocalcemia is a classic finding."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 27,
+"question": "Decreased urine output (< 400 mL/day) is termed:",
+"options": [
+{"text": "Polyuria", "feedback": "Incorrect. Polyuria is excessive urine output (> 2.5 L/day)."},
+{"text": "Nocturia", "feedback": "Incorrect. Nocturia is excessive urination at night."},
+{"text": "Oliguria", "feedback": "Correct! Oliguria is defined as urine output less than 400 mL/day (or per kg/hr criteria)."},
+{"text": "Anuria", "feedback": "Incorrect. Anuria is the absence of urine output (< 100 mL/day)."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 28,
+"question": "Which marker best reflects renal tubular function?",
+"options": [
+{"text": "Creatinine clearance", "feedback": "Incorrect. Creatinine clearance reflects glomerular filtration rate (GFR), not tubular function."},
+{"text": "Serum urea", "feedback": "Incorrect. Urea reflects GFR and hydration status, not specifically tubular function."},
+{"text": "Urine specific gravity", "feedback": "Correct! Urine specific gravity reflects the kidney's ability to concentrate/dilute urine, a function of the renal tubules and collecting ducts."},
+{"text": "Serum uric acid", "feedback": "Incorrect. Uric acid is not a primary marker of tubular function."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 29,
+"question": "Which test is best for early detection of diabetic nephropathy?",
+"options": [
+{"text": "Serum urea", "feedback": "Incorrect. Urea rises later in renal dysfunction."},
+{"text": "Serum creatinine", "feedback": "Incorrect. Creatinine rises later in renal dysfunction."},
+{"text": "Microalbuminuria", "feedback": "Correct! Microalbuminuria detects small amounts of albumin in urine before overt proteinuria develops, making it the earliest marker of diabetic nephropathy."},
+{"text": "Creatinine clearance", "feedback": "Incorrect. Creatinine clearance may decrease later in nephropathy."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 30,
+"question": "A rise in blood urea with normal creatinine is most suggestive of:",
+"options": [
+{"text": "Renal failure", "feedback": "Incorrect. Renal failure elevates both urea and creatinine."},
+{"text": "Postrenal obstruction", "feedback": "Incorrect. Postrenal obstruction elevates both urea and creatinine."},
+{"text": "Dehydration", "feedback": "Correct! A disproportionate rise in urea with normal creatinine classically reflects a prernal cause such as dehydration (reduced renal blood flow increasing urea reabsorption) rather than intrinsic renal damage."},
+{"text": "Acute tubular necrosis", "feedback": "Incorrect. ATN typically elevates both urea and creatinine."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 31,
+"question": "Which hormone primarily regulates sodium and potassium balance in the body?",
+"options": [
+{"text": "Insulin", "feedback": "Incorrect. Insulin regulates glucose metabolism."},
+{"text": "Aldosterone", "feedback": "Correct! Aldosterone, secreted by the adrenal cortex, regulates sodium reabsorption and potassium excretion in the renal tubules."},
+{"text": "Thyroxine", "feedback": "Incorrect. Thyroxine regulates metabolism."},
+{"text": "Parathyroid hormone", "feedback": "Incorrect. PTH regulates calcium and phosphate balance."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 32,
+"question": "Hypernatremia is commonly due to:",
+"options": [
+{"text": "Water excess", "feedback": "Incorrect. Water excess causes hyponatremia."},
+{"text": "Water loss/dehydration", "feedback": "Correct! Hypernatremia most commonly results from a relative loss of water compared to sodium, as in dehydration."},
+{"text": "Insulin deficiency", "feedback": "Incorrect. Insulin deficiency causes hyperglycemia, not directly hypernatremia."},
+{"text": "Renal failure", "feedback": "Incorrect. Renal failure can cause various sodium imbalances, but hypernatremia is not the most common."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 33,
+"question": "Which electrolyte imbalance can cause tetany and muscle cramps?",
+"options": [
+{"text": "Hyperkalemia", "feedback": "Incorrect. Hyperkalemia causes cardiac arrhythmias, not typically tetany."},
+{"text": "Hypocalcemia", "feedback": "Correct! Low calcium increases neuromuscular excitability, producing tetany and muscle cramps."},
+{"text": "Hypernatremia", "feedback": "Incorrect. Hypernatremia causes neurological symptoms but not tetany."},
+{"text": "Hyperchloremia", "feedback": "Incorrect. Hyperchloremia can cause acidosis but not tetany."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 34,
+"question": "What is the primary function of an anticoagulant in blood collection?",
+"options": [
+{"text": "Increase plasma protein", "feedback": "Incorrect. Anticoagulants do not increase plasma protein."},
+{"text": "Prevent clotting of blood", "feedback": "Correct! Anticoagulants in blood collection tubes bind calcium or inhibit clotting factors to keep the sample in liquid (plasma) form."},
+{"text": "Enhance blood cell production", "feedback": "Incorrect. Anticoagulants do not affect blood cell production."},
+{"text": "Stabilize enzymes in serum", "feedback": "Incorrect. Stabilizing enzymes is not the primary function of anticoagulants."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 35,
+"question": "Which anticoagulant is recommended for most clinical chemistry tests (excluding calcium or hormone tests)?",
+"options": [
+{"text": "Sodium citrate", "feedback": "Incorrect. Sodium citrate is used for coagulation studies."},
+{"text": "Heparin", "feedback": "Correct! Heparin is the preferred anticoagulant for most clinical chemistry analytes because it does not chelate calcium or introduce interfering ions, unlike EDTA, citrate, or oxalate."},
+{"text": "EDTA", "feedback": "Incorrect. EDTA chelates calcium and is used for hematology, not clinical chemistry."},
+{"text": "Oxalate", "feedback": "Incorrect. Oxalate is used for glucose preservation and is not preferred for general chemistry."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 36,
+"question": "Why is EDTA not suitable for calcium assays in clinical chemistry?",
+"options": [
+{"text": "It causes hemolysis", "feedback": "Incorrect. EDTA does not typically cause hemolysis."},
+{"text": "It chelates calcium ions", "feedback": "Correct! EDTA binds (chelates) calcium ions to prevent clotting, which falsely lowers measured calcium levels, making it unsuitable for calcium assays."},
+{"text": "It breaks down proteins", "feedback": "Incorrect. EDTA does not break down proteins."},
+{"text": "It alters glucose levels", "feedback": "Incorrect. EDTA does not significantly alter glucose levels."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 37,
+"question": "A blood sample for electrolyte analysis is best collected using a tube containing:",
+"options": [
+{"text": "EDTA", "feedback": "Incorrect. EDTA chelates calcium, making it unsuitable for electrolyte analysis."},
+{"text": "Heparin", "feedback": "Correct! Heparin tubes (green top) are preferred for electrolyte analysis as they don't add ions like the anticoagulant salts in citrate/EDTA tubes and allow plasma separation without clot interference."},
+{"text": "Citrate", "feedback": "Incorrect. Citrate is used for coagulation studies and adds ions."},
+{"text": "Fluoride", "feedback": "Incorrect. Fluoride is used for glucose preservation, not electrolyte analysis."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 38,
+"question": "A cloudy appearance in urine may indicate:",
+"options": [
+{"text": "High glucose", "feedback": "Incorrect. High glucose does not typically cause cloudiness."},
+{"text": "Bacterial infection", "feedback": "Correct! Cloudy urine often results from bacteria, white blood cells, or other particulate matter associated with infection."},
+{"text": "High urobilinogen", "feedback": "Incorrect. High urobilinogen does not typically cause cloudiness."},
+{"text": "Low ketones", "feedback": "Incorrect. Low ketones do not affect urine clarity."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 39,
+"question": "Dark brown or tea-colored urine may indicate the presence of:",
+"options": [
+{"text": "Ketones", "feedback": "Incorrect. Ketones do not typically cause dark brown or tea-colored urine."},
+{"text": "Hemoglobin or myoglobin", "feedback": "Incorrect. Hemoglobin/myoglobin cause red, brown, or dark urine, but bilirubin is a more classic cause of tea-colored urine."},
+{"text": "Glucose", "feedback": "Incorrect. Glucose does not change urine color."},
+{"text": "Bilirubin only", "feedback": "Correct! Dark brown or tea-colored urine is classically associated with conjugated bilirubin (and bile pigments) seen in hepatic/obstructive jaundice."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 40,
+"question": "Which of the following is the normal color of urine in a healthy individual?",
+"options": [
+{"text": "Red", "feedback": "Incorrect. Red urine indicates the presence of blood or other pigments."},
+{"text": "Pale yellow to amber", "feedback": "Correct! Normal urine color ranges from pale yellow to amber due to the pigment urochrome, varying with hydration status."},
+{"text": "Green", "feedback": "Incorrect. Green urine is abnormal and may be due to medications or dyes."},
+{"text": "Dark brown", "feedback": "Incorrect. Dark brown urine is abnormal and may indicate bilirubin, myoglobin, or other conditions."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 41,
+"question": "Turbid or cloudy urine may indicate the presence of:",
+"options": [
+{"text": "White blood cells, bacteria, or crystals", "feedback": "Correct! Turbidity in urine is commonly caused by cells, bacteria, or crystals suspended in the specimen."},
+{"text": "Ketones", "feedback": "Incorrect. Ketones do not cause turbidity."},
+{"text": "Glucose", "feedback": "Incorrect. Glucose does not cause turbidity."},
+{"text": "Hemoglobin", "feedback": "Incorrect. Hemoglobin causes a red color, not turbidity."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 42,
+"question": "Specific gravity of urine is used to assess:",
+"options": [
+{"text": "Concentrating ability of the kidneys", "feedback": "Correct! Specific gravity reflects the density of urine relative to water, indicating how well the kidneys can concentrate or dilute urine."},
+{"text": "Odor", "feedback": "Incorrect. Odor is not assessed by specific gravity."},
+{"text": "Color", "feedback": "Incorrect. Color is not assessed by specific gravity."},
+{"text": "Protein content", "feedback": "Incorrect. Protein content is assessed by dipstick or precipitation methods, not specific gravity."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 43,
+"question": "A fruity or sweet odor in urine is most commonly associated with:",
+"options": [
+{"text": "Starvation or diabetes mellitus", "feedback": "Correct! Ketone production from fat metabolism in starvation or uncontrolled diabetes mellitus gives urine a fruity or sweet odor."},
+{"text": "Urinary tract infection", "feedback": "Incorrect. UTI often causes foul or ammoniacal odor."},
+{"text": "Hematuria", "feedback": "Incorrect. Hematuria does not have a specific odor."},
+{"text": "Biliary obstruction", "feedback": "Incorrect. Biliary obstruction may cause dark urine but not a fruity odor."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 44,
+"question": "Which of the following urine colors is most likely due to the presence of blood?",
+"options": [
+{"text": "Red or reddish brown", "feedback": "Correct! Hematuria (blood in urine) typically imparts a red or reddish-brown color to the specimen."},
+{"text": "Orange", "feedback": "Incorrect. Orange urine may be due to medications or bilirubin."},
+{"text": "Yellow", "feedback": "Incorrect. Yellow is normal urine color."},
+{"text": "Green", "feedback": "Incorrect. Green urine may be due to medications or dyes."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 45,
+"question": "Dark brown or black urine may be seen in which condition?",
+"options": [
+{"text": "Alkaptonuria", "feedback": "Correct! Alkaptonuria causes homogentisic acid accumulation, which oxidizes urine to a dark brown or black color on standing."},
+{"text": "Ketonuria", "feedback": "Incorrect. Ketonuria does not cause dark brown/black urine."},
+{"text": "Diabetes insipidus", "feedback": "Incorrect. Diabetes insipidus causes dilute, colorless urine."},
+{"text": "Bacterial infection", "feedback": "Incorrect. Bacterial infection does not typically cause dark brown/black urine."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 46,
+"question": "Increased urine volume is referred to as:",
+"options": [
+{"text": "Polyuria", "feedback": "Correct! Polyuria refers to an abnormally increased volume of urine output."},
+{"text": "Oliguria", "feedback": "Incorrect. Oliguria is decreased urine output."},
+{"text": "Anuria", "feedback": "Incorrect. Anuria is the absence of urine output."},
+{"text": "Dysuria", "feedback": "Incorrect. Dysuria is painful urination."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 47,
+"question": "Which of the following is considered an abnormal urine clarity?",
+"options": [
+{"text": "Turbid", "feedback": "Correct! Normal urine clarity is clear to slightly cloudy; turbid (markedly cloudy) urine is considered abnormal."},
+{"text": "Slightly cloudy", "feedback": "Incorrect. Slightly cloudy urine can be normal."},
+{"text": "Clear", "feedback": "Incorrect. Clear urine is normal."},
+{"text": "Transparent", "feedback": "Incorrect. Transparent urine is normal."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 48,
+"question": "Urine specific gravity can be measured using which of the following instruments?",
+"options": [
+{"text": "Refractometer", "feedback": "Correct! A refractometer measures the refractive index of urine, which correlates with specific gravity."},
+{"text": "Spectrophotometer", "feedback": "Incorrect. A spectrophotometer measures light absorbance, not specific gravity."},
+{"text": "Micrometer", "feedback": "Incorrect. A micrometer measures length."},
+{"text": "Centrifuge", "feedback": "Incorrect. A centrifuge separates components by density."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 49,
+"question": "Which of the following cells is normally found in small numbers in urine?",
+"options": [
+{"text": "Red blood cells", "feedback": "Incorrect. While a few RBCs can be normal, WBCs are more commonly mentioned."},
+{"text": "White blood cells", "feedback": "Correct! Small numbers of white blood cells (and a few epithelial cells/RBCs) are normally present in urine sediment; larger numbers suggest infection or inflammation."},
+{"text": "Epithelial cells", "feedback": "Incorrect. A few epithelial cells are normal, but WBCs are the most commonly referenced."},
+{"text": "All of the above", "feedback": "Incorrect. The question asks for cells normally found in small numbers; WBCs are the classic example."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 50,
+"question": "Which type of epithelial cell in urine is considered abnormal in large numbers and may indicate renal tubular damage?",
+"options": [
+{"text": "Renal tubular epithelial cells", "feedback": "Correct! Renal tubular epithelial cells in large numbers indicate tubular injury/damage, unlike squamous or transitional cells which are often normal contaminants."},
+{"text": "Transitional epithelial cells", "feedback": "Incorrect. Transitional cells originate from the bladder/ureters and are not indicative of tubular damage."},
+{"text": "Squamous epithelial cells", "feedback": "Incorrect. Squamous cells are normal contaminants from the urethra/vagina."},
+{"text": "Columnar epithelial cells", "feedback": "Incorrect. Columnar cells are not commonly found in urine sediment."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 51,
+"question": "Presence of red blood cell casts in urine is strongly suggestive of:",
+"options": [
+{"text": "Cystitis", "feedback": "Incorrect. Cystitis (bladder infection) typically shows WBCs and bacteria, not RBC casts."},
+{"text": "Glomerulonephritis", "feedback": "Correct! RBC casts form in the nephron and strongly indicate glomerular bleeding, characteristic of glomerulonephritis."},
+{"text": "Pyelonephritis", "feedback": "Incorrect. Pyelonephritis may show WBC casts, not RBC casts."},
+{"text": "Urinary tract infection", "feedback": "Incorrect. UTI shows WBCs and bacteria, not RBC casts."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 52,
+"question": "Which urinary cast is considered normal in small amounts?",
+"options": [
+{"text": "Waxy casts", "feedback": "Incorrect. Waxy casts are indicative of chronic renal failure."},
+{"text": "Hyaline casts", "feedback": "Correct! Hyaline casts can be seen in small numbers in normal, healthy individuals, especially with exercise or dehydration."},
+{"text": "Red blood cell casts", "feedback": "Incorrect. RBC casts are always abnormal and indicate glomerular bleeding."},
+{"text": "Granular casts", "feedback": "Incorrect. Granular casts indicate renal disease."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 53,
+"question": "The presence of numerous white blood cells in urine is most commonly associated with:",
+"options": [
+{"text": "Diabetes mellitus", "feedback": "Incorrect. Diabetes mellitus causes glycosuria and ketonuria, not pyuria."},
+{"text": "Urinary tract infection", "feedback": "Correct! Numerous white blood cells (pyuria) in urine are most commonly associated with urinary tract infection."},
+{"text": "Renal failure", "feedback": "Incorrect. Renal failure affects casts and protein, not primarily WBCs."},
+{"text": "Liver disease", "feedback": "Incorrect. Liver disease affects bilirubin and urobilinogen, not WBCs."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 54,
+"question": "Which organism is often seen in urine samples from females and may appear motile under the microscope?",
+"options": [
+{"text": "Candida albicans", "feedback": "Incorrect. Candida is a yeast that does not appear motile."},
+{"text": "Trichomonas vaginalis", "feedback": "Correct! Trichomonas vaginalis is a flagellated protozoan often seen in female urine specimens and can appear motile under the microscope."},
+{"text": "Escherichia coli", "feedback": "Incorrect. E. coli is a bacterium that is not typically motile in urine microscopy."},
+{"text": "Schistosoma haematobium", "feedback": "Incorrect. Schistosoma eggs, not motile organisms, are seen in urine in endemic areas."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 55,
+"question": "Which of the following crystals is commonly seen in acidic urine?",
+"options": [
+{"text": "Calcium oxalate", "feedback": "Incorrect. Calcium oxalate crystals can form in acidic to neutral urine, but uric acid is more characteristic."},
+{"text": "Triple phosphate", "feedback": "Incorrect. Triple phosphate crystals form in alkaline urine."},
+{"text": "Uric acid", "feedback": "Correct! Uric acid crystals form characteristically in acidic urine."},
+{"text": "Amorphous urates", "feedback": "Incorrect. Amorphous urates form in acidic urine but the question asks for crystals; uric acid is the classic crystal."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 56,
+"question": "What stain is most commonly used to enhance cellular detail in urine sediment?",
+"options": [
+{"text": "Gram stain", "feedback": "Incorrect. Gram stain is used for bacteria, not urine sediment cellular detail."},
+{"text": "Sternheimer-Malbin stain", "feedback": "Correct! This stain enhances visualization of cellular structures and casts in urine sediment microscopy."},
+{"text": "Methylene blue", "feedback": "Incorrect. Methylene blue is a simple stain, not specific for urine sediment."},
+{"text": "Ziehl-Neelsen stain", "feedback": "Incorrect. Ziehl-Neelsen is used for acid-fast bacteria."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 57,
+"question": "Bacteria in the urine are considered significant when accompanied by:",
+"options": [
+{"text": "Red blood cells", "feedback": "Incorrect. RBCs may indicate other conditions, not necessarily infection."},
+{"text": "White blood cells", "feedback": "Correct! Bacteria are considered clinically significant when accompanied by white blood cells (pyuria), suggesting true infection rather than contamination."},
+{"text": "Casts", "feedback": "Incorrect. Casts indicate renal pathology, not necessarily infection."},
+{"text": "Crystals", "feedback": "Incorrect. Crystals are not indicative of infection."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 58,
+"question": "Which type of cast is most indicative of chronic renal failure?",
+"options": [
+{"text": "Hyaline cast", "feedback": "Incorrect. Hyaline casts can be normal in small amounts."},
+{"text": "Waxy cast", "feedback": "Correct! Waxy casts form from prolonged stasis in dilated tubules of chronic, advanced renal failure, indicating severe chronic disease."},
+{"text": "RBC cast", "feedback": "Incorrect. RBC casts indicate glomerular bleeding."},
+{"text": "Fatty cast", "feedback": "Incorrect. Fatty casts indicate nephrotic syndrome."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 59,
+"question": "Bacteria in the urine are considered significant when accompanied by:",
+"options": [
+{"text": "Red blood cells", "feedback": "Incorrect. RBCs may indicate other conditions, not necessarily infection."},
+{"text": "White blood cells", "feedback": "Correct! Bacteria are considered clinically significant when accompanied by white blood cells (pyuria), suggesting true infection rather than contamination."},
+{"text": "Casts", "feedback": "Incorrect. Casts indicate renal pathology, not necessarily infection."},
+{"text": "Crystals", "feedback": "Incorrect. Crystals are not indicative of infection."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 60,
+"question": "Which type of cast is most indicative of chronic renal failure?",
+"options": [
+{"text": "Hyaline cast", "feedback": "Incorrect. Hyaline casts can be normal in small amounts."},
+{"text": "Waxy cast", "feedback": "Correct! Waxy casts form from prolonged stasis in dilated tubules of chronic, advanced renal failure, indicating severe chronic disease."},
+{"text": "RBC cast", "feedback": "Incorrect. RBC casts indicate glomerular bleeding."},
+{"text": "Fatty cast", "feedback": "Incorrect. Fatty casts indicate nephrotic syndrome."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 61,
+"question": "Which of the following substances is detected using the dipstick test for protein in urine?",
+"options": [
+{"text": "Myoglobin", "feedback": "Incorrect. Myoglobin is detected by other methods, not the routine protein dipstick."},
+{"text": "Globulin", "feedback": "Incorrect. The dipstick is less sensitive to globulins."},
+{"text": "Hemoglobin", "feedback": "Incorrect. Hemoglobin is detected by the blood test, not the protein test."},
+{"text": "Albumin", "feedback": "Correct! The protein dipstick reagent (tetrabromophenol blue) is most sensitive to albumin, the predominant urinary protein detected."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 62,
+"question": "The presence of ketones in urine can indicate:",
+"options": [
+{"text": "Urinary tract infection", "feedback": "Incorrect. UTI does not cause ketonuria."},
+{"text": "Hemolytic anemia", "feedback": "Incorrect. Hemolytic anemia does not cause ketonuria."},
+{"text": "Liver cirrhosis", "feedback": "Incorrect. Liver cirrhosis does not cause ketonuria."},
+{"text": "Diabetes mellitus", "feedback": "Correct! Ketones appear in urine when fat metabolism increases due to inadequate insulin/glucose utilization, as in uncontrolled diabetes mellitus."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 63,
+"question": "Which reagent is used on the urine dipstick to detect glucose?",
+"options": [
+{"text": "Ehrlich's reagent", "feedback": "Incorrect. Ehrlich's reagent is used for urobilinogen."},
+{"text": "Nitroprusside", "feedback": "Incorrect. Nitroprusside is used for ketones."},
+{"text": "Benedict's solution", "feedback": "Incorrect. Benedict's is a chemical test for reducing substances, not a dipstick reagent."},
+{"text": "Glucose oxidase", "feedback": "Correct! The glucose oxidase/peroxidase reaction is the enzymatic basis of the dipstick glucose test."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 64,
+"question": "A positive result for bilirubin on a urine dipstick may indicate:",
+"options": [
+{"text": "Renal stones", "feedback": "Incorrect. Renal stones do not cause bilirubinuria."},
+{"text": "Urinary tract infection", "feedback": "Incorrect. UTI does not cause bilirubinuria."},
+{"text": "Diabetes insipidus", "feedback": "Incorrect. Diabetes insipidus does not cause bilirubinuria."},
+{"text": "Liver disease", "feedback": "Correct! Positive urine bilirubin indicates conjugated bilirubin in urine, seen in hepatobiliary disease (liver disease/biliary obstruction)."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 65,
+"question": "Which of the following is not normally present in urine in significant amounts?",
+"options": [
+{"text": "Urea", "feedback": "Incorrect. Urea is a normal constituent of urine."},
+{"text": "Creatinine", "feedback": "Incorrect. Creatinine is a normal constituent of urine."},
+{"text": "Urobilinogen", "feedback": "Incorrect. Urobilinogen is a normal constituent of urine."},
+{"text": "Glucose", "feedback": "Correct! Glucose is not normally present in significant amounts in urine, unlike urea, creatinine, and urobilinogen which are normal constituents."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 66,
+"question": "The chemical test for blood in urine detects:",
+"options": [
+{"text": "Only red blood cells", "feedback": "Incorrect. The dipstick detects free hemoglobin, not intact RBCs."},
+{"text": "Only white blood cells", "feedback": "Incorrect. The blood test does not detect WBCs."},
+{"text": "Only hemoglobin", "feedback": "Incorrect. It also detects myoglobin."},
+{"text": "Hemoglobin and myoglobin", "feedback": "Correct! The chemical (dipstick) blood test relies on pseudoperoxidase activity, detecting both free hemoglobin and myoglobin, not intact RBCs specifically."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 67,
+"question": "A positive nitrite test in urine suggests:",
+"options": [
+{"text": "Ketone production", "feedback": "Incorrect. Ketones are detected by a different test."},
+{"text": "Kidney failure", "feedback": "Incorrect. Kidney failure is detected by protein, casts, etc."},
+{"text": "Dehydration", "feedback": "Incorrect. Dehydration affects specific gravity."},
+{"text": "Urinary tract infection by Gram-negative bacteria", "feedback": "Correct! Gram-negative bacteria (e.g., E. coli) convert nitrate to nitrite, which the dipstick detects as a marker of UTI."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 68,
+"question": "Leukocyte esterase test detects the presence of:",
+"options": [
+{"text": "Bacteria", "feedback": "Incorrect. Bacteria are detected by nitrite or culture."},
+{"text": "Red blood cells", "feedback": "Incorrect. RBCs are detected by the blood test."},
+{"text": "Glucose", "feedback": "Incorrect. Glucose is detected by the glucose test."},
+{"text": "White blood cells", "feedback": "Correct! Leukocyte esterase is released by neutrophils, indicating the presence of white blood cells in urine."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 69,
+"question": "Which urine chemical parameter is most sensitive to early renal disease?",
+"options": [
+{"text": "pH", "feedback": "Incorrect. pH changes are not specific to early renal disease."},
+{"text": "Ketones", "feedback": "Incorrect. Ketones indicate metabolic disturbances, not renal disease."},
+{"text": "Urobilinogen", "feedback": "Incorrect. Urobilinogen is related to liver function and hemolysis."},
+{"text": "Protein", "feedback": "Correct! Proteinuria (especially microalbuminuria) is among the most sensitive early indicators of renal disease."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 70,
+"question": "Which of the following urine components causes the dipstick test to turn green in the presence of blood?",
+"options": [
+{"text": "Albumin", "feedback": "Incorrect. Albumin does not affect the blood test."},
+{"text": "Glucose", "feedback": "Incorrect. Glucose does not affect the blood test."},
+{"text": "Bilirubin", "feedback": "Incorrect. Bilirubin affects the bilirubin test pad."},
+{"text": "Hemoglobin", "feedback": "Correct! Hemoglobin's pseudoperoxidase activity catalyzes the reagent reaction that turns the dipstick pad green/blue in the blood test."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 71,
+"question": "The typical odor of fresh normal urine is best described as:",
+"options": [
+{"text": "Sweet", "feedback": "Incorrect. Sweet odor is associated with ketones."},
+{"text": "Fruity", "feedback": "Incorrect. Fruity odor is associated with ketones."},
+{"text": "Ammonia", "feedback": "Incorrect. Ammonia odor develops in stale urine."},
+{"text": "Aromatic", "feedback": "Correct! Fresh normal urine has a characteristic mild aromatic odor."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 72,
+"question": "Which pigment is responsible for the normal yellow color of urine?",
+"options": [
+{"text": "Bilirubin", "feedback": "Incorrect. Bilirubin causes dark brown/orange urine."},
+{"text": "Hemoglobin", "feedback": "Incorrect. Hemoglobin causes red/brown urine."},
+{"text": "Urobilinogen", "feedback": "Incorrect. Urobilinogen is colorless."},
+{"text": "Urochrome", "feedback": "Correct! Urochrome is the pigment responsible for the normal yellow color of urine."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 73,
+"question": "Turbidity in a urine sample may be due to:",
+"options": [
+{"text": "Hematuria", "feedback": "Incorrect. Hematuria causes red color, not turbidity."},
+{"text": "Excess ketones", "feedback": "Incorrect. Ketones do not cause turbidity."},
+{"text": "Soluble proteins", "feedback": "Incorrect. Soluble proteins do not cause turbidity."},
+{"text": "Mucus, cells, or crystals", "feedback": "Correct! Turbidity in a urine sample is commonly due to suspended mucus, cells, or crystals."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 74,
+"question": "Which of the following is the most specific biomarker for myocardial infarction (MI)?",
+"options": [
+{"text": "CK-MB", "feedback": "Incorrect. CK-MB is cardiac-specific but less specific than troponin."},
+{"text": "Myoglobin", "feedback": "Incorrect. Myoglobin is not cardiac-specific."},
+{"text": "LDH", "feedback": "Incorrect. LDH is not cardiac-specific."},
+{"text": "Troponin I", "feedback": "Correct! Troponin I is highly specific to cardiac muscle and is the most specific biomarker for myocardial infarction among the listed options."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 75,
+"question": "Troponin levels typically begin to rise after myocardial infarction within:",
+"options": [
+{"text": "30 minutes", "feedback": "Incorrect. Troponin does not rise this early."},
+{"text": "1-2 hours", "feedback": "Incorrect. This is earlier than the typical onset."},
+{"text": "24 hours", "feedback": "Incorrect. Troponin rises earlier than 24 hours."},
+{"text": "3-6 hours", "feedback": "Correct! Troponin typically begins to rise about 3-6 hours after myocardial injury, reaching peak levels later."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 76,
+"question": "CK-MB returns to normal approximately:",
+"options": [
+{"text": "12 hours", "feedback": "Incorrect. CK-MB peaks at 24 hours and returns to normal later."},
+{"text": "24-48 hours", "feedback": "Correct! CK-MB levels typically normalize within about 24-48 hours after MI onset."},
+{"text": "7-10 days", "feedback": "Incorrect. This is more consistent with LDH."},
+{"text": "2-3 days", "feedback": "Incorrect. CK-MB returns to normal by 48 hours, not 2-3 days."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 77,
+"question": "Which cardiac marker rises earliest after myocardial injury?",
+"options": [
+{"text": "Troponin", "feedback": "Incorrect. Troponin rises at 3-6 hours."},
+{"text": "CK-MB", "feedback": "Incorrect. CK-MB rises at 3-6 hours."},
+{"text": "LDH", "feedback": "Incorrect. LDH rises at 24-48 hours."},
+{"text": "Myoglobin", "feedback": "Correct! Myoglobin is a small, rapidly released protein, making it the earliest-rising cardiac marker after myocardial injury, though it lacks cardiac specificity."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 78,
+"question": "Which enzyme was historically used for diagnosing MI but is now less specific?",
+"options": [
+{"text": "ALT", "feedback": "Incorrect. ALT is a liver enzyme."},
+{"text": "Amylase", "feedback": "Incorrect. Amylase is a pancreatic enzyme."},
+{"text": "ALP", "feedback": "Incorrect. ALP is a liver/bone enzyme."},
+{"text": "AST", "feedback": "Correct! AST was historically used as a cardiac marker but is now considered nonspecific since it's also present in liver and skeletal muscle."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 79,
+"question": "The gold standard biomarker for diagnosing acute myocardial infarction is:",
+"options": [
+{"text": "CK-MB", "feedback": "Incorrect. CK-MB is less specific than troponin."},
+{"text": "LDH", "feedback": "Incorrect. LDH is not specific."},
+{"text": "Myoglobin", "feedback": "Incorrect. Myoglobin is not specific."},
+{"text": "Troponin", "feedback": "Correct! Cardiac troponin is the current gold-standard biomarker for diagnosing acute myocardial infarction due to its high sensitivity and cardiac specificity."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 80,
+"question": "Which of the following tests evaluates electrical activity of the heart?",
+"options": [
+{"text": "Echocardiogram", "feedback": "Incorrect. Echocardiogram evaluates structure and function."},
+{"text": "BNP test", "feedback": "Incorrect. BNP is a marker for heart failure."},
+{"text": "Troponin test", "feedback": "Incorrect. Troponin is a biomarker for MI."},
+{"text": "ECG", "feedback": "Correct! An electrocardiogram (ECG) records the heart's electrical activity, unlike echocardiography (structural/functional imaging) or biomarker tests."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 81,
+"question": "Which of the following is included in a routine lipid profile test?",
+"options": [
+{"text": "Troponin", "feedback": "Incorrect. Troponin is a cardiac marker."},
+{"text": "Total cholesterol", "feedback": "Correct! A routine lipid profile includes total cholesterol, along with LDL, HDL, and triglycerides."},
+{"text": "Creatinine", "feedback": "Incorrect. Creatinine is a renal marker."},
+{"text": "Urea", "feedback": "Incorrect. Urea is a renal marker."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 82,
+"question": "Triglycerides are primarily transported in fasting blood by:",
+"options": [
+{"text": "HDL", "feedback": "Incorrect. HDL transports cholesterol."},
+{"text": "VLDL", "feedback": "Correct! VLDL is the primary carrier of triglycerides synthesized endogenously and transported in fasting plasma."},
+{"text": "LDL", "feedback": "Incorrect. LDL transports cholesterol."},
+{"text": "Albumin", "feedback": "Incorrect. Albumin transports free fatty acids."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 83,
+"question": "Low HDL cholesterol is a risk factor for:",
+"options": [
+{"text": "Liver disease", "feedback": "Incorrect. Low HDL is not a primary risk factor for liver disease."},
+{"text": "Cardiovascular disease", "feedback": "Correct! Low HDL reduces reverse cholesterol transport, increasing risk for atherosclerosis and cardiovascular disease."},
+{"text": "Diabetes insipidus", "feedback": "Incorrect. Diabetes insipidus is not related to HDL."},
+{"text": "Renal stones", "feedback": "Incorrect. Renal stones are not related to HDL."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 84,
+"question": "Hypertriglyceridemia increases the risk of:",
+"options": [
+{"text": "Anemia", "feedback": "Incorrect. Anemia is not related to triglycerides."},
+{"text": "Pancreatitis", "feedback": "Correct! Severe hypertriglyceridemia is a recognized cause of acute pancreatitis."},
+{"text": "Hypoglycemia", "feedback": "Incorrect. Hypoglycemia is not related to triglycerides."},
+{"text": "Leukemia", "feedback": "Incorrect. Leukemia is not related to triglycerides."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 85,
+"question": "Apolipoprotein B (ApoB) is mainly associated with:",
+"options": [
+{"text": "HDL", "feedback": "Incorrect. ApoA-I is the main apolipoprotein of HDL."},
+{"text": "LDL and VLDL", "feedback": "Correct! ApoB is the main structural apolipoprotein of LDL and VLDL (and chylomicrons), reflecting the atherogenic particle burden."},
+{"text": "Chylomicrons only", "feedback": "Incorrect. ApoB is also found in LDL and VLDL."},
+{"text": "Albumin", "feedback": "Incorrect. Albumin is not an apolipoprotein."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 86,
+"question": "Which lipoprotein has the highest triglyceride content?",
+"options": [
+{"text": "HDL", "feedback": "Incorrect. HDL has the lowest triglyceride content."},
+{"text": "Chylomicrons", "feedback": "Correct! Chylomicrons, which transport dietary fat, have the highest triglyceride content of all lipoproteins."},
+{"text": "LDL", "feedback": "Incorrect. LDL has moderate triglyceride content."},
+{"text": "IDL", "feedback": "Incorrect. IDL has moderate triglyceride content."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 87,
+"question": "A patient with high LDL and low HDL is at increased risk for:",
+"options": [
+{"text": "Asthma", "feedback": "Incorrect. Asthma is not related to lipids."},
+{"text": "Atherosclerosis", "feedback": "Correct! High LDL combined with low HDL promotes lipid deposition in arterial walls, increasing atherosclerosis risk."},
+{"text": "Peptic ulcer", "feedback": "Incorrect. Peptic ulcer is not related to lipids."},
+{"text": "Tuberculosis", "feedback": "Incorrect. Tuberculosis is not related to lipids."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 88,
+"question": "Non-HDL cholesterol is calculated as:",
+"options": [
+{"text": "LDL + HDL", "feedback": "Incorrect. This would overestimate."},
+{"text": "Total cholesterol - HDL", "feedback": "Correct! Non-HDL cholesterol is calculated by subtracting HDL cholesterol from total cholesterol, capturing all atherogenic particles."},
+{"text": "LDL - HDL", "feedback": "Incorrect. This is not a standard calculation."},
+{"text": "Triglycerides - HDL", "feedback": "Incorrect. This is not a standard calculation."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 89,
+"question": "Which of the following conditions commonly causes secondary hyperlipidemia?",
+"options": [
+{"text": "Hyperthyroidism", "feedback": "Incorrect. Hyperthyroidism typically causes hyperlipidemia."},
+{"text": "Hypothyroidism", "feedback": "Correct! Hypothyroidism reduces LDL receptor activity and lipid clearance, commonly causing secondary hyperlipidemia."},
+{"text": "Acute infection", "feedback": "Incorrect. Acute infection may cause transient changes but is not a common cause."},
+{"text": "Iron deficiency anemia", "feedback": "Incorrect. Iron deficiency anemia is not associated with hyperlipidemia."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 90,
+"question": "Which enzyme is most specific for acute pancreatitis?",
+"options": [
+{"text": "Amylase", "feedback": "Incorrect. Amylase is less specific than lipase."},
+{"text": "Lipase", "feedback": "Correct! Serum lipase is more specific to the pancreas than amylase, making it the preferred marker for acute pancreatitis."},
+{"text": "ALT", "feedback": "Incorrect. ALT is a liver enzyme."},
+{"text": "ALP", "feedback": "Incorrect. ALP is a liver/bone enzyme."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 91,
+"question": "Serum amylase levels typically rise within how many hours after acute pancreatitis?",
+"options": [
+{"text": "1-2 hours", "feedback": "Incorrect. Amylase rises later than 1-2 hours."},
+{"text": "3-6 hours", "feedback": "Correct! Serum amylase typically begins to rise within 3-6 hours of acute pancreatitis onset."},
+{"text": "12-24 hours", "feedback": "Incorrect. Amylase rises earlier than this."},
+{"text": "48 hours", "feedback": "Incorrect. Amylase peaks earlier."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 92,
+"question": "Serum lipase remains elevated for:",
+"options": [
+{"text": "6-12 hours", "feedback": "Incorrect. Lipase remains elevated longer than this."},
+{"text": "3-7 days", "feedback": "Correct! Serum lipase remains elevated longer than amylase, typically for 3-7 days after acute pancreatitis."},
+{"text": "24 hours", "feedback": "Incorrect. Lipase remains elevated longer than 24 hours."},
+{"text": "1 hour", "feedback": "Incorrect. Lipase does not return to normal this quickly."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 93,
+"question": "Elevated serum lipase is most commonly associated with:",
+"options": [
+{"text": "Liver cirrhosis", "feedback": "Incorrect. Liver cirrhosis elevates liver enzymes."},
+{"text": "Acute pancreatitis", "feedback": "Correct! Elevated serum lipase is most characteristically and specifically associated with acute pancreatitis."},
+{"text": "Renal stones", "feedback": "Incorrect. Renal stones do not elevate lipase."},
+{"text": "Peptic ulcer", "feedback": "Incorrect. Peptic ulcer does not elevate lipase."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 94,
+"question": "In chronic pancreatitis, serum enzyme levels are often:",
+"options": [
+{"text": "Markedly elevated", "feedback": "Incorrect. Chronic pancreatitis often shows normal or mild elevations."},
+{"text": "Normal or slightly elevated", "feedback": "Correct! In chronic pancreatitis, ongoing glandular destruction often means enzyme levels are only normal or mildly elevated, unlike the marked rise in acute pancreatitis."},
+{"text": "Always zero", "feedback": "Incorrect. Enzyme levels are not zero."},
+{"text": "Extremely high", "feedback": "Incorrect. This is seen in acute, not chronic, pancreatitis."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 95,
+"question": "Which endocrine function test is related to pancreatic function?",
+"options": [
+{"text": "Troponin", "feedback": "Incorrect. Troponin is a cardiac marker."},
+{"text": "HbA1c", "feedback": "Correct! HbA1c reflects long-term glycemic control and relates to endocrine (insulin-producing) pancreatic function."},
+{"text": "Creatinine", "feedback": "Incorrect. Creatinine is a renal marker."},
+{"text": "Bilirubin", "feedback": "Incorrect. Bilirubin is a liver marker."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 96,
+"question": "Which of the following is NOT a pancreatic enzyme?",
+"options": [
+{"text": "Trypsin", "feedback": "Incorrect. Trypsin is a pancreatic enzyme."},
+{"text": "Pepsin", "feedback": "Correct! Pepsin is a gastric (stomach) enzyme, not a pancreatic enzyme; trypsin, amylase, and lipase are pancreatic."},
+{"text": "Amylase", "feedback": "Incorrect. Amylase is a pancreatic enzyme."},
+{"text": "Lipase", "feedback": "Incorrect. Lipase is a pancreatic enzyme."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 97,
+"question": "Serum amylase is cleared primarily by:",
+"options": [
+{"text": "Liver", "feedback": "Incorrect. Amylase is not primarily cleared by the liver."},
+{"text": "Kidney", "feedback": "Correct! Serum amylase is cleared primarily via renal excretion."},
+{"text": "Lungs", "feedback": "Incorrect. Amylase is not cleared by the lungs."},
+{"text": "Pancreas", "feedback": "Incorrect. Amylase is produced, not cleared, by the pancreas."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 98,
+"question": "Which of the following conditions can falsely elevate serum lipase?",
+"options": [
+{"text": "Hypoglycemia", "feedback": "Incorrect. Hypoglycemia does not elevate lipase."},
+{"text": "Renal failure", "feedback": "Correct! Reduced renal clearance in renal failure can falsely elevate serum lipase levels independent of pancreatic pathology."},
+{"text": "Anemia", "feedback": "Incorrect. Anemia does not elevate lipase."},
+{"text": "Hypothyroidism", "feedback": "Incorrect. Hypothyroidism does not directly elevate lipase."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 99,
+"question": "Chromatography is primarily used for:",
+"options": [
+{"text": "Centrifugation of samples", "feedback": "Incorrect. Centrifugation separates by density, not chromatography."},
+{"text": "Separation of components in a mixture", "feedback": "Correct! Chromatography techniques are used to separate individual components within a mixture based on differing affinities."},
+{"text": "Measuring absorbance", "feedback": "Incorrect. Absorbance is measured by spectrophotometry."},
+{"text": "Protein synthesis", "feedback": "Incorrect. Protein synthesis is not related to chromatography."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 100,
+"question": "Chromatography is based on the principle of:",
+"options": [
+{"text": "Osmosis", "feedback": "Incorrect. Osmosis is the movement of water across a membrane."},
+{"text": "Differential distribution between stationary and mobile phases", "feedback": "Correct! Chromatography separates compounds based on their differing partition/distribution between a stationary phase and a mobile phase."},
+{"text": "Electrophoretic mobility", "feedback": "Incorrect. Electrophoresis separates based on charge, not chromatography."},
+{"text": "Precipitation", "feedback": "Incorrect. Precipitation is a separate technique."}
+],
+"correctAnswerIndex": 1
+}
+]
