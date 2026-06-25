@@ -1,0 +1,2326 @@
+[
+{
+"id": 1,
+"question": "The greatest activities of serum AST and ALT are seen in?",
+"options": [
+{
+"text": "Metastatic hepatic carcinoma",
+"feedback": "Incorrect. While AST and ALT can be elevated in metastatic liver cancer, the highest levels are typically seen in acute hepatitis."
+},
+{
+"text": "Alcoholic cirrhosis",
+"feedback": "Incorrect. In alcoholic cirrhosis, AST and ALT are usually elevated, but the increase is typically less marked than in acute hepatitis, with AST often higher than ALT."
+},
+{
+"text": "Acute hepatitis",
+"feedback": "Correct! Acute hepatitis causes massive hepatocellular injury, leading to very high elevations in both AST and ALT, often exceeding 10-20 times the upper limit of normal."
+},
+{
+"text": "Primary Biliary cirrhosis",
+"feedback": "Incorrect. While AST and ALT may be elevated in primary biliary cirrhosis, the increases are usually moderate. This condition is more characterized by elevated alkaline phosphatase."
+}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 2,
+"question": "The principle excretory form of nitrogen is?",
+"options": [
+{
+"text": "Urea",
+"feedback": "Correct! Urea accounts for approximately 80-90% of the nitrogen excreted by the body, making it the primary excretory form of nitrogen."
+},
+{
+"text": "Creatinine",
+"feedback": "Incorrect. Creatinine is a waste product of muscle metabolism and is excreted in smaller quantities compared to urea."
+},
+{
+"text": "Amino acids",
+"feedback": "Incorrect. Amino acids are generally reabsorbed in the kidneys and not excreted in significant amounts as a primary nitrogen waste product."
+},
+{
+"text": "Uric acid",
+"feedback": "Incorrect. Uric acid is a product of purine metabolism and is excreted in smaller amounts compared to urea."
+}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 3,
+"question": "Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) are both elevated in which of the following diseases?",
+"options": [
+{
+"text": "Infectious mononucleosis",
+"feedback": "Incorrect. While liver enzymes can be mildly elevated in infectious mononucleosis, the significant elevation of both AST and ALT is more characteristic of viral hepatitis."
+},
+{
+"text": "Pulmonary emboli",
+"feedback": "Incorrect. Pulmonary embolism does not typically cause significant elevation of AST and ALT."
+},
+{
+"text": "Muscular dystrophy",
+"feedback": "Incorrect. Muscular dystrophy mainly elevates AST and CK, but ALT is less affected."
+},
+{
+"text": "Viral hepatitis",
+"feedback": "Correct! Viral hepatitis causes significant hepatocellular damage, resulting in marked elevation of both AST and ALT."
+}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 4,
+"question": "Which of the following tests evaluates electrical activity of the heart?",
+"options": [
+{
+"text": "Echocardiogram",
+"feedback": "Incorrect. An echocardiogram uses ultrasound waves to produce images of the heart, not electrical activity."
+},
+{
+"text": "Troponin test",
+"feedback": "Incorrect. Troponin is a blood test that measures a protein released when heart muscle is damaged, not electrical activity."
+},
+{
+"text": "BNP test",
+"feedback": "Incorrect. B-type Natriuretic Peptide (BNP) is a blood test used to diagnose heart failure, not to assess electrical activity."
+},
+{
+"text": "ECG",
+"feedback": "Correct! An electrocardiogram (ECG/EKG) is the test used to evaluate the electrical activity of the heart."
+}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 5,
+"question": "The buffering capacity of blood is maintained by a reversible exchange process between bicarbonate and?",
+"options": [
+{
+"text": "Chloride",
+"feedback": "Correct! This is known as the chloride shift, where chloride ions move into red blood cells in exchange for bicarbonate to maintain electrical neutrality."
+},
+{
+"text": "Calcium",
+"feedback": "Incorrect. Calcium does not participate in this buffering exchange."
+},
+{
+"text": "Sodium",
+"feedback": "Incorrect. Sodium is not exchanged directly with bicarbonate in this process."
+},
+{
+"text": "Potassium",
+"feedback": "Incorrect. While potassium can be exchanged with hydrogen ions, the primary buffering exchange in the blood is between bicarbonate and chloride."
+}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 6,
+"question": "A 12-year-old child presents with jaundice and dark urine. Laboratory findings: Hemoglobin = Low, Total bilirubin = Elevated, Indirect bilirubin = High, Reticulocyte count = Increased. Which type of bilirubin is elevated in hemolytic anemia?",
+"options": [
+{
+"text": "Delta bilirubin",
+"feedback": "Incorrect. Delta bilirubin is a fraction of bilirubin covalently bound to albumin, which is not elevated in hemolytic anemia."
+},
+{
+"text": "Conjugated bilirubin",
+"feedback": "Incorrect. Conjugated (direct) bilirubin is elevated in obstructive jaundice, not primarily in hemolytic anemia."
+},
+{
+"text": "Direct bilirubin",
+"feedback": "Incorrect. Direct bilirubin is conjugated bilirubin and is not the type elevated in hemolytic anemia."
+},
+{
+"text": "Indirect bilirubin",
+"feedback": "Correct! Hemolytic anemia results in increased red blood cell breakdown, producing unconjugated (indirect) bilirubin, which is elevated."
+}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 7,
+"question": "Increasing of which Creatine Kinase isoenzymes is specific for myocardial infarction?",
+"options": [
+{
+"text": "CK-BB",
+"feedback": "Incorrect. CK-BB is primarily found in the brain and smooth muscle."
+},
+{
+"text": "CK-CC",
+"feedback": "Incorrect. This is not a recognized isoenzyme of creatine kinase. CK-MB is the cardiac specific isoenzyme."
+},
+{
+"text": "CK-MM",
+"feedback": "Incorrect. CK-MM is the skeletal muscle form and is the predominant form in the blood."
+},
+{
+"text": "CK-MB",
+"feedback": "Correct! CK-MB is the isoenzyme of creatine kinase primarily found in cardiac muscle, and its elevation is specific for myocardial infarction."
+}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 8,
+"question": "Which of the following conditions commonly causes secondary hyperlipidemia?",
+"options": [
+{
+"text": "Iron deficiency anemia",
+"feedback": "Incorrect. Iron deficiency anemia is not a recognized cause of secondary hyperlipidemia."
+},
+{
+"text": "Hypothyroidism",
+"feedback": "Correct! Hypothyroidism frequently causes secondary hyperlipidemia due to decreased clearance and metabolism of lipoproteins."
+},
+{
+"text": "Hyperthyroidism",
+"feedback": "Incorrect. Hyperthyroidism is associated with decreased lipid levels, not hyperlipidemia."
+},
+{
+"text": "Acute infection",
+"feedback": "Incorrect. Acute infections generally cause changes in lipid profiles, but are not commonly associated with secondary hyperlipidemia."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 9,
+"question": "Which of the following serum constituents is unstable if a blood specimen is left standing at room temperature for 8 hours before processing?",
+"options": [
+{
+"text": "Creatinine",
+"feedback": "Incorrect. Creatinine is stable in serum at room temperature for up to several days."
+},
+{
+"text": "Glucose",
+"feedback": "Correct! Glucose is unstable at room temperature due to glycolysis by blood cells, which can decrease glucose levels by approximately 10% per hour."
+},
+{
+"text": "Cholesterol",
+"feedback": "Incorrect. Cholesterol is stable at room temperature for up to 24 hours."
+},
+{
+"text": "Triglyceride",
+"feedback": "Incorrect. Triglycerides are stable at room temperature for up to 24 hours."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 10,
+"question": "Sixty to seventy-five percent of the plasma cholesterol is transported by?",
+"options": [
+{
+"text": "Chylomicrons",
+"feedback": "Incorrect. Chylomicrons primarily transport dietary triglycerides, not cholesterol."
+},
+{
+"text": "LDL",
+"feedback": "Correct! LDL (low-density lipoprotein) carries approximately 60-75% of the total plasma cholesterol."
+},
+{
+"text": "HDL",
+"feedback": "Incorrect. HDL transports about 20-30% of total plasma cholesterol."
+},
+{
+"text": "VLDL",
+"feedback": "Incorrect. VLDL primarily transports triglycerides, with only a small amount of cholesterol."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 11,
+"question": "An automated chemistry analyzer improves:",
+"options": [
+{
+"text": "Specimen transport",
+"feedback": "Incorrect. Automated analyzers do not directly affect specimen transport."
+},
+{
+"text": "Manual errors only",
+"feedback": "Incorrect. Automation reduces manual errors but also improves other aspects."
+},
+{
+"text": "Blood collection",
+"feedback": "Incorrect. Automated analyzers do not affect the blood collection process."
+},
+{
+"text": "Turnaround time and accuracy",
+"feedback": "Correct! Automation reduces turnaround time and improves accuracy by minimizing manual errors and standardizing processes."
+}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 12,
+"question": "Non-HDL cholesterol is calculated as?",
+"options": [
+{
+"text": "LDL - HDL",
+"feedback": "Incorrect. Non-HDL cholesterol is not calculated by subtracting HDL from LDL."
+},
+{
+"text": "LDL + HDL",
+"feedback": "Incorrect. Non-HDL cholesterol is not calculated by adding LDL and HDL."
+},
+{
+"text": "Total cholesterol - HDL",
+"feedback": "Correct! Non-HDL cholesterol is calculated by subtracting HDL cholesterol from total cholesterol."
+},
+{
+"text": "Triglycerides - HDL",
+"feedback": "Incorrect. Non-HDL cholesterol is not calculated by subtracting HDL from triglycerides."
+}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 13,
+"question": "The principle of spectrophotometry is based on?",
+"options": [
+{
+"text": "Electrical conductivity",
+"feedback": "Incorrect. Electrical conductivity is the principle behind conductometry, not spectrophotometry."
+},
+{
+"text": "Centrifugal force",
+"feedback": "Incorrect. Centrifugal force is the principle behind centrifugation."
+},
+{
+"text": "Absorption of light by a solution",
+"feedback": "Correct! Spectrophotometry is based on the measurement of light absorbed by a solution at a specific wavelength."
+},
+{
+"text": "Fluorescence emission",
+"feedback": "Incorrect. Fluorescence emission is the principle behind fluorometry, not spectrophotometry."
+}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 14,
+"question": "Increased serum albumin concentrations are seen in which of the following conditions?",
+"options": [
+{
+"text": "Nephrotic syndrome",
+"feedback": "Incorrect. Nephrotic syndrome causes albumin loss in urine, leading to hypoalbuminemia."
+},
+{
+"text": "Dehydration",
+"feedback": "Correct! Dehydration causes hemoconcentration, leading to relatively elevated serum albumin concentrations."
+},
+{
+"text": "Chronic inflammation",
+"feedback": "Incorrect. Chronic inflammation typically decreases albumin synthesis (negative acute phase reactant)."
+},
+{
+"text": "Acute hepatitis",
+"feedback": "Incorrect. Acute hepatitis usually results in normal or decreased albumin due to impaired liver synthesis."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 15,
+"question": "Quality control samples are analyzed to:",
+"options": [
+{
+"text": "Diagnose patients",
+"feedback": "Incorrect. Quality control samples are not used to diagnose patients."
+},
+{
+"text": "Monitor instrument performance",
+"feedback": "Correct! Quality control samples are used to monitor the performance of instruments, reagents, and methodology to ensure reliable results."
+},
+{
+"text": "Clean cuvettes",
+"feedback": "Incorrect. Quality control samples are not used to clean cuvettes."
+},
+{
+"text": "Store reagents",
+"feedback": "Incorrect. Quality control samples are not used to store reagents."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 16,
+"question": "Biological functions of potassium are?",
+"options": [
+{
+"text": "Takes part in lipid transport",
+"feedback": "Incorrect. Potassium is not directly involved in lipid transport."
+},
+{
+"text": "Affects neuromuscular activity, Nerve impulse generation, Cell membrane potentials formation",
+"feedback": "Correct! Potassium is crucial for maintaining the resting membrane potential, nerve impulse transmission, and muscle contraction."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 17,
+"question": "During an evaluation of adrenal function, a patient had plasma cortisol determination in the morning after awakening and in the evening. Laboratory results indicated that the morning value was higher than the evening concentration. This is indicative of?",
+"options": [
+{
+"text": "A normal finding",
+"feedback": "Correct! Cortisol follows a diurnal rhythm with the highest levels in the early morning and lowest in the late evening."
+},
+{
+"text": "Hypopituitarism",
+"feedback": "Incorrect. In hypopituitarism, cortisol levels would be low, but the diurnal rhythm may still be present."
+},
+{
+"text": "Addison's disease",
+"feedback": "Incorrect. In Addison's disease, cortisol levels are low and the rhythm may be blunted, but a higher morning value is still a normal diurnal variation."
+},
+{
+"text": "Cushing's syndrome",
+"feedback": "Incorrect. Cushing's syndrome often results in loss of the diurnal rhythm, with cortisol levels remaining elevated throughout the day."
+}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 18,
+"question": "Respiratory acidosis may develop due to?",
+"options": [
+{
+"text": "Pyelonephritis",
+"feedback": "Incorrect. Pyelonephritis is a kidney infection and does not directly cause respiratory acidosis."
+},
+{
+"text": "Prolonged starvation",
+"feedback": "Incorrect. Prolonged starvation leads to metabolic acidosis due to ketone body production."
+},
+{
+"text": "Diarrhea",
+"feedback": "Incorrect. Diarrhea causes metabolic acidosis due to loss of bicarbonate."
+},
+{
+"text": "Hypoventilation",
+"feedback": "Correct! Hypoventilation leads to retention of CO2, causing respiratory acidosis."
+}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 19,
+"question": "Which of the following is the formula for calculating the unknown concentration based on Beer's Law (A = absorbance, C = Concentration)?",
+"options": [
+{
+"text": "A standard x A unknown",
+"feedback": "Incorrect. This is not the correct formula for calculating concentration."
+},
+{
+"text": "(A unknown/A standard) x C standard",
+"feedback": "Correct! This formula, derived from Beer-Lambert Law, calculates the unknown concentration from the absorbance of the unknown and standard."
+},
+{
+"text": "C standard x A unknown",
+"feedback": "Incorrect. This formula would not give the correct concentration."
+},
+{
+"text": "(C standard)/(A standard) x 100",
+"feedback": "Incorrect. This formula does not account for the absorbance of the unknown sample."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 20,
+"question": "Most of the carbon dioxide present in the blood is in the form of?",
+"options": [
+{
+"text": "Bicarbonate ion",
+"feedback": "Correct! About 90% of CO2 in the blood is transported as bicarbonate ions (HCO3-)."
+},
+{
+"text": "Carbonate",
+"feedback": "Incorrect. Carbonate is not a major form of CO2 transport in the blood."
+},
+{
+"text": "Dissolved CO2",
+"feedback": "Incorrect. Only about 5-10% of CO2 is transported as dissolved gas."
+},
+{
+"text": "Carbonic acid",
+"feedback": "Incorrect. Carbonic acid (H2CO3) is present but in very small amounts; it is an intermediate form."
+}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 21,
+"question": "A technician measures the intensity of blue color produced during protein estimation. Which instrument is commonly used?",
+"options": [
+{
+"text": "Microscope",
+"feedback": "Incorrect. A microscope is used for visualizing small objects, not for measuring color intensity."
+},
+{
+"text": "Oven",
+"feedback": "Incorrect. An oven is used for drying or heating, not for measuring color intensity."
+},
+{
+"text": "Colorimeter",
+"feedback": "Correct! A colorimeter is used to measure the intensity of color in a solution, which is proportional to the analyte concentration."
+},
+{
+"text": "Incubator",
+"feedback": "Incorrect. An incubator is used for maintaining optimal temperature for biological reactions."
+}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 22,
+"question": "Which of the following electrolytes is the chief plasma cation whose main function is maintaining osmotic pressure?",
+"options": [
+{
+"text": "Potassium",
+"feedback": "Incorrect. Potassium is the chief intracellular cation, not the chief plasma cation."
+},
+{
+"text": "Sodium",
+"feedback": "Correct! Sodium is the main extracellular cation and plays a crucial role in maintaining osmotic pressure and fluid balance."
+},
+{
+"text": "Chloride",
+"feedback": "Incorrect. Chloride is an anion, not a cation, and primarily functions in acid-base balance."
+},
+{
+"text": "Calcium",
+"feedback": "Incorrect. Calcium is important for bone structure and muscle function, not the primary function of osmotic pressure."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 23,
+"question": "A likely cause of falsely low potassium results is?",
+"options": [
+{
+"text": "Increased sample volume",
+"feedback": "Incorrect. Increased sample volume is unlikely to cause falsely low potassium results."
+},
+{
+"text": "Improper calibration or instrument bias",
+"feedback": "Correct! Improper calibration or bias in the instrument can lead to consistently low (or high) results."
+},
+{
+"text": "Delayed centrifugation",
+"feedback": "Incorrect. Delayed centrifugation often causes potassium to leak from cells, leading to falsely high results, not low."
+},
+{
+"text": "Hemolysis of samples",
+"feedback": "Incorrect. Hemolysis releases intracellular potassium, causing falsely elevated potassium results."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 24,
+"question": "Maximal activity of Creatine Kinase is revealed in?",
+"options": [
+{
+"text": "Spleen",
+"feedback": "Incorrect. The spleen has very little creatine kinase activity."
+},
+{
+"text": "Prostate gland",
+"feedback": "Incorrect. Prostate gland contains some creatine kinase, but not the highest activity."
+},
+{
+"text": "Heart muscle",
+"feedback": "Correct! Heart muscle has high creatine kinase activity, specifically the CK-MB isoenzyme."
+},
+{
+"text": "Kidneys",
+"feedback": "Incorrect. Kidneys have relatively low creatine kinase activity."
+},
+{
+"text": "Pancreas",
+"feedback": "Incorrect. Pancreas has low creatine kinase activity."
+}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 25,
+"question": "Measurement of total T4 by competitive protein binding or displacement is based on the specific binding properties of?",
+"options": [
+{
+"text": "Thyroid-stimulating hormone",
+"feedback": "Incorrect. TSH is a hormone that stimulates the thyroid, not a binding protein for T4."
+},
+{
+"text": "Thyroxine-binding globulin",
+"feedback": "Correct! TBG is the primary transport protein for T4, and competitive protein binding assays utilize this binding for T4 measurement."
+},
+{
+"text": "Thyroxine-binding prealbumin",
+"feedback": "Incorrect. Transthyretin (prealbumin) binds T4 but is less specific than TBG for the assay."
+},
+{
+"text": "Albumin",
+"feedback": "Incorrect. Albumin can bind T4 but is not the specific binding protein used in competitive protein binding assays."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 26,
+"question": "Bile acid concentrations are useful to assess?",
+"options": [
+{
+"text": "Hepatobiliary disease",
+"feedback": "Correct! Bile acid levels are elevated in liver diseases and are used to assess hepatobiliary function."
+},
+{
+"text": "Kidney function",
+"feedback": "Incorrect. Bile acids are not typically used to assess kidney function; creatinine and urea are used for that purpose."
+},
+{
+"text": "Diabetes mellitus",
+"feedback": "Incorrect. Bile acids are not used to diagnose or monitor diabetes mellitus."
+},
+{
+"text": "Intestinal Malabsorption",
+"feedback": "Incorrect. While bile acids are involved in fat absorption, their measurement is not a primary test for intestinal malabsorption."
+}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 27,
+"question": "CK-MB returns to normal approximately?",
+"options": [
+{
+"text": "7-10 days",
+"feedback": "Incorrect. CK-MB typically returns to normal much sooner than 7-10 days."
+},
+{
+"text": "2-3 days",
+"feedback": "Correct! CK-MB levels peak at 12-24 hours and return to normal within 2-3 days following myocardial infarction."
+},
+{
+"text": "24-48 hours",
+"feedback": "Incorrect. CK-MB returns to normal after 48-72 hours, with 2-3 days being the most accurate statement."
+},
+{
+"text": "12 hours",
+"feedback": "Incorrect. CK-MB peaks at around 12 hours but does not return to normal until 2-3 days."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 28,
+"question": "Calibration of an automated analyzer is important to?",
+"options": [
+{
+"text": "Increase sample size",
+"feedback": "Incorrect. Calibration does not affect sample size."
+},
+{
+"text": "Ensure accurate results",
+"feedback": "Correct! Calibration is essential to ensure the instrument's accuracy and reliability."
+},
+{
+"text": "Decorate the instrument",
+"feedback": "Incorrect. Calibration is a functional process, not for decoration."
+},
+{
+"text": "Reduce electricity use",
+"feedback": "Incorrect. Calibration does not affect electricity consumption."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 29,
+"question": "When a hormone name ends in 'tropic' what does this mean?",
+"options": [
+{
+"text": "It means the hormone affects another 'target' endocrine gland",
+"feedback": "Correct! The suffix '-tropic' refers to hormones that stimulate other endocrine glands, such as TSH (thyroid-stimulating hormone)."
+},
+{
+"text": "The hormone stimulates the metabolism of the cell it contacts",
+"feedback": "Incorrect. This describes a metabolic effect, not specifically a tropic hormone."
+},
+{
+"text": "It means the hormone always enters the cell and turns on and off portions of the cell's DNA",
+"feedback": "Incorrect. This describes steroid hormone action, not tropic hormones."
+},
+{
+"text": "It means it is a posterior pituitary hormone",
+"feedback": "Incorrect. Oxytocin and ADH are posterior pituitary hormones, but they do not end in 'tropic'."
+}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 30,
+"question": "Patient complains of an onset of acute retrotemporal pain. Laboratory investigation revealed increased activity of serum Creatine Kinase. Suspected diagnosis is?",
+"options": [
+{
+"text": "Acute viral hepatitis",
+"feedback": "Incorrect. Acute viral hepatitis causes elevated AST and ALT, not primarily CK."
+},
+{
+"text": "Acute pancreatitis",
+"feedback": "Incorrect. Acute pancreatitis causes elevated amylase and lipase, not CK."
+},
+{
+"text": "Myocardial infarction",
+"feedback": "Correct! Elevated CK (especially CK-MB) and acute chest pain are classic signs of myocardial infarction."
+},
+{
+"text": "Renal calculi",
+"feedback": "Incorrect. Renal stones cause pain in the flank/back and do not elevate CK."
+},
+{
+"text": "Acute pleuritis",
+"feedback": "Incorrect. Pleuritis causes chest pain but does not typically elevate CK."
+}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 31,
+"question": "Estrogen and progesterone receptor assays are useful in assessing prognosis in which of the following?",
+"options": [
+{
+"text": "Breast Cancer",
+"feedback": "Correct! Estrogen and progesterone receptor status is a key prognostic factor and therapeutic marker in breast cancer management."
+},
+{
+"text": "Amenorrhea",
+"feedback": "Incorrect. Receptor assays are not used in the routine evaluation of amenorrhea."
+},
+{
+"text": "Ovarian Cancer",
+"feedback": "Incorrect. While estrogen and progesterone receptors may be present in some ovarian cancers, they are not the primary prognostic markers used."
+},
+{
+"text": "Endometriosis",
+"feedback": "Incorrect. Receptor assays are not a standard part of endometriosis diagnosis or prognosis."
+}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 32,
+"question": "A 48-year-old man with diabetes symptoms. Which complication may occur if diabetes mellitus remains uncontrolled?",
+"options": [
+{
+"text": "Peptic ulcer disease",
+"feedback": "Incorrect. Uncontrolled diabetes is not directly associated with peptic ulcer disease."
+},
+{
+"text": "Blindness and kidney disease",
+"feedback": "Correct! Uncontrolled diabetes can lead to microvascular complications such as retinopathy (blindness) and nephropathy (kidney disease)."
+},
+{
+"text": "Asthma",
+"feedback": "Incorrect. Diabetes does not cause asthma."
+},
+{
+"text": "Hypertension only",
+"feedback": "Incorrect. While hypertension is a complication, it is not the only one; blindness and kidney disease are also major complications."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 33,
+"question": "The main reason of hypernatraemia is?",
+"options": [
+{
+"text": "Conn's syndrome",
+"feedback": "Correct! Conn's syndrome (primary hyperaldosteronism) causes sodium retention and potassium loss, leading to hypernatremia."
+},
+{
+"text": "Hypovitaminosis D",
+"feedback": "Incorrect. Vitamin D deficiency affects calcium metabolism, not sodium."
+},
+{
+"text": "Pheochromocytoma",
+"feedback": "Incorrect. Pheochromocytoma causes hypertension due to catecholamine excess, not primarily hypernatremia."
+},
+{
+"text": "Parathyroid adenoma",
+"feedback": "Incorrect. Parathyroid adenoma causes hypercalcemia, not hypernatremia."
+},
+{
+"text": "Addison's disease",
+"feedback": "Incorrect. Addison's disease causes hyponatremia due to decreased aldosterone."
+}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 34,
+"question": "An arterial blood specimen submitted for blood gas analysis was obtained at 8:30 am but was not received in the laboratory until 11:00 am. The technologist should?",
+"options": [
+{
+"text": "Request a new arterial specimen be obtained",
+"feedback": "Correct! Blood gas specimens are unstable due to continued cellular metabolism. The delay of 2.5 hours makes the results unreliable, so a new specimen should be collected."
+},
+{
+"text": "Request a venous blood specimen",
+"feedback": "Incorrect. Venous blood cannot be used for arterial blood gas analysis."
+},
+{
+"text": "Perform the test immediately upon receipt",
+"feedback": "Incorrect. The delay has already compromised the specimen; the results would be inaccurate."
+},
+{
+"text": "Perform the test only if the specimen was submitted in ice water",
+"feedback": "Incorrect. Even if kept on ice, a 2.5-hour delay is unacceptable for accurate blood gas results."
+}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 35,
+"question": "In the Jaffe reaction, creatinine reacts with?",
+"options": [
+{
+"text": "Alkaline picrate solution to yield an orange-red complex",
+"feedback": "Correct! The Jaffe reaction is based on the reaction of creatinine with alkaline picrate to form a chromogen (orange-red complex)."
+},
+{
+"text": "Alkaline sulfasalazine solution to produce an orange-yellow complex",
+"feedback": "Incorrect. Alkaline sulfasalazine is not a reagent used in the Jaffe reaction."
+},
+{
+"text": "Potassium iodide to form a reddish-purple complex",
+"feedback": "Incorrect. Potassium iodide does not react with creatinine in the Jaffe reaction."
+},
+{
+"text": "Sodium nitroferricyanide to yield a reddish-brown color",
+"feedback": "Incorrect. Sodium nitroferricyanide is used in the reaction for urinary ketones, not creatinine."
+}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 36,
+"question": "One QC result exceeding 2 SD above the mean once, while other results are normal. This pattern most likely represents?",
+"options": [
+{
+"text": "Random error",
+"feedback": "Correct! A single isolated point exceeding 2 SD is most often due to random error, assuming the system is otherwise in control."
+},
+{
+"text": "Calibration shift",
+"feedback": "Incorrect. A calibration shift would cause a systematic change affecting all subsequent results, not just one point."
+},
+{
+"text": "Systematic error",
+"feedback": "Incorrect. Systematic errors affect all results consistently, not just one point."
+},
+{
+"text": "Trend error",
+"feedback": "Incorrect. A trend would show a gradual drift in one direction over several points."
+}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 37,
+"question": "The speed of a centrifuge is usually measured in?",
+"options": [
+{
+"text": "Watts",
+"feedback": "Incorrect. Watts are a unit of power."
+},
+{
+"text": "Volts",
+"feedback": "Incorrect. Volts are a unit of electrical potential."
+},
+{
+"text": "Amperes",
+"feedback": "Incorrect. Amperes are a unit of electrical current."
+},
+{
+"text": "RPM",
+"feedback": "Correct! RPM stands for revolutions per minute, which is the standard measure of centrifuge speed."
+}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 38,
+"question": "A potassium level of 6.8 mEq/L is obtained. Before reporting the results, the first step the technologist should take is to?",
+"options": [
+{
+"text": "Rerun the test",
+"feedback": "Incorrect. While rerunning is a possibility, the first step is to check for sample integrity."
+},
+{
+"text": "Check the age of the patient",
+"feedback": "Incorrect. Age doesn't affect potassium levels to this degree."
+},
+{
+"text": "Check the serum for hemolysis",
+"feedback": "Correct! Hemolysis can cause a pseudohyperkalemia. Checking for hemolysis is the first and most important step."
+},
+{
+"text": "Do nothing, simply report the result",
+"feedback": "Incorrect. The result is critically high and must be verified before reporting."
+}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 39,
+"question": "Which flame is commonly used in flame photometry?",
+"options": [
+{
+"text": "Nitrogen flame",
+"feedback": "Incorrect. Nitrogen flame is not typically used in flame photometry."
+},
+{
+"text": "Oxygen-hydrogen flame",
+"feedback": "Incorrect. While used in some applications, the oxygen-hydrogen flame is less common than air-acetylene."
+},
+{
+"text": "Air-acetylene flame",
+"feedback": "Correct! The air-acetylene flame is the most commonly used flame in flame photometry for measuring sodium, potassium, and lithium."
+},
+{
+"text": "Helium flame",
+"feedback": "Incorrect. Helium flame is not used in standard flame photometry."
+}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 40,
+"question": "Calcium concentration in the serum is regulated by?",
+"options": [
+{
+"text": "Parathyroid hormone",
+"feedback": "Correct! PTH is the primary hormone regulating serum calcium levels by acting on bone, kidneys, and intestine."
+},
+{
+"text": "Insulin",
+"feedback": "Incorrect. Insulin regulates blood glucose, not calcium."
+},
+{
+"text": "Vitamin C",
+"feedback": "Incorrect. Vitamin C is not a major regulator of calcium."
+},
+{
+"text": "Thyroxin",
+"feedback": "Incorrect. Thyroxine (T4) is a thyroid hormone that primarily regulates metabolism."
+}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 41,
+"question": "In flame photometry, atoms emit light when they?",
+"options": [
+{
+"text": "Are heated in a flame",
+"feedback": "Correct! Atoms are excited by the heat of the flame, and as they return to their ground state, they emit light at characteristic wavelengths."
+},
+{
+"text": "Are filtered",
+"feedback": "Incorrect. Filtering does not cause emission of light."
+},
+{
+"text": "Lose electrons",
+"feedback": "Incorrect. While ionization can occur, emission is due to the excitation of electrons to higher energy states."
+},
+{
+"text": "Undergo centrifugation",
+"feedback": "Incorrect. Centrifugation does not cause atomic excitation."
+}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 42,
+"question": "Hypokalemia may develop in?",
+"options": [
+{
+"text": "Vomiting",
+"feedback": "Correct! Vomiting causes loss of potassium and hydrogen ions, which can lead to hypokalemia and metabolic alkalosis."
+},
+{
+"text": "Sepsis",
+"feedback": "Incorrect. Sepsis can cause various electrolyte disturbances, but hypokalemia is not the most common finding."
+},
+{
+"text": "Acute and chronic renal failure",
+"feedback": "Incorrect. Renal failure typically causes hyperkalemia due to decreased excretion of potassium."
+},
+{
+"text": "Crush syndrome",
+"feedback": "Incorrect. Crush syndrome can cause hyperkalemia due to release of potassium from damaged muscles."
+}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 43,
+"question": "Elevated serum lipase is most commonly associated with?",
+"options": [
+{
+"text": "Acute pancreatitis",
+"feedback": "Correct! Lipase is more specific than amylase for acute pancreatitis, and its elevation is a key diagnostic indicator."
+},
+{
+"text": "Renal stones",
+"feedback": "Incorrect. Renal stones do not typically elevate lipase."
+},
+{
+"text": "Peptic ulcer",
+"feedback": "Incorrect. Peptic ulcer is not associated with elevated lipase."
+},
+{
+"text": "Liver cirrhosis",
+"feedback": "Incorrect. Liver cirrhosis primarily affects liver function tests, not lipase."
+}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 44,
+"question": "Persistent low results compared to target values in EQA indicate?",
+"options": [
+{
+"text": "Random error",
+"feedback": "Incorrect. Random errors do not cause persistent bias in one direction."
+},
+{
+"text": "Pre-analytical contamination",
+"feedback": "Incorrect. Pre-analytical issues would cause variable errors, not a consistent low result."
+},
+{
+"text": "Good precision",
+"feedback": "Incorrect. Good precision means consistent results, but not necessarily accurate ones."
+},
+{
+"text": "Systematic bias",
+"feedback": "Correct! Persistent low results relative to the target indicate a systematic bias (constant error) in the methodology or calibration."
+}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 45,
+"question": "Increased activity of serum Creatine Kinase is revealed in?",
+"options": [
+{
+"text": "Alcoholic intoxication",
+"feedback": "Incorrect. Alcoholic intoxication is not a primary cause of CK elevation."
+},
+{
+"text": "Pyelonephritis",
+"feedback": "Incorrect. Pyelonephritis is not associated with significant CK elevation."
+},
+{
+"text": "Muscular traumas, Muscular dystrophy",
+"feedback": "Correct! Muscle damage from trauma or diseases like muscular dystrophy releases large amounts of CK-MM into the blood."
+}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 46,
+"question": "A 50-year-old man presents with fatigue, joint pain, and skin pigmentation. Laboratory findings: Serum iron = High, Ferritin = High, Transferrin saturation = Increased, Liver enzymes = Elevated. Excess iron is mainly stored in the form of?",
+"options": [
+{
+"text": "Globulin",
+"feedback": "Incorrect. Globulin is a plasma protein, not a storage form of iron."
+},
+{
+"text": "Bilirubin",
+"feedback": "Incorrect. Bilirubin is a breakdown product of heme, not a storage form of iron."
+},
+{
+"text": "Albumin",
+"feedback": "Incorrect. Albumin is a transport protein, not a storage form of iron."
+},
+{
+"text": "Ferritin and hemosiderin",
+"feedback": "Correct! Iron is stored in the body primarily as ferritin and hemosiderin. The clinical picture suggests hemochromatosis."
+}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 47,
+"question": "The main physiological function of haptoglobin is?",
+"options": [
+{
+"text": "Takes part in immunological reactions",
+"feedback": "Incorrect. Haptoglobin is not a primary component of the immune system."
+},
+{
+"text": "Takes part in blood coagulation",
+"feedback": "Incorrect. Haptoglobin is not involved in the coagulation cascade."
+},
+{
+"text": "Binding of haemoglobin",
+"feedback": "Correct! Haptoglobin binds free hemoglobin released from red blood cells, preventing its excretion in the kidneys and conserving iron."
+},
+{
+"text": "Acute phase protein",
+"feedback": "Incorrect. While haptoglobin is an acute phase reactant, its main physiological function is binding hemoglobin."
+}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 48,
+"question": "Flame photometry is mainly used to measure?",
+"options": [
+{
+"text": "Hormones",
+"feedback": "Incorrect. Hormones are not typically measured by flame photometry."
+},
+{
+"text": "Electrolytes",
+"feedback": "Correct! Flame photometry is primarily used to measure the concentrations of sodium, potassium, and lithium."
+},
+{
+"text": "Enzymes",
+"feedback": "Incorrect. Enzymes are measured using spectrophotometric methods, not flame photometry."
+},
+{
+"text": "Proteins",
+"feedback": "Incorrect. Proteins are usually measured by colorimetric (e.g., biuret) or other methods, not flame photometry."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 49,
+"question": "A reciprocal relationship exists between?",
+"options": [
+{
+"text": "Calcium and magnesium",
+"feedback": "Incorrect. While calcium and magnesium have some interactions, they are not strictly reciprocal."
+},
+{
+"text": "Chloride and CO2",
+"feedback": "Incorrect. This is not a classic reciprocal relationship."
+},
+{
+"text": "Calcium and phosphorus",
+"feedback": "Correct! There is a reciprocal relationship between calcium and phosphate, regulated by PTH and calcitriol; when one is high, the other tends to be low."
+},
+{
+"text": "Sodium and potassium",
+"feedback": "Incorrect. There is a relationship, but not a simple reciprocal one."
+}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 50,
+"question": "Which anticoagulant is used for determination of parameters of acid-base balance?",
+"options": [
+{
+"text": "Citrate",
+"feedback": "Incorrect. Citrate is used for coagulation studies."
+},
+{
+"text": "Oxalate",
+"feedback": "Incorrect. Oxalate is used for glucose preservation."
+},
+{
+"text": "Heparin Li",
+"feedback": "Incorrect. Lithium heparin is used for some chemistry tests but is not recommended for blood gas analysis."
+},
+{
+"text": "Heparin-Na",
+"feedback": "Correct! Sodium heparin is the anticoagulant of choice for arterial blood gas analysis because it does not significantly affect pH or electrolytes."
+},
+{
+"text": "EDTA",
+"feedback": "Incorrect. EDTA is used for hematology studies."
+}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 51,
+"question": "Major actions of angiotensin II include?",
+"options": [
+{
+"text": "Increased parathyroid hormone secretion",
+"feedback": "Incorrect. Angiotensin II does not directly increase PTH secretion."
+},
+{
+"text": "Decreased adrenal secretion of aldosterone",
+"feedback": "Incorrect. Angiotensin II stimulates, not decreases, aldosterone secretion."
+},
+{
+"text": "Increased pituitary secretion of rennin",
+"feedback": "Incorrect. Angiotensin II causes vasoconstriction and increases blood pressure, but does not stimulate renin secretion."
+},
+{
+"text": "Increased vasoconstriction",
+"feedback": "Correct! Angiotensin II is a potent vasoconstrictor and stimulates the release of aldosterone."
+}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 52,
+"question": "The color intensity produced in flame photometry is directly proportional to?",
+"options": [
+{
+"text": "Concentration of the element",
+"feedback": "Correct! The intensity of the light emitted is directly proportional to the concentration of the element in the sample."
+},
+{
+"text": "Temperature",
+"feedback": "Incorrect. While temperature affects emission, the intensity is linearly related to concentration."
+},
+{
+"text": "Pressure",
+"feedback": "Incorrect. Pressure is not directly proportional to color intensity."
+},
+{
+"text": "Sample volume",
+"feedback": "Incorrect. The concentration is the key factor, not the absolute volume."
+}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 53,
+"question": "Two standard deviations is the acceptable limit of error in the chemistry laboratory. If you run the normal control 100 times, how many of the values would be out of control due to random error?",
+"options": [
+{
+"text": "10",
+"feedback": "Incorrect. In a normal distribution, 10% of values would not be outside the mean ± 2SD."
+},
+{
+"text": "20",
+"feedback": "Incorrect. In a normal distribution, 20% of values would not be outside the mean ± 2SD."
+},
+{
+"text": "1",
+"feedback": "Incorrect. In a normal distribution, 1% of values would be outside the mean ± 2.58SD, not ±2SD."
+},
+{
+"text": "5",
+"feedback": "Correct! Approximately 5% of values fall outside the mean ± 2 standard deviations in a normal distribution."
+}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 54,
+"question": "The anion gap is useful for QC of laboratory results for?",
+"options": [
+{
+"text": "Blood gas analyses",
+"feedback": "Incorrect. While related, the anion gap is not directly used for blood gas QC."
+},
+{
+"text": "Sodium, potassium, chloride, and total CO2",
+"feedback": "Correct! The anion gap is calculated using sodium, potassium, chloride, and bicarbonate (total CO2) to check for consistency in these electrolyte results."
+},
+{
+"text": "Amino acids and proteins",
+"feedback": "Incorrect. Amino acids and proteins are not part of the anion gap calculation."
+},
+{
+"text": "Calcium and magnesium",
+"feedback": "Incorrect. Calcium and magnesium are not used in the standard anion gap calculation."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 55,
+"question": "Which enzyme activity grows in increased bone resorption?",
+"options": [
+{
+"text": "Lactate Dehydrogenase",
+"feedback": "Incorrect. LDH is a general marker of cell damage, not specific to bone resorption."
+},
+{
+"text": "Catalase",
+"feedback": "Incorrect. Catalase is an enzyme that breaks down hydrogen peroxide."
+},
+{
+"text": "Alkaline Phosphatase",
+"feedback": "Correct! Alkaline phosphatase is an enzyme found in bone, and its activity increases during bone turnover and resorption."
+},
+{
+"text": "Acid Phosphatase",
+"feedback": "Incorrect. Acid phosphatase is elevated in prostate cancer, not bone resorption."
+},
+{
+"text": "Amino Transferases",
+"feedback": "Incorrect. Aminotransferases are markers of liver damage."
+}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 56,
+"question": "Maximal activity of ALT is revealed in?",
+"options": [
+{
+"text": "Lungs",
+"feedback": "Incorrect. Lungs have low ALT activity."
+},
+{
+"text": "Liver",
+"feedback": "Correct! Alanine aminotransferase (ALT) is primarily found in the liver, making its elevation a specific indicator of liver damage."
+},
+{
+"text": "Skeletal muscles",
+"feedback": "Incorrect. Skeletal muscles contain some ALT, but its activity is much lower than in the liver."
+},
+{
+"text": "Kidneys",
+"feedback": "Incorrect. Kidneys have low ALT activity."
+},
+{
+"text": "Pancreas",
+"feedback": "Incorrect. Pancreas has low ALT activity."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 57,
+"question": "Which enzymes activity is increased in pancreatitis?",
+"options": [
+{
+"text": "Urokinase",
+"feedback": "Incorrect. Urokinase is involved in fibrinolysis, not pancreatitis."
+},
+{
+"text": "Alkaline Phosphatase",
+"feedback": "Incorrect. ALP is elevated in liver and bone diseases, not primarily in pancreatitis."
+},
+{
+"text": "α-Amylase",
+"feedback": "Correct! α-Amylase is elevated in acute pancreatitis due to leakage from the pancreatic cells."
+},
+{
+"text": "Acid Phosphatase",
+"feedback": "Incorrect. Acid phosphatase is elevated in prostate cancer, not pancreatitis."
+},
+{
+"text": "γ-Glutamyl Transpeptidase",
+"feedback": "Incorrect. GGT is a liver enzyme, not typically elevated in acute pancreatitis."
+}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 58,
+"question": "Which part of the centrifuge holds the sample tubes?",
+"options": [
+{
+"text": "Condenser",
+"feedback": "Incorrect. A condenser is used in distillation, not centrifugation."
+},
+{
+"text": "Rotor",
+"feedback": "Correct! The rotor is the rotating part of the centrifuge that holds the sample tubes in buckets or fixed-angle positions."
+},
+{
+"text": "Filter",
+"feedback": "Incorrect. A filter is used for separation based on size, not centrifugation."
+},
+{
+"text": "Detector",
+"feedback": "Incorrect. A detector is used in analytical instruments like spectrophotometers."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 59,
+"question": "Hypertriglyceridemia increases the risk of?",
+"options": [
+{
+"text": "Hypoglycemia",
+"feedback": "Incorrect. Hypertriglyceridemia is associated with hyperglycemia, not hypoglycemia."
+},
+{
+"text": "Leukemia",
+"feedback": "Incorrect. There is no direct link between hypertriglyceridemia and leukemia."
+},
+{
+"text": "Pancreatitis",
+"feedback": "Correct! Marked hypertriglyceridemia (especially >1000 mg/dL) is a risk factor for acute pancreatitis."
+},
+{
+"text": "Anemia",
+"feedback": "Incorrect. Hypertriglyceridemia does not directly cause anemia."
+}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 60,
+"question": "Which component separates light into different wavelengths in a spectrophotometer?",
+"options": [
+{
+"text": "Cuvette",
+"feedback": "Incorrect. The cuvette holds the sample and allows light to pass through but does not separate wavelengths."
+},
+{
+"text": "Monochromator",
+"feedback": "Correct! The monochromator (e.g., prism or diffraction grating) separates light into its component wavelengths."
+},
+{
+"text": "Light source",
+"feedback": "Incorrect. The light source produces the light but does not separate wavelengths."
+},
+{
+"text": "Detector",
+"feedback": "Incorrect. The detector measures the intensity of transmitted light but does not separate wavelengths."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 61,
+"question": "A common cause of respiratory alkalosis is?",
+"options": [
+{
+"text": "Hyperventilation",
+"feedback": "Correct! Hyperventilation causes excessive elimination of CO2, leading to decreased PCO2 and respiratory alkalosis."
+},
+{
+"text": "Asthma",
+"feedback": "Incorrect. Asthma often leads to respiratory acidosis due to hypoventilation."
+},
+{
+"text": "Starvation",
+"feedback": "Incorrect. Starvation leads to metabolic acidosis, not respiratory alkalosis."
+},
+{
+"text": "Vomiting",
+"feedback": "Incorrect. Vomiting leads to metabolic alkalosis."
+}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 62,
+"question": "The most frequent value in a collection of data is statistically known as the?",
+"options": [
+{
+"text": "Mean",
+"feedback": "Incorrect. The mean is the arithmetic average of all values."
+},
+{
+"text": "Median",
+"feedback": "Incorrect. The median is the middle value in an ordered data set."
+},
+{
+"text": "Mode",
+"feedback": "Correct! The mode is the value that appears most frequently in a data set."
+},
+{
+"text": "Standard deviation",
+"feedback": "Incorrect. Standard deviation is a measure of the spread of data."
+}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 63,
+"question": "Which of the following is an advantage of automation?",
+"options": [
+{
+"text": "Increased contamination",
+"feedback": "Incorrect. Automation typically reduces the risk of contamination."
+},
+{
+"text": "High throughput",
+"feedback": "Correct! Automation allows for the processing of a large number of samples in a short period (high throughput)."
+},
+{
+"text": "Reduced precision",
+"feedback": "Incorrect. Automation generally improves precision."
+},
+{
+"text": "Increased manual calculation",
+"feedback": "Incorrect. Automation reduces manual calculations."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 64,
+"question": "Apolipoprotein B (ApoB) is mainly associated with?",
+"options": [
+{
+"text": "Albumin",
+"feedback": "Incorrect. ApoB is not associated with albumin."
+},
+{
+"text": "HDL",
+"feedback": "Incorrect. ApoA-I is the major apolipoprotein in HDL, not ApoB."
+},
+{
+"text": "LDL and VLDL",
+"feedback": "Correct! ApoB-100 is the major apolipoprotein of LDL and VLDL, and ApoB-48 is found in chylomicrons."
+},
+{
+"text": "Chylomicrons only",
+"feedback": "Incorrect. ApoB-48 is found in chylomicrons, but ApoB-100 is in LDL and VLDL."
+}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 65,
+"question": "Specimens for blood gas determination should be drawn into a syringe containing?",
+"options": [
+{
+"text": "EDTA",
+"feedback": "Incorrect. EDTA is used for hematology studies, not blood gases."
+},
+{
+"text": "No preservatives",
+"feedback": "Incorrect. Blood gas specimens require an anticoagulant to prevent clotting."
+},
+{
+"text": "Heparin",
+"feedback": "Correct! Heparin is the anticoagulant of choice for blood gas specimens."
+},
+{
+"text": "Oxalate",
+"feedback": "Incorrect. Oxalate is used for glucose preservation."
+}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 66,
+"question": "The amino acid, tyrosine, has 4 iodines attached to the ring structures. What is the correct name of this hormone?",
+"options": [
+{
+"text": "Triiodothyronine",
+"feedback": "Incorrect. Triiodothyronine (T3) has 3 iodines."
+},
+{
+"text": "Calcitonin",
+"feedback": "Incorrect. Calcitonin is a hormone produced by the thyroid that regulates calcium, but it does not contain iodine."
+},
+{
+"text": "Tetraiodothyronine",
+"feedback": "Correct! Tetraiodothyronine (T4) or thyroxine has 4 iodine atoms attached to tyrosine."
+},
+{
+"text": "Tetrahydrogenous",
+"feedback": "Incorrect. This is not a hormone name."
+}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 67,
+"question": "Simmond's Disease is an adult disease of not enough?",
+"options": [
+{
+"text": "CH",
+"feedback": "Correct! Simmond's disease is panhypopituitarism, characterized by deficient secretion of all anterior pituitary hormones, including growth hormone (GH)."
+},
+{
+"text": "Cortisol",
+"feedback": "Incorrect. Simmond's disease involves a deficiency of multiple pituitary hormones, not just cortisol."
+},
+{
+"text": "Insulin",
+"feedback": "Incorrect. Simmond's disease is not primarily a deficiency of insulin."
+},
+{
+"text": "ADH",
+"feedback": "Incorrect. ADH deficiency is central diabetes insipidus, not Simmond's disease."
+},
+{
+"text": "PTH",
+"feedback": "Incorrect. PTH is a parathyroid hormone, not a pituitary hormone."
+}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 68,
+"question": "A 68-year-old patient with chronic obstructive pulmonary disease (COPD) presents with difficulty breathing. ABC results: pH = 7.30, PaCO2 = 60 mmHg, HCO3 = 28 mmol/L. The elevated PaCO2 is due to?",
+"options": [
+{
+"text": "Vomiting",
+"feedback": "Incorrect. Vomiting causes metabolic alkalosis."
+},
+{
+"text": "Hypoventilation",
+"feedback": "Correct! COPD causes hypoventilation, leading to CO2 retention and elevated PaCO2, which causes respiratory acidosis."
+},
+{
+"text": "Renal failure",
+"feedback": "Incorrect. Renal failure causes metabolic acidosis, not elevated PaCO2."
+},
+{
+"text": "Hyperventilation",
+"feedback": "Incorrect. Hyperventilation would lower PaCO2, not elevate it."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 69,
+"question": "Determination of which enzyme activity is the most significant in pancreatic injury?",
+"options": [
+{
+"text": "α-Amylase",
+"feedback": "Correct! α-Amylase is significantly elevated in acute pancreatic injury."
+},
+{
+"text": "Creatine Kinase",
+"feedback": "Incorrect. Creatine kinase is elevated in muscle damage, not pancreatic injury."
+},
+{
+"text": "LDH",
+"feedback": "Incorrect. LDH is elevated in many conditions, including hemolysis and tissue damage, but is less specific for the pancreas."
+},
+{
+"text": "γ-Glutamyl Transpeptidase",
+"feedback": "Incorrect. GGT is elevated in liver and biliary diseases."
+},
+{
+"text": "Cholinesterase",
+"feedback": "Incorrect. Cholinesterase is used to monitor liver function, not pancreatic injury."
+}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 70,
+"question": "The extent to which measurements agree with the true value of the quantity being measured is known as?",
+"options": [
+{
+"text": "Reliability",
+"feedback": "Incorrect. Reliability is a broader term that encompasses both precision and accuracy."
+},
+{
+"text": "Accuracy",
+"feedback": "Correct! Accuracy is the closeness of a measurement to the true or accepted value."
+},
+{
+"text": "Reproducibility",
+"feedback": "Incorrect. Reproducibility is a measure of precision, not accuracy."
+},
+{
+"text": "Precision",
+"feedback": "Incorrect. Precision is the degree of agreement between repeated measurements."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 71,
+"question": "Which diseases are accompanied by decreased fibrinogen level?",
+"options": [
+{
+"text": "Myocardial infarction",
+"feedback": "Incorrect. Fibrinogen is an acute phase reactant and increases in MI."
+},
+{
+"text": "Uraemia",
+"feedback": "Incorrect. Uremia may have normal or slightly affected fibrinogen levels."
+},
+{
+"text": "Chronic liver diseases",
+"feedback": "Correct! Fibrinogen is synthesized in the liver, so chronic liver disease leads to decreased fibrinogen levels."
+},
+{
+"text": "Rheumatoid arthritis",
+"feedback": "Incorrect. Fibrinogen is an acute phase reactant and is elevated in rheumatoid arthritis."
+},
+{
+"text": "Glomerulonephritis",
+"feedback": "Incorrect. Glomerulonephritis is not typically associated with decreased fibrinogen."
+}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 72,
+"question": "A 45 year old male of average height and weight was admitted to the hospital for renal function studies. He had the following lab results: Urine Creatinine 120 mg/dL, Serum Creatinine 1.5 mg/dL, Total Urine volume in 24h 1800 mL. Calculate the Creatinine Clearance for this patient in mL/min?",
+"options": [
+{
+"text": "225",
+"feedback": "Incorrect. The calculation is: (120 mg/dL * 1800 mL) / (1.5 mg/dL * 1440 min) = 216000 / 2160 = 100 mL/min."
+},
+{
+"text": "100",
+"feedback": "Correct! Using the formula: Clearance = (Urine Creatinine * Urine Volume) / (Serum Creatinine * Time in minutes). (120 mg/dL * 1800 mL) / (1.5 mg/dL * 1440 min) = 100 mL/min."
+},
+{
+"text": "144",
+"feedback": "Incorrect. This is not the correct calculation."
+},
+{
+"text": "156",
+"feedback": "Incorrect. This is not the correct calculation."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 73,
+"question": "In suspected diabetes mellitus it is necessary to determine?",
+"options": [
+{
+"text": "Blood glucose level, Urinary glucose, Glycosylated haemoglobin",
+"feedback": "Correct! Diagnosis and monitoring of diabetes involves blood glucose, urine glucose, and HbA1c."
+},
+{
+"text": "Cholesterol",
+"feedback": "Incorrect. Cholesterol is a lipid profile component, not the primary test for diabetes."
+},
+{
+"text": "Triglycerides",
+"feedback": "Incorrect. Triglycerides are part of a lipid profile, not the primary test for diabetes."
+}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 74,
+"question": "Triglycerides are primarily transported in fasting blood by?",
+"options": [
+{
+"text": "LDL",
+"feedback": "Incorrect. LDL primarily transports cholesterol."
+},
+{
+"text": "Albumin",
+"feedback": "Incorrect. Albumin transports free fatty acids, not triglycerides."
+},
+{
+"text": "HDL",
+"feedback": "Incorrect. HDL transports cholesterol, not primarily triglycerides."
+},
+{
+"text": "VLDL",
+"feedback": "Correct! VLDL (very low-density lipoprotein) is the primary transporter of endogenous triglycerides in the fasting state."
+}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 75,
+"question": "A 68-year-old patient with chronic obstructive pulmonary disease (COPD) presents with difficulty breathing. ABC results: pH = 7.30, PaCO2 = 60 mmHg, HCO3- = 28 mmol/L. Which organ is primarily responsible for compensation?",
+"options": [
+{
+"text": "Liver",
+"feedback": "Incorrect. The liver is not directly involved in acid-base compensation."
+},
+{
+"text": "Lungs",
+"feedback": "Incorrect. The lungs are the primary organ causing the acidosis (respiratory), so they cannot compensate."
+},
+{
+"text": "Heart",
+"feedback": "Incorrect. The heart is not a primary organ for acid-base compensation."
+},
+{
+"text": "Kidneys",
+"feedback": "Correct! In respiratory acidosis, the kidneys compensate by retaining bicarbonate to increase the pH."
+}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 76,
+"question": "A molecular biology laboratory separates DNA fragments according to size using an electric current. Which instrument is used?",
+"options": [
+{
+"text": "Centrifuge",
+"feedback": "Incorrect. A centrifuge separates based on density using centrifugal force."
+},
+{
+"text": "Incubator",
+"feedback": "Incorrect. An incubator is used for growing cultures."
+},
+{
+"text": "Autoclave",
+"feedback": "Incorrect. An autoclave is used for sterilization."
+},
+{
+"text": "Electrophoresis apparatus",
+"feedback": "Correct! Electrophoresis separates DNA fragments by size using an electric current."
+}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 77,
+"question": "Which electrolyte is commonly measured using flame photometry?",
+"options": [
+{
+"text": "Chloride",
+"feedback": "Incorrect. Chloride is an anion and is not measured by flame photometry."
+},
+{
+"text": "Phosphate",
+"feedback": "Incorrect. Phosphate is measured by colorimetric methods."
+},
+{
+"text": "Sodium",
+"feedback": "Correct! Sodium is a cation that is routinely measured by flame photometry."
+},
+{
+"text": "Calcium",
+"feedback": "Incorrect. Calcium is often measured by colorimetric or ion-selective electrode methods."
+}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 78,
+"question": "The regulation of calcium and phosphorus metabolism is accomplished by which of the following glands?",
+"options": [
+{
+"text": "Pituitary",
+"feedback": "Incorrect. The pituitary gland produces hormones like GH and TSH, not primarily involved in calcium regulation."
+},
+{
+"text": "Adrenal glands",
+"feedback": "Incorrect. Adrenal glands produce cortisol and aldosterone."
+},
+{
+"text": "Thyroid",
+"feedback": "Incorrect. The thyroid produces calcitonin, which lowers calcium, but the parathyroid is the primary regulator."
+},
+{
+"text": "Parathyroid",
+"feedback": "Correct! The parathyroid glands secrete parathyroid hormone, which is the primary regulator of calcium and phosphorus metabolism."
+}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 79,
+"question": "Patient complaints of an onset of acute pain in the abdomen. Laboratory investigation revealed increased α-Amylase activity. Which diagnosis should be suspected?",
+"options": [
+{
+"text": "Myocardial infarction",
+"feedback": "Incorrect. MI elevates cardiac markers like CK-MB and troponin."
+},
+{
+"text": "Acute pancreatitis",
+"feedback": "Correct! Elevated amylase, along with acute abdominal pain, is classic for acute pancreatitis."
+},
+{
+"text": "Acute pleuritis",
+"feedback": "Incorrect. Pleuritis does not elevate amylase."
+},
+{
+"text": "Renal calculi",
+"feedback": "Incorrect. Renal stones do not elevate amylase."
+},
+{
+"text": "Acute viral hepatitis",
+"feedback": "Incorrect. Hepatitis elevates ALT/AST, not amylase."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 80,
+"question": "Troponin levels typically begin to rise after myocardial infarction within?",
+"options": [
+{
+"text": "30 minutes",
+"feedback": "Incorrect. Troponin levels do not rise as early as 30 minutes."
+},
+{
+"text": "3-6 hours",
+"feedback": "Correct! Troponin levels begin to rise 3-6 hours after the onset of myocardial infarction."
+},
+{
+"text": "24 hours",
+"feedback": "Incorrect. Troponin begins to rise much earlier than 24 hours."
+},
+{
+"text": "1-2 hours",
+"feedback": "Incorrect. Troponin levels do not rise within 1-2 hours."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 81,
+"question": "How often microalbuminuria should be determined in patients with diabetes mellitus type I?",
+"options": [
+{
+"text": "Once a year, 5 years after the beginning of the disease",
+"feedback": "Correct! In Type 1 diabetes, screening for microalbuminuria should begin 5 years after diagnosis and be performed annually."
+},
+{
+"text": "Twice a year, 3 years after the beginning of the disease",
+"feedback": "Incorrect. The screening frequency and timing are different."
+},
+{
+"text": "Twice a year, 5 years after the beginning of the disease",
+"feedback": "Incorrect. The screening is done annually, not twice yearly."
+}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 82,
+"question": "The following results were obtained in a creatinine clearance evaluation: Urine concentration: 84 mg/dL, Urine volume: 1440 mL/24hr, Serum concentration: 1.4 mg/dL, Body surface area: 1.60 m2 (average = 1.73 m2). The creatinine clearance in mL/min is?",
+"options": [
+{
+"text": "60",
+"feedback": "Correct! Clearance = (U * V) / (P * T) = (84 mg/dL * 1440 mL) / (1.4 mg/dL * 1440 min) = 120960 / 2016 = 60 mL/min."
+},
+{
+"text": "65",
+"feedback": "Incorrect. This is not the correct calculation."
+},
+{
+"text": "6",
+"feedback": "Incorrect. This is not the correct calculation."
+},
+{
+"text": "22",
+"feedback": "Incorrect. This is not the correct calculation."
+}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 83,
+"question": "Which Levy-Jennings pattern best describes consistently high control values?",
+"options": [
+{
+"text": "Trend or shift",
+"feedback": "Correct! A shift or trend refers to a persistent change in one direction, such as consistently high results."
+},
+{
+"text": "One control point within limits",
+"feedback": "Incorrect. This describes a single point, not a consistent pattern."
+},
+{
+"text": "Cyclical pattern",
+"feedback": "Incorrect. A cyclical pattern would show regular fluctuations."
+},
+{
+"text": "Random scatter around mean",
+"feedback": "Incorrect. Random scatter shows no particular pattern."
+}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 84,
+"question": "The gold standard biomarker for diagnosing acute myocardial infarction is?",
+"options": [
+{
+"text": "CK-MB",
+"feedback": "Incorrect. While CK-MB is a useful marker, it is less specific than troponin and has a narrower diagnostic window."
+},
+{
+"text": "Troponin",
+"feedback": "Correct! Cardiac troponins (I and T) are the gold standard biomarkers for AMI due to their high sensitivity and cardiac specificity."
+},
+{
+"text": "Myoglobin",
+"feedback": "Incorrect. Myoglobin is an early marker but is not specific to the heart."
+},
+{
+"text": "LDH",
+"feedback": "Incorrect. LDH is not cardiac-specific and is not considered a gold standard."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 85,
+"question": "Which enzyme is most specific for acute pancreatitis?",
+"options": [
+{
+"text": "ALP",
+"feedback": "Incorrect. ALP is elevated in liver and bone diseases."
+},
+{
+"text": "Amylase",
+"feedback": "Incorrect. Amylase is elevated in pancreatitis, but it is less specific than lipase."
+},
+{
+"text": "Lipase",
+"feedback": "Correct! Lipase is more specific than amylase for acute pancreatitis and remains elevated longer."
+},
+{
+"text": "ALT",
+"feedback": "Incorrect. ALT is a liver enzyme."
+}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 86,
+"question": "Which condition may also cause elevated serum amylase?",
+"options": [
+{
+"text": "Hypertension",
+"feedback": "Incorrect. Hypertension does not typically elevate amylase."
+},
+{
+"text": "Asthma",
+"feedback": "Incorrect. Asthma does not affect amylase levels."
+},
+{
+"text": "Myocardial infarction",
+"feedback": "Incorrect. MI elevates cardiac markers, not amylase."
+},
+{
+"text": "Mumps",
+"feedback": "Correct! Mumps (viral parotitis) can cause elevated serum amylase due to inflammation of the salivary glands."
+}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 87,
+"question": "Reproducible inaccuracies that are consistently in the same direction define which of the following?",
+"options": [
+{
+"text": "Dissociative statistics",
+"feedback": "Incorrect. This is not a standard statistical term."
+},
+{
+"text": "Systematic error",
+"feedback": "Correct! Systematic errors are reproducible inaccuracies that consistently occur in the same direction (e.g., always high or always low)."
+},
+{
+"text": "Random error",
+"feedback": "Incorrect. Random errors occur unpredictably, not consistently in the same direction."
+},
+{
+"text": "Imprecision",
+"feedback": "Incorrect. Imprecision is a lack of reproducibility, which is different from a systematic bias."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 88,
+"question": "The reasons of hypochloridaemia are?",
+"options": [
+{
+"text": "Diabetic ketoacidosis",
+"feedback": "Incorrect. DKA can cause an anion gap acidosis, but chloride may be normal or low, but not typically the primary cause of hypochloremia."
+},
+{
+"text": "Renal failure",
+"feedback": "Incorrect. Renal failure can affect electrolytes, but hypochloremia is not the most common finding."
+},
+{
+"text": "Myocardial infarction",
+"feedback": "Incorrect. MI does not cause hypochloremia."
+},
+{
+"text": "Chronic diarrhea",
+"feedback": "Correct! Chronic diarrhea leads to loss of chloride and bicarbonate, causing hypochloremia and metabolic acidosis."
+}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 89,
+"question": "A 5-year-old male with long-standing hypertension presents with fatigue, decreased urine output, and swelling of legs. Laboratory results: Serum creatinine = 3.2 mg/dL, BUN = 48 mg/dL. Which condition commonly increases both BUN and creatinine?",
+"options": [
+{
+"text": "Severe dehydration",
+"feedback": "Correct! Severe dehydration causes prerenal azotemia, leading to a disproportionate increase in BUN and creatinine, often with a BUN:creatinine ratio >20:1."
+},
+{
+"text": "Hyperthyroidism",
+"feedback": "Incorrect. Hyperthyroidism does not typically increase BUN and creatinine."
+},
+{
+"text": "Heart failure",
+"feedback": "Incorrect. While heart failure can affect kidney function, it is not the most common cause of this pattern."
+},
+{
+"text": "Liver failure",
+"feedback": "Incorrect. Liver failure primarily affects liver function tests."
+}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 90,
+"question": "A 49-year-old patient was admitted to the hospital. He complains of frequent onsets of angina pectoris, eliminated by nitroglycerin. Laboratory investigation should include determination of?",
+"options": [
+{
+"text": "Cholesterol, total lipids, phospholipids",
+"feedback": "Incorrect. While these are lipid markers, the specific focus for coronary risk assessment is cholesterol, triglycerides, and HDL."
+},
+{
+"text": "Cholesterol, triglycerides, α-cholesterol",
+"feedback": "Correct! For a patient with angina (suggestive of coronary artery disease), assessment of lipid profile should include total cholesterol, triglycerides, and HDL cholesterol (α-cholesterol)."
+},
+{
+"text": "Cholesterol, ketone bodies, non-esterified fatty acids",
+"feedback": "Incorrect. Ketone bodies are not part of a routine lipid profile for CAD risk."
+},
+{
+"text": "Cholesterol, cholesterol esters, total lipids",
+"feedback": "Incorrect. The focus is on the major lipid fractions (cholesterol, triglycerides, HDL) for risk assessment."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 91,
+"question": "A simple goiter results from?",
+"options": [
+{
+"text": "Autoimmunity",
+"feedback": "Incorrect. Autoimmune goiter is Graves' disease or Hashimoto's, not a simple goiter."
+},
+{
+"text": "Lack of iron",
+"feedback": "Incorrect. Iron deficiency is not a cause of goiter."
+},
+{
+"text": "Too much PTH",
+"feedback": "Incorrect. PTH affects calcium, not thyroid size."
+},
+{
+"text": "Lack of iodine",
+"feedback": "Correct! Simple (endemic) goiter is caused by iodine deficiency, leading to TSH stimulation and thyroid enlargement."
+},
+{
+"text": "Lack of TSH",
+"feedback": "Incorrect. Lack of TSH would lead to thyroid atrophy, not enlargement."
+}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 92,
+"question": "Proteinuria is:",
+"options": [
+{
+"text": "Protein excreted in the urine in a quantity above 20 mg/24h",
+"feedback": "Incorrect. This threshold is too low."
+},
+{
+"text": "Protein excreted in the urine in a quantity of more than 150 mg/24h",
+"feedback": "Correct! Proteinuria is defined as urinary protein excretion greater than 150 mg per 24 hours."
+},
+{
+"text": "Protein excreted in the urine in a quantity of more than 50 mg/24h",
+"feedback": "Incorrect. This threshold is lower than the standard definition."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 93,
+"question": "Heparin is used in blood gas syringes to?",
+"options": [
+{
+"text": "Prevent clotting",
+"feedback": "Correct! Heparin is an anticoagulant used to prevent clotting in blood gas syringes."
+},
+{
+"text": "Destroy cells",
+"feedback": "Incorrect. Heparin does not destroy cells."
+},
+{
+"text": "Increase oxygen",
+"feedback": "Incorrect. Heparin does not affect oxygen levels."
+},
+{
+"text": "Increase pH",
+"feedback": "Incorrect. Heparin can affect pH if not used properly."
+}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 94,
+"question": "Which enzyme activity should be determined in serum in suspected chronic hepatitis?",
+"options": [
+{
+"text": "Acid Phosphatase and Urokinase",
+"feedback": "Incorrect. Acid phosphatase is a prostate marker, and urokinase is not a liver enzyme."
+},
+{
+"text": "ALT, AST, γ-Glutamyl Transpeptidase, Cholinesterase, Alkaline Phosphatase",
+"feedback": "Correct! In suspected chronic hepatitis, a panel including ALT, AST, GGT, cholinesterase, and ALP is useful to assess liver function and damage."
+},
+{
+"text": "LDH and Creatine Kinase",
+"feedback": "Incorrect. LDH and CK are not specific for hepatitis."
+},
+{
+"text": "Alkaline Phosphatase isoenzymes",
+"feedback": "Incorrect. ALP isoenzymes are used to differentiate the source of ALP, but not a primary panel for hepatitis."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 95,
+"question": "The biuret reaction for the analysis of serum protein depends on the number of?",
+"options": [
+{
+"text": "Tyrosine residues",
+"feedback": "Incorrect. The biuret reaction depends on peptide bonds, not tyrosine."
+},
+{
+"text": "Peptide bonds",
+"feedback": "Correct! The biuret reaction is based on the reaction of copper ions with peptide bonds in alkaline solution."
+},
+{
+"text": "Free amino acids",
+"feedback": "Incorrect. Free amino acids do not produce the biuret reaction."
+},
+{
+"text": "Free carboxyl groups",
+"feedback": "Incorrect. The reaction is with peptide bonds, not free carboxyl groups."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 96,
+"question": "Which law explains the relationship between absorbance and concentration?",
+"options": [
+{
+"text": "Hooke's law",
+"feedback": "Incorrect. Hooke's law describes the relationship between force and displacement in elastic materials."
+},
+{
+"text": "Boyle's law",
+"feedback": "Incorrect. Boyle's law describes the relationship between pressure and volume of a gas."
+},
+{
+"text": "Charles' law",
+"feedback": "Incorrect. Charles' law describes the relationship between volume and temperature of a gas."
+},
+{
+"text": "Beer-Lambert law",
+"feedback": "Correct! The Beer-Lambert law states that absorbance is directly proportional to concentration and path length."
+}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 97,
+"question": "The main reasons of hypercalcaemia are?",
+"options": [
+{
+"text": "Nephrotic syndrome",
+"feedback": "Incorrect. Nephrotic syndrome causes hypoalbuminemia and low calcium."
+},
+{
+"text": "Parathyroid adenoma",
+"feedback": "Correct! Parathyroid adenoma causes primary hyperparathyroidism, leading to hypercalcemia."
+},
+{
+"text": "Vitamin D deficiency",
+"feedback": "Incorrect. Vitamin D deficiency leads to hypocalcemia."
+},
+{
+"text": "Rickets",
+"feedback": "Incorrect. Rickets causes hypocalcemia."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 98,
+"question": "The middle value of a data set is statistically known as the?",
+"options": [
+{
+"text": "Median",
+"feedback": "Correct! The median is the middle value when a data set is arranged in order."
+},
+{
+"text": "Mode",
+"feedback": "Incorrect. The mode is the most frequent value."
+},
+{
+"text": "Mean",
+"feedback": "Incorrect. The mean is the arithmetic average."
+},
+{
+"text": "Standard deviation",
+"feedback": "Incorrect. Standard deviation is a measure of dispersion."
+}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 99,
+"question": "A 22-year-old woman arrives at the emergency department with anxiety and rapid breathing. ABC results: pH = 7.50, PaCO2 = 28 mmHg, HCO3- = 23 mmol/L. The kidneys compensate by?",
+"options": [
+{
+"text": "Producing carbon dioxide",
+"feedback": "Incorrect. The lungs produce CO2, not the kidneys."
+},
+{
+"text": "Excreting bicarbonate",
+"feedback": "Correct! In respiratory alkalosis, the kidneys compensate by excreting bicarbonate to lower pH."
+},
+{
+"text": "Retaining bicarbonate",
+"feedback": "Incorrect. Retaining bicarbonate would further increase pH."
+},
+{
+"text": "Retaining hydrogen ions",
+"feedback": "Incorrect. Retaining H+ would acidify, but in this condition, the kidneys excrete bicarbonate."
+}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 100,
+"question": "The primary purpose of internal quality control in the laboratory is to?",
+"options": [
+{
+"text": "Reduce sample volume",
+"feedback": "Incorrect. QC does not affect sample volume."
+},
+{
+"text": "Replace external quality assessment",
+"feedback": "Incorrect. IQC complements EQA, it does not replace it."
+},
+{
+"text": "Ensure accuracy and precision of test results",
+"feedback": "Correct! The primary purpose of IQC is to ensure that test results are accurate and precise, and to detect errors."
+},
+{
+"text": "Diagnose patient diseases",
+"feedback": "Incorrect. QC is not used to diagnose patients."
+}
+],
+"correctAnswerIndex": 2
+}
+]

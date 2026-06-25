@@ -1,0 +1,1149 @@
+[
+{
+"id": 1,
+"question": "Which of the following immunochemical techniques can be used to quantify the apolipoproteins?",
+"options": [
+{"text": "Radial immunodiffusion", "feedback": "Incorrect. While radial immunodiffusion can be used for some protein quantification, it is less commonly used for apolipoproteins compared to more sensitive immunoassays."},
+{"text": "Radio immunoassay", "feedback": "Incorrect. Radioimmunoassay (RIA) is a sensitive technique, but it is not the only one used; other methods are also applicable."},
+{"text": "Enzyme-linked immunoassay", "feedback": "Incorrect. ELISA is a common method, but it is not the only technique available for quantifying apolipoproteins."},
+{"text": "All of the above", "feedback": "Correct! All the listed immunochemical techniques (radial immunodiffusion, RIA, and ELISA) can be used to quantify apolipoproteins, though some are more practical or sensitive than others."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 2,
+"question": "The current kinetic enzymatic hydrolysis of triglycerides may be accomplished by which enzyme?",
+"options": [
+{"text": "Amylase", "feedback": "Incorrect. Amylase hydrolyzes starch and glycogen, not triglycerides."},
+{"text": "Leucine aminopeptidase", "feedback": "Incorrect. This enzyme hydrolyzes peptide bonds, not triglyceride ester bonds."},
+{"text": "Lactate dehydrogenase", "feedback": "Incorrect. LDH is involved in carbohydrate metabolism, not lipid hydrolysis."},
+{"text": "Lipase", "feedback": "Correct! Lipase catalyzes the hydrolysis of triglycerides into glycerol and fatty acids in kinetic enzymatic methods."},
+{"text": "Aldolase", "feedback": "Incorrect. Aldolase is involved in glycolysis, not lipid metabolism."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 3,
+"question": "Which of the following parameters may be associated with high risk of atherosclerotic artery disease?",
+"options": [
+{"text": "Increased ApB", "feedback": "Incorrect. While increased ApoB is a risk factor, it is not the only one listed."},
+{"text": "Decreased Apo Al", "feedback": "Incorrect. Low ApoA-I is associated with increased risk, but it is not the only parameter."},
+{"text": "Decreased HDL C", "feedback": "Incorrect. Low HDL-C is a well-established risk factor, but it is not the only one listed."},
+{"text": "All the above", "feedback": "Correct! All the listed parameters (increased ApoB, decreased ApoA-I, and decreased HDL-C) are associated with a high risk of atherosclerotic artery disease."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 4,
+"question": "Which of the following statement is true?",
+"options": [
+{"text": "Plasma triglycerides do not show variations in age sex and race", "feedback": "Incorrect. Plasma triglyceride levels do vary with age, sex, and race."},
+{"text": "Plasma cholesterol correlates well with incidences of ischaemic heart disease", "feedback": "Correct! A strong positive correlation exists between plasma cholesterol levels and the incidence of ischemic heart disease."},
+{"text": "Cholesterol entering plasma from tissues is esterified", "feedback": "Incorrect. Cholesterol entering the plasma from tissues is mostly free (unesterified); esterification occurs mainly in plasma by LCAT."},
+{"text": "Plasma for lipoprotein assays should be frozen before assay", "feedback": "Incorrect. Freezing plasma can alter lipoproteins; typically, fresh or properly stored samples are used."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 5,
+"question": "Which of the following is NOT true?",
+"options": [
+{"text": "Hyperlipidaemia is diagnosed by appearance of plasma, or measuring levels of cholesterol and triglycerides", "feedback": "This statement is true; appearance and measurement are used."},
+{"text": "Alcohol is the common cause secondary hypertriglyceridemia", "feedback": "This is true; alcohol is a common secondary cause."},
+{"text": "Increased LDL cholesterol is associated with clear plasma", "feedback": "Incorrect. Increased LDL cholesterol does not typically cause turbidity; it is often associated with clear plasma. However, the question asks for what is NOT true, and this statement is actually true."},
+{"text": "Increased triglycerides are associated with turbid or milky plasma", "feedback": "This is true; high triglycerides cause turbidity."},
+{"text": "The only treatment in hyperlipidaemia is dietary control", "feedback": "Correct! This statement is NOT true. Dietary control is one part of management, but medications (statins, fibrates, etc.) are also used."}
+],
+"correctAnswerIndex": 4
+},
+{
+"id": 6,
+"question": "Digestion of lipids begins in",
+"options": [
+{"text": "The rectal mucosa", "feedback": "Incorrect. Digestion does not begin here."},
+{"text": "The small intestine", "feedback": "Correct! While some lingual lipase acts in the stomach, the major digestion of lipids begins in the small intestine (duodenum) with pancreatic lipase and bile salts."},
+{"text": "The liver", "feedback": "Incorrect. The liver produces bile but is not the site where digestion begins."},
+{"text": "The large intestine", "feedback": "Incorrect. Little lipid digestion occurs here."},
+{"text": "The pulmonary circulation", "feedback": "Incorrect. This is not involved in lipid digestion."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 7,
+"question": "Retinocbodies are formed because of an excessive breakdown of fatty acids. Of the following metabolites which may be classified as a ketone body?",
+"options": [
+{"text": "pyruvic acid.", "feedback": "Incorrect. Pyruvate is a product of glycolysis, not a ketone body."},
+{"text": "beta hydroxybutyric acid", "feedback": "Correct! Beta-hydroxybutyrate (beta-hydroxybutyric acid) is one of the three main ketone bodies."},
+{"text": "lactic acid", "feedback": "Incorrect. Lactate is a product of anaerobic glycolysis."},
+{"text": "oxaloacetic acid", "feedback": "Incorrect. Oxaloacetate is an intermediate in the TCA cycle."},
+{"text": "alpha ketoglutaric acid", "feedback": "Incorrect. Alpha-ketoglutarate is an intermediate in the TCA cycle."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 8,
+"question": "Each lipoprotein fraction is composed of varying amounts of lipid and protein components. The beta lipoprotein fraction consists primarily of",
+"options": [
+{"text": "Fatty acids", "feedback": "Incorrect. Fatty acids are not the primary component of beta-lipoproteins (LDL)."},
+{"text": "Phospholipids", "feedback": "Incorrect. Phospholipids are a component but not the primary one."},
+{"text": "Tnlycerides", "feedback": "Incorrect. While LDL contains some triglycerides, its primary lipid component is cholesterol."},
+{"text": "Cholesterol", "feedback": "Correct! Beta-lipoproteins (LDL) are primarily composed of cholesterol (both free and esterified)."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 9,
+"question": "When lipoprotein electrophoresis is performed at pH 8.6 with the use of agarose gel, which fraction migrates the fastest toward the anode?",
+"options": [
+{"text": "Chylomicron", "feedback": "Incorrect. Chylomicrons do not migrate; they remain at the origin."},
+{"text": "gamma lipoprotein", "feedback": "Incorrect. Gamma lipoproteins are not a standard electrophoretic fraction."},
+{"text": "beta lipoprotein", "feedback": "Incorrect. Beta-lipoproteins (LDL) migrate to the beta region."},
+{"text": "pre beta lipoprotein", "feedback": "Incorrect. Pre-beta lipoproteins (VLDL) migrate to the pre-beta region."},
+{"text": "Alpha lipoprotein", "feedback": "Correct! At pH 8.6, alpha-lipoproteins (HDL) have the highest negative charge and migrate fastest toward the anode."}
+],
+"correctAnswerIndex": 4
+},
+{
+"id": 10,
+"question": "Total cholesterol consists of two fractions - free cholesterol and cholesteryl ester. The ester is formed through the esterification of the alcohol cholesterol with",
+"options": [
+{"text": "protein", "feedback": "Incorrect. Cholesterol esterification involves a fatty acid, not a protein."},
+{"text": "triglyceride", "feedback": "Incorrect. Triglycerides are not directly involved in this reaction."},
+{"text": "fatty acid", "feedback": "Correct! Cholesterol esters are formed by esterifying the hydroxyl group of cholesterol with a fatty acid."},
+{"text": "digitonin", "feedback": "Incorrect. Digitonin precipitates cholesterol but is not involved in ester formation."},
+{"text": "glycerol", "feedback": "Incorrect. Glycerol is part of triglycerides, not cholesterol esters."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 11,
+"question": "Which of the following may be described as a variant form of LDL, associated with increased risk of atherosclerotic cardiovascular disease?",
+"options": [
+{"text": "Lp(a)", "feedback": "Correct! Lipoprotein(a), or Lp(a), is a variant of LDL with an additional apolipoprotein(a) and is strongly associated with increased cardiovascular risk."},
+{"text": "HDL", "feedback": "Incorrect. HDL is 'good cholesterol' and is inversely associated with risk."},
+{"text": "Apo A-I", "feedback": "Incorrect. Apo A-I is the main protein of HDL, not a variant of LDL."},
+{"text": "Apo A-II", "feedback": "Incorrect. Apo A-II is another protein found in HDL."},
+{"text": "Apo D", "feedback": "Incorrect. Apo D is a minor apolipoprotein found in HDL."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 12,
+"question": "The perhydrocyclopentanophenantrene ring is a parent structure of",
+"options": [
+{"text": "Cholesterol", "feedback": "Incorrect. Cholesterol itself has this structure, but the question likely asks for the broader class."},
+{"text": "sterols", "feedback": "Correct! The perhydrocyclopentanophenanthrene ring is the core structure of all sterols, including cholesterol."},
+{"text": "sphingolipids", "feedback": "Incorrect. Sphingolipids have a sphingosine backbone, not this ring system."},
+{"text": "a and b above", "feedback": "Incorrect. While cholesterol is a sterol, the parent structure defines the class of sterols."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 13,
+"question": "Exogenous triglycerides are transported in plasma in what form?",
+"options": [
+{"text": "Phospholipids", "feedback": "Incorrect. Phospholipids are components of lipoproteins but not the transport form for dietary triglycerides."},
+{"text": "Cholesteryl esters", "feedback": "Incorrect. Cholesteryl esters are the transport form of cholesterol, not triglycerides."},
+{"text": "Chylomicrons", "feedback": "Correct! Dietary (exogenous) triglycerides are packaged into chylomicrons in the intestine and transported via lymph and blood."},
+{"text": "Free fatty acids", "feedback": "Incorrect. Free fatty acids are transported bound to albumin, primarily from endogenous stores."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 14,
+"question": "Nitrogen balance is best determined by:",
+"options": [
+{"text": "subtracting the amount of nitrogen excreted in urine and feces from the amount of nitrogen consumed", "feedback": "Correct! Nitrogen balance = Nitrogen intake (consumed) - Nitrogen output (urine + feces + other losses)."},
+{"text": "adding the amount of nitrogen excreted in urine and feces to the amount of nitrogen consumed", "feedback": "Incorrect. This would not determine balance; it would be a sum."},
+{"text": "adding the amount of nitrogen excreted in urine and feces", "feedback": "Incorrect. This measures only output, not balance."},
+{"text": "adding the amount of nitrogen excreted in urine to the amount of nitrogen consumed", "feedback": "Incorrect. This ignores fecal losses and does not determine balance."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 15,
+"question": "The turbid or milky appearance of serum after fat ingestion is termed postprandial lipaemia This lipaemic appearance is caused by:",
+"options": [
+{"text": "Fatty acids", "feedback": "Incorrect. Free fatty acids do not cause significant turbidity."},
+{"text": "cholesterol", "feedback": "Incorrect. High cholesterol alone does not typically make serum turbid."},
+{"text": "lipoproteins", "feedback": "Incorrect. While lipoproteins are present, the specific cause of postprandial turbidity is chylomicrons."},
+{"text": "chylomicrons", "feedback": "Correct! The large size of chylomicrons causes light scattering, giving serum a turbid or milky appearance after a fatty meal."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 16,
+"question": "The test used to measure bilirubin in urine is",
+"options": [
+{"text": "Bials' test", "feedback": "Incorrect. Bial's test detects pentoses."},
+{"text": "BCG TEST", "feedback": "Incorrect. BCG (Bromocresol green) test is used for albumin."},
+{"text": "Ehrlichs test", "feedback": "Incorrect. Ehrlich's test (with p-dimethylaminobenzaldehyde) is for urobilinogen, not bilirubin."},
+{"text": "Fouchets test", "feedback": "Correct! Fouchet's test (using ferric chloride and trichloroacetic acid) detects bilirubin in urine by oxidizing it to biliverdin (green color)."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 17,
+"question": "Arrange the following five events in the order they occur as erythrocytes are broken down 1. Bilirubin is conjugated to glucuronic acid 2. Bilirubin is excreted in bile 3. Biliverdin is produced 4. Free bilirubin is produced 5. Hemoglobin is broken down to heme groups and globin molecules",
+"options": [
+{"text": "1,2,3,4,5", "feedback": "Incorrect."},
+{"text": "2,3,1,4,5", "feedback": "Incorrect."},
+{"text": "3,5,1,4,2", "feedback": "Incorrect."},
+{"text": "4,5,1,2,4", "feedback": "Incorrect. This sequence contains an error (4 appears twice)."},
+{"text": "5,3,4,1,2", "feedback": "Correct! The order is: Hemoglobin breakdown (5) -> Biliverdin production (3) -> Free bilirubin production (4) -> Conjugation (1) -> Excretion in bile (2)."}
+],
+"correctAnswerIndex": 4
+},
+{
+"id": 18,
+"question": "Which of the following statements regarding the diagnosis of diabetes mellitus and gestational diabetes is NOT TRUE?",
+"options": [
+{"text": "Normal fasting blood sugar is >110mg/dl", "feedback": "Correct! This statement is NOT TRUE. Normal fasting blood sugar is typically < 100 mg/dL (or sometimes < 110 mg/dL per older criteria, but the statement is still generally false as it's stated). Current ADA criteria define normal as < 5.6 mmol/L (< 100 mg/dL)."},
+{"text": "Screening for gestational diabetes requires administration of 100g of glucose between weeks 24 - 28 of pregnancy", "feedback": "This statement is true for the diagnostic OGTT, though screening often uses 50g."},
+{"text": "Fasting blood glucose >105mg/dl is diagnostic of gestational diabetes", "feedback": "This is true per some older criteria (Carpenter-Coustan)."},
+{"text": "Individuals with impaired fasting glucose demonstrate fasting blood sugar of 110 - 126mg/dl", "feedback": "This is true per older criteria (IFG = 110-125 mg/dL)."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 19,
+"question": "The following produce a false positive result for urine protein using the Sulphasolic acid EXCEPT?",
+"options": [
+{"text": "Sulphonamide", "feedback": "Incorrect. Sulfonamides can cause false positives with sulfosalicylic acid (SSA)."},
+{"text": "Tolbutamide", "feedback": "Incorrect. Tolbutamide can cause false positives with SSA."},
+{"text": "X-ray contrast medium", "feedback": "Incorrect. Radiocontrast media can cause false positives with SSA."},
+{"text": "Acetyl salicylic acid (Aspirin)", "feedback": "Correct! Aspirin typically does not cause a false positive with sulfosalicylic acid; it is a known exception."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 20,
+"question": "Which of the following best describes primary infertility?",
+"options": [
+{"text": "Having at least 50% fertility problems occurring the entire life span of an individual", "feedback": "Incorrect. This is not a standard definition."},
+{"text": "Individuals who have previously had a successful pregnancy but are currently unable to conceive", "feedback": "Incorrect. This describes secondary infertility."},
+{"text": "Absence of pregnancy after one year of uninterrupted sex without use of contraceptives", "feedback": "Incorrect. This is a general definition of infertility but does not specify primary vs secondary."},
+{"text": "Individuals who have no previous successful pregnancy but are currently unable to conceive.", "feedback": "Correct! Primary infertility is defined as the inability to conceive in a couple with no previous history of pregnancy."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 21,
+"question": "The enzymatic action of urea is inhibited when blood is collected in a tube containing?",
+"options": [
+{"text": "Sodium heparin.", "feedback": "Incorrect. Heparin is an anticoagulant that does not inhibit urease."},
+{"text": "Sodium fluoride.", "feedback": "Correct! Sodium fluoride inhibits the action of urease, which is why it is used in tubes for glucose preservation (it also inhibits enolase)."},
+{"text": "Sodium oxalate.", "feedback": "Incorrect. Sodium oxalate is an anticoagulant but does not significantly inhibit urease."},
+{"text": "Ethylene diaminetetric acid.", "feedback": "Incorrect. EDTA is a chelator that binds calcium, used as an anticoagulant, but it does not inhibit urease."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 22,
+"question": "Which of the following is NOT an indicator of normal kidney function?",
+"options": [
+{"text": "Urine specific gravity of 1.003 to 1.030", "feedback": "This is an indicator of normal kidney function (ability to concentrate/dilute)."},
+{"text": "Urine Osmolality of 500 - 850 mmol/kg", "feedback": "This is an indicator of normal kidney function."},
+{"text": "Urine protein of less than 150mg/24 hours", "feedback": "This is an indicator of normal kidney function (low protein excretion)."},
+{"text": "Production of 200mL of urine per 24 hours", "feedback": "Correct! This is NOT normal. A urine output of < 400-500 mL/24 hours is oliguria; 200 mL/24 hours is severely abnormal."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 23,
+"question": "When a myocardial infarct occurs, in what order (list first to last) will the enzyme aspartate aminotransferase (AST). Creatine kinase (CK) and Lactate dehydrogenase (LDH) become elevated in serum?",
+"options": [
+{"text": "AST,CK,LDH", "feedback": "Incorrect. CK rises first."},
+{"text": "AST,LDH,CK", "feedback": "Incorrect. CK rises first."},
+{"text": "CK,LDH,AST", "feedback": "Incorrect. CK rises first, then AST, then LDH."},
+{"text": "CK,AST,LDH", "feedback": "Correct! CK rises first (within 3-6 hours), followed by AST (8-12 hours), and then LDH (24-48 hours)."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 24,
+"question": "If a laboratory needs to keep certain chemical materials dry, the apparatus used will be",
+"options": [
+{"text": "Biuret", "feedback": "Incorrect. Biuret is a chemical reagent used in protein assays."},
+{"text": "Desiccator", "feedback": "Correct! A desiccator is a sealed container containing a desiccant (like silica gel) to keep materials dry."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 25,
+"question": "In a laboratory, a technologist/scientific officer has spilled a corrosive chemical, which landed on his/her hand and the floor. He/she has diluted the material by putting his/her hand under running cold water. The next step would be:-",
+"options": [
+{"text": "Try to hide the mistake for fear of reimind for being careless", "feedback": "Incorrect. This is unsafe and unethical."},
+{"text": "Consult the material safety data sheet for that chemical and carry it along to the physician in the emergency room", "feedback": "Correct! After initial decontamination, the MSDS should be consulted for specific treatment information and taken to the physician."},
+{"text": "Wipe the spill with paper towels", "feedback": "Incorrect. The floor spill should be handled according to protocol, but personal safety comes first."},
+{"text": "Call the police emergency unit on hazards and accidents", "feedback": "Incorrect. The police are not the primary contact for a lab spill; the lab safety officer or local emergency response is appropriate."},
+{"text": "Switch on the chemical hazard emergency bell to alert all laboratory workers", "feedback": "Incorrect. This may cause unnecessary panic and is not the immediate next step after personal decontamination."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 26,
+"question": "Which of the following may safely be pipetted by mouth in the clinical laboratory?",
+"options": [
+{"text": "Serum", "feedback": "Incorrect. Serum may contain pathogens."},
+{"text": "Urine", "feedback": "Incorrect. Urine may contain pathogens."},
+{"text": "Sterile Saline Solution", "feedback": "Incorrect. Even sterile solutions should not be pipetted by mouth due to the risk of contamination and the general prohibition of mouth pipetting."},
+{"text": "None of the above", "feedback": "Correct! Mouth pipetting is strictly prohibited in modern clinical laboratories for all substances due to safety risks."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 27,
+"question": "A substance that stops blood from clotting outside the body is:",
+"options": [
+{"text": "An anticoagulant", "feedback": "Correct! An anticoagulant is a substance that prevents blood coagulation."},
+{"text": "A preservative", "feedback": "Incorrect. Preservatives prevent deterioration, not clotting."},
+{"text": "Heparin occuring naturally in the body", "feedback": "Incorrect. While heparin is an anticoagulant, the general term is anticoagulant. Also, heparin occurs naturally in the body."},
+{"text": "A clotting factor", "feedback": "Incorrect. Clotting factors promote coagulation, they do not stop it."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 28,
+"question": "In diabetic ketoacidosis, which of the following laboratory findings would be expected:",
+"options": [
+{"text": "Fasting blood sugar elevated, pH elevated, ketone bodies present", "feedback": "Incorrect. pH is low (acidosis), not elevated."},
+{"text": "Fasting blood sugar elevated, pH low, ketones bodies present", "feedback": "Correct! DKA is characterized by hyperglycemia, metabolic acidosis (low pH), and ketonemia/ketonuria."},
+{"text": "Fasting blood sugar low, pH low, ketone bodies present", "feedback": "Incorrect. Blood sugar is elevated, not low."},
+{"text": "Fasting blood sugar elevated, pH low, ketone bodies absent", "feedback": "Incorrect. Ketone bodies are present in DKA."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 29,
+"question": "Which of the following are examples of glycosylated haemoglobin?",
+"options": [
+{"text": "Hb A1a", "feedback": "Incorrect. HbA1a is a minor fraction, but the question asks for examples."},
+{"text": "Hb A1b", "feedback": "Incorrect. HbA1b is another minor fraction."},
+{"text": "Hb A1c", "feedback": "Incorrect. HbA1c is the major fraction, but not the only one."},
+{"text": "All the above", "feedback": "Correct! HbA1a, HbA1b, and HbA1c are all subfractions of glycosylated hemoglobin (HbA1)."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 30,
+"question": "The following statement about tests for sugar in the urine is incorrect:",
+"options": [
+{"text": "The clinistix test is more specific for glucose than clinistest tablets.", "feedback": "This is true. Clinistix (glucose oxidase) is specific for glucose, while Clinitest (copper reduction) detects all reducing substances."},
+{"text": "clinistix give a positive result for glucose and for no other sugar", "feedback": "This is true. Glucose oxidase is specific for beta-D-glucose."},
+{"text": "when screening tests are being performed on urine from neonates or babies. clinistest is preferable to clinistix", "feedback": "This is true. Clinitest is preferred because it detects other reducing substances (like galactose) that may indicate inborn errors of metabolism in neonates."},
+{"text": "a positive result with clinistest in an adult may be due to the ingestion of aspirin", "feedback": "Correct! This statement is INCORRECT. Aspirin does not generally cause a positive Clinitest. Clinitest is positive with reducing sugars (glucose, galactose, fructose, lactose) and some drugs like penicillin, but not typically aspirin."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 31,
+"question": "A method commonly used a screening test in the detection of reducing substances in the urine of a patient in the medical laboratory is",
+"options": [
+{"text": "Clinistix", "feedback": "Incorrect. Clinistix is specific for glucose, not for general reducing substances."},
+{"text": "Erhlichs", "feedback": "Incorrect. Ehrlich's test detects urobilinogen."},
+{"text": "Clinistest", "feedback": "Correct! Clinitest (Benedict's test tablet form) is a copper reduction test used to screen for reducing substances (all sugars)."},
+{"text": "Harris boiling test", "feedback": "Incorrect. Harris boiling test is for protein in urine."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 32,
+"question": "A 24-year-old obese diabetic woman had the following blood and urine test results from specimens obtained at the same time: pH=7.5. Protein=30mg/dL. Glucose=negative. Ketones=15mg/dL. Bilirubin negative. What is the most likely interpretation?",
+"options": [
+{"text": "This is a normal finding for a diabetic.", "feedback": "Incorrect. The presence of ketones with negative glucose is unusual."},
+{"text": "She has diabetic ketoacidosis (DKA).", "feedback": "Incorrect. DKA would show high glucose and low pH. This pattern is suspicious."},
+{"text": "The urine sample is likely from a patient who is not diabetic.", "feedback": "Incorrect. The history states she is diabetic."},
+{"text": "The urine sample may be from a patient with starvation ketosis or the sample is from a patient who has been treated recently.", "feedback": "Correct! Ketones with negative glucose suggests starvation ketosis, or that the patient may have been given insulin recently (treating hyperglycemia but ketones remain)."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 33,
+"question": "The Urine glucose dipstick test that relies upon a reaction of glucose with enzymes is highly specific However a false negative reaction will occur in patients:",
+"options": [
+{"text": "Taking ascorbic acid", "feedback": "Correct! Ascorbic acid (vitamin C) can interfere with the glucose oxidase-peroxidase reaction, causing a false negative."},
+{"text": "With ketonaemia", "feedback": "Incorrect. Ketones do not typically interfere with glucose oxidase tests."},
+{"text": "Taking levadopa", "feedback": "Incorrect. Levodopa can interfere with some dipstick tests but is more of an issue for ketones or blood."},
+{"text": "With diabetes insipidus", "feedback": "Incorrect. Diabetes insipidus does not affect glucose levels in urine."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 34,
+"question": "The following are ingredients of the clinistix reagent strip EXCEPT:",
+"options": [
+{"text": "glucose oxidase", "feedback": "Incorrect. Glucose oxidase is a key ingredient."},
+{"text": "aminophenazone", "feedback": "Incorrect. Aminophenazone is a chromogen in some glucose oxidase tests."},
+{"text": "O-toluidine", "feedback": "Correct! O-toluidine is used in chemical (not enzymatic) methods for glucose measurement, not in Clinistix."},
+{"text": "Peroxidase", "feedback": "Incorrect. Peroxidase is a key ingredient in the glucose oxidase reaction."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 35,
+"question": "Plasma concentrations of lipoproteins are one of important factors in the assessment of :",
+"options": [
+{"text": "Cardiovascular risk", "feedback": "Correct! Lipoprotein levels (LDL, HDL, triglycerides) are key factors in assessing cardiovascular disease risk."},
+{"text": "Renal function;", "feedback": "Incorrect. Renal function is assessed by creatinine, urea, etc."},
+{"text": "Thyroid function;", "feedback": "Incorrect. Thyroid function is assessed by TSH, T4, etc."},
+{"text": "Parathyroid function;", "feedback": "Incorrect. Parathyroid function is assessed by PTH, calcium, phosphorus."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 36,
+"question": "Which of the following enzymes are involved in the digestion and absorption of proteins?",
+"options": [
+{"text": "Trypsinogen;", "feedback": "Incorrect. Trypsinogen is an inactive precursor (zymogen) that is converted to active trypsin."},
+{"text": "Amylase;", "feedback": "Incorrect. Amylase digests carbohydrates."},
+{"text": "Phospholipase A2;", "feedback": "Incorrect. Phospholipase A2 digests phospholipids."},
+{"text": "Pepsin.", "feedback": "Correct! Pepsin is a proteolytic enzyme that digests proteins in the stomach."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 37,
+"question": "Enzymes that catalyze the equilibrium between aldoses and ketoses are known as:",
+"options": [
+{"text": "Mutases;", "feedback": "Incorrect. Mutases catalyze the transfer of a functional group within a molecule."},
+{"text": "Isomerases;", "feedback": "Correct! Isomerases catalyze isomerization reactions, including the interconversion of aldoses and ketoses (e.g., phosphohexose isomerase)."},
+{"text": "Aldolases;", "feedback": "Incorrect. Aldolases catalyze the cleavage of aldol bonds."},
+{"text": "Epimerases;", "feedback": "Incorrect. Epimerases catalyze the inversion of stereochemistry at a specific carbon."},
+{"text": "Reductases.", "feedback": "Incorrect. Reductases catalyze reduction reactions."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 38,
+"question": "Which of the following molecules is involved in antioxidant defenses?",
+"options": [
+{"text": "Hexose Isomerase;", "feedback": "Incorrect. This is an enzyme involved in carbohydrate metabolism."},
+{"text": "Glutathione;", "feedback": "Correct! Glutathione is a tripeptide that acts as a major antioxidant in cells."},
+{"text": "Conjugated bilirubin;", "feedback": "Incorrect. Conjugated bilirubin is a breakdown product of heme."},
+{"text": "Unconjugated bilirubin;", "feedback": "Incorrect. Unconjugated bilirubin is a breakdown product and can be toxic at high levels."},
+{"text": "Urobilinogen;", "feedback": "Incorrect. Urobilinogen is a product of bilirubin reduction in the gut."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 39,
+"question": "Direct bilirubin is also called:",
+"options": [
+{"text": "Unconjugated bilirubin", "feedback": "Incorrect. Unconjugated bilirubin is indirect bilirubin."},
+{"text": "Monoconjugated bilirubin", "feedback": "Incorrect. Direct bilirubin includes mono- and di-conjugated forms, but the term is used for conjugated."},
+{"text": "Conjugated bilirubin", "feedback": "Correct! Direct bilirubin is the water-soluble, conjugated form of bilirubin."},
+{"text": "Delta bilirubin", "feedback": "Incorrect. Delta bilirubin is bilirubin covalently bound to albumin."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 40,
+"question": "The biuret reaction is used:",
+"options": [
+{"text": "Glucose in cerebrospinal fluid,", "feedback": "Incorrect. Glucose is measured by enzymatic or chemical methods like glucose oxidase or hexokinase."},
+{"text": "Peptides in serum", "feedback": "Correct! The biuret reaction is used to measure total protein in serum, which relies on the peptide bonds."},
+{"text": "Hemoglobin in urine,", "feedback": "Incorrect. Hemoglobin is detected by tests like the benzidine test or dipsticks."},
+{"text": "Amylase in saliva.", "feedback": "Incorrect. Amylase is measured by enzymatic activity assays."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 41,
+"question": "Amino acids are linked together through:",
+"options": [
+{"text": "Glucosidic bonds;", "feedback": "Incorrect. Glucosidic bonds link monosaccharides."},
+{"text": "Amino bonds;", "feedback": "Incorrect. While the bond involves amino groups, it is specifically called a peptide bond."},
+{"text": "Amino acidic double bonds;", "feedback": "Incorrect. This term is not used."},
+{"text": "Peptide bonds;", "feedback": "Correct! Amino acids are linked by peptide bonds, formed between the carboxyl group of one and amino group of another."},
+{"text": "Electronic bonds.", "feedback": "Incorrect. This is not a specific chemical bond in this context."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 42,
+"question": "Chylomicrons are:",
+"options": [
+{"text": "Fatty acids;", "feedback": "Incorrect. Fatty acids are components, but chylomicrons are larger structures."},
+{"text": "Carbohydrates;", "feedback": "Incorrect. They are not carbohydrates."},
+{"text": "Lipoproteins;", "feedback": "Correct! Chylomicrons are large lipoproteins that transport dietary lipids."},
+{"text": "Nucleic acids;", "feedback": "Incorrect. They are not nucleic acids."},
+{"text": "Polysaccharides.", "feedback": "Incorrect. They are not polysaccharides."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 43,
+"question": "When the elevated blood glucose levels exceed the renal reabsorptive capacity:",
+"options": [
+{"text": "Glucose is concentrated in gall bladder;", "feedback": "Incorrect. Glucose is not concentrated in the gallbladder."},
+{"text": "Glucose can be accumulated in stomach;", "feedback": "Incorrect. Glucose is not stored in the stomach."},
+{"text": "Glucose is excreted in urine;", "feedback": "Correct! When the renal threshold for glucose is exceeded (~180 mg/dL), glucose spills into the urine (glycosuria)."},
+{"text": "Glucose is no longer available for glycogenesis;", "feedback": "Incorrect. Glycogenesis may be ongoing in the liver, but the statement is not directly about exceeding renal capacity."},
+{"text": "All above are false.", "feedback": "Incorrect. One statement is true."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 44,
+"question": "On a Levey-Jennings chart, when the difference between two consecutive values is greater than 4 SD the Westgard rule applied is:",
+"options": [
+{"text": "4-1S;", "feedback": "Incorrect. 4-1S means 4 consecutive controls exceed 1 SD."},
+{"text": "R-4S;", "feedback": "Correct! R-4S is the rule for rejecting a run when the range between two consecutive control values exceeds 4 SD."},
+{"text": "4x;", "feedback": "Incorrect. 4x means 4 consecutive controls exceed the same limit (e.g., > 2 SD)."},
+{"text": "4SD;", "feedback": "Incorrect. This is not a standard Westgard rule designation."},
+{"text": "4-RS.", "feedback": "Incorrect. This is not a standard Westgard rule designation."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 45,
+"question": "On a Levey-Jennings chart, 1-3S Westgard rule can be define as:",
+"options": [
+{"text": "One control value exceeds the mode by more than 2 SD but less than 3SD in either the upward or the downward direction;", "feedback": "Incorrect. The rule uses the mean, not the mode."},
+{"text": "One control value exceeds the mean by more than 1 SD but less than 2SD in either the upward or the downward direction;", "feedback": "Incorrect. This would be a warning rule (1-2S), not rejection."},
+{"text": "One control value exceeds the mean by more than 1 SD but less than 2SDin either the upward or the downward direction;", "feedback": "Incorrect. This is the 1-2S warning rule."},
+{"text": "One control value exceeds the mean by more than 2 SD but less than 3SD in either the upward or the downward direction;", "feedback": "Incorrect. 1-3S is a rejection rule when a single control value exceeds the mean by > 3 SD."},
+{"text": "One control value exceeds the mean by more than 2 SD but less than 3SDin either the upward or the downward direction.", "feedback": "Correct! The 1-3S rule is violated when a single control value falls outside the mean ± 3 SD limits."}
+],
+"correctAnswerIndex": 4
+},
+{
+"id": 46,
+"question": "On a Levey-Jennings chart, 1-2S Westgard rule can be define as.",
+"options": [
+{"text": "One control value exceeds the mode by more than 2 SD but less than 3SD in either the upward or the downward direction;", "feedback": "Incorrect. The rule uses the mean, not the mode."},
+{"text": "One control value exceeds the mean by more than 3 SD but less than 4SD in either the upward or the downward direction.", "feedback": "Incorrect. This is beyond 1-2S and 1-3S."},
+{"text": "One control value exceeds the mean by more than 1 SD but less than 2SD in either the upward or the downward direction;", "feedback": "Correct! The 1-2S is a warning rule: a single control value exceeds the mean by ± 2 SD (i.e., is between 2 and 3 SD from the mean)."},
+{"text": "One control value exceeds the mean by more than 2 SD but less than 3SD in either the upward or the downward direction;", "feedback": "Incorrect. This describes the 1-2S rule, but the correct definition is that it exceeds the mean by more than 1 SD but less than 2 SD? Actually, 1-2S is a warning when one value exceeds 2 SD but is within 3 SD. The option D is essentially the same as E, but the wording is ambiguous."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 47,
+"question": "The ability to obtain the same value for repeat measurements of a sample is called",
+"options": [
+{"text": "Precision;", "feedback": "Correct! Precision is the reproducibility of a measurement or the closeness of agreement between replicate measurements."},
+{"text": "Confidence interval;", "feedback": "Incorrect. Confidence interval is a range of values likely to contain a population parameter."},
+{"text": "Accuracy;", "feedback": "Incorrect. Accuracy is the closeness of a measurement to the true value."},
+{"text": "Coefficient of variation;", "feedback": "Incorrect. Coefficient of variation is a relative measure of precision (SD/mean)."},
+{"text": "Standard variation;", "feedback": "Incorrect. Standard deviation is a measure of dispersion, not the ability to get the same result."},
+{"text": "Degree of freedom.", "feedback": "Incorrect. Degrees of freedom is a statistical concept related to sample size."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 48,
+"question": "The ability to obtain the established or true value for the sample is called",
+"options": [
+{"text": "Precision;", "feedback": "Incorrect. Precision is reproducibility."},
+{"text": "Confidence interval;", "feedback": "Incorrect. This is a range of values."},
+{"text": "Accuracy;", "feedback": "Correct! Accuracy is the closeness of a measured value to the true or accepted value."},
+{"text": "Coefficient of variation;", "feedback": "Incorrect. This is a measure of precision."},
+{"text": "Standard variation;", "feedback": "Incorrect. This is a measure of dispersion."},
+{"text": "Degree of freedom.", "feedback": "Incorrect. This is a statistical concept."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 49,
+"question": "The statistical parameter used to measure central tendency defined as the value that occurs with the greatest frequency is:",
+"options": [
+{"text": "The mode;", "feedback": "Correct! The mode is the value that appears most frequently in a data set."},
+{"text": "The mean;", "feedback": "Incorrect. The mean is the average."},
+{"text": "The median;", "feedback": "Incorrect. The median is the middle value."},
+{"text": "The range;", "feedback": "Incorrect. The range is a measure of dispersion."},
+{"text": "Standard deviation.", "feedback": "Incorrect. Standard deviation is a measure of dispersion."},
+{"text": "A and B", "feedback": "Incorrect. Only A is correct."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 50,
+"question": "The statistical parameter used to measure central tendency defined as the middle data point observed once data are arranged in descending or ascending order is:",
+"options": [
+{"text": "The mode;", "feedback": "Incorrect. The mode is the most frequent value."},
+{"text": "The mean;", "feedback": "Incorrect. The mean is the average."},
+{"text": "The median;", "feedback": "Correct! The median is the middle value when data are ordered."},
+{"text": "The range;", "feedback": "Incorrect. The range is a measure of dispersion."},
+{"text": "Standard deviation.", "feedback": "Incorrect. Standard deviation is a measure of dispersion."},
+{"text": "A and B", "feedback": "Incorrect. Only C is correct."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 51,
+"question": "Explosive and oxidizer chemicals are commonly called:",
+"options": [
+{"text": "Reactive chemicals;", "feedback": "Correct! Explosives and oxidizers are classes of reactive chemicals due to their potential to undergo violent reactions."},
+{"text": "Carcinogen chemicals;", "feedback": "Incorrect. Carcinogens cause cancer."},
+{"text": "Corrosive chemicals;", "feedback": "Incorrect. Corrosives destroy tissue."},
+{"text": "Toxic substances.", "feedback": "Incorrect. Toxic substances are poisonous."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 52,
+"question": "500 mL of 20% alcohol when diluted to 1L with H.0 (to make 1L solution) will make",
+"options": [
+{"text": "A 3% solution;", "feedback": "Incorrect."},
+{"text": "A 25% solution;", "feedback": "Incorrect."},
+{"text": "A 10% solution;", "feedback": "Correct! C1V1 = C2V2. (20%)(500 mL) = (C2)(1000 mL) => C2 = 10%"},
+{"text": "5% solution;", "feedback": "Incorrect."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 53,
+"question": "Creatinine Kinase-2 (CK-2) in blood is measured:",
+"options": [
+{"text": "As a kidney function test;", "feedback": "Incorrect. CK-2 is a cardiac marker."},
+{"text": "To assess the metabolism of creatinine", "feedback": "Incorrect. CK-2 is an enzyme, not a metabolite."},
+{"text": "As a marker for myocardial infarction;", "feedback": "Correct! CK-2 (CK-MB) is a cardiac enzyme used to help diagnose myocardial infarction."},
+{"text": "To assess thyroid function.", "feedback": "Incorrect. Thyroid function is assessed by TSH, T4, T3."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 54,
+"question": "A fresh urine specimen is required for the test of bilirubin because:",
+"options": [
+{"text": "Bacteria in urine breakdown bilirubin;", "feedback": "Incorrect. Bacteria can affect urobilinogen, but the main reason is light sensitivity."},
+{"text": "Bilirubin is excreted early in the morning;", "feedback": "Incorrect. While concentration may vary, freshness is key due to instability."},
+{"text": "Bilirubin is unstable when exposed to light and room temperature.", "feedback": "Correct! Bilirubin is very sensitive to light and can break down at room temperature; fresh urine is essential."},
+{"text": "Multistix stnps are expensive;", "feedback": "Incorrect. Cost is not the reason."},
+{"text": "Bilirubin is quickly broken down by fungi organism in urine.", "feedback": "Incorrect. The main cause is photo-oxidation, not fungi."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 55,
+"question": "In diazo method total bilirubin is found after:",
+"options": [
+{"text": "the addition of water to the reaction mixture;", "feedback": "Incorrect. Water does not dissolve the unconjugated bilirubin."},
+{"text": "the addition of citric acid to the reaction mixture;", "feedback": "Incorrect. Citric acid is used in the Jendrassik-Grof method, but not for total bilirubin specifically."},
+{"text": "the addition of azo to the reaction mixture;", "feedback": "Incorrect. The diazo reagent itself contains an azo component."},
+{"text": "the solubilization of the unconjugated bilirubin in the mixture;", "feedback": "Correct! To measure total bilirubin, an accelerator (like caffeine or alcohol) is added to solubilize the unconjugated bilirubin, allowing it to react with the diazo reagent."},
+{"text": "All the above.", "feedback": "Incorrect. Only the solubilization step is correct."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 56,
+"question": "In Diazo Methods, the reaction of Bilirubin with the diazo reagent in the absence of alcohol is termed:",
+"options": [
+{"text": "direct bilirubin;", "feedback": "Correct! Direct bilirubin is the fraction that reacts with diazo reagent without an accelerator (i.e., water-soluble conjugated bilirubin)."},
+{"text": "indirect bilirubin;", "feedback": "Incorrect. Indirect bilirubin (unconjugated) reacts only after adding an accelerator."},
+{"text": "Total bilirubin;", "feedback": "Incorrect. Total bilirubin is measured after adding an accelerator."},
+{"text": "Diazo bilirubin;", "feedback": "Incorrect. This is not a standard term."},
+{"text": "Protophyrin;", "feedback": "Incorrect. Protoporphyrin is a precursor to heme."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 57,
+"question": "Bilirubin is a pigment derived from:",
+"options": [
+{"text": "The globin part of hemoglobin;", "feedback": "Incorrect. Globin is the protein part, which is broken down into amino acids."},
+{"text": "The degradation of hepatocytes by macroagats;", "feedback": "Incorrect. Hepatocytes are not the source; they process it."},
+{"text": "The obstruction of small intestine;", "feedback": "Incorrect. Obstruction affects excretion, not production."},
+{"text": "The catabolism of low density lipoprotein;", "feedback": "Incorrect. LDL is a lipoprotein, not heme."},
+{"text": "All the above are false.", "feedback": "Correct! Bilirubin is derived from the catabolism of the heme moiety of hemoglobin, myoglobin, cytochromes, etc., not from globin, hepatocyte degradation, intestinal obstruction, or LDL."}
+],
+"correctAnswerIndex": 4
+},
+{
+"id": 58,
+"question": "Urobilinogen:",
+"options": [
+{"text": "A colorless compound formed in the liver by reduction of bilirubin", "feedback": "Incorrect. Urobilinogen is formed in the intestine, not the liver."},
+{"text": "A yellowish compound formed in the liver by reduction of bilirubin", "feedback": "Incorrect. It is colorless and formed in the intestine."},
+{"text": "A colorless compound formed in the intestine by reduction of bilirubin", "feedback": "Correct! Urobilinogen is a colorless compound formed by the bacterial reduction of bilirubin in the gut."},
+{"text": "A colorless compound formed in the intestine by oxidation of bilirubin", "feedback": "Incorrect. It is formed by reduction, not oxidation."},
+{"text": "A reddish compound formed in the liver by reduction of bilirubin", "feedback": "Incorrect. It is colorless, formed in the intestine."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 59,
+"question": "Which of the following is a symptom of hypothyroidism?",
+"options": [
+{"text": "Weight loss;", "feedback": "Incorrect. Weight gain is a symptom of hypothyroidism."},
+{"text": "Weight gain;", "feedback": "Correct! Weight gain is a common symptom of hypothyroidism due to decreased metabolism."},
+{"text": "Menstrual irregularities;", "feedback": "Correct! Menstrual irregularities (heavy or irregular periods) can occur in hypothyroidism."},
+{"text": "Bloody diarrhea;", "feedback": "Incorrect. This is not a typical symptom of hypothyroidism."},
+{"text": "A and B", "feedback": "Incorrect. A is wrong."},
+{"text": "B and C", "feedback": "Correct! Both weight gain and menstrual irregularities are symptoms of hypothyroidism."}
+],
+"correctAnswerIndex": 5
+},
+{
+"id": 60,
+"question": "In secondary hypothyroidism the Thyroid Stimulating Hormone (TSH) concentrations are",
+"options": [
+{"text": "Either low or within the normal reference range, despite a low free T4 (or FT4).", "feedback": "Correct! In secondary (central) hypothyroidism, the defect is in the pituitary or hypothalamus, so TSH is low, normal (inappropriately normal), or slightly elevated, despite low thyroid hormone levels."},
+{"text": "4 fold the normal upper limit;", "feedback": "Incorrect. This pattern is seen in primary hypothyroidism."},
+{"text": "Extremely high with a decrease of thyroid hormones;", "feedback": "Incorrect. This is primary hypothyroidism."},
+{"text": "6 fold the normal upper limit;", "feedback": "Incorrect. This is primary hypothyroidism."},
+{"text": "Moderately high with an increase in thyroid hormone.", "feedback": "Incorrect. This would not occur in hypothyroidism; it would suggest a TSH-secreting tumor."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 61,
+"question": "An autoimmune disease that causes the gradual destruction of the thyroid is called",
+"options": [
+{"text": "Graves' disease;", "feedback": "Incorrect. Graves' disease is an autoimmune cause of hyperthyroidism (stimulating antibodies)."},
+{"text": "Hashimoto's disease;", "feedback": "Correct! Hashimoto's thyroiditis is an autoimmune disease characterized by gradual destruction of the thyroid gland, leading to hypothyroidism."},
+{"text": "Cushing's disease;", "feedback": "Incorrect. Cushing's disease is caused by excess ACTH from a pituitary tumor, leading to hypercortisolism."},
+{"text": "Addison's disease;", "feedback": "Incorrect. Addison's disease is autoimmune destruction of the adrenal cortex."},
+{"text": "Pernicious anemia.", "feedback": "Incorrect. Pernicious anemia is autoimmune destruction of gastric parietal cells."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 62,
+"question": "T4 stands for:",
+"options": [
+{"text": "Thyroglobulin;", "feedback": "Incorrect. Thyroglobulin is the precursor protein for thyroid hormones."},
+{"text": "Thyroglobulin;", "feedback": "Incorrect. Same as above."},
+{"text": "Thyrotropin;", "feedback": "Incorrect. Thyrotropin is TSH (Thyroid Stimulating Hormone)."},
+{"text": "Tetraiodothyronine;", "feedback": "Correct! T4 is the short name for thyroxine (tetraiodothyronine)."},
+{"text": "All the above.", "feedback": "Incorrect. Only D is correct."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 63,
+"question": "Aldosterone is:",
+"options": [
+{"text": "A glucocorticoid;", "feedback": "Incorrect. Glucocorticoids include cortisol and cortisone."},
+{"text": "A mineralocorticoid;", "feedback": "Correct! Aldosterone is the primary mineralocorticoid, regulating sodium and potassium balance."},
+{"text": "A thyroid hormone;", "feedback": "Incorrect. Thyroid hormones are T4 and T3."},
+{"text": "An androgen;", "feedback": "Incorrect. Androgens are sex hormones like testosterone."},
+{"text": "Thyroid inhibiting hormone.", "feedback": "Incorrect. There is no such hormone."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 64,
+"question": "An enzyme that catalyzes the cleavage of the leucine-leucine bond in angiotensinogen to generate angiotensin I is called:",
+"options": [
+{"text": "Angiotensin hydrolase;", "feedback": "Incorrect. This is not the correct name."},
+{"text": "Isoleucine;", "feedback": "Incorrect. Isoleucine is an amino acid."},
+{"text": "Renin;", "feedback": "Correct! Renin is a protease secreted by the kidneys that cleaves angiotensinogen (a peptide with a leucine-leucine bond) to form angiotensin I."},
+{"text": "Isomerase;", "feedback": "Incorrect. Isomerases catalyze structural changes."},
+{"text": "Hyaluronidase.", "feedback": "Incorrect. Hyaluronidase breaks down hyaluronic acid."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 65,
+"question": "A class of sex hormones that produce masculinization is called:",
+"options": [
+{"text": "Glucocorticoids;", "feedback": "Incorrect. Glucocorticoids are involved in metabolism and immune response."},
+{"text": "Melanins;", "feedback": "Incorrect. Melanins are pigments."},
+{"text": "Androgens;", "feedback": "Correct! Androgens (like testosterone) are male sex hormones that promote masculinization."},
+{"text": "Mineralocorticoids;", "feedback": "Incorrect. Mineralocorticoids regulate electrolyte balance."},
+{"text": "Testromones;", "feedback": "Incorrect. This is not a standard term."},
+{"text": "All the above.", "feedback": "Incorrect. Only C is correct."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 66,
+"question": "Antidiuretic Hormone (ADH) and vasopressin are secreted by:",
+"options": [
+{"text": "Adenohypophysis;", "feedback": "Incorrect. The adenohypophysis (anterior pituitary) secretes ACTH, GH, TSH, FSH, LH, Prolactin."},
+{"text": "Thyroid gland;", "feedback": "Incorrect. The thyroid secretes T4 and T3."},
+{"text": "Adrenal gland;", "feedback": "Incorrect. The adrenal gland secretes cortisol, aldosterone, etc."},
+{"text": "Neurohypophysis;", "feedback": "Correct! ADH (vasopressin) is synthesized in the hypothalamus and stored/released from the posterior pituitary (neurohypophysis)."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 67,
+"question": "The hormone synthesized by the anterior pituitary gland that promotes growth of, sustains, and stimulates the hormonal secretion of the thyroid gland is called:",
+"options": [
+{"text": "Adrenocorticotropic Hormone (ACTH);", "feedback": "Incorrect. ACTH stimulates the adrenal cortex."},
+{"text": "Antidiuretic Hormone (ADH);", "feedback": "Incorrect. ADH is from the posterior pituitary and acts on kidneys."},
+{"text": "Thyroxin;", "feedback": "Incorrect. Thyroxine is produced by the thyroid gland itself."},
+{"text": "Parathormone.", "feedback": "Incorrect. Parathormone is from the parathyroid glands."},
+{"text": "Thyroid Stimulating Hormone (TSH)", "feedback": "Correct! TSH (or thyrotropin) is an anterior pituitary hormone that stimulates the thyroid gland to grow and secrete thyroid hormones."}
+],
+"correctAnswerIndex": 4
+},
+{
+"id": 68,
+"question": "Chronic excessive intake of water is called",
+"options": [
+{"text": "Polyphagia;", "feedback": "Incorrect. Polyphagia is excessive hunger."},
+{"text": "Polyuna;", "feedback": "Incorrect. This is a misspelling of polyuria."},
+{"text": "Polyuria;", "feedback": "Incorrect. Polyuria is excessive urination."},
+{"text": "Anorexia;", "feedback": "Incorrect. Anorexia is loss of appetite."},
+{"text": "Polychromatophilia.", "feedback": "Incorrect. Polychromatophilia refers to red blood cells staining with multiple colors."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 69,
+"question": "A glycoprotein gonadotrophic hormone secreted by the anterior pituitary that acts with Follicular Stimulating Hormone (FSH) to promote ovulation and androgen and progesterone production is",
+"options": [
+{"text": "Prolactin (PRL);", "feedback": "Incorrect. Prolactin promotes milk production."},
+{"text": "Thyroid Stimulating Hormone (TSH);", "feedback": "Incorrect. TSH stimulates the thyroid."},
+{"text": "Luteinizing Hormone (LH);", "feedback": "Correct! LH is a gonadotropin that works with FSH to regulate ovarian and testicular function, including ovulation and steroidogenesis."},
+{"text": "Antidiuretic Hormone (ADH);", "feedback": "Incorrect. ADH regulates water balance."},
+{"text": "Oxytocin.", "feedback": "Incorrect. Oxytocin is involved in childbirth and milk ejection."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 70,
+"question": "Human blood physiological pH is approximately:",
+"options": [
+{"text": "pH: 6-8;", "feedback": "Incorrect. This range is too wide."},
+{"text": "pH: 7.1-8.2;", "feedback": "Incorrect. The upper limit is too high."},
+{"text": "pH: 6.2-7.8;", "feedback": "Incorrect. The lower limit is too low."},
+{"text": "pH: 6.5-8.0;", "feedback": "Incorrect. This range is too wide."},
+{"text": "pH: 7.35-7.45;", "feedback": "Correct! The normal physiological pH of human blood is tightly regulated between 7.35 and 7.45."}
+],
+"correctAnswerIndex": 4
+},
+{
+"id": 71,
+"question": "Excessive concentration of bilirubin in the blood, which may lead to jaundice is called",
+"options": [
+{"text": "Bilirubinosis;", "feedback": "Incorrect. This is not a standard term."},
+{"text": "Hyperbilirubinemia;", "feedback": "Correct! Hyperbilirubinemia is an excess of bilirubin in the blood."},
+{"text": "Hyperbilirubinuria;", "feedback": "Incorrect. This would be excess bilirubin in the urine, which is a sign but not the blood condition."},
+{"text": "Hemochromatosis;", "feedback": "Incorrect. Hemochromatosis is iron overload."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 72,
+"question": "An equation that defines the relationship between pH, bicarbonate, and the partial pressure of dissolved carbon dioxide gas is:",
+"options": [
+{"text": "Henderson-Hasselbalch Equation;", "feedback": "Correct! The Henderson-Hasselbalch equation describes the relationship between pH, bicarbonate (HCO3-), and CO2 in blood."},
+{"text": "Henderson-Einstein Equation;", "feedback": "Incorrect. This is not a recognized equation."},
+{"text": "Kimsong and Einstein Equation;", "feedback": "Incorrect. This is not a recognized equation."},
+{"text": "Landstainer Equation.", "feedback": "Incorrect. This is not a recognized equation."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 73,
+"question": "A concentration of serum potassium above the upper reference limit is called:",
+"options": [
+{"text": "Hypovolemia;", "feedback": "Incorrect. Hypovolemia is decreased blood volume."},
+{"text": "Hyperkalemia;", "feedback": "Correct! Hyperkalemia is an elevated serum potassium level."},
+{"text": "Hypokalemia;", "feedback": "Incorrect. Hypokalemia is a low serum potassium level."},
+{"text": "Hyperpotessemia.", "feedback": "Incorrect. This is not the standard term."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 74,
+"question": "A pathological process that leads to the accumulation of carbon dioxide which rises the PCO2 and decreases the pH; caused by hypoventilation is called:",
+"options": [
+{"text": "Mixed acid-base disturbance;", "feedback": "Incorrect. Mixed disturbances involve more than one primary acid-base disorder."},
+{"text": "Respiratory alkalosis;", "feedback": "Incorrect. Respiratory alkalosis is caused by hyperventilation, leading to low PCO2 and high pH."},
+{"text": "Respiratory acidosis;", "feedback": "Correct! Respiratory acidosis is characterized by hypoventilation, causing CO2 retention (high PCO2) and decreased pH."},
+{"text": "Metabolic acidosis.", "feedback": "Incorrect. Metabolic acidosis is caused by a loss of bicarbonate or accumulation of metabolic acids."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 75,
+"question": "A pathological process that leads to the excessive elimination of carbon dioxide which lowers the PCO2 and increases the pH; caused by hyperventilation is called:",
+"options": [
+{"text": "Mixed acid-base disturbance;", "feedback": "Incorrect. Mixed disturbances involve more than one primary disorder."},
+{"text": "Respiratory alkalosis;", "feedback": "Correct! Respiratory alkalosis is caused by hyperventilation, leading to low PCO2 and increased pH."},
+{"text": "Respiratory acidosis;", "feedback": "Incorrect. Respiratory acidosis is caused by hypoventilation, leading to high PCO2 and low pH."},
+{"text": "Metabolic acidosis.", "feedback": "Incorrect. Metabolic acidosis is caused by a loss of bicarbonate or accumulation of metabolic acids."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 76,
+"question": "Antidiuretic hormone (ADH) is also called:",
+"options": [
+{"text": "Neuronal hormone;", "feedback": "Incorrect. This is not a standard name."},
+{"text": "Vasodilator and constructor hormone;", "feedback": "Incorrect. ADH primarily causes vasoconstriction at high doses (vasopressin)."},
+{"text": "Respiratory acidosis;", "feedback": "Incorrect. This is an acid-base disorder."},
+{"text": "Vasopressin;", "feedback": "Correct! ADH is also known as arginine vasopressin (AVP) or vasopressin."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 77,
+"question": "One of the followings is a cardiac marker.",
+"options": [
+{"text": "ALT", "feedback": "Incorrect. ALT is a liver enzyme."},
+{"text": "CK-MB", "feedback": "Correct! CK-MB is a cardiac enzyme marker for myocardial infarction."},
+{"text": "AST", "feedback": "Incorrect. AST is found in many tissues, including heart, but is less specific than CK-MB or Troponin."},
+{"text": "ALP", "feedback": "Incorrect. ALP is found in liver, bone, and intestine."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 78,
+"question": "Increased cholesterol is a factor in the cause of:",
+"options": [
+{"text": "Gaseous gangrene;", "feedback": "Incorrect. Gaseous gangrene is caused by bacterial infection."},
+{"text": "Congenital lung obstruction;", "feedback": "Incorrect. This is not related to cholesterol."},
+{"text": "Atherosclerotic diseases;", "feedback": "Correct! High cholesterol, particularly LDL cholesterol, is a major risk factor for atherosclerosis."},
+{"text": "Sickle cell anemia.", "feedback": "Incorrect. Sickle cell anemia is a genetic disorder."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 79,
+"question": "One of the following methods can be used to measure the glucose level in blood:",
+"options": [
+{"text": "Glycolysis;", "feedback": "Incorrect. Glycolysis is a metabolic pathway."},
+{"text": "Glucose oxidase;", "feedback": "Correct! The glucose oxidase method (GOD-POD) is a common enzymatic method for measuring glucose."},
+{"text": "Glucose hydroxylase;", "feedback": "Incorrect. This enzyme does not exist."},
+{"text": "Glucose metylase;", "feedback": "Incorrect. This enzyme does not exist."}
+],
+"correctAnswerIndex": 1
+},
+{
+"id": 80,
+"question": "Ketonuria is results from:",
+"options": [
+{"text": "Excessive formation of ketone bodies and their conversion into amino acids;", "feedback": "Incorrect. Ketone bodies are not converted to amino acids."},
+{"text": "Excessive water consumption;", "feedback": "Incorrect. Water consumption does not cause ketonuria."},
+{"text": "Excessive formation of ketone bodies and their increased excretion in the urine.", "feedback": "Correct! Ketonuria is the presence of ketone bodies in the urine, resulting from their increased production and excretion."},
+{"text": "Excessive synthesis of proteins and their conversion into ketone bodies;", "feedback": "Incorrect. Ketone bodies are derived from fatty acid breakdown, not protein synthesis."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 81,
+"question": "Ketone bodies in plasma are increased in:",
+"options": [
+{"text": "Hypotension;", "feedback": "Incorrect. Hypotension (low blood pressure) is not a primary cause."},
+{"text": "Excessive food ingestion;", "feedback": "Incorrect. Excessive food intake would decrease ketone body formation."},
+{"text": "Severe diabetes;", "feedback": "Correct! In severe diabetes (especially type 1), lack of insulin leads to increased lipolysis and ketogenesis, raising plasma ketone bodies."},
+{"text": "Fever ≥ 39°C;", "feedback": "Incorrect. Fever alone does not cause a significant increase."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 82,
+"question": "The following molecules are ketone bodies except:",
+"options": [
+{"text": "Acetoacetate;", "feedback": "Incorrect. Acetoacetate is a ketone body."},
+{"text": "Beta-hydroxybutyrate;", "feedback": "Incorrect. Beta-hydroxybutyrate is a ketone body."},
+{"text": "Aspartic acid;", "feedback": "Correct! Aspartic acid is an amino acid, not a ketone body."},
+{"text": "Acetone.", "feedback": "Incorrect. Acetone is a ketone body."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 83,
+"question": "The following tests can assist in the diagnosis of Type II Diabetes Mellitus:",
+"options": [
+{"text": "Fasting Plasma Glucose (FPG);", "feedback": "Correct! FPG is a key diagnostic test for diabetes."},
+{"text": "Glomerular Filtration Rate (GFR);", "feedback": "Incorrect. GFR is a measure of kidney function."},
+{"text": "Oral Glucose Tolerance Test (OGTT);", "feedback": "Correct! OGTT is another diagnostic test for diabetes."},
+{"text": "Total proteins;", "feedback": "Incorrect. Total protein is not used to diagnose diabetes."},
+{"text": "A and B;", "feedback": "Incorrect. B is wrong."},
+{"text": "A and C;", "feedback": "Correct! Both FPG and OGTT are used to diagnose Type II Diabetes Mellitus."}
+],
+"correctAnswerIndex": 5
+},
+{
+"id": 84,
+"question": "Type I Diabetes Mellitus is characterized by the following symptoms except:",
+"options": [
+{"text": "Rapid weight loss;", "feedback": "Incorrect. Rapid weight loss is a symptom of type 1 diabetes."},
+{"text": "Polyuria;", "feedback": "Incorrect. Polyuria (frequent urination) is a symptom."},
+{"text": "Polydipsia;", "feedback": "Incorrect. Polydipsia (excessive thirst) is a symptom."},
+{"text": "Hydrocephalus.", "feedback": "Correct! Hydrocephalus (fluid in the brain) is not a symptom of diabetes mellitus."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 85,
+"question": "Diabetes Mellitus is:",
+"options": [
+{"text": "A group of metabolic disorders in which glucose is over utilized, producing hyperglycemia;", "feedback": "Incorrect. Glucose is underutilized, not overutilized, leading to hyperglycemia."},
+{"text": "Characterized only by hypoglycemia;", "feedback": "Incorrect. Diabetes is characterized by hyperglycemia."},
+{"text": "A group of metabolic disorders in which glucose is over utilized, producing hyperglycemia;", "feedback": "Incorrect. Same as A."},
+{"text": "Characterized by the onset after the age 40;", "feedback": "Incorrect. This describes typical Type 2 Diabetes, but Type 1 can occur at any age, often younger."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 86,
+"question": "Insulin is a protein produced:",
+"options": [
+{"text": "By α-cells of the islets of Langerhans in the pancreas;", "feedback": "Incorrect. Alpha cells produce glucagon."},
+{"text": "By the lungs only;", "feedback": "Incorrect. Insulin is not produced in the lungs."},
+{"text": "By β-cells of Langerhans in the kidney only;", "feedback": "Incorrect. Beta cells are in the pancreas, not the kidney."},
+{"text": "By α-cells of the islets of Langerhans in the gut;", "feedback": "Incorrect. Alpha cells are in the pancreas."},
+{"text": "By β-cells of the islets of Langerhans in the pancreas;", "feedback": "Correct! Insulin is synthesized by the beta cells of the pancreatic islets of Langerhans."}
+],
+"correctAnswerIndex": 4
+},
+{
+"id": 87,
+"question": "One of the following methods is used to measure the concentration of blood uric acid:",
+"options": [
+{"text": "Uric acid hydrolase method;", "feedback": "Incorrect. There is no such enzyme."},
+{"text": "Uri acid hydrogenase;", "feedback": "Incorrect. This is not a standard enzyme."},
+{"text": "Lactate dehydrogenase (LDH);", "feedback": "Incorrect. LDH is not used to measure uric acid."},
+{"text": "Uricase phosphate acid;", "feedback": "Incorrect. This is not a standard method."},
+{"text": "Uricase", "feedback": "Correct! The uricase (uricase/ peroxidase) method is commonly used to measure uric acid."}
+],
+"correctAnswerIndex": 4
+},
+{
+"id": 88,
+"question": "In humans, uric acid is the major product of:",
+"options": [
+{"text": "The reaction between urea and Creatinine;", "feedback": "Incorrect. Urea and creatinine are separate products."},
+{"text": "The reaction between two amino acid of the same group;", "feedback": "Incorrect. Uric acid is not a direct product of amino acid reactions."},
+{"text": "The catabolism of purine nucleotides adenine and guanine;", "feedback": "Correct! Uric acid is the end product of purine metabolism in humans."},
+{"text": "The catabolism of globular proteins mainly albumin and pro albumin.", "feedback": "Incorrect. Proteins are broken down into amino acids, not uric acid."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 89,
+"question": "The increased concentration of uric acid in blood above the upper limit is called:",
+"options": [
+{"text": "Hyperuricemia;", "feedback": "Correct! Hyperuricemia is the term for elevated uric acid in the blood."},
+{"text": "Hyperuricuria;", "feedback": "Incorrect. This would be elevated uric acid in urine."},
+{"text": "Hyperuricemia;", "feedback": "Correct! This is the same as A, but the spelling might differ; A is the standard spelling."},
+{"text": "Hyperuricacidemia;", "feedback": "Incorrect. This is not the standard term."},
+{"text": "Hyperuricacidia.", "feedback": "Incorrect. This is not the standard term."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 90,
+"question": "Uric acid salts occur:",
+"options": [
+{"text": "In joints in pancreatitis;", "feedback": "Incorrect. Pancreatitis is not typically associated with urate deposits."},
+{"text": "Only in liver and spleen;", "feedback": "Incorrect. Urate crystals deposit in joints, not primarily liver/spleen."},
+{"text": "In joints in gout;", "feedback": "Correct! Uric acid salts (monosodium urate crystals) deposit in joints, causing gouty arthritis."},
+{"text": "In the bones in severe malaria;", "feedback": "Incorrect. Malaria does not cause urate deposition in bones."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 91,
+"question": "Kidney diseases are associated with:",
+"options": [
+{"text": "Accumulation of urea in the gut;", "feedback": "Incorrect. Urea is reabsorbed and can be secreted into the gut, but accumulation in the blood is the hallmark."},
+{"text": "Accumulation of proteins in the liver;", "feedback": "Incorrect. Kidney disease does not cause protein accumulation in the liver."},
+{"text": "Accumulation of urea and glucose in salivary glands;", "feedback": "Incorrect. Glucose is not typically elevated in saliva due to kidney disease."},
+{"text": "Accumulation of urea in blood (uremia)", "feedback": "Correct! Kidney disease leads to impaired excretion of urea and other waste products, causing their accumulation in the blood (uremia)."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 92,
+"question": "Creatinine concentration in blood can be measured by:",
+"options": [
+{"text": "Hexokinase method;", "feedback": "Incorrect. Hexokinase is used for glucose measurement."},
+{"text": "Urease;", "feedback": "Incorrect. Urease is used for urea measurement."},
+{"text": "Diacetyl method;", "feedback": "Incorrect. Diacetyl is used for urea (Fearon's reaction)."},
+{"text": "Jaffe method", "feedback": "Correct! The Jaffe reaction (picric acid in alkaline solution) is the classic method for measuring creatinine."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 93,
+"question": "The renal clearance of a substance can be defined as:",
+"options": [
+{"text": "The volume of plasma from which the substance is completely cleared by the kidneys per unit of time;", "feedback": "Correct! Renal clearance is the volume of plasma cleared of a substance per unit of time (usually mL/min)."},
+{"text": "A variety of exogenous and endogenous factors affecting the glomerular filtration.", "feedback": "Incorrect. This describes factors affecting GFR, not clearance itself."},
+{"text": "The rate at which cigarette smoke is cleared from the plasma by the kidney in a unit of time;", "feedback": "Incorrect. This is a nonsensical statement."},
+{"text": "The volume of urine from which the substance is cleared from the plasma by the kidney in 24 hours;", "feedback": "Incorrect. Clearance is not measured as volume of urine."},
+{"text": "The rate at which cigarette smoke is cleared from the plasma by the kidney in 24 hours.", "feedback": "Incorrect. This is a nonsensical statement."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 94,
+"question": "Creatinine, urea, and uric acid are metabolites that are cleared from the body by",
+"options": [
+{"text": "The intestines after reabsorption in the rectum;", "feedback": "Incorrect. These are primarily cleared by the kidneys."},
+{"text": "The pancreas after trypsin secretion;", "feedback": "Incorrect. The pancreas is not involved in excretion of these metabolites."},
+{"text": "The liver through biliary canal;", "feedback": "Incorrect. Urea, creatinine, and uric acid are mainly excreted by the kidneys."},
+{"text": "The kidney after glomerular filtration;", "feedback": "Correct! These nitrogenous wastes are filtered by the glomerulus and excreted in urine."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 95,
+"question": "Creatinine clearance is used to measure:",
+"options": [
+{"text": "The liver function except biliary secretion rate;", "feedback": "Incorrect. Creatinine clearance is a renal function test."},
+{"text": "The bile excretion rate in the small intestine;", "feedback": "Incorrect. This is not related to creatinine."},
+{"text": "The glomerular filtration rate;", "feedback": "Correct! Creatinine clearance is used as an estimate of the Glomerular Filtration Rate (GFR)."},
+{"text": "The reabsorption of water in kidney tubules and calyx;", "feedback": "Incorrect. Creatinine is not reabsorbed, so it cannot measure reabsorption."}
+],
+"correctAnswerIndex": 2
+},
+{
+"id": 96,
+"question": "One of the following molecules can be measured in the blood as a tumor marker.",
+"options": [
+{"text": "Alpha-fetoprotein (AFP)", "feedback": "Correct! AFP is a tumor marker used primarily for hepatocellular carcinoma and germ cell tumors."},
+{"text": "Microalbumin;", "feedback": "Incorrect. Microalbumin is a marker of kidney damage, not cancer."},
+{"text": "Fibrinogen;", "feedback": "Incorrect. Fibrinogen is a clotting factor."},
+{"text": "Fibrin;", "feedback": "Incorrect. Fibrin is an insoluble protein involved in clotting."},
+{"text": "Starch;", "feedback": "Incorrect. Starch is a carbohydrate."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 97,
+"question": "Which of the following is NOT a controllable variable that affects biological fluid composition?",
+"options": [
+{"text": "Food", "feedback": "Incorrect. Diet is a controllable preanalytical variable."},
+{"text": "Physical exercise", "feedback": "Incorrect. Exercise is a controllable variable."},
+{"text": "Posture", "feedback": "Incorrect. Posture can affect fluid composition and is a controllable variable."},
+{"text": "Menses", "feedback": "Correct! Menstrual cycle is a non-controllable biological variable that can affect fluid composition."}
+],
+"correctAnswerIndex": 3
+},
+{
+"id": 98,
+"question": "The best wavelength to use for any given solution is that with a ____ on the curve.",
+"options": [
+{"text": "wavelength maximum", "feedback": "Correct! The wavelength of maximum absorbance (λmax) is chosen for maximum sensitivity and minimal interference."},
+{"text": "wavelength minimum", "feedback": "Incorrect. Minimum absorbance would give poor sensitivity."},
+{"text": "high transmittance", "feedback": "Incorrect. High transmittance corresponds to low absorbance, which is not ideal."},
+{"text": "Beer Lamberts notation", "feedback": "Incorrect. This is a term describing the relationship between absorbance and concentration."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 99,
+"question": "The following is the range covered by visible range spectrophotometers",
+"options": [
+{"text": "400 - 700nm", "feedback": "Correct! The visible spectrum ranges approximately from 400 nm (violet) to 700 nm (red)."},
+{"text": "360 - 1000nm", "feedback": "Incorrect. This range includes UV and near-infrared."},
+{"text": "185 - 1000nm", "feedback": "Incorrect. This range includes UV, visible, and near-infrared."},
+{"text": "360 - 700nm", "feedback": "Incorrect. This range starts in the UV (360 nm) and goes to visible."}
+],
+"correctAnswerIndex": 0
+},
+{
+"id": 100,
+"question": "Clinical Chemistry is best described as:",
+"options": [
+{"text": "The knowledge about body fluids in the context of anatomy and physiology", "feedback": "Incorrect. This is too broad and overlaps with physiology."},
+{"text": "The understanding of urine chemistry and its historical background", "feedback": "Incorrect. This is only a small part of clinical chemistry."},
+{"text": "The examination of the composition of biological fluids qualitatively and quantitatively to arrive at disease diagnosis", "feedback": "Correct! Clinical chemistry involves the analysis of body fluids (blood, urine, CSF, etc.) for diagnostic, prognostic, and therapeutic purposes."},
+{"text": "The study of metabolic processes in as far as physiological and pathological changes are concerned", "feedback": "Incorrect. This is more aligned with general biochemistry and physiology."}
+],
+"correctAnswerIndex": 2
+}
+]
