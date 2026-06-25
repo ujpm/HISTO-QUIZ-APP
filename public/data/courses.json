@@ -26,12 +26,13 @@
     "title": "Chemical Pathology",
     "quizzes": [
       { "quizId": "chem_1", "title": "COUNCIL 2024", "status": "available", "file": "clinical_q1.json" },
-      { "quizId": "chem_1", "title": "COUNCIL 2023", "status": "available", "file": "clinical_q2.json" },
-      { "quizId": "chem_1", "title": "END CYCLE 206 JUNE", "status": "available", "file": "clinical_q3.json" },
-      { "quizId": "chem_1", "title": "...084407", "status": "available", "file": "clinical_q4.json" },
-      { "quizId": "chem_1", "title": "from CUR", "status": "available", "file": "clinical_q5.json" },
-      { "quizId": "chem_1", "title": "from kibogora", "status": "available", "file": "clinical_q6.json" },
-      { "quizId": "chem_1", "title": "exam to be 2018", "status": "available", "file": "clinical_q7.json" }
+      { "quizId": "chem_2", "title": "COUNCIL 2023", "status": "available", "file": "clinical_q2.json" },
+      { "quizId": "chem_3", "title": "END CYCLE 206 JUNE", "status": "available", "file": "clinical_q3.json" },
+      { "quizId": "chem_4", "title": "...084407", "status": "available", "file": "clinical_q4.json" },
+      { "quizId": "chem_5", "title": "from CUR", "status": "available", "file": "clinical_q5.json" },
+      { "quizId": "chem_6", "title": "from kibogora", "status": "available", "file": "clinical_q6.json" },
+      { "quizId": "chem_7", "title": "clinical qns [no clear name]", "status": "available", "file": "clinical_q7.json" },
+      { "quizId": "chem_8", "title": "exam tobe 2018 [to be fixed]", "status": "coming_soon", "file": "clinical_q8.json" }
     ]
   }
 ]
